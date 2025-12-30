@@ -2,6 +2,8 @@
 tags:
   - dashboard
   - blog
+banner: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200"
+banner_y: 0.5
 created: 2025-12-29
 ---
 # 📰 Blog

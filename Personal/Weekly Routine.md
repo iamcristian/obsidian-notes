@@ -1,15 +1,17 @@
 ---
 tags:
-  - type/routine
+  - routine
+banner: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200"
+banner_y: 0.5
 created: 2025-12-29
 ---
 # 📅 Weekly Routine
 
 ## 🌅 Morning Routine
-- [ ] Wake up
-- [ ] Exercise / Shower
-- [ ] Breakfast
-- [ ] Review goals
+- [ ] ⏰ Wake up 🔁 every day
+- [ ] 🏃 Exercise / Shower
+- [ ] 🍳 Breakfast
+- [ ] 🎯 Review goals
 
 ## 📆 Weekly Schedule
 
@@ -47,30 +49,42 @@ created: 2025-12-29
 ## 🎯 Weekly Goals
 
 ### 💻 Programming
-- [ ] Complete 1 course module
-- [ ] Solve 5 algorithm problems
-- [ ] Read 1 chapter of tech book
-- [ ] Build/practice 1 project feature
+- [ ] Complete 1 course module ⏫ 🔁 every week
+- [ ] Solve 5 algorithm problems 🔼 🔁 every week
+- [ ] Read 1 chapter of tech book 🔁 every week
+- [ ] Build/practice 1 project feature 🔁 every week
 
 ### 📝 English
-- [ ] Learn 20 new words
-- [ ] Write 1 essay
-- [ ] 5 hours of listening practice
-- [ ] Attend all English classes
+- [ ] Learn 20 new words ⏫ 🔁 every week
+- [ ] Write 1 essay 🔼 🔁 every week
+- [ ] 5 hours of listening practice 🔁 every week
+- [ ] Attend all English classes 🔁 every week
 
 ---
 
 ## 💪 Motivation
 
-> **Why am I doing this?**
-> - 💰 Financial freedom for my family
-> - 🔓 Independence - not depending on others
-> - 😊 Happiness and fulfillment
-> - 🚀 Career goals: Software Engineer → Cybersecurity → AI
+> [!quote] Why am I doing this?
+> 💰 **Financial freedom** for my family
+> 🔓 **Independence** - not depending on others
+> 😊 **Happiness** and fulfillment
+> 🚀 **Career**: Software Engineer → Cybersecurity → AI
 
-## 🏆 Objectives Progress
-- [ ] 💻 Software Engineer
-- [ ] 🔒 Cybersecurity Engineer  
+## 🏆 Career Roadmap
+
+```chart
+type: bar
+labels: [Software Eng, Cybersecurity, AI, English B2, English C1]
+series:
+  - title: Progress %
+    data: [20, 5, 5, 60, 30]
+width: 80%
+labelColors: true
+beginAtZero: true
+```
+
+- [ ] 💻 Software Engineer ⏫
+- [ ] 🔒 Cybersecurity Engineer
 - [ ] 🤖 AI Engineer
-- [ ] 🗣️ English B2
+- [ ] 🗣️ English B2 🔼
 - [ ] 🗣️ English C1

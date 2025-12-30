@@ -2,6 +2,8 @@
 tags:
   - home
 cssclass: dashboard
+banner: "![[home.jpg]]"
+banner_y: 0.5
 created: 2025-12-29
 ---
 # 🏠 Dashboard
@@ -29,52 +31,48 @@ created: 2025-12-29
 ## ✅ Priority Tasks
 
 > [!todo]+ 💻 Programming
-> ```dataview
-> TASK
-> FROM "Programming"
-> WHERE !completed
-> SORT file.cday desc
-> LIMIT 5
+> ```tasks
+> not done
+> path includes Programming
+> sort by priority
+> limit 5
 > ```
 
 > [!todo]+ 📝 English
-> ```dataview
-> TASK
-> FROM "English"
-> WHERE !completed
-> SORT file.cday desc
-> LIMIT 5
+> ```tasks
+> not done
+> path includes English
+> sort by priority
+> limit 5
 > ```
 
 > [!todo]+ 🎯 Personal Goals
-> ```dataview
-> TASK
-> FROM "Personal"
-> WHERE !completed
-> LIMIT 5
+> ```tasks
+> not done
+> path includes Personal
+> limit 5
 > ```
 
 ---
 
 ## 📊 Progress This Month
 
-### 💻 Programming
-| Metric | Count |
-|--------|:-----:|
-| Concepts Learned | `$= dv.pages('"Programming"').where(p => !p.file.name.includes("_Index")).length` |
-| Algorithms Solved | `$= dv.pages('"Programming/Algorithms"').file.tasks.where(t => t.completed).length` |
+```chart
+type: bar
+labels: [Programming, English, Books]
+series:
+  - title: Notes Created
+    data: [5, 8, 2]
+width: 80%
+labelColors: true
+beginAtZero: true
+```
 
-### 📝 English
-| Metric | Count |
-|--------|:-----:|
-| Words Learned | `$= dv.pages('"English/Vocabulary"').where(p => p.tags && (p.tags.includes("word") || p.tags.includes("phrasal"))).length` |
-| Essays Written | `$= dv.pages('"English/Writing/Essays"').where(p => !p.file.name.includes("_Index")).length` |
-
-### 📚 Books
-| Status | Count |
-|--------|:-----:|
-| Reading | `$= dv.pages('"Books"').file.tasks.where(t => t.text.includes("#reading") && !t.completed).length` |
-| Completed | `$= dv.pages('"Books"').file.tasks.where(t => t.text.includes("#completed")).length` |
+| Area | Notes | Tasks Done |
+|------|:-----:|:----------:|
+| 💻 Programming | `$= dv.pages('"Programming"').where(p => !p.file.name.includes("_Index")).length` | `$= dv.pages('"Programming"').file.tasks.where(t => t.completed).length` |
+| 📝 English | `$= dv.pages('"English"').where(p => !p.file.name.includes("_Index") && !p.file.name.includes("Dictionary") && !p.file.name.includes("Reference") && !p.file.name.includes("Guide")).length` | `$= dv.pages('"English"').file.tasks.where(t => t.completed).length` |
+| 📚 Books | `$= dv.pages('"Books"').where(p => !p.file.name.includes("_Index")).length` | `$= dv.pages('"Books"').file.tasks.where(t => t.completed).length` |
 
 ---
 
@@ -118,4 +116,5 @@ LIMIT 8
 | Debate Vocabulary | [[English/Vocabulary/Debate Dictionary\|Open]] |
 | Git Commands | [[Programming/DevOps/Git\|Open]] |
 | Weekly Routine | [[Personal/Weekly Routine\|Open]] |
+| Plugin Guide | [[Templates/Plugin Guide\|Open]] |
 

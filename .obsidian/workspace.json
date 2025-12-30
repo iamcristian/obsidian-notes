@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "548c491d02da7840",
+        "id": "7984810e29d73cf1",
         "type": "tabs",
         "children": [
           {
-            "id": "30d92012d63ab0f6",
+            "id": "099ef191df3cc37f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tag System.md",
+                "file": "English/Writing/Essays/Free will is an illusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tag System"
+              "title": "Free will is an illusion"
             }
           }
         ]
@@ -113,8 +113,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -141,11 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "English/Writing/Essays/Free will is an illusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Free will is an illusion"
             }
           },
           {
@@ -210,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,34 +227,45 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ddb2edd7a6ca73ce",
+  "active": "099ef191df3cc37f",
   "lastOpenFiles": [
-    "Templates/Tag System.md",
-    "Programming/_Index.md",
-    "Programming/DevOps/Git.md",
-    "Programming/Software Engineering/_Index.md",
-    "Home.md",
-    "Templates/Phrasal Verb Template.md",
-    "Personal/_Index.md",
-    "Blog/_Index.md",
-    "Business/_Index.md",
-    "Books/_Index.md",
-    "Programming/DevOps/_Index.md",
-    "Programming/Databases/_Index.md",
-    "Programming/Algorithms/_Index.md",
-    "Programming/Development/_Index.md",
-    "English/Speaking/_Index.md",
-    "English/Listening/_Index.md",
-    "English/Grammar/_Index.md",
+    "English/Writing/Essays/Analysis of Platos Allegory of the Cave.md",
+    "English/Writing/Essays/Free will is an illusion.md",
     "English/Writing/_Index.md",
-    "English/Vocabulary/_Index.md",
-    "English/_Index.md",
-    "Templates/Programming Concept Template.md",
-    "Templates/Project Template.md",
+    "English/Writing/Essays/Is morality objective or subjective.md",
+    "English/Writing/Essays/What reading philosophy taught me about failure.md",
+    "English/Writing/Essays/How existential crisis leads to personal growth.md",
+    "English/Writing/Essays/Stoicism vs Existentialism.md",
+    "English/Writing/Essays/Why everyone should study philosophy.md",
+    "English/Writing/Essays/What is Stoicism.md",
+    "Templates/Essay Template.md",
+    "Templates/Essay - Discursive Template.md",
+    "Templates/Essay - Reflective Template.md",
+    "Templates/Essay - Cause and Effect Template.md",
+    "Templates/Essay - Compare and Contrast Template.md",
+    "Templates/Essay - Analytical Template.md",
+    "Templates/Essay - Persuasive Template.md",
+    "Templates/Essay - Expository Template.md",
+    "Templates/Essay - Argumentative Template.md",
+    "Templates/Fleeting Note Template.md",
+    "Templates/Grammar Rule Template.md",
+    "Templates/Phrasal Verb Template.md",
+    "Templates/Plugin Guide.md",
     "Templates/Vocabulary Template.md",
-    "English/English.md",
-    "Books/Book Tracker.md",
-    "Books/Books.md",
+    "Templates/Tag System.md",
+    "Templates/Project Template.md",
+    "Templates/Programming Concept Template.md",
+    "Assets/home.jpg",
+    "Assets/{7472B9C7-D863-4FCA-851F-4C8C412C0A1C}.png",
+    "Assets/{FF794783-0B87-48AE-B6BC-379135FD8162}.png",
+    "Assets/{E6C30F31-AB10-4710-83F5-4E5F67FFA8B4}.png",
+    "Assets/{E40A4364-5F51-4817-9FB4-339FE16A3A4C}.png",
+    "Assets/{E0394D8A-0365-47C3-BA5A-DA7DF38A42EA}.png",
+    "Assets/{AB253BBF-AA02-460D-936C-ED30E134A2D3}.png",
+    "Assets/{5378045A-E976-40E5-89C6-66B72AAD817D}.png",
+    "Assets/{060925FE-F6E4-4966-9323-83ABD14154EC}.png",
+    "Assets/{0E2F31A9-8F0B-4DA8-AC52-907CFD6DAA63}.png",
+    "Excalidraw",
     "Programming/DevOps",
     "Programming/Databases",
     "Programming/Algorithms",
@@ -264,21 +275,10 @@
     "English/Grammar",
     "English/Vocabulary",
     "English/Writing/Essays",
-    "English/Writing",
     "Untitled.canvas",
     "About - 1_Fleeting Notes.canvas",
     "Assets/Untitled.canvas",
-    "Assets/{7472B9C7-D863-4FCA-851F-4C8C412C0A1C}.png",
-    "Visuals/How to Use Links with Templates.png",
-    "Visuals/Zettelkasten_usecase_model_2025-04-24.png",
-    "Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
-    "Visuals/Zettelkasten_Ontology.png",
-    "Visuals/zettelkasten_maturity_2024-11-18.png",
-    "Visuals/IMG_0099.PNG",
     "About - 2_Literature Notes.canvas",
-    "Visuals/Zettelkasten_models_2025-04-15.png",
-    "Visuals/Zettelkasten_mental-gym_2025-06-08.png",
-    "Visuals/Zettelkasten_LitMap_2024-08-04.png",
     "4_Project/English/Untitled.canvas",
     "5_Structure/Canvases/How to Use Links with Templates.canvas",
     "5_Structure/Canvases/About - 5_Structure Notes.canvas",

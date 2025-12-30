@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCode",
-      "FabGitAlt",
-      "LiGithub",
-      "FabGit",
-      "FabReact"
+      "LiPenLine",
+      "LiLayoutTemplate",
+      "LiCode2",
+      "LiPersonStanding",
+      "LiLanguages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,14 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Assets": "RaBurstBlob",
+  "Blog": "FabBloggerB",
+  "Books": "RaBook",
+  "Business": "BoBxsBusiness",
+  "English": "LiLanguages",
+  "Personal": "LiPersonStanding",
+  "Programming": "LiCode2",
+  "Templates": "LiLayoutTemplate",
+  "Excalidraw": "LiPenLine"
 }

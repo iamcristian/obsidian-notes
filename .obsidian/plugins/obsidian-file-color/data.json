@@ -3,40 +3,123 @@
   "colorBackground": false,
   "palette": [
     {
-      "id": "SbqY1BYvMwceC7Wo9aNvo",
-      "name": "cyan",
-      "value": "#688cf5"
+      "id": "Ca0nElsGi4iuDFK-tJkGI",
+      "name": "petrol blue",
+      "value": "#008080"
     },
     {
-      "id": "SPbva85VGOtbey7VS6pON",
-      "name": "red",
-      "value": "#e84f4f"
+      "id": "bMmyWKfz0jfWqaaE_ak3P",
+      "name": "royal blue",
+      "value": "#4169e1"
     },
     {
-      "id": "MoOZ6dK0G30sJhp4THX5a",
-      "name": "green",
-      "value": "#82cc7a"
+      "id": "q7wF0PR3hwYn4Umf5ewZY",
+      "name": "forest green",
+      "value": "#228b22"
     },
     {
-      "id": "kifvHe1zIDaK7n2PssMAe",
-      "name": "yellow",
-      "value": "#efc95e"
+      "id": "HmKmCtw082wTlBOlVGt3B",
+      "name": "mint green",
+      "value": "#98ff98"
     },
     {
-      "id": "b38a6tAcjPssHQAEQ93ee",
-      "name": "gray",
-      "value": "#d9d9d9"
+      "id": "IesNU6QFoLE0Brz9GRs6r",
+      "name": "wine red",
+      "value": "#8b0000"
     },
     {
-      "id": "AHHW8-ZtoAPqOEtV5MDEj",
-      "name": "purple light",
-      "value": "#45485f"
+      "id": "xkj_wyBoGgwWt5G74X3uG",
+      "name": "coral red",
+      "value": "#ff7f50"
     },
     {
-      "id": "zEyHIIhSUwvbRVHnfbut4",
-      "name": "orange",
-      "value": "#d67931"
+      "id": "k6R5633qWDLVOYbpR1pHz",
+      "name": "mostaza",
+      "value": "#ffdb58"
+    },
+    {
+      "id": "TeLUC0pgufrwIu21O4ViR",
+      "name": "quemado naranja",
+      "value": "#ff8c00"
+    },
+    {
+      "id": "fGOiVMl8Qk8N0XLQfEI0D",
+      "name": "lavanda",
+      "value": "#e6e6fa"
+    },
+    {
+      "id": "lr1HPuqK802oix3GB_RSi",
+      "name": "gris azulado",
+      "value": "#6a7b8c"
+    },
+    {
+      "id": "n9HvAm-qyA-gue4ZCT8g2",
+      "name": "chocolate",
+      "value": "#d2691e"
+    },
+    {
+      "id": "C-lVc38UrNVUaXz0a3btd",
+      "name": "lila pastel",
+      "value": "#c8a2c8"
+    },
+    {
+      "id": "GapPMO1hPyNoEvkgNs2oS",
+      "name": "azul noche",
+      "value": "#191970"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "Assets",
+      "color": "bMmyWKfz0jfWqaaE_ak3P"
+    },
+    {
+      "path": "Blog",
+      "color": "q7wF0PR3hwYn4Umf5ewZY"
+    },
+    {
+      "path": "Books",
+      "color": "k6R5633qWDLVOYbpR1pHz"
+    },
+    {
+      "path": "Business",
+      "color": "HmKmCtw082wTlBOlVGt3B"
+    },
+    {
+      "path": "English",
+      "color": "Ca0nElsGi4iuDFK-tJkGI"
+    },
+    {
+      "path": "Personal",
+      "color": "C-lVc38UrNVUaXz0a3btd"
+    },
+    {
+      "path": "Programming",
+      "color": "n9HvAm-qyA-gue4ZCT8g2"
+    },
+    {
+      "path": "Excalidraw",
+      "color": "lr1HPuqK802oix3GB_RSi"
+    },
+    {
+      "path": "English/Grammar",
+      "color": "bMmyWKfz0jfWqaaE_ak3P"
+    },
+    {
+      "path": "English/Listening",
+      "color": "q7wF0PR3hwYn4Umf5ewZY"
+    },
+    {
+      "path": "English/Speaking",
+      "color": "HmKmCtw082wTlBOlVGt3B"
+    },
+    {
+      "path": "English/Vocabulary",
+      "color": "k6R5633qWDLVOYbpR1pHz"
+    },
+    {
+      "path": "English/Writing",
+      "color": "xkj_wyBoGgwWt5G74X3uG"
+    }
+  ]
 }

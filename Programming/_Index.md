@@ -2,6 +2,8 @@
 tags:
   - dashboard
   - programming
+banner: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"
+banner_y: 0.4
 created: 2025-12-29
 ---
 # 💻 Programming

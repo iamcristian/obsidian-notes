@@ -2,6 +2,8 @@
 tags:
   - dashboard
   - books
+banner: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200"
+banner_y: 0.5
 created: 2025-12-29
 ---
 # 📚 Books
