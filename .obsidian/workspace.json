@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "20aa3fa33481a6f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "548c491d02da7840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d92012d63ab0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tag System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tag System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "624af7780893af02",
+    "type": "split",
+    "children": [
+      {
+        "id": "05548217c650324d",
+        "type": "tabs",
+        "dimension": 68.16380449141347,
+        "children": [
+          {
+            "id": "76aca4934f36c76d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa6253d09254636b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8eea28efccf15ee4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "afcd6257749c56ad",
+        "type": "tabs",
+        "dimension": 31.836195508586524,
+        "children": [
+          {
+            "id": "ddb2edd7a6ca73ce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "2a47fe7634995861",
+    "type": "split",
+    "children": [
+      {
+        "id": "e17201a111224833",
+        "type": "tabs",
+        "dimension": 64.37847866419295,
+        "children": [
+          {
+            "id": "4fb84a8cdf3c67a2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "2ce389561735d9b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1db2912ee5d27f99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "904ab8fa39baf22f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f26825d67159eb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4_Project/About - 4_Project Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of About - 4_Project Notes"
+            }
+          },
+          {
+            "id": "39e70edf78c1b3fa",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dictionary"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "0bd95ae47f99f515",
+        "type": "tabs",
+        "dimension": 35.621521335807046,
+        "children": [
+          {
+            "id": "d75dd0cb46aad34d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "ddb2edd7a6ca73ce",
+  "lastOpenFiles": [
+    "Templates/Tag System.md",
+    "Programming/_Index.md",
+    "Programming/DevOps/Git.md",
+    "Programming/Software Engineering/_Index.md",
+    "Home.md",
+    "Templates/Phrasal Verb Template.md",
+    "Personal/_Index.md",
+    "Blog/_Index.md",
+    "Business/_Index.md",
+    "Books/_Index.md",
+    "Programming/DevOps/_Index.md",
+    "Programming/Databases/_Index.md",
+    "Programming/Algorithms/_Index.md",
+    "Programming/Development/_Index.md",
+    "English/Speaking/_Index.md",
+    "English/Listening/_Index.md",
+    "English/Grammar/_Index.md",
+    "English/Writing/_Index.md",
+    "English/Vocabulary/_Index.md",
+    "English/_Index.md",
+    "Templates/Programming Concept Template.md",
+    "Templates/Project Template.md",
+    "Templates/Vocabulary Template.md",
+    "English/English.md",
+    "Books/Book Tracker.md",
+    "Books/Books.md",
+    "Programming/DevOps",
+    "Programming/Databases",
+    "Programming/Algorithms",
+    "Programming/Software Engineering",
+    "Programming/Development",
+    "English/Speaking",
+    "English/Grammar",
+    "English/Vocabulary",
+    "English/Writing/Essays",
+    "English/Writing",
+    "Untitled.canvas",
+    "About - 1_Fleeting Notes.canvas",
+    "Assets/Untitled.canvas",
+    "Assets/{7472B9C7-D863-4FCA-851F-4C8C412C0A1C}.png",
+    "Visuals/How to Use Links with Templates.png",
+    "Visuals/Zettelkasten_usecase_model_2025-04-24.png",
+    "Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
+    "Visuals/Zettelkasten_Ontology.png",
+    "Visuals/zettelkasten_maturity_2024-11-18.png",
+    "Visuals/IMG_0099.PNG",
+    "About - 2_Literature Notes.canvas",
+    "Visuals/Zettelkasten_models_2025-04-15.png",
+    "Visuals/Zettelkasten_mental-gym_2025-06-08.png",
+    "Visuals/Zettelkasten_LitMap_2024-08-04.png",
+    "4_Project/English/Untitled.canvas",
+    "5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "5_Structure/Canvases/About - 2_Literature Notes.canvas"
+  ]
+}
