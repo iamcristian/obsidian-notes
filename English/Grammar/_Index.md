@@ -6,6 +6,11 @@ created: 2025-12-29
 ---
 # 📚 Grammar
 
+## 🎯 Main Resource
+> **[[C1 Grammar Complete Guide]]** - Guía completa de gramática nivel C1 para Cambridge & IELTS
+
+---
+
 ## 📊 Topics
 
 ### ✅ Mastered
@@ -25,6 +30,36 @@ created: 2025-12-29
 - [ ] Cleft sentences
 - [ ] Subjunctive mood
 - [ ] Advanced modals
+
+---
+
+## 📖 Quick Navigation (C1 Grammar Guide)
+
+### Tiempos Verbales
+- [[C1 Grammar Complete Guide#1. TENSE REVIEW - Revisión de Tiempos|Tense Review]]
+- [[C1 Grammar Complete Guide#2. ADVANCED TENSES - Tiempos Avanzados|Advanced Tenses]]
+
+### Estructuras Avanzadas
+- [[C1 Grammar Complete Guide#3. PASSIVE VOICE - Voz Pasiva Avanzada|Passive Voice]]
+- [[C1 Grammar Complete Guide#4. REPORTED SPEECH - Estilo Indirecto|Reported Speech]]
+- [[C1 Grammar Complete Guide#5. CONDITIONALS - Condicionales|Conditionals]]
+- [[C1 Grammar Complete Guide#6. WISH & IF ONLY - Deseos|Wish & If Only]]
+
+### Modales y Énfasis
+- [[C1 Grammar Complete Guide#7. MODAL VERBS - Verbos Modales|Modal Verbs]]
+- [[C1 Grammar Complete Guide#8. INVERSION - Inversión|Inversion]]
+- [[C1 Grammar Complete Guide#9. CLEFT SENTENCES - Oraciones Hendidas|Cleft Sentences]]
+
+### Cláusulas
+- [[C1 Grammar Complete Guide#10. RELATIVE CLAUSES - Oraciones Relativas|Relative Clauses]]
+- [[C1 Grammar Complete Guide#11. PARTICIPLE CLAUSES - Cláusulas Participiales|Participle Clauses]]
+- [[C1 Grammar Complete Guide#12. GERUNDS & INFINITIVES - Gerundios e Infinitivos|Gerunds & Infinitives]]
+
+### Otros Temas C1
+- [[C1 Grammar Complete Guide#13. SUBJUNCTIVE - Subjuntivo|Subjunctive]]
+- [[C1 Grammar Complete Guide#15. CONJUNCTIONS & CONNECTORS - Conectores|Connectors]]
+- [[C1 Grammar Complete Guide#16. ARTICLES - Artículos Avanzados|Articles]]
+- [[C1 Grammar Complete Guide#20. COMMON ERRORS - Errores Comunes C1|Common Errors]]
 
 ---
 

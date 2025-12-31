@@ -178,7 +178,23 @@
     "personal-growth": 72,
     "ethics": 73,
     "metaethics": 74,
-    "course": 75
+    "course": 75,
+    "english/speaking": 6,
+    "exam": 76,
+    "exam/cambridge": 1,
+    "exam/ielts": 2,
+    "type/index": 35,
+    "topic/work": 2,
+    "topic/people": 3,
+    "topic/leisure": 4,
+    "topic/travel": 5,
+    "topic/environment": 6,
+    "topic/society": 7,
+    "topic/media": 8,
+    "topic/health": 9,
+    "topic/technology": 10,
+    "topic/language": 11,
+    "english/debate": 7
   },
   "_version": 3
 }

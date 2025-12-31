@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "789b74ca46057a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Writing/Essays/The unmoved mover argument supports the existence of God.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The unmoved mover argument supports the existence of God"
-            }
-          },
-          {
-            "id": "f3916a92763e58c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Writing/Essays/Free will is an illusion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Free will is an illusion"
-            }
-          },
-          {
             "id": "d1da3d6e04c100fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Writing/_Index.md",
+                "file": "English/Vocabulary/C1 Vocabulary/Environment - Quick Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Index"
+              "title": "Environment - Quick Reference"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Writing/_Index.md",
+                "file": "English/Writing/Essay Quick Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Index"
+              "title": "Outgoing links from Essay Quick Reference"
             }
           },
           {
@@ -199,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Writing/_Index.md",
+                "file": "English/Writing/Essay Quick Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Index"
+              "title": "Outline of Essay Quick Reference"
             }
           },
           {
@@ -269,32 +240,36 @@
   },
   "active": "d1da3d6e04c100fa",
   "lastOpenFiles": [
+    "English/Vocabulary/C1 Vocabulary/Health and Body - Dictionary.md",
+    "English/Vocabulary/C1 Vocabulary/Environment - Dictionary.md",
+    "English/Vocabulary/Debate/Debate Quick Reference.md",
+    "English/Vocabulary/Debate/Debate Dictionary.md",
+    "English/Vocabulary/_Index.md",
+    "English/Vocabulary/Debate/Eloquent.md",
+    "English/Vocabulary/Phrasal Verbs/Phrasal Verbs Quick Reference.md",
+    "English/Vocabulary/Debate/_Index.md",
+    "English/Vocabulary/Phrasal Verbs/_Index.md",
+    "English/Vocabulary/C1 Vocabulary/_Index.md",
+    "English/Vocabulary/C1 Vocabulary Index.md",
+    "English/Vocabulary/Debate/Ubiquitous.md",
+    "English/Vocabulary/Phrasal Verbs/Phrasal Verbs Dictionary.md",
+    "English/Vocabulary/C1 Vocabulary/Words and Meanings - Dictionary.md",
+    "English/Vocabulary/C1 Vocabulary/Words and Meanings - Quick Reference.md",
+    "English/Vocabulary/C1 Vocabulary/Technology and Science - Dictionary.md",
+    "English/Vocabulary/C1 Vocabulary/Technology and Science - Quick Reference.md",
+    "English/Vocabulary/C1 Vocabulary/Health and Body - Quick Reference.md",
+    "English/Vocabulary/C1 Vocabulary/Media and Communication - Dictionary.md",
+    "English/Vocabulary/C1 Vocabulary/Media and Communication - Quick Reference.md",
+    "English/Vocabulary/C1 Vocabulary/Society and Institutions - Dictionary.md",
+    "English/Vocabulary/C1 Vocabulary/Society and Institutions - Quick Reference.md",
+    "English/Vocabulary/C1 Vocabulary/Environment - Quick Reference.md",
+    "English/Vocabulary/C1 Vocabulary/Travel and Places - Dictionary.md",
+    "English/Vocabulary/C1 Vocabulary/Travel and Places - Quick Reference.md",
+    "English/Vocabulary/C1 Vocabulary/Leisure and Lifestyle - Dictionary.md",
+    "English/Vocabulary/Debate",
+    "English/Vocabulary/Phrasal Verbs",
+    "English/Vocabulary/C1 Vocabulary",
     "New Text Document.txt",
-    "English/Writing/Essays/The unmoved mover argument supports the existence of God.md",
-    "English/Writing/Essays/Free will is an illusion.md",
-    "English/Writing/_Index.md",
-    "Home.md",
-    "Programming/Software Engineering/_Index.md",
-    "Programming/_Index.md",
-    "Personal/Vinh Giang Course.md",
-    "Personal/Weekly Routine.md",
-    "Personal/_Index.md",
-    "English/Writing/Essays/Why everyone should study philosophy.md",
-    "English/Writing/Essays/Analysis of Platos Allegory of the Cave.md",
-    "English/Writing/Essays/How existential crisis leads to personal growth.md",
-    "Templates/Tag System.md",
-    "English/Writing/Essays/Is morality objective or subjective.md",
-    "English/Writing/Essays/What reading philosophy taught me about failure.md",
-    "English/Writing/Essays/Stoicism vs Existentialism.md",
-    "English/Writing/Essays/What is Stoicism.md",
-    "Templates/Essay Template.md",
-    "Templates/Essay - Discursive Template.md",
-    "Templates/Essay - Reflective Template.md",
-    "Templates/Essay - Cause and Effect Template.md",
-    "Templates/Essay - Compare and Contrast Template.md",
-    "Templates/Essay - Analytical Template.md",
-    "Templates/Essay - Persuasive Template.md",
-    "Templates/Essay - Expository Template.md",
     "Assets/home.jpg",
     "Assets/{7472B9C7-D863-4FCA-851F-4C8C412C0A1C}.png",
     "Assets/{FF794783-0B87-48AE-B6BC-379135FD8162}.png",
@@ -311,10 +286,6 @@
     "Programming/Algorithms",
     "Programming/Software Engineering",
     "Programming/Development",
-    "English/Speaking",
-    "English/Grammar",
-    "English/Vocabulary",
-    "English/Writing/Essays",
     "Untitled.canvas",
     "About - 1_Fleeting Notes.canvas",
     "Assets/Untitled.canvas",

@@ -20,16 +20,43 @@ width: 50%
 labelColors: true
 ```
 
-| Category | Learned | Target | % |
-|----------|:-------:|:------:|:-:|
-| General | `$= dv.pages('"English/Vocabulary"').where(p => p.tags && p.tags.includes("word")).length` | 200 | `$= Math.round(dv.pages('"English/Vocabulary"').where(p => p.tags && p.tags.includes("word")).length / 200 * 100) + "%"` |
-| Phrasal Verbs | `$= dv.pages('"English/Vocabulary"').where(p => p.tags && p.tags.includes("phrasal")).length` | 100 | `$= Math.round(dv.pages('"English/Vocabulary"').where(p => p.tags && p.tags.includes("phrasal")).length / 100 * 100) + "%"` |
+| Category      |                                            Learned                                            | Target |                                                              %                                                              |
+| ------------- | :-------------------------------------------------------------------------------------------: | :----: | :-------------------------------------------------------------------------------------------------------------------------: |
+| General       |  `$= dv.pages('"English/Vocabulary"').where(p => p.tags && p.tags.includes("word")).length`   |  200   |  `$= Math.round(dv.pages('"English/Vocabulary"').where(p => p.tags && p.tags.includes("word")).length / 200 * 100) + "%"`   |
+| Phrasal Verbs | `$= dv.pages('"English/Vocabulary"').where(p => p.tags && p.tags.includes("phrasal")).length` |  100   | `$= Math.round(dv.pages('"English/Vocabulary"').where(p => p.tags && p.tags.includes("phrasal")).length / 100 * 100) + "%"` |
 
 ---
 
-## 📚 Resources
-- [[Debate Dictionary]] - Formal vocabulary for arguments
-- [[Debate Quick Reference]] - Quick lookup
+## 📚 Categorías Organizadas
+
+### 📖 C1 Vocabulary
+**10 categorías temáticas** (estilo "English Vocabulary in Use Advanced")
+
+📂 [[C1 Vocabulary/_Index|C1 Vocabulary Index]]
+
+Incluye: Work & Study, People & Relationships, Leisure, Travel, Environment, Society, Media, Health, Technology, Words & Meanings
+
+---
+
+### 🚀 Phrasal Verbs
+**200+ phrasal verbs** organizados por partícula para memorización eficiente
+
+📂 [[Phrasal Verbs/_Index|Phrasal Verbs Index]]
+
+Partículas: UP, DOWN, OUT, ON, OFF, AWAY, THROUGH, OVER, BACK, IN
+
+---
+
+### 🎤 Debate Vocabulary
+**Vocabulario especializado** para debates formales y discusión académica
+
+📂 [[Debate/_Index|Debate Vocabulary Index]]
+
+Incluye: Expressing opinions, agreeing/disagreeing, argumentación avanzada
+
+---
+
+### 🔧 Tools
 - 📖 Use **Dictionary** plugin: Select any word → Cmd/Ctrl+Shift+D
 
 ---
