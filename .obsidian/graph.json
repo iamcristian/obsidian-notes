@@ -8,10 +8,73 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#english  ",
+      "query": "path:Blog  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 3366881
+      }
+    },
+    {
+      "query": "path:Blog  ",
+      "color": {
+        "a": 1,
+        "rgb": 2257445
+      }
+    },
+    {
+      "query": "path:Books  ",
+      "color": {
+        "a": 1,
+        "rgb": 15850310
+      }
+    },
+    {
+      "query": "path:Business  ",
+      "color": {
+        "a": 1,
+        "rgb": 6877592
+      }
+    },
+    {
+      "query": "path:English  ",
+      "color": {
+        "a": 1,
+        "rgb": 884841
+      }
+    },
+    {
+      "query": "path:Personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 12416608
+      }
+    },
+    {
+      "query": "path:Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 13784100
+      }
+    },
+    {
+      "query": "path:Assets  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711744
+      }
+    },
+    {
+      "query": "path:Excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Templates  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -25,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225857775,
+  "scale": 0.06699744995282247,
   "close": true
 }

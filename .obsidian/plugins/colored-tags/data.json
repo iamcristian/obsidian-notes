@@ -177,7 +177,8 @@
     "psychology": 71,
     "personal-growth": 72,
     "ethics": 73,
-    "metaethics": 74
+    "metaethics": 74,
+    "course": 75
   },
   "_version": 3
 }
