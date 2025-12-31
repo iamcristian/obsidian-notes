@@ -1,0 +1,19 @@
+# Cache y estado interno
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/logs/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de builds o node_modules si existe (por ejemplo, de algún plugin)
+node_modules/
+dist/
+build/
+
+# Otros archivos binarios pesados que no quieres versionar
+*.zip
+*.exe
+*.pdf
