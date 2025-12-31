@@ -22,7 +22,7 @@ TABLE WITHOUT ID
 	essay_type as "Type",
 	dateformat(file.cday, "MMM dd") as "Started"
 FROM "English/Writing/Essays"
-WHERE !contains(file.name, "_Index") AND (!status OR status = "draft")
+WHERE !contains(file.name, "_Index")
 SORT file.cday desc
 ```
 
