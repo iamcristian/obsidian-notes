@@ -15,18 +15,18 @@ created: 2025-12-31
 ## 🌿 The Natural World
 
 ### Ecosystems
-| Word | Spanish |
-|------|---------|
+| Word                                                    | Spanish       |
+| ------------------------------------------------------- | ------------- |
 | [[Environment - Dictionary#Biodiversity\|biodiversity]] | biodiversidad |
-| [[Environment - Dictionary#Biome\|biome]] | bioma |
-| [[Environment - Dictionary#Ecosystem\|ecosystem]] | ecosistema |
-| [[Environment - Dictionary#Fauna\|fauna]] | fauna |
-| [[Environment - Dictionary#Flora\|flora]] | flora |
-| [[Environment - Dictionary#Habitat\|habitat]] | hábitat |
-| [[Environment - Dictionary#Indigenous\|indigenous]] | indígena |
-| [[Environment - Dictionary#Species\|species]] | especie |
-| [[Environment - Dictionary#Vegetation\|vegetation]] | vegetación |
-| [[Environment - Dictionary#Wildlife\|wildlife]] | fauna salvaje |
+| [[Environment - Dictionary#Biome\|biome]]               | bioma         |
+| [[Environment - Dictionary#Ecosystem\|ecosystem]]       | ecosistema    |
+| [[Environment - Dictionary#Fauna\|fauna]]               | fauna         |
+| [[Environment - Dictionary#Flora\|flora]]               | flora         |
+| [[Environment - Dictionary#Habitat\|habitat]]           | hábitat       |
+| [[Environment - Dictionary#Indigenous\|indigenous]]     | indígena      |
+| [[Environment - Dictionary#Species\|species]]           | especie       |
+| [[Environment - Dictionary#Vegetation\|vegetation]]     | vegetación    |
+| [[Environment - Dictionary#Wildlife\|wildlife]]         | fauna salvaje |
 
 ### Natural Features
 | Word | Spanish |
