@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - design-patterns
@@ -320,4 +320,4 @@ cart.setDiscount(fixedDiscount(50));      // $50 off
 
 ---
 
-← [[Programming/Software Engineering/Design Patterns/_Index|Back to Design Patterns]]
+← [[Programming/Software Engineering/Design Patterns/Design Patterns Complete Guide|Back to Design Patterns]]

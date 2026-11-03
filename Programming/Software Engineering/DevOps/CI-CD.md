@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - devops
@@ -308,8 +308,8 @@ quality_gates:
 
 - [[Programming/Software Engineering/DevOps/GitHub Actions|GitHub Actions]]
 - [[Programming/Software Engineering/DevOps/Docker|Docker]]
-- [[Programming/Software Engineering/Testing/_Index|Testing]]
+- [[Programming/Software Engineering/Testing/Testing Complete Guide|Testing]]
 
 ---
 
-← [[Programming/Software Engineering/DevOps/_Index|Back to DevOps]]
+← [[Programming/Software Engineering/DevOps/DevOps Complete Guide|Back to DevOps]]

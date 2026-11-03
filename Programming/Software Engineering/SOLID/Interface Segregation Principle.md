@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - solid
@@ -361,4 +361,4 @@ interface Post extends Identifiable, Timestamped, Auditable, SoftDeletable {
 
 ---
 
-← [[Programming/Software Engineering/SOLID/_Index|Back to SOLID]]
+← [[Programming/Software Engineering/SOLID/SOLID Principles Complete Guide|Back to SOLID]]

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - clean-code
@@ -363,4 +363,4 @@ class User {
 
 ---
 
-← [[Programming/Software Engineering/Clean Code/_Index|Back to Clean Code]]
+← [[Programming/Software Engineering/Clean Code/Clean Code Complete Guide|Back to Clean Code]]

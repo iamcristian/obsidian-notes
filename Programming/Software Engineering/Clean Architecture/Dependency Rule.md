@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - clean-architecture
@@ -242,4 +242,4 @@ aunque el flujo de datos BAJA (hacia Database)
 
 ---
 
-← [[Programming/Software Engineering/Clean Architecture/_Index|Back to Clean Architecture]]
+← [[Programming/Software Engineering/Clean Architecture/Clean Architecture Complete Guide|Back to Clean Architecture]]

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - solid
@@ -322,4 +322,4 @@ class BrokenCalculator extends AbsoluteCalculator {
 
 ---
 
-← [[Programming/Software Engineering/SOLID/_Index|Back to SOLID]]
+← [[Programming/Software Engineering/SOLID/SOLID Principles Complete Guide|Back to SOLID]]

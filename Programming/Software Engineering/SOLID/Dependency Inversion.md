@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - solid
@@ -338,4 +338,4 @@ describe('UserService', () => {
 
 ---
 
-← [[Programming/Software Engineering/SOLID/_Index|Back to SOLID]]
+← [[Programming/Software Engineering/SOLID/SOLID Principles Complete Guide|Back to SOLID]]

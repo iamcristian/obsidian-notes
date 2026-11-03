@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - databases
@@ -312,4 +312,4 @@ GROUP BY 1;
 
 ---
 
-← [[Programming/Software Engineering/Database Design/_Index|Back to Database Design]]
+← [[Programming/Software Engineering/Database Design/Database Design Complete Guide|Back to Database Design]]

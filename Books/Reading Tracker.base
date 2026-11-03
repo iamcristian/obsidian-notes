@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.inFolder("Books")
+    - 'file.ext == "md"'
+
+properties:
+  file.name:
+    displayName: "Libro"
+  author:
+    displayName: "Autor"
+  status:
+    displayName: "Estado"
+  rating:
+    displayName: "Calificación"
+
+views:
+  - type: table
+    name: "Todos los Libros"
+    order:
+      - file.name
+      - author
+      - status
+      - rating

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - system-design
@@ -424,9 +424,9 @@ DROP TABLE staging_orders;
 
 ## 📚 Related
 
-- [[Programming/Software Engineering/Database Design/_Index|Database Design]]
+- [[Programming/Software Engineering/Database Design/Database Design Complete Guide|Database Design]]
 - [[Programming/Software Engineering/System Design/Scalability|Scalability]]
 
 ---
 
-← [[Programming/Software Engineering/System Design/_Index|Back to System Design]]
+← [[Programming/Software Engineering/System Design/System Design Overview|Back to System Design]]

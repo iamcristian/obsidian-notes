@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - system-design
@@ -277,4 +277,4 @@ Scale   Add            Read-heavy? → Add Replicas
 
 ---
 
-← [[Programming/Software Engineering/System Design/_Index|Back to System Design]]
+← [[Programming/Software Engineering/System Design/System Design Overview|Back to System Design]]

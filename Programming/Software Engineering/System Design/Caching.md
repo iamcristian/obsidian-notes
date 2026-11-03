@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - system-design
@@ -337,4 +337,4 @@ await redis.setex(`user:123:v${version}`, 3600, data);
 
 ---
 
-← [[Programming/Software Engineering/System Design/_Index|Back to System Design]]
+← [[Programming/Software Engineering/System Design/System Design Overview|Back to System Design]]

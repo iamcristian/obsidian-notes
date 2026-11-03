@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("English/Writing/Essays")
+    - file.ext == "md"
+properties:
+  file.name:
+    displayName: Ensayo
+  status:
+    displayName: Estado
+  topic:
+    displayName: Tema
+  created:
+    displayName: Fecha de Creación
+views:
+  - type: table
+    name: Ensayos
+    order:
+      - file.name
+      - status
+      - topic
+      - created

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - clean-architecture
@@ -222,4 +222,4 @@ class PostgresOrderRepository implements IOrderRepository {
 
 ---
 
-← [[Programming/Software Engineering/Clean Architecture/_Index|Back to Clean Architecture]]
+← [[Programming/Software Engineering/Clean Architecture/Clean Architecture Complete Guide|Back to Clean Architecture]]

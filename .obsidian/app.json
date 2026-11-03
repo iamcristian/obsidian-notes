@@ -1,4 +1,9 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "newFileFolderPath": "Inbox",
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "livePreview": true
 }

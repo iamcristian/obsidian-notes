@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - databases
@@ -350,4 +350,4 @@ FOREIGN KEY (user_id) REFERENCES users(id)
 
 ---
 
-← [[Programming/Software Engineering/Database Design/_Index|Back to Database Design]]
+← [[Programming/Software Engineering/Database Design/Database Design Complete Guide|Back to Database Design]]

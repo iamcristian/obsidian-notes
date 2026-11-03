@@ -12,7 +12,7 @@
   "imagesIndexing": false,
   "aiImageIndexing": false,
   "unsupportedFilesIndexing": "default",
-  "splitCamelCase": false,
+  "splitCamelCase": true,
   "openInNewPane": false,
   "vimLikeNavigationShortcut": false,
   "ribbonIcon": true,

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - solid
@@ -287,4 +287,4 @@ coffee = new SugarDecorator(coffee);
 
 ---
 
-← [[Programming/Software Engineering/SOLID/_Index|Back to SOLID]]
+← [[Programming/Software Engineering/SOLID/SOLID Principles Complete Guide|Back to SOLID]]

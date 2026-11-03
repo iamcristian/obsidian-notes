@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - software-engineering
   - architectural-patterns
@@ -317,4 +317,4 @@ export class PostgresOrderRepository implements OrderRepository {
 
 ---
 
-← [[Programming/Software Engineering/Architectural Patterns/_Index|Back to Architectural Patterns]]
+← [[Programming/Software Engineering/Architectural Patterns/Architectural Patterns Complete Guide|Back to Architectural Patterns]]
