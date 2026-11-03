@@ -50,6 +50,17 @@ created: 2025-12-31
 
 ---
 
+### Flashcards (Repetición Espaciada)
+[[Phrasal Verbs Flashcards|🧠 Phrasal Verbs Flashcards (Mazo Anki)]]
+
+**Tarjetas con:**
+- Tipo de verbo (separable / inseparable / 3 partes)
+- Definición precisa y traducción
+- Oraciones completas de ejemplo
+- Collocations y sinónimos comunes
+
+---
+
 ## 📊 Progreso
 
 - **Total phrasal verbs:** 200+
@@ -59,7 +70,7 @@ created: 2025-12-31
 
 ## 🔗 Navegación
 
-⬆️ [[_Index|Volver al índice de Vocabulary]]
+⬆️ [[English/Vocabulary/Vocabulary Hub|Volver al índice de Vocabulary]]
 
 ---
 

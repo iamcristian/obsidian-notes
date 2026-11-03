@@ -595,6 +595,13 @@ created: 2025-12-29
 - **Grammar:** Adjective
 - **Examples:** "The code is **eloquent** in its simplicity."
 
+### Ubiquitous
+- **Español:** Ubicuo, omnipresente
+- **Meaning:** Present, appearing, or found everywhere
+- **Grammar:** Adjective
+- **Examples:** "Smartphones and high-speed internet have become **ubiquitous** in modern society."
+- **Collocations:** ubiquitous presence, ubiquitous technology, increasingly ubiquitous
+
 ### Persuasive
 - **Español:** Persuasivo
 - **Meaning:** Good at persuading someone to do or believe something

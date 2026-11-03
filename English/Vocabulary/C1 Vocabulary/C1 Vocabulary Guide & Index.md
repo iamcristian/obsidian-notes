@@ -11,11 +11,14 @@ created: 2025-12-31
 
 ---
 
-## 🎯 Sistema de Aprendizaje
+## 🎯 Las 2 Formas de Aprendizaje
 
-Cada categoría tiene **dos archivos**:
-- **Quick Reference**: Tablas con links para búsqueda rápida en Obsidian
-- **Dictionary**: Definiciones completas con IPA, ejemplos y collocations
+1. **Capa de Consulta y Referencia:**
+   - **[[C1 Master Vocabulary - Quick Reference|⚡ C1 Master Quick Reference (100 Core Terms)]]**: Matriz de consulta rápida de los 100 términos académicos y conceptuales clave.
+   - **[[C1 Master Vocabulary - Dictionary|📖 C1 Master Dictionary (100 Core Terms)]]**: Definiciones completas con Part of Speech, ejemplos contextuales, gramática y collocations.
+   - **Diccionarios Temáticos Específicos**: 10 diccionarios temáticos detallados con más de 1,000 términos.
+2. **Capa de Repaso Activo (Spaced Repetition):**
+   - **[[C1 Thematic Flashcards|🧠 C1 Thematic Flashcards (Mazo Anki - 100 Tarjetas)]]**: Mazo interactivo de 100 tarjetas enriquecidas (`#flashcards/c1-thematic`) listo para repasar con `Alt + R`.
 
 ---
 
@@ -121,7 +124,7 @@ Cada categoría tiene **dos archivos**:
 
 ## 🔗 Navegación
 
-⬆️ [[_Index|Volver al índice de Vocabulary]]
+⬆️ [[English/Vocabulary/Vocabulary Hub|Volver al índice de Vocabulary]]
 
 ---
 
