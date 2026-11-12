@@ -5,13 +5,15 @@ tags:
   - level/C1
   - review
 created: 2026-11-02
-total_cards: 100
+total_cards: 250
 ---
 # 💭 Feelings, Reactions & Opinions — Mazo Anki C1
 
 > [!tip] Mazo de Repetición Espaciada (Anki)
-> Mazo intensivo de 100 tarjetas con vocabulario psicológico profundo, expresiones de estado de ánimo, alabanzas, críticas y modismos emocionales para Cambridge C1.
-> Presiona `Alt + R` para repasar este mazo interactivo de 100 tarjetas.
+> Mazo intensivo de 250 tarjetas con vocabulario psicológico profundo, expresiones de estado de ánimo, alabanzas, críticas y modismos emocionales para Cambridge C1.
+> Presiona `Alt + R` para repasar este mazo interactivo de 250 tarjetas.
+
+---
 
 ---
 
@@ -615,18 +617,6 @@ total_cards: 100
 
 ---
 
-### Ecstatic
-?
-- **Part of Speech:** Adjective [Extreme]
-- **Español:** Extático / Loco de alegría / Lleno de júbilo
-- **Definition:** Feeling or expressing overwhelming happiness or joyful excitement.
-- **Example:** *"The research team was ecstatic when the Mars rover confirmed subterranean water ice."*
-- **Collocations:** *ecstatic crowd, ecstatic reception, absolutely ecstatic*
-- **Nuance & Exam Tip:** Non-gradable extreme adjective: use *absolutely ecstatic*, never *very ecstatic*.
-- **Word Family:** ecstasy (noun), ecstatically (adv)
-
----
-
 ### Euphoric
 ?
 - **Part of Speech:** Adjective [Formal/Extreme]
@@ -696,30 +686,6 @@ total_cards: 100
 - **Collocations:** *hugely relieved, immensely relieved, relieved to hear*
 - **Nuance & Exam Tip:** Followed by *to hear / that...* or modified by *enormously / immensely*.
 - **Word Family:** relieve (verb), relief (noun)
-
----
-
-### Resigned
-?
-- **Part of Speech:** Adjective [Formal]
-- **Español:** Resignado / Que acepta lo inevitable con paciencia
-- **Definition:** Having accepted something unpleasant that one cannot easily change.
-- **Example:** *"He adopted a resigned tone, accepting that his flight would not depart until morning."*
-- **Collocations:** *resigned to one's fate, resigned tone, resigned smile*
-- **Nuance & Exam Tip:** Followed by the preposition *to* (*resigned to the inevitable*).
-- **Word Family:** resign (verb), resignation (noun)
-
----
-
-### Melancholy
-?
-- **Part of Speech:** Adjective / Noun [Literary]
-- **Español:** Melancólico / Melancolía profunda y poética
-- **Definition:** A feeling of pensive sadness, typically with no obvious cause; deeply contemplative sorrow.
-- **Example:** *"A melancholy melody drifted from the cello across the darkened concert hall."*
-- **Collocations:** *melancholy mood, tinged with melancholy, sweet melancholy*
-- **Nuance & Exam Tip:** More romantic, reflective, and poetic than ordinary *sadness* or *depression*.
-- **Word Family:** melancholia (medical noun)
 
 ---
 
@@ -843,30 +809,6 @@ total_cards: 100
 
 ---
 
-### Resentful
-?
-- **Part of Speech:** Adjective
-- **Español:** Rencoroso / Resentido
-- **Definition:** Feeling or expressing bitterness or indignation at having been treated unfairly.
-- **Example:** *"Junior associates became deeply resentful of the partners who pocketed lavish bonuses while freezing salaries."*
-- **Collocations:** *resentful of, feel resentful towards*
-- **Nuance & Exam Tip:** Followed by the preposition *of* (*resentful of his success*).
-- **Word Family:** resent (verb), resentment (noun)
-
----
-
-### Vexed
-?
-- **Part of Speech:** Adjective [Formal]
-- **Español:** Irritado / Molesto / Problemático y espinoso
-- **Definition:** Annoyed, frustrated, or worried; when referring to an issue, problematic and disputed.
-- **Example:** *"The committee spent all afternoon debating the vexed question of copyright liability in generative AI."*
-- **Collocations:** *vexed issue, vexed question, deeply vexed*
-- **Nuance & Exam Tip:** Dual meaning: describes an irritated person, or a complicated contentious topic.
-- **Word Family:** vex (verb), vexation (noun)
-
----
-
 ### Distraught
 ?
 - **Part of Speech:** Adjective [Extreme]
@@ -927,18 +869,6 @@ total_cards: 100
 
 ---
 
-### Flabbergasted
-?
-- **Part of Speech:** Adjective [Extreme/Idiomatic]
-- **Español:** Estupefacto / Boquiabierto / Pasmado
-- **Definition:** Greatly surprised; astonished to the point of utter speechlessness.
-- **Example:** *"The astrophysicist was flabbergasted when the telemetry readings contradicted forty years of established theory."*
-- **Collocations:** *utterly flabbergasted, left flabbergasted*
-- **Nuance & Exam Tip:** Extreme adjective expressing total cognitive bewilderment.
-- **Word Family:** flabbergast (verb)
-
----
-
 ### Astounded
 ?
 - **Part of Speech:** Adjective [Extreme]
@@ -975,54 +905,6 @@ total_cards: 100
 
 ---
 
-### Incredulous
-?
-- **Part of Speech:** Adjective [Formal]
-- **Español:** Incauto / Incrédulo / Que se niega a creer algo
-- **Definition:** Unwilling or unable to believe something; showing disbelief.
-- **Example:** *"She listened with an incredulous expression as the cashier explained the ten-fold price hike."*
-- **Collocations:** *incredulous smile, incredulous stare, remain incredulous*
-- **Nuance & Exam Tip:** Do NOT confuse with *incredible* (*incredible* = unbelievable; *incredulous* = the person who disbelieves).
-- **Word Family:** incredulity (noun), incredulously (adv)
-
----
-
-### Skeptical
-?
-- **Part of Speech:** Adjective
-- **Español:** Escéptico / Que duda de la verdad de algo
-- **Definition:** Not easily convinced; having reservations or doubts.
-- **Example:** *"Scientific peer reviewers were highly skeptical of the lab's room-temperature superconductor claims."*
-- **Collocations:** *skeptical about, skeptical of, healthy skepticism*
-- **Nuance & Exam Tip:** Followed by *about* or *of*.
-- **Word Family:** skepticism (noun), skeptic (noun)
-
----
-
-### Cynical
-?
-- **Part of Speech:** Adjective
-- **Español:** Cínico / Que desconfía de la sinceridad humana
-- **Definition:** Believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.
-- **Example:** *"Years in tabloid journalism had made her deeply cynical about political campaign promises."*
-- **Collocations:** *cynical view, cynical attitude, deeply cynical*
-- **Nuance & Exam Tip:** Differs from skepticism: a skeptic doubts evidence, whereas a cynic doubts human moral motives.
-- **Word Family:** cynic (noun), cynicism (noun)
-
----
-
-### Disillusioned
-?
-- **Part of Speech:** Adjective
-- **Español:** Desilusionado / Desencantado con un ideal
-- **Definition:** Disappointed in someone or something that one previously respected or believed in.
-- **Example:** *"Thousands of idealistic volunteers became disillusioned when the charity squandered donation funds."*
-- **Collocations:** *disillusioned with, disillusioned by, grow disillusioned*
-- **Nuance & Exam Tip:** Followed by the preposition *with* (*disillusioned with politics*).
-- **Word Family:** disillusionment (noun)
-
----
-
 ### Jaded
 ?
 - **Part of Speech:** Adjective
@@ -1056,18 +938,6 @@ total_cards: 100
 - **Collocations:** *callous indifference, callous disregard, callous remark*
 - **Nuance & Exam Tip:** Severely critical word condemning conscious lack of human compassion.
 - **Word Family:** callousness (noun), callously (adv)
-
----
-
-### Apathetic
-?
-- **Part of Speech:** Adjective
-- **Español:** Apático / Falto de interés y energía
-- **Definition:** Showing or feeling no interest, enthusiasm, or concern.
-- **Example:** *"Political analysts warned that an apathetic electorate allows authoritarian oligarchs to consolidate power."*
-- **Collocations:** *apathetic attitude, remain apathetic, culturally apathetic*
-- **Nuance & Exam Tip:** Passive indifference rather than active hostility.
-- **Word Family:** apathy (noun), apathetically (adv)
 
 ---
 
@@ -1203,14 +1073,1802 @@ total_cards: 100
 
 ---
 
-### Appalled
+### Convinced
+?
+- **Part of Speech:** Adjective
+- **Español:** Convencido/a (certeza absoluta)
+- **Definition:** Firmly believing that something is true.
+- **Example:** *"I am firmly convinced that daily spaced repetition accelerates fluency."*
+- **Nuance & Exam Tip:** Grammar: *convinced that / convinced of*. Non-gradable: *firmly/completely convinced*.
+
+---
+
+### Hold
+?
+- **Part of Speech:** Verb [Transitive, Formal]
+- **Español:** Sostener una creencia firme
+- **Definition:** To maintain or adhere to a belief or opinion.
+- **Example:** *"She has always held that education is the primary catalyst for social mobility."*
+- **Nuance & Exam Tip:** Collocations: *hold the view that, hold a belief, widely held opinion*.
+
+---
+
+### Fanatical
 ?
 - **Part of Speech:** Adjective [Extreme]
-- **Español:** Horrorizado / Consternado ante algo indignante
-- **Definition:** Greatly dismayed, horrified, or shocked by something unacceptable.
-- **Example:** *"Human rights inspectors were appalled by the inhumane overcrowding in the detention facility."*
-- **Collocations:** *appalled by, appalled at, deeply appalled*
-- **Nuance & Exam Tip:** Combines intense shock with deep moral disgust. Followed by *at* or *by*.
-- **Word Family:** appalling (adj), appall (verb)
+- **Español:** Fanático / Desmedido
+- **Definition:** Filled with excessive and single-minded zeal.
+- **Example:** *"He possesses a fanatical devotion to clean software architecture."*
+- **Nuance & Exam Tip:** Extreme adjective; often denotes irrational or obsessive excess.
+
+---
+
+### Conservative
+?
+- **Part of Speech:** Adjective
+- **Español:** Conservador / Tradicional
+- **Definition:** Averse to rapid change or innovation; traditional.
+- **Example:** *"The board adopted a conservative financial estimate for next year's revenues."*
+- **Nuance & Exam Tip:** In business: cautious and prudent; in politics: right-leaning.
+
+---
+
+### Middle-of-the-road
+?
+- **Part of Speech:** Adjective [Idiom]
+- **Español:** Moderado / De centro / Centrista
+- **Definition:** Avoiding extremes; moderate or average.
+- **Example:** *"The politician won widespread support with her middle-of-the-road fiscal policies."*
+- **Nuance & Exam Tip:** Idiomatic compound adjective.
+
+---
+
+### Dedicated
+?
+- **Part of Speech:** Adjective
+- **Español:** Dedicado / Consagrado a una causa
+- **Definition:** Devoted to a task or purpose; having single-minded loyalty.
+- **Example:** *"She is a dedicated pediatrician who works tirelessly for underserved communities."*
+- **Nuance & Exam Tip:** Followed by the preposition *to* + noun or gerund (*dedicated to helping*).
+
+---
+
+### Radical
+?
+- **Part of Speech:** Adjective
+- **Español:** Radical / Partidario de cambios desde la raíz
+- **Definition:** Advocating thorough or complete political or social reform.
+- **Example:** *"The energy crisis requires radical restructuring of the electrical grid."*
+- **Nuance & Exam Tip:** From Latin *radix* (root); means addressing the fundamental root causes.
+
+---
+
+### Dogmatic
+?
+- **Part of Speech:** Adjective [Pejorative]
+- **Español:** Dogmático / Intransigente
+- **Definition:** Inclined to lay down principles as incontrovertibly true, without consideration of evidence.
+- **Example:** *"A dogmatic insistence on outdated protocols prevented any meaningful reform."*
+- **Nuance & Exam Tip:** Severely critical of rigid, unbending ideologues.
+
+---
+
+### Pragmatic
+?
+- **Part of Speech:** Adjective
+- **Español:** Pragmático / Práctico y realista
+- **Definition:** Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
+- **Example:** *"We need a pragmatic compromise rather than endless ideological arguments."*
+- **Nuance & Exam Tip:** High praise in professional, legal, and political discussions.
+
+---
+
+### Inflexible
+?
+- **Part of Speech:** Adjective
+- **Español:** Inflexible / Rígido
+- **Definition:** Unwilling to change or compromise.
+- **Example:** *"Her inflexible attitude during salary negotiations led to a labor strike."*
+- **Nuance & Exam Tip:** Negative trait in collaborative problem-solving.
+
+---
+
+### Idealistic
+?
+- **Part of Speech:** Adjective
+- **Español:** Idealista / Guiado por ideales nobles
+- **Definition:** Characterized by the pursuit of noble principles, often unrealistically.
+- **Example:** *"Young university activists held idealistic dreams of eradicating poverty overnight."*
+- **Nuance & Exam Tip:** Can carry positive praise or mild condescension regarding practicality.
+
+---
+
+### Content
+?
+- **Part of Speech:** Adjective [Predicative]
+- **Español:** Satisfecho / Contento con lo que tiene
+- **Definition:** In a state of peaceful happiness and satisfaction.
+- **Example:** *"He is perfectly content to spend his retirement gardening and reading."*
+- **Nuance & Exam Tip:** Used predicatively after 'be'; cannot precede a noun (*a content man is wrong; use contented).
+
+---
+
+### Contented
+?
+- **Part of Speech:** Adjective [Attributive]
+- **Español:** Satisfecho (usado antes de sustantivo)
+- **Definition:** Expressing or showing happiness and contentment.
+- **Example:** *"She gave a contented sigh as she sat before the warm fireplace."*
+- **Nuance & Exam Tip:** Used attributively before nouns (*a contented smile*).
+
+---
+
+### Delighted
+?
+- **Part of Speech:** Adjective
+- **Español:** Encantado / Sumamente complacido
+- **Definition:** Feeling or showing great pleasure.
+- **Example:** *"We would be delighted to host your academic delegation next semester."*
+- **Nuance & Exam Tip:** Followed by *to do / that... / with sth*.
+
+---
+
+### Thrilled
+?
+- **Part of Speech:** Adjective
+- **Español:** Emocionado / Entusiasmado al máximo
+- **Definition:** Extremely pleased and excited.
+- **Example:** *"The debutante author was thrilled to see her novel hit the bestseller list."*
+- **Nuance & Exam Tip:** Collocates with *thrilled to bits (idiom)* in informal speech.
+
+---
+
+### Blissful
+?
+- **Part of Speech:** Adjective
+- **Español:** Paradisiaco / De felicidad idílica
+- **Definition:** Extremely happy; full of joy; providing supreme peace.
+- **Example:** *"They spent a blissful honeymoon exploring the secluded Cyclades islands."*
+- **Nuance & Exam Tip:** Evokes undisturbed peace and idyllic contentment.
+
+---
+
+### Serene
+?
+- **Part of Speech:** Adjective
+- **Español:** Sereno / Plácido y en paz
+- **Definition:** Calm, peaceful, and untroubled; tranquil.
+- **Example:** *"Her serene demeanor comforted the frightened passengers during turbulence."*
+- **Nuance & Exam Tip:** Calm emotional mastery unaffected by external chaos.
+
+---
+
+### Overjoyed
+?
+- **Part of Speech:** Adjective [Extreme]
+- **Español:** Loco de alegría / Inmensamente feliz
+- **Definition:** Extremely happy of an unexpected good fortune.
+- **Example:** *"Grandparents were overjoyed at the safe birth of twin baby girls."*
+- **Nuance & Exam Tip:** Extreme adjective; use *absolutely overjoyed*.
+
+---
+
+### Upbeat
+?
+- **Part of Speech:** Adjective [Informal/Neutral]
+- **Español:** Optimista / Animado y positivo
+- **Definition:** Cheerful and optimistic.
+- **Example:** *"The quarterly financial briefing struck a remarkably upbeat note."*
+- **Nuance & Exam Tip:** Dynamic, contemporary word for positive morale.
+
+---
+
+### Buoyant
+?
+- **Part of Speech:** Adjective [Formal/Metaphorical]
+- **Español:** Animado / Optimista y resistente
+- **Definition:** Cheerful and confident; in economics, growing vigorously.
+- **Example:** *"Consumer confidence remained buoyant despite rising energy costs."*
+- **Nuance & Exam Tip:** Metaphor from floating on water; resilient optimism.
+
+---
+
+### Grateful
+?
+- **Part of Speech:** Adjective
+- **Español:** Agradecido/a a alguien
+- **Definition:** Feeling or showing an appreciation of kindness; thankful.
+- **Example:** *"I am deeply grateful to my supervisor for her patient revisions."*
+- **Nuance & Exam Tip:** Grammar: *grateful to someone for something*. Directed towards a benefactor.
+
+---
+
+### Thankful
+?
+- **Part of Speech:** Adjective
+- **Español:** Aliviado/a y agradecido/a por una circunstancia
+- **Definition:** Pleased and relieved that an unfortunate outcome did not occur.
+- **Example:** *"We are thankful that nobody was trapped when the mine shaft collapsed."*
+- **Nuance & Exam Tip:** Grammar: *thankful that...* Directed at fortunate outcomes/relief.
+
+---
+
+### Indebted
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** En deuda de gratitud / Agradecido
+- **Definition:** Owing gratitude for a service or favor.
+- **Example:** *"The archaeological team is heavily indebted to local guides for their expertise."*
+- **Nuance & Exam Tip:** Followed by *to* (*indebted to someone*).
+
+---
+
+### Appreciative
+?
+- **Part of Speech:** Adjective
+- **Español:** Agradecido / Que valora algo
+- **Definition:** Feeling or showing gratitude or pleasure.
+- **Example:** *"The audience was warmly appreciative of the string quartet's performance."*
+- **Nuance & Exam Tip:** Takes the preposition *of* (*appreciative of the effort*).
+
+---
+
+### Reassured
+?
+- **Part of Speech:** Adjective
+- **Español:** Tranquilizado tras dudas
+- **Definition:** Having had one's fears, doubts, or anxieties relieved.
+- **Example:** *"Investors were reassured by the chief executive's transparent audit presentation."*
+- **Nuance & Exam Tip:** Followed by *by* (*reassured by the findings*).
+
+---
+
+### Dejected
+?
+- **Part of Speech:** Adjective
+- **Español:** Cabizbajo / Abatido
+- **Definition:** Sad and depressed; dispirited.
+- **Example:** *"The defeated chess champion walked away from the board with a dejected expression."*
+- **Nuance & Exam Tip:** Focuses on visible physical posture of sadness.
+
+---
+
+### Gloomy
+?
+- **Part of Speech:** Adjective
+- **Español:** Sombrío / Pesimista
+- **Definition:** Dark or poorly lit; feeling distressed or pessimistic.
+- **Example:** *"Economic forecasters painted a gloomy outlook for the manufacturing sector."*
+- **Nuance & Exam Tip:** Applies to atmospheric lighting and psychological disposition.
+
+---
+
+### Downcast
+?
+- **Part of Speech:** Adjective
+- **Español:** Cabizbajo / Abatido con la mirada baja
+- **Definition:** Despondent; having the eyes directed downwards.
+- **Example:** *"He remained seated with a downcast expression, unable to meet her gaze."*
+- **Nuance & Exam Tip:** Literally eyes cast downwards in shame or grief.
+
+---
+
+### Crestfallen
+?
+- **Part of Speech:** Adjective
+- **Español:** Cabizbajo / Desilusionado tras una derrota
+- **Definition:** Sad and disappointed after sudden failure or humiliation.
+- **Example:** *"The young applicant emerged crestfallen after failing the flight simulator test."*
+- **Nuance & Exam Tip:** Metaphor from a rooster whose crest droops after defeat.
+
+---
+
+### Heartbroken
+?
+- **Part of Speech:** Adjective [Extreme]
+- **Español:** Con el corazón roto / Desolado
+- **Definition:** Overcome by sorrow, grief, or heartbreak.
+- **Example:** *"The community was heartbroken by the sudden closure of the historic hospital."*
+- **Nuance & Exam Tip:** Intense personal grief or emotional loss.
+
+---
+
+### Grief-stricken
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Abrumado por el duelo
+- **Definition:** Extremely sad because someone has died.
+- **Example:** *"Grief-stricken mourners lined the church avenue in respectful silence."*
+- **Nuance & Exam Tip:** Specific to mourning the loss of a life.
+
+---
+
+### Peeved
+?
+- **Part of Speech:** Adjective [Informal]
+- **Español:** Molesto / Fastidiado
+- **Definition:** Annoyed or irritated by minor inconveniences.
+- **Example:** *"He was visibly peeved that his reserved seat had been reassigned."*
+- **Nuance & Exam Tip:** Mild irritation over minor logistical annoyances.
+
+---
+
+### Outraged
+?
+- **Part of Speech:** Adjective [Extreme]
+- **Español:** Indignado y escandalizado
+- **Definition:** Fiercely angry and shocked by an atrocity or scandal.
+- **Example:** *"Human rights advocates were outraged by the illegal detention of dissidents."*
+- **Nuance & Exam Tip:** Extreme adjective: moral fury at wrongdoing.
+
+---
+
+### Irate
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Airoso / Furibundo / Lleno de ira
+- **Definition:** Feeling or characterized by great anger.
+- **Example:** *"Irate passengers demanded full refunds and accommodation vouchers."*
+- **Nuance & Exam Tip:** Formal adjective for angry customers or citizens.
+
+---
+
+### Seething
+?
+- **Part of Speech:** Adjective [Metaphorical]
+- **Español:** Hirviendo de rabia contenida
+- **Definition:** Boiling with unexpressed rage.
+- **Example:** *"Beneath her polite smile, she was seething with fury at his condescending remarks."*
+- **Nuance & Exam Tip:** Metaphor from boiling liquid; suppressed rage.
+
+---
+
+### Fuming
+?
+- **Part of Speech:** Adjective [Metaphorical]
+- **Español:** Echando humo de cólera
+- **Definition:** Extremely angry; raging inwardly.
+- **Example:** *"He was fuming after waiting forty-five minutes for a delayed conference call."*
+- **Nuance & Exam Tip:** Metaphor from smoke and fumes.
+
+---
+
+### Panicked
+?
+- **Part of Speech:** Adjective
+- **Español:** Presa del pánico
+- **Definition:** Feeling sudden, uncontrollable fear.
+- **Example:** *"Panicked shoppers surged toward the exit doors when the fire sirens wailed."*
+- **Nuance & Exam Tip:** Past participle of 'panic' (spelled with a 'k').
+
+---
+
+### Uneasy
+?
+- **Part of Speech:** Adjective
+- **Español:** Inquieto / Con desasosiego
+- **Definition:** Causing or feeling anxiety; troubled or uncomfortable.
+- **Example:** *"An uneasy silence fell over the classroom when the principal entered unannounced."*
+- **Nuance & Exam Tip:** Quiet, creeping discomfort or premonition.
+
+---
+
+### Jittery
+?
+- **Part of Speech:** Adjective [Informal]
+- **Español:** Nervioso / Inquieto y tembloroso
+- **Definition:** Nervous or unable to relax, especially before an ordeal.
+- **Example:** *"Too much caffeine made the young presenter feel jittery before her speech."*
+- **Nuance & Exam Tip:** Physical trembling and restless anxiety.
+
+---
+
+### Dread
+?
+- **Part of Speech:** Verb / Noun
+- **Español:** Temer con pavor / Pavor profundo
+- **Definition:** To anticipate with great apprehension or fear.
+- **Example:** *"She dreaded having to break the tragic news to her aging parents."*
+- **Nuance & Exam Tip:** ¡Regla de oro!: Rige GERUNDIO (*dread doing*).
+
+---
+
+### Tremulous
+?
+- **Part of Speech:** Adjective [Literary]
+- **Español:** Trémulo / Tembloroso de miedo o emoción
+- **Definition:** Shaking or quivering slightly; timid or nervous.
+- **Example:** *"In a tremulous voice, the child identified the perpetrator in the police lineup."*
+- **Nuance & Exam Tip:** Poetic and descriptive of physical shaking.
+
+---
+
+### Speechless
+?
+- **Part of Speech:** Adjective [Extreme]
+- **Español:** Sin palabras de asombro o ira
+- **Definition:** Unable to speak, especially as the result of shock or strong emotion.
+- **Example:** *"He was rendered speechless when the lottery organizers handed him the giant check."*
+- **Nuance & Exam Tip:** Extreme reaction.
+
+---
+
+### Staggered
+?
+- **Part of Speech:** Adjective [Extreme]
+- **Español:** Atónito / Tambaleante de asombro
+- **Definition:** Deeply shocked and astonished.
+- **Example:** *"The research committee was staggered by the sheer scope of genetic variation."*
+- **Nuance & Exam Tip:** Extreme adjective; derived from physical staggering.
+
+---
+
+### Perplexed
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Perplejo / Desconcertado por un enigma
+- **Definition:** Completely baffled; very puzzled by an intellectual conundrum.
+- **Example:** *"Mathematicians remained perplexed by the anomalous prime number distribution."*
+- **Nuance & Exam Tip:** Academic and intellectual bafflement.
+
+---
+
+### Sympathetic
+?
+- **Part of Speech:** Adjective
+- **Español:** Compasivo / Comprensivo con el sufrimiento
+- **Definition:** Feeling, showing, or expressing sympathy and sorrow for someone's misfortune.
+- **Example:** *"The university was remarkably sympathetic to students dealing with domestic crises."*
+- **Nuance & Exam Tip:** Followed by *to* or *towards* (*sympathetic to their plight*).
+
+---
+
+### Compassionate
+?
+- **Part of Speech:** Adjective
+- **Español:** Compasivo / Lleno de piedad activa
+- **Definition:** Feeling or showing sympathy and concern for others.
+- **Example:** *"A compassionate society provides safety nets for its poorest, disabled citizens."*
+- **Nuance & Exam Tip:** Combines empathy with active desire to help.
+
+---
+
+### Scornful
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Desdeñoso / Burlón y despectivo
+- **Definition:** Feeling or expressing contempt or derision.
+- **Example:** *"He let out a scornful laugh when asked if he would accept a junior diplomatic post."*
+- **Nuance & Exam Tip:** Active mocking contempt.
+
+---
+
+### Smug
+?
+- **Part of Speech:** Adjective [Pejorative]
+- **Español:** Petulante / Ufano / Satisfecho de sí mismo
+- **Definition:** Having or showing an excessive pride in oneself or one's achievements.
+- **Example:** *"He had a smug, self-satisfied grin after winning the debate on a technicality."*
+- **Nuance & Exam Tip:** Irritatingly complacent self-admiration.
+
+---
+
+### Haughty
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Altivo / Arrogante y despectivo
+- **Definition:** Arrogantly superior and disdainful.
+- **Example:** *"The aristocrat walked through the crowded market with a haughty, unsmiling gaze."*
+- **Nuance & Exam Tip:** Aristocratic, frosty arrogance.
+
+---
+
+### Insist on
+?
+- **Part of Speech:** Verb + Preposition
+- **Español:** Insistir en (+ gerundio)
+- **Definition:** To demand something forcefully, not accepting refusal.
+- **Example:** *"The health inspector insisted on inspecting the meat refrigeration units personally."*
+- **Nuance & Exam Tip:** Takes *on* + gerund (-ing).
+
+---
+
+### Confess to
+?
+- **Part of Speech:** Verb + Preposition
+- **Español:** Confesar haber hecho algo
+- **Definition:** To admit that one has committed a crime or mistake.
+- **Example:** *"The clerk confessed to having altered the financial ledger entries."*
+- **Nuance & Exam Tip:** ¡Trampa Cambridge!: *to* es preposición, exige GERUNDIO (-ing).
+
+---
+
+### Object to
+?
+- **Part of Speech:** Verb + Preposition
+- **Español:** Oponerse a (+ gerundio)
+- **Definition:** To express disapproval or opposition.
+- **Example:** *"Many residents object to building a four-lane highway through the suburban park."*
+- **Nuance & Exam Tip:** ¡Trampa Cambridge!: *to* es preposición, exige GERUNDIO (-ing).
+
+---
+
+### Urge
+?
+- **Part of Speech:** Verb + Object + Infinitive
+- **Español:** Instar a alguien a hacer algo
+- **Definition:** To persistently persuade someone to take an action.
+- **Example:** *"Doctors urged the elderly population to receive the seasonal influenza vaccine."*
+- **Nuance & Exam Tip:** Followed by *person + to-infinitive*.
+
+---
+
+### Bemoan
+?
+- **Part of Speech:** Verb [Transitive, Formal]
+- **Español:** Lamentarse de / Quejarse amargamente de
+- **Definition:** To express discontent or sorrow over something.
+- **Example:** *"Educators frequently bemoan the decline of deep reading habits among young children."*
+- **Nuance & Exam Tip:** Direct transitive verb (no preposition required).
+
+---
+
+### Lament
+?
+- **Part of Speech:** Verb [Transitive/Formal]
+- **Español:** Lamentar profundamente
+- **Definition:** To express passionate grief or sorrow for.
+- **Example:** *"The editorial lamented the loss of historical civic architecture to commercial developments."*
+- **Nuance & Exam Tip:** High literary and formal tone.
+
+---
+
+### Acclaim
+?
+- **Part of Speech:** Verb [Transitive, Formal]
+- **Español:** Aclamar / Elogiar públicamente
+- **Definition:** To praise enthusiastically and publicly.
+- **Example:** *"Her debut novel was universally acclaimed as a masterpiece of contemporary realism."*
+- **Nuance & Exam Tip:** Often in passive: *was widely acclaimed*.
+
+---
+
+### Whisper
+?
+- **Part of Speech:** Verb
+- **Español:** Susurrar (en voz baja intencionadamente)
+- **Definition:** To speak very softly using one's breath without vibrating vocal cords.
+- **Example:** *"She leaned over and whispered the password into my ear."*
+- **Nuance & Exam Tip:** Quiet on purpose so others don't overhear.
+
+---
+
+### Mumble
+?
+- **Part of Speech:** Verb
+- **Español:** Mascullar / Balbucear de forma ininteligible
+- **Definition:** To say something indistinctly and quietly, making it difficult to hear.
+- **Example:** *"He mumbled an awkward apology while staring down at his shoes."*
+- **Nuance & Exam Tip:** Quiet because of nervousness or poor diction.
+
+---
+
+### Mutter
+?
+- **Part of Speech:** Verb
+- **Español:** Refunfuñar / Murmurar con enfado
+- **Definition:** To say something in a low voice, especially when irritated or complaining.
+- **Example:** *"She muttered an angry complaint under her breath as she slammed the door."*
+- **Nuance & Exam Tip:** Quiet complaining in annoyance.
+
+---
+
+### Murmur
+?
+- **Part of Speech:** Verb
+- **Español:** Murmurar en tono suave y relajante
+- **Definition:** To say something in a low, soft, or indistinct voice, often affectionate.
+- **Example:** *"The mother murmured comforting words to soothe the crying infant."*
+- **Nuance & Exam Tip:** Soft, pleasant, or intimate low-voice tone.
+
+---
+
+### Shout
+?
+- **Part of Speech:** Verb
+- **Español:** Gritar (para ser oído a distancia)
+- **Definition:** To call out or speak in a loud, emphatic voice.
+- **Example:** *"The foreman had to shout to make himself heard over the thunderous turbine noise."*
+- **Nuance & Exam Tip:** Functional loud volume.
+
+---
+
+### Shriek
+?
+- **Part of Speech:** Verb
+- **Español:** Chillar con un grito agudo de terror
+- **Definition:** To utter a high-pitched, piercing sound or cry, especially in terror.
+- **Example:** *"She shrieked in horror when she discovered a viper coiled beneath her desk."*
+- **Nuance & Exam Tip:** Piercing high-pitched scream of fright.
+
+---
+
+### Bellow
+?
+- **Part of Speech:** Verb
+- **Español:** Bramar / Rugir con voz estentórea
+- **Definition:** To shout in a deep, loud, resonant roar, typically in pain or anger.
+- **Example:** *"The drill sergeant bellowed orders that reverberated across the barracks yard."*
+- **Nuance & Exam Tip:** Deep resonant masculine roar.
+
+---
+
+### Scream
+?
+- **Part of Speech:** Verb
+- **Español:** Gritar agudamente de dolor o terror
+- **Definition:** To give a long, loud, piercing cry expressing pain, terror, or excitement.
+- **Example:** *"Spectators screamed in excitement as the rock group walked onto the stage."*
+- **Nuance & Exam Tip:** Intense loud emotional release.
+
+---
+
+### Snap
+?
+- **Part of Speech:** Verb [Transitive/Intransitive]
+- **Español:** Contestar bruscamente con irritación
+- **Definition:** To say something quickly and irritably.
+- **Example:** *"'Don't interrupt me while I'm calculating!' she snapped furiously."*
+- **Nuance & Exam Tip:** Short, sharp, irritated verbal reaction.
+
+---
+
+### Glance
+?
+- **Part of Speech:** Verb / Noun
+- **Español:** Echar un vistazo rápido e intencionado
+- **Definition:** To take a brief or hurried look.
+- **Example:** *"He glanced nervously at his wristwatch to ensure he was on schedule for the interview."*
+- **Nuance & Exam Tip:** Fast, intentional, brief look (*glance at*).
+
+---
+
+### Glimpse
+?
+- **Part of Speech:** Verb / Noun
+- **Español:** Ver fugazmente (accidentalmente)
+- **Definition:** To see someone or something momentarily or partially by chance.
+- **Example:** *"She caught a fleeting glimpse of the reclusive author as his limousine sped past."*
+- **Nuance & Exam Tip:** Usually in phrase: *catch a glimpse of*.
+
+---
+
+### Peer
+?
+- **Part of Speech:** Verb
+- **Español:** Mirar con dificultad o entrecerrando los ojos
+- **Definition:** To look with difficulty or concentration at something.
+- **Example:** *"The watchmaker peered through his magnifying loupe at the delicate escapement wheel."*
+- **Nuance & Exam Tip:** Looking closely because something is tiny, dark, or obscured (*peer through/into*).
+
+---
+
+### Gaze
+?
+- **Part of Speech:** Verb / Noun
+- **Español:** Contemplar embelesado / Mirar fijamente con admiración
+- **Definition:** To look steadily and intently, especially in admiration, surprise, or thought.
+- **Example:** *"Astronomers gazed in wonder at the breathtaking stellar nebula displayed on the monitors."*
+- **Nuance & Exam Tip:** Long, steady, admiring, or dreamy look (*gaze at*).
+
+---
+
+### Stare
+?
+- **Part of Speech:** Verb / Noun
+- **Español:** Mirar fijamente (a menudo descortés)
+- **Definition:** To look fixedly or vacantly at someone or something with one's eyes wide open.
+- **Example:** *"It is considered impolite to stare at strangers on the underground railway."*
+- **Nuance & Exam Tip:** Intense, wide-eyed look, often perceived as rude (*stare at*).
+
+---
+
+### Scrutinize
+?
+- **Part of Speech:** Verb [Formal]
+- **Español:** Examinar minuciosamente / Escrutar
+- **Definition:** To examine or inspect closely and thoroughly.
+- **Example:** *"Forensic auditors scrutinized every transaction dating back over the past seven fiscal years."*
+- **Nuance & Exam Tip:** Exhaustive critical examination.
+
+---
+
+### Inspect
+?
+- **Part of Speech:** Verb [Formal]
+- **Español:** Inspeccionar oficialmente
+- **Definition:** To look at closely, typically to assess condition or discover shortcomings.
+- **Example:** *"Customs officials inspected the freight containers for contraband materials."*
+- **Nuance & Exam Tip:** Official, regulatory, or technical checking.
+
+---
+
+### Ambivalent
+?
+- **Part of Speech:** Adjective
+- **Español:** Ambivalente, contradictorio, dividido
+- **Definition:** Having mixed feelings or contradictory ideas about someone or something simultaneously.
+- **Example:** *"Many senior engineers remain ambivalent about adopting autonomous coding agents for safety-critical modules."*
+- **Collocations:** *ambivalent about, feel ambivalent toward, remain deeply ambivalent*
+- **Nuance & Exam Tip:** Indica coexistencia real de emociones opuestas a la vez; no confundir con indifferent (falta total de interés). Rige sobre todo about o toward.
+- **Word Family:** ambivalence (n), ambivalently (adv)
+
+---
+
+### Stoic
+?
+- **Part of Speech:** Adjective / Noun
+- **Español:** Estoico, imperturbable, resiliente ante el dolor
+- **Definition:** Enduring pain, hardship, or adversity calmly without showing feelings or complaining.
+- **Example:** *"Despite losing months of experimental data in the fire, the lead researcher remained remarkably stoic."*
+- **Collocations:** *stoic resilience, stoic acceptance, maintain a stoic composure*
+- **Nuance & Exam Tip:** Connotación admirativa en inglés actual hacia el autocontrol ante la adversidad. Como sustantivo con mayúscula alude a la escuela filosófica.
+- **Word Family:** stoical (adj), stoically (adv), stoicism (n)
+
+---
+
+### Magnanimous
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Magnánimo, generoso, noble en la victoria
+- **Definition:** Generous or forgiving, especially toward a rival or someone less powerful.
+- **Example:** *"In a magnanimous gesture after the heated election, the victor praised her opponent's civic dedication."*
+- **Collocations:** *magnanimous gesture, magnanimous in victory, prove magnanimous*
+- **Nuance & Exam Tip:** Implica grandeza moral al perdonar ofensas o tratar con nobleza a un rival derrotado. Antónimo directo: petty o vindictive.
+- **Word Family:** magnanimity (n), magnanimously (adv)
+
+---
+
+### Vindictive
+?
+- **Part of Speech:** Adjective
+- **Español:** Vengativo, rencoroso
+- **Definition:** Having or showing a strong, unreasoning desire for revenge.
+- **Example:** *"Leaking confidential performance reviews after leaving the company was widely condemned as a vindictive act."*
+- **Collocations:** *vindictive streak, vindictive behavior, act out of vindictive spite*
+- **Nuance & Exam Tip:** Más intenso y mezquino que resentful: conlleva intención activa de hacer daño para cobrarse una ofensa.
+- **Word Family:** vindictiveness (n), vindictively (adv), vindicate (v - distinto sentido: exculpar)
+
+---
+
+### Disgruntled
+?
+- **Part of Speech:** Adjective
+- **Español:** Descontento, malhumorado, disgustado
+- **Definition:** Angry, dissatisfied, and resentful because things have not gone as hoped or expected.
+- **Example:** *"A group of disgruntled commuters organized a petition over the chronically delayed rail service."*
+- **Collocations:** *disgruntled employees, disgruntled customers, grow disgruntled with*
+- **Nuance & Exam Tip:** Muy frecuente en contextos laborales, políticos o de consumo para describir malestar acumulado que amenaza con protestas.
+- **Word Family:** disgruntlement (n)
+
+---
+
+### Sheepish
+?
+- **Part of Speech:** Adjective
+- **Español:** Avergonzado, cohibido, apocado
+- **Definition:** Showing embarrassment from shame or a lack of self-confidence, especially after making a foolish mistake.
+- **Example:** *"He offered a sheepish grin after realizing he had spent ten minutes speaking while muted."*
+- **Collocations:** *sheepish grin, sheepish apology, look rather sheepish*
+- **Nuance & Exam Tip:** Vergüenza leve y algo tierna o incómoda tras un desliz menor; mucho menos grave que mortified.
+- **Word Family:** sheepishly (adv), sheepishness (n)
+
+---
+
+### Contrite
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Contrito, arrepentido, compungido
+- **Definition:** Feeling or expressing deep remorse and penitence for a wrong one has committed.
+- **Example:** *"The executive struck a contrite tone during the parliamentary inquiry into data privacy breaches."*
+- **Collocations:** *contrite tone, contrite apology, seem genuinely contrite*
+- **Nuance & Exam Tip:** Registro formal y elevado; enfatiza humildad visible y disposición a enmendar la falta tras reconocer culpa.
+- **Word Family:** contrition (n), contritely (adv)
+
+---
+
+### Remorseful
+?
+- **Part of Speech:** Adjective
+- **Español:** Lleno de remordimientos, arrepentido
+- **Definition:** Filled with deep regret and guilt for having committed a wrong or harmful act.
+- **Example:** *"Though visibly remorseful about misleading the committee, the witness still faced disciplinary sanctions."*
+- **Collocations:** *deeply remorseful, remorseful about, feel remorseful over*
+- **Nuance & Exam Tip:** A diferencia de regretful (que puede deberse a un accidente o mala suerte), remorseful exige conciencia moral de culpa propia.
+- **Word Family:** remorse (n), remorseless (adj), remorsefully (adv)
+
+---
+
+### Bemused
+?
+- **Part of Speech:** Adjective
+- **Español:** Perplejo, desconcertado, aturdido
+- **Definition:** Mildly puzzled, confused, or bewildered by something unexpected.
+- **Example:** *"Audience members looked slightly bemused when the keynote speaker abandoned his slides to recite poetry."*
+- **Collocations:** *bemused expression, look bemused by, leave someone bemused*
+- **Nuance & Exam Tip:** Trampa clásica de C1: NO significa amused (divertido), sino desconcertado o pensativo ante algo extraño.
+- **Word Family:** bemusement (n), bemusedly (adv), bemuse (v)
+
+---
+
+### Flummoxed
+?
+- **Part of Speech:** Adjective
+- **Español:** Desconcertado, atónito, sin saber qué decir
+- **Definition:** So bewildered or confused as to be completely at a loss for what to think or do.
+- **Example:** *"Even veteran tax lawyers were flummoxed by the contradictory clauses in the hastily drafted bill."*
+- **Collocations:** *completely flummoxed, leave someone flummoxed, look flummoxed by*
+- **Nuance & Exam Tip:** Expresivo y vívido; encaja bien en artículos, reseñas y habla culta cuando un problema bloquea por completo la comprensión.
+- **Word Family:** flummox (v)
+
+---
+
+### Unperturbed
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Imperturbable, sereno, inalterado
+- **Definition:** Not concerned, anxious, or unsettled by an alarming or disruptive event.
+- **Example:** *"Unperturbed by the hostile questioning, the climate scientist calmly cited forty years of ice-core records."*
+- **Collocations:** *unperturbed by, remain unperturbed, appear entirely unperturbed*
+- **Nuance & Exam Tip:** Suele construirse con by o en cláusulas participiales al inicio de frase para lucir dominio gramatical en C1 Writing.
+- **Word Family:** perturb (v), perturbation (n), perturbed (adj)
+
+---
+
+### Unflappable
+?
+- **Part of Speech:** Adjective
+- **Español:** Impasible, de sangre fría, inalterable bajo presión
+- **Definition:** Having or showing calmness in a crisis; not easily excited or upset.
+- **Example:** *"Air-traffic controllers need an unflappable temperament when multiple flights declare emergencies simultaneously."*
+- **Collocations:** *unflappable calm, unflappable demeanor, remain unflappable under pressure*
+- **Nuance & Exam Tip:** Describe una cualidad estable del carácter ante el caos, mientras que unperturbed suele referirse a la reacción en un episodio concreto.
+- **Word Family:** unflappability (n), unflappably (adv)
+
+---
+
+### Enthralled
+?
+- **Part of Speech:** Adjective
+- **Español:** Cautivado, fascinado, embelesado
+- **Definition:** Having one's attention completely captured and fascinated by something extraordinary.
+- **Example:** *"Children and astrophysicists alike sat enthralled as the total solar eclipse plunged the valley into twilight."*
+- **Collocations:** *enthralled by, hold an audience enthralled, completely enthralled*
+- **Nuance & Exam Tip:** Más intenso que fascinated; sugiere quedar literalmente absorto o hechizado por un espectáculo, relato o idea.
+- **Word Family:** enthrall (v), enthralling (adj), enthrallment (n)
+
+---
+
+### Pensive
+?
+- **Part of Speech:** Adjective
+- **Español:** Pensativo, meditabundo, melancólico
+- **Definition:** Engaged in, involving, or reflecting deep or serious thought, often tinged with sadness.
+- **Example:** *"She lingered by the window in a pensive mood after reading the farewell letter from her mentor."*
+- **Collocations:** *pensive mood, pensive silence, grow pensive*
+- **Nuance & Exam Tip:** No equivale a simplemente thoughtful (atento o reflexivo): pensive añade un matiz introspectivo y ligeramente sombrío.
+- **Word Family:** pensively (adv), pensiveness (n)
+
+---
+
+### Forlorn
+?
+- **Part of Speech:** Adjective [Literary / Formal]
+- **Español:** Desamparado, desolado, desesperanzado
+- **Definition:** Pitifully sad, abandoned, and lonely; unlikely to succeed or be fulfilled.
+- **Example:** *"After budget cuts halted construction, the half-built cultural centre stood as a forlorn monument to stalled ambition."*
+- **Collocations:** *forlorn hope, look forlorn, forlorn figure*
+- **Nuance & Exam Tip:** Tiene dos usos clave en C1/C2: emocional (triste y abandonado) y evaluativo en colocación fija *a forlorn hope* (esperanza casi vana).
+- **Word Family:** forlornly (adv), forlornness (n)
+
+---
+
+### Aghast
+?
+- **Part of Speech:** Adjective [Predicative]
+- **Español:** Horrorizado, espantado, atónito
+- **Definition:** Filled with horror, shock, or dismay at something appalling.
+- **Example:** *"Local conservationists stood aghast at the council's decision to pave over the ancient wetland."*
+- **Collocations:** *stand aghast, aghast at, look aghast*
+- **Nuance & Exam Tip:** Adjetivo predicativo: casi nunca va delante de un sustantivo (*an aghast person* suena antinatural); úsalo tras *be*, *stand* o *look*.
+- **Word Family:** ghastly (adj - mismo origen histórico)
+
+---
+
+### Apoplectic
+?
+- **Part of Speech:** Adjective
+- **Español:** Furibundo, colérico, fuera de sí
+- **Definition:** Overcome with extreme anger; furious to the point of losing composure.
+- **Example:** *"The coach was apoplectic with rage after the referee disallowed the decisive goal in stoppage time."*
+- **Collocations:** *apoplectic with rage, turn apoplectic, become apoplectic over*
+- **Nuance & Exam Tip:** Hipérbole culta y expresiva para describir furia explosiva y visible (rostro enrojecido, tensión extrema).
+- **Word Family:** apoplexy (n)
+
+---
+
+### Desolate
+?
+- **Part of Speech:** Adjective
+- **Español:** Desolado, inconsolable; inhóspito
+- **Definition:** Feeling or showing great unhappiness and loneliness; bleak and devoid of life.
+- **Example:** *"Left desolate by the closure of the town's only hospital, residents felt abandoned by regional authorities."*
+- **Collocations:** *feel desolate, desolate landscape, leave someone desolate*
+- **Nuance & Exam Tip:** Combina doble plano físico (paisaje yermo) y psicológico (soledad devastadora). Verbo homógrafo con distinta pronunciación final: /ˈdesəleɪt/.
+- **Word Family:** desolation (n), desolately (adv), desolate (v)
+
+---
+
+### Wary
+?
+- **Part of Speech:** Adjective
+- **Español:** Cauteloso, receloso, precavido
+- **Definition:** Feeling or showing caution about possible dangers, tricks, or hidden problems.
+- **Example:** *"Consumers have grown increasingly wary of free applications that monetize behavioral telemetry."*
+- **Collocations:** *wary of, keep a wary eye on, grow wary about*
+- **Nuance & Exam Tip:** Cuidado ortográfico y de sentido: NO confundir con *weary* (agotado). Rige la preposición *of*.
+- **Word Family:** warily (adv), wariness (n), unwary (adj)
+
+---
+
+### Restive
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Inquieto, impaciente, difícil de controlar
+- **Definition:** Unable to keep still or silent and becoming increasingly difficult to control, especially because of boredom or dissatisfaction.
+- **Example:** *"Passengers grew restive as the tarmac delay stretched into its fourth hour without updates from the cockpit."*
+- **Collocations:** *grow restive, restive crowd, restive electorate*
+- **Nuance & Exam Tip:** Falso amigo frecuente: no significa restful (relajado), sino impaciente y al borde de la protesta o rebeldía.
+- **Word Family:** restively (adv), restiveness (n)
+
+---
+
+### Fretful
+?
+- **Part of Speech:** Adjective
+- **Español:** Inquieto, angustiado, irritable
+- **Definition:** Feeling or expressing distress, anxiety, or petty irritation, unable to relax.
+- **Example:** *"Weeks of erratic sleep left the new parents fretful over every minor change in the routine."*
+- **Collocations:** *fretful sleep, grow fretful, fretful mood*
+- **Nuance & Exam Tip:** Transmite nerviosismo continuo por preocupaciones acumuladas; más agitado e irritable que *anxious*.
+- **Word Family:** fret (v/n), fretfully (adv), fretfulness (n)
+
+---
+
+### Phlegmatic
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Flemático, impasible, excesivamente calmo
+- **Definition:** Having an unemotional, calm, and stolidly composed disposition.
+- **Example:** *"The surgeon's phlegmatic manner reassured trainees whenever unexpected bleeding complicated an operation."*
+- **Collocations:** *phlegmatic temperament, phlegmatic response, characteristically phlegmatic*
+- **Nuance & Exam Tip:** Puede usarse con elogio (sangre fría) o ligera crítica (falta de pasión). Típico de análisis literarios o semblanzas C2.
+- **Word Family:** phlegmatically (adv), phlegm (n)
+
+---
+
+### Lugubrious
+?
+- **Part of Speech:** Adjective [Literary / C2]
+- **Español:** Lúgubre, fúnebre, exageradamente melancólico
+- **Definition:** Looking or sounding dismal, mournful, and gloomy, often to an exaggerated degree.
+- **Example:** *"His lugubrious predictions of economic ruin contrasted sharply with the panel's cautiously optimistic data."*
+- **Collocations:** *lugubrious tone, lugubrious expression, lugubrious sigh*
+- **Nuance & Exam Tip:** Palabra C2 de gran color retórico; a menudo sugiere tristeza tan teatral que roza lo cómico o excesivo.
+- **Word Family:** lugubriously (adv), lugubriousness (n)
+
+---
+
+### Maudlin
+?
+- **Part of Speech:** Adjective [C2]
+- **Español:** Sensiblero, lacrimógeno, autocompasivo
+- **Definition:** Self-pityingly or tearfully sentimental, often through drunkenness or excessive nostalgia.
+- **Example:** *"The documentary avoids maudlin clichés, letting survivors recount their resilience with quiet dignity."*
+- **Collocations:** *maudlin sentimentality, turn maudlin, maudlin nostalgia*
+- **Nuance & Exam Tip:** Muy útil en reseñas (Reviews) de C1/C2 para criticar obras que abusan del melodrama lacrimógeno.
+- **Word Family:** maudlinly (adv)
+
+---
+
+### Listless
+?
+- **Part of Speech:** Adjective
+- **Español:** Apático, lánguido, sin energía ni ánimo
+- **Definition:** Lacking energy, enthusiasm, or vitality; languid and indifferent.
+- **Example:** *"After months of monotonous remote meetings, once-engaged analysts appeared listless during planning sessions."*
+- **Collocations:** *feel listless, listless performance, listless gaze*
+- **Nuance & Exam Tip:** Combina desánimo emocional y lasitud física; útil para describir fatiga crónica o desmotivación sin ira.
+- **Word Family:** listlessly (adv), listlessness (n)
+
+---
+
+### Exultant
+?
+- **Part of Speech:** Adjective [Formal / Literary]
+- **Español:** Exultante, triunfante, radiante de júbilo
+- **Definition:** Triumphantly happy and jubilant over a success or victory.
+- **Example:** *"Exultant fans poured into the central plaza moments after the underdog club lifted its first trophy in fifty years."*
+- **Collocations:** *exultant crowd, exultant cry, feel exultant*
+- **Nuance & Exam Tip:** A diferencia de alegre sin motivo, exultant implica alegría triunfal derivada de vencer o lograr algo ansiado.
+- **Word Family:** exult (v), exultation (n), exultantly (adv)
+
+---
+
+### Blithe
+?
+- **Part of Speech:** Adjective [C2]
+- **Español:** Despreocupado, alegremente indiferente, inconsciente
+- **Definition:** Showing a casual and cheerful indifference considered to be callous or improper.
+- **Example:** *"Investors reacted furiously to the director's blithe disregard for mounting regulatory warnings."*
+- **Collocations:** *blithe disregard, blithely unaware, blithe indifference*
+- **Nuance & Exam Tip:** En inglés moderno casi siempre tiene matiz crítico (despreocupación frívola ante riesgos serios), sobre todo en *blithely unaware/ignore*.
+- **Word Family:** blithely (adv), blitheness (n)
+
+---
+
+### Ebullient
+?
+- **Part of Speech:** Adjective [Formal / C2]
+- **Español:** Efervescente, desbordante de entusiasmo
+- **Definition:** Cheerful and full of irrepressible energy and enthusiasm.
+- **Example:** *"The curator gave an ebullient tour of the newly restored wing, gesturing animatedly at every fresco."*
+- **Collocations:** *ebullient mood, ebullient personality, ebullient praise*
+- **Nuance & Exam Tip:** Registro más culto y literario que *bubbly* o *enthusiastic*; describe vitalidad contagiosa y desbordante.
+- **Word Family:** ebullience (n), ebulliently (adv)
+
+---
+
+### Quizzical
+?
+- **Part of Speech:** Adjective
+- **Español:** Inquisitivo, perplejo con leve humor, extrañado
+- **Definition:** Indicating mild or amused puzzlement or curiosity.
+- **Example:** *"She raised a quizzical eyebrow when the intern proposed rewriting the entire billing kernel over a weekend."*
+- **Collocations:** *quizzical eyebrow, quizzical look, quizzical smile*
+- **Nuance & Exam Tip:** Perplejidad ligera, a menudo acompañada de escepticismo divertido; mucho más suave que *bewildered*.
+- **Word Family:** quizzically (adv)
+
+---
+
+### Chagrined
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Mortificado, contrariado, disgustado por un fracaso
+- **Definition:** Distressed, embarrassed, or humiliated at having failed or been disappointed.
+- **Example:** *"Chagrined by the unexpected rejection of his grant proposal, he spent weeks refining the methodology."*
+- **Collocations:** *deeply chagrined, chagrined to discover, feel chagrined*
+- **Nuance & Exam Tip:** Mezcla decepción y amor propio herido; más refinado que *embarrassed* y menos extremo que *mortified*.
+- **Word Family:** chagrin (n/v)
+
+---
+
+### Supercilious
+?
+- **Part of Speech:** Adjective [Formal / C2]
+- **Español:** Altanero, displicente, soberbio
+- **Definition:** Behaving or looking as though one thinks one is superior to others.
+- **Example:** *"His supercilious dismissal of community feedback alienated precisely the volunteers the project depended on."*
+- **Collocations:** *supercilious smile, supercilious attitude, supercilious tone*
+- **Nuance & Exam Tip:** Etimológicamente alude a 'levantar la ceja'; denota superioridad fría y arrogante muy examinable en Reading C2.
+- **Word Family:** superciliously (adv), superciliousness (n)
+
+---
+
+### Glib
+?
+- **Part of Speech:** Adjective
+- **Español:** Locuaz pero superficial, simplista, de labia fácil
+- **Definition:** Fluent and voluble, yet insincere, shallow, and lacking serious thought.
+- **Example:** *"Voters saw straight through the candidate's glib promises of painless deficit reduction."*
+- **Collocations:** *glib answer, glib remarks, glib assurances*
+- **Nuance & Exam Tip:** Siempre peyorativo: alguien que habla con soltura sospechosa pero evade la complejidad real del problema.
+- **Word Family:** glibly (adv), glibness (n)
+
+---
+
+### Duplicitous
+?
+- **Part of Speech:** Adjective [Formal / C2]
+- **Español:** Falso, hipócrita, de doble cara
+- **Definition:** Deceitful and untrustworthy; deliberately saying different things to different people.
+- **Example:** *"Internal memos exposed the lobbyist's duplicitous campaign to back green subsidies publicly while funding opponents privately."*
+- **Collocations:** *duplicitous conduct, duplicitous tactics, prove duplicitous*
+- **Nuance & Exam Tip:** Más grave y calculador que *insincere*; implica engaño deliberado con doble discurso.
+- **Word Family:** duplicity (n), duplicitously (adv)
+
+---
+
+### Sycophantic
+?
+- **Part of Speech:** Adjective [Formal / C2]
+- **Español:** Adulador, servil, rastrero
+- **Definition:** Behaving obsequiously toward someone important in order to gain personal advantage.
+- **Example:** *"Surrounded by sycophantic advisers unwilling to deliver bad news, the founder misread market demand."*
+- **Collocations:** *sycophantic praise, sycophantic flatterer, sycophantic tone*
+- **Nuance & Exam Tip:** Específicamente alude a la adulación interesada hacia superiores (sinónimo cercano: *obsequious*, centrado en la sumisión).
+- **Word Family:** sycophant (n), sycophancy (n), sycophantically (adv)
+
+---
+
+### Churlish
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Rudo, descortés, mezquino
+- **Definition:** Rude in a mean-spirited, sullen, and ungracious way.
+- **Example:** *"Given the generosity of the scholarship, it would seem churlish to complain about minor administrative delays."*
+- **Collocations:** *churlish remark, seem churlish to, churlish refusal*
+- **Nuance & Exam Tip:** Muy usado en la construcción *it would be churlish to...* para reconocer cortesía u obligada gratitud en ensayos o cartas.
+- **Word Family:** churlishly (adv), churlishness (n)
+
+---
+
+### Cantankerous
+?
+- **Part of Speech:** Adjective
+- **Español:** Cascarrabias, gruñón, pendenciero
+- **Definition:** Bad-tempered, argumentative, and uncooperative.
+- **Example:** *"Although brilliant in court, the cantankerous senior partner exhausted clerks with relentless nitpicking."*
+- **Collocations:** *cantankerous neighbor, cantankerous old man, grow cantankerous*
+- **Nuance & Exam Tip:** Describe un carácter crónicamente difícil y dado a discutir por todo, con matiz casi caricaturesco.
+- **Word Family:** cantankerously (adv), cantankerousness (n)
+
+---
+
+### Irascible
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Irascible, colérico, de mal genio fácil
+- **Definition:** Having or showing a tendency to be easily angered or provoked.
+- **Example:** *"The irascible conductor snapped his baton whenever a string section entered a fraction late."*
+- **Collocations:** *irascible temperament, irascible boss, notoriously irascible*
+- **Nuance & Exam Tip:** Se aplica al rasgo permanente de temperamento explosivo, distinto de *irate* (estado puntual de enfado).
+- **Word Family:** irascibility (n), irascibly (adv)
+
+---
+
+### Forthright
+?
+- **Part of Speech:** Adjective
+- **Español:** Franco, directo, sin rodeos
+- **Definition:** Direct, outspoken, and straightforward in speech or behavior.
+- **Example:** *"Auditors appreciated the chief financial officer's forthright assessment of the subsidiary's insolvency."*
+- **Collocations:** *forthright manner, forthright criticism, be forthright about*
+- **Nuance & Exam Tip:** Connotación generalmente positiva (honestidad valiente y directa), a diferencia de *blunt*, que puede sonar brusco.
+- **Word Family:** forthrightly (adv), forthrightness (n)
+
+---
+
+### Candid
+?
+- **Part of Speech:** Adjective
+- **Español:** Sincero, franco, honesto
+- **Definition:** Truthful and straightforward; frank, even when expressing uncomfortable truths.
+- **Example:** *"To be candid, the prototype cannot withstand sustained production traffic without redesigning its storage layer."*
+- **Collocations:** *candid admission, candid assessment, to be candid*
+- **Nuance & Exam Tip:** Falso amigo frecuente en español: NO significa 'ingenuo' (eso sería *naive* o *gullible*), sino sincero y sin filtros.
+- **Word Family:** candor / candour (n), candidly (adv)
+
+---
+
+### Reticent
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Reservado, reacio a hablar, parco
+- **Definition:** Not revealing one's thoughts or feelings readily; reluctant to speak openly.
+- **Example:** *"The spokesperson remained reticent about whether layoffs were planned across European offices."*
+- **Collocations:** *reticent about, understandably reticent, remain reticent on*
+- **Nuance & Exam Tip:** En uso estricto significa reservado para hablar o compartir información; en uso extendido también equivale a *reluctant*.
+- **Word Family:** reticence (n), reticently (adv)
+
+---
+
+### Sardonic
+?
+- **Part of Speech:** Adjective
+- **Español:** Sardónico, mordaz, burlón con amargura
+- **Definition:** Grimly mocking, cynical, and disdainfully humorous.
+- **Example:** *"She offered a sardonic laugh upon seeing yet another 'streamlining' memo create three new approval layers."*
+- **Collocations:** *sardonic smile, sardonic humor, sardonic observation*
+- **Nuance & Exam Tip:** Más amargo y cínico que *sarcastic*; transmite humor escéptico frente a la hipocresía o absurdidad.
+- **Word Family:** sardonically (adv)
+
+---
+
+### Flippant
+?
+- **Part of Speech:** Adjective
+- **Español:** Frívolo, impertinente, poco serio
+- **Definition:** Not showing a serious or respectful attitude toward something that deserves gravity.
+- **Example:** *"His flippant remark about safety protocols drew an immediate reprimand from the site supervisor."*
+- **Collocations:** *flippant remark, flippant attitude, dismiss with a flippant comment*
+- **Nuance & Exam Tip:** Siempre crítico: señala ligereza inapropiada o broma fuera de lugar en un asunto serio.
+- **Word Family:** flippancy (n), flippantly (adv)
+
+---
+
+### Self-effacing
+?
+- **Part of Speech:** Adjective
+- **Español:** Modesto, discreto, que evita el protagonismo
+- **Definition:** Not claiming attention for oneself; modest and retiring despite real achievements.
+- **Example:** *"Despite winning two major design awards, the architect remained remarkably self-effacing in interviews."*
+- **Collocations:** *self-effacing humor, self-effacing manner, characteristically self-effacing*
+- **Nuance & Exam Tip:** Cualidad admirada en biografías y reseñas culturales; describe humildad auténtica y ausencia de vanidad.
+- **Word Family:** self-effacement (n)
+
+---
+
+### Diffident
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Tímido, apocado, inseguro de sí mismo
+- **Definition:** Modest or shy because of a lack of self-confidence.
+- **Example:** *"Though initially diffident when addressing large panels, the analyst soon commanded the room with sharp data."*
+- **Collocations:** *diffident manner, diffident smile, sound diffident*
+- **Nuance & Exam Tip:** Mientras *self-effacing* es modestia voluntaria, *diffident* nace de timidez o falta de confianza propia.
+- **Word Family:** diffidence (n), diffidently (adv)
+
+---
+
+### Deferential
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Deferente, respetuoso en exceso, sumiso
+- **Definition:** Showing polite respect and submission to another's authority, status, or wishes.
+- **Example:** *"Critics argued the interviewer adopted an overly deferential posture toward the conglomerate's chief executive."*
+- **Collocations:** *deferential tone, deferential toward, overly deferential*
+- **Nuance & Exam Tip:** Puede indicar respeto educado o, con *overly*, sumisión criticable ante el poder.
+- **Word Family:** defer (v), deference (n), deferentially (adv)
+
+---
+
+### Insolent
+?
+- **Part of Speech:** Adjective
+- **Español:** Insolente, descarado, irreverente
+- **Definition:** Showing a rude and arrogant lack of respect toward someone.
+- **Example:** *"The student's insolent interruption stunned the visiting lecturer into brief silence."*
+- **Collocations:** *insolent tone, insolent reply, downright insolent*
+- **Nuance & Exam Tip:** Más intenso que *rude*: implica desafío deliberado y desprecio a la autoridad o cortesía básica.
+- **Word Family:** insolence (n), insolently (adv)
+
+---
+
+### Furtive
+?
+- **Part of Speech:** Adjective
+- **Español:** Furtivo, sigiloso, clandestino
+- **Definition:** Attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble.
+- **Example:** *"Witnesses noticed a furtive exchange of envelopes near the rear exit before the vote began."*
+- **Collocations:** *furtive glance, furtive movement, furtive attempt*
+- **Nuance & Exam Tip:** Implica secretismo culpable; contraste útil con *discreet* (prudente sin connotación ilegal o turbia).
+- **Word Family:** furtively (adv), furtiveness (n)
+
+---
+
+### Benevolent
+?
+- **Part of Speech:** Adjective
+- **Español:** Benévolo, bondadoso, filantrópico
+- **Definition:** Well-meaning and kindly; characterized by goodwill and desire to promote others' welfare.
+- **Example:** *"Critics questioned whether a supposedly benevolent monopoly could remain accountable without public oversight."*
+- **Collocations:** *benevolent dictator, benevolent gesture, benevolent intentions*
+- **Nuance & Exam Tip:** Muy frecuente en debates políticos o filosóficos (*benevolent paternalism*, *benevolent despot*).
+- **Word Family:** benevolence (n), benevolently (adv), malevolent (adj - antónimo)
+
+---
+
+### Conciliatory
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Conciliador, pacificador, apaciguador
+- **Definition:** Intended or likely to placate, reconcile, or end hostility between disputing sides.
+- **Example:** *"After weeks of bitter strikes, the union issued a surprisingly conciliatory statement welcoming fresh talks."*
+- **Collocations:** *conciliatory tone, conciliatory gesture, adopt a conciliatory approach*
+- **Nuance & Exam Tip:** Adjetivo clave en análisis diplomáticos y laborales; opuesto directo de *belligerent* o *antagonistic*.
+- **Word Family:** conciliate (v), conciliation (n), conciliator (n)
+
+---
+
+### Belligerent
+?
+- **Part of Speech:** Adjective / Noun
+- **Español:** Beligerante, hostil, agresivo
+- **Definition:** Hostile and aggressive; eager to fight or argue.
+- **Example:** *"His belligerent rhetoric derailed negotiations that might otherwise have yielded a compromise."*
+- **Collocations:** *belligerent tone, belligerent attitude, grow belligerent*
+- **Nuance & Exam Tip:** En política internacional designa también a una parte en guerra (sustantivo), y en relaciones humanas a alguien pendenciero.
+- **Word Family:** belligerence (n), belligerently (adv)
+
+---
+
+### Querulous
+?
+- **Part of Speech:** Adjective [C2]
+- **Español:** Quejumbroso, llorón, regañón
+- **Definition:** Complaining in a petulant, whining, and irritable manner.
+- **Example:** *"A querulous letter to the editor demanded to know why park benches had been repainted grey instead of green."*
+- **Collocations:** *querulous tone, querulous complaint, querulous voice*
+- **Nuance & Exam Tip:** C2 de alto nivel: describe quejas continuas y agrias por asuntos menores; no confundir con *curious*.
+- **Word Family:** querulously (adv), querulousness (n)
+
+---
+
+### Sanctimonious
+?
+- **Part of Speech:** Adjective [C2]
+- **Español:** Santurrón, moralista hipócrita
+- **Definition:** Making a show of being morally superior to other people.
+- **Example:** *"Readers bristled at the columnist's sanctimonious lecture on frugality written from an alpine ski resort."*
+- **Collocations:** *sanctimonious tone, sanctimonious hypocrisy, sound sanctimonious*
+- **Nuance & Exam Tip:** Muy incisivo en ensayos y reseñas para denunciar superioridad moral fingida o sermones hipócritas.
+- **Word Family:** sanctimoniously (adv), sanctimoniousness (n), sanctimony (n)
+
+---
+
+### Rebuke
+?
+- **Part of Speech:** Verb [Transitive] / Noun
+- **Español:** Reprender severamente, recriminar
+- **Definition:** To express sharp disapproval or criticism to someone because of their behavior or actions.
+- **Example:** *"The appellate judge sharply rebuked prosecutors for withholding exculpatory records until trial."*
+- **Collocations:** *sharply rebuke, public rebuke, issue a stinging rebuke*
+- **Nuance & Exam Tip:** Más serio y contundente que *scold* o *chide*; a menudo implica autoridad moral o institucional.
+- **Word Family:** rebuke (n), unrebuked (adj)
+
+---
+
+### Reprimand
+?
+- **Part of Speech:** Verb [Transitive] / Noun
+- **Español:** Amonestar oficialmente, llamar al orden
+- **Definition:** To rebuke someone officially and formally for a breach of rules or misconduct.
+- **Example:** *"Several analysts were formally reprimanded for discussing unreleased quarterly figures on personal messaging apps."*
+- **Collocations:** *formally reprimand, severe reprimand, receive a written reprimand*
+- **Nuance & Exam Tip:** Registro institucional, laboral o militar: denota sanción formal documentada más que un regaño espontáneo.
+- **Word Family:** reprimand (n)
+
+---
+
+### Admonish
+?
+- **Part of Speech:** Verb [Transitive, Formal]
+- **Español:** Amonestar, advertir con firmeza pero sin ira
+- **Definition:** To warn or reprimand someone firmly, often in a calm or cautionary manner.
+- **Example:** *"The mentor gently admonished the doctoral student for drawing sweeping conclusions from a tiny sample."*
+- **Collocations:** *admonish someone for, gently admonish, sternly admonished*
+- **Nuance & Exam Tip:** Suele llevar matiz correctivo o preventivo (advertir para evitar un error mayor) y rige *for + -ing*.
+- **Word Family:** admonition (n), admonitory (adj)
+
+---
+
+### Berate
+?
+- **Part of Speech:** Verb [Transitive]
+- **Español:** Regañar airadamente, echar una bronca
+- **Definition:** To scold or criticize someone angrily and at length.
+- **Example:** *"Supervisors who berate staff in front of clients erode psychological safety across the whole team."*
+- **Collocations:** *angrily berate, berate oneself for, publicly berate*
+- **Nuance & Exam Tip:** Implica enojo prolongado y ataque verbal intenso; mucho más agresivo que *admonish*.
+- **Word Family:** berating (n)
+
+---
+
+### Spurn
+?
+- **Part of Speech:** Verb [Transitive, Formal / Literary]
+- **Español:** Rechazar con desdén, despreciar una oferta
+- **Definition:** To reject with disdain or contempt.
+- **Example:** *"The independent studio spurned three lucrative buyout offers to preserve creative control over its catalog."*
+- **Collocations:** *spurn an offer, spurn advances, spurn advice*
+- **Nuance & Exam Tip:** Más enfático y orgulloso que *turn down*; suele aplicarse a ofertas, consejos o afecto rechazados con altivez.
+- **Word Family:** spurned (adj)
+
+---
+
+### Vilify
+?
+- **Part of Speech:** Verb [Transitive, Formal]
+- **Español:** Vilipendiar, difamar, demonizar
+- **Definition:** To speak or write about someone or something in an abusively disparaging manner.
+- **Example:** *"Tabloid headlines relentlessly vilified whistleblowers rather than investigating the structural fraud they exposed."*
+- **Collocations:** *unfairly vilify, vilify in the press, vilify opponents*
+- **Nuance & Exam Tip:** Equivale a convertir a alguien en villano ante la opinión pública; más intenso que *criticize* o *disparage*.
+- **Word Family:** vilification (n)
+
+---
+
+### Malign
+?
+- **Part of Speech:** Verb [Transitive] / Adjective
+- **Español:** Calumniar, denigrar; maligno
+- **Definition:** To speak about someone in a spitefully critical manner; as an adjective, evil in nature or effect.
+- **Example:** *"Public transit systems are frequently maligned by commuters who overlook the complexity of peak-hour logistics."*
+- **Collocations:** *much-maligned policy, unfairly maligned, malign influence*
+- **Nuance & Exam Tip:** Muy productivo en participio *much-maligned* (muy denostado). Como adjetivo significa nocivo o malintencionado.
+- **Word Family:** malignant (adj), malignancy (n), malignity (n)
+
+---
+
+### Belittle
+?
+- **Part of Speech:** Verb [Transitive]
+- **Español:** Menospreciar, minimizar, rebajar
+- **Definition:** To make someone or something seem unimportant or of little value.
+- **Example:** *"Commenting on minor typos to belittle an opponent's thoroughly researched thesis is a classic diversion tactic."*
+- **Collocations:** *belittle achievements, belittle someone's efforts, feel belittled*
+- **Nuance & Exam Tip:** Transparente por su forma (*be- + little*): achicar el mérito ajeno. Más común que *disparage* en diálogo cotidiano culto.
+- **Word Family:** belittling (adj), belittlement (n)
+
+---
+
+### Condone
+?
+- **Part of Speech:** Verb [Transitive]
+- **Español:** Tolerar, pasar por alto, justificar (algo malo)
+- **Definition:** To accept and allow behavior that is considered morally wrong or offensive to continue.
+- **Example:** *"Understanding the social causes of vandalism does not mean we condone the destruction of public property."*
+- **Collocations:** *never condone, tacitly condone, condone violence*
+- **Nuance & Exam Tip:** Casi siempre aparece en negativa o con *tacitly* en debates éticos; trampa típica confundirlo con *condemn* (su opuesto).
+- **Word Family:** condonation (n)
+
+---
+
+### Exonerate
+?
+- **Part of Speech:** Verb [Transitive, Formal]
+- **Español:** Exonerar, absolver de culpa o responsabilidad
+- **Definition:** To absolve someone from blame for a fault or wrongdoing, especially after due investigation.
+- **Example:** *"Newly recovered audit logs completely exonerated the systems administrator of negligence."*
+- **Collocations:** *completely exonerate, exonerate from blame, exonerate someone of*
+- **Nuance & Exam Tip:** A diferencia de *forgive* (perdonar una culpa existente), *exonerate* declara que la persona era inocente o libre de responsabilidad.
+- **Word Family:** exoneration (n), exonerative (adj)
+
+---
+
+### Revere
+?
+- **Part of Speech:** Verb [Transitive, Formal]
+- **Español:** Venerar, respetar profundamente
+- **Definition:** To feel deep, solemn respect and admiration for someone or something.
+- **Example:** *"To this day, constitutional scholars revere the dissenting opinions she authored in the 1970s."*
+- **Collocations:** *widely revered, revere as a pioneer, deeply revere*
+- **Nuance & Exam Tip:** No lleva forma continua (*is revering* es incorrecto). Expresa admiración casi sagrada o histórica.
+- **Word Family:** reverence (n), reverent (adj), irreverent (adj)
+
+---
+
+### Abhor
+?
+- **Part of Speech:** Verb [Transitive, Formal]
+- **Español:** Aborrecer, detestar profundamente
+- **Definition:** To regard with disgust and deep hatred.
+- **Example:** *"Most journalists abhor sensationalist distortions that erode public trust in empirical reporting."*
+- **Collocations:** *abhor violence, abhor hypocrisy, nature abhors a vacuum*
+- **Nuance & Exam Tip:** Verbo estativo (no se usa en progresivo); dobla la *r* en pasado y participio (*abhorred*). Registro elevado.
+- **Word Family:** abhorrence (n), abhorrent (adj)
+
+---
+
+### Appease
+?
+- **Part of Speech:** Verb [Transitive]
+- **Español:** Apaciguar, calmar cediendo a exigencias
+- **Definition:** To pacify or placate someone by acceding to their demands, often at the expense of principles.
+- **Example:** *"Critics warned that lowering environmental standards to appease heavy industry would backfire within a decade."*
+- **Collocations:** *appease critics, attempt to appease, policy of appeasement*
+- **Nuance & Exam Tip:** En política e historia (*appeasement*) suele conllevar reproche: ceder ante un agresor o grupo de presión por debilidad.
+- **Word Family:** appeasement (n), appeaser (n)
+
+---
+
+### Placate
+?
+- **Part of Speech:** Verb [Transitive]
+- **Español:** Aplacar, calmar el enojo de alguien
+- **Definition:** To make someone less angry or hostile through reassuring gestures or concessions.
+- **Example:** *"The airline offered lounge vouchers to placate stranded travellers while mechanics inspected the aircraft."*
+- **Collocations:** *placate angry customers, manage to placate, hard to placate*
+- **Nuance & Exam Tip:** Menos cargado políticamente que *appease*; describe calmar la irritación inmediata de clientes, colegas o críticos.
+- **Word Family:** placation (n), placatory (adj), implacable (adj)
+
+---
+
+### Commiserate with
+?
+- **Part of Speech:** Verb [Intransitive]
+- **Español:** Compadecerse de, expresar condolencia o solidaridad
+- **Definition:** To express or feel sympathy and pity for someone experiencing misfortune.
+- **Example:** *"Colleagues gathered after the announcement to commiserate with the engineers whose division had been dissolved."*
+- **Collocations:** *commiserate with someone over, send commiserations*
+- **Nuance & Exam Tip:** Siempre rige *with* + persona (*over/on* + desgracia). Expresa acompañamiento empático en la derrota o pérdida.
+- **Word Family:** commiseration (n), commiserative (adj)
+
+---
+
+### Begrudge
+?
+- **Part of Speech:** Verb [Transitive]
+- **Español:** Envidiar a alguien algo; dar de mala gana
+- **Definition:** To envy someone the possession or enjoyment of something, or to give reluctantly.
+- **Example:** *"Few residents begrudge emergency nurses a substantial pay rise after years of grueling shifts."*
+- **Collocations:** *begrudge someone their success, not begrudge a penny, grudgingly*
+- **Nuance & Exam Tip:** Admira doble complemento (*begrudge [alguien] [algo]*) o gerundio (*begrudge paying*). Muy frecuente en forma negativa (*not begrudge*).
+- **Word Family:** grudge (n/v), begrudging (adj), begrudgingly (adv)
+
+---
+
+### Rue
+?
+- **Part of Speech:** Verb [Transitive, Formal / Literary]
+- **Español:** Lamentar amargamente, arrepentirse de
+- **Definition:** To bitterly regret something one has done or allowed to happen and wish it undone.
+- **Example:** *"Analysts warned the board would come to rue its decision to dismantle its internal research division."*
+- **Collocations:** *rue the day, live to rue, bitterly rue*
+- **Nuance & Exam Tip:** Colocación emblemática C2: *rue the day* (maldecir el día en que...). Evita usarlo en registros puramente coloquiales.
+- **Word Family:** rueful (adj), ruefully (adv)
+
+---
+
+### Gloat
+?
+- **Part of Speech:** Verb [Intransitive]
+- **Español:** Regodearse, jactarse con malicia
+- **Definition:** To contemplate or dwell on one's own success or another's misfortune with smug, malicious satisfaction.
+- **Example:** *"Rather than gloating over her rival's missed deadline, she quietly offered to review the test suite."*
+- **Collocations:** *gloat over, gloat about, resist the urge to gloat*
+- **Nuance & Exam Tip:** Siempre peyorativo: celebrar con arrogancia o crueldad el tropiezo ajeno. Rige *over* o *about*.
+- **Word Family:** gloating (n/adj), gloatingly (adv)
+
+---
+
+### Confirmation bias
+?
+- **Part of Speech:** Noun [Uncountable, Psychology]
+- **Español:** Sesgo de confirmación
+- **Definition:** The cognitive tendency to search for, interpret, and recall information in a way that confirms pre-existing beliefs.
+- **Example:** *"Algorithms that serve exclusively like-minded commentary amplify confirmation bias across online communities."*
+- **Collocations:** *reinforce confirmation bias, fall prey to confirmation bias, counteract confirmation bias*
+- **Nuance & Exam Tip:** Término estrella en ensayos C1/C2 sobre tecnología, medios y método científico. Combina bien con *fall prey to* o *mitigate*.
+- **Word Family:** confirm (v), bias (n/v), biased (adj)
+
+---
+
+### Hindsight bias
+?
+- **Part of Speech:** Noun [Uncountable, Psychology]
+- **Español:** Sesgo retrospectivo ('yo ya lo sabía')
+- **Definition:** The inclination, after an event has occurred, to perceive the outcome as having been predictable all along.
+- **Example:** *"Hindsight bias often leads commentators to blame regulators for failing to foresee anomalies that looked benign beforehand."*
+- **Collocations:** *distorted by hindsight bias, guard against hindsight bias, with hindsight*
+- **Nuance & Exam Tip:** Conviene contrastarlo en Writing con la expresión neutra *with the benefit of hindsight* (en retrospectiva).
+- **Word Family:** hindsight (n), biased (adj)
+
+---
+
+### Sunk-cost fallacy
+?
+- **Part of Speech:** Noun [Singular, Economics / Psychology]
+- **Español:** Falacia del costo hundido
+- **Definition:** The irrational tendency to continue investing time or money in a failing endeavor simply because resources have already been spent.
+- **Example:** *"Keeping an obsolete legacy platform alive for five extra years was textbook sunk-cost fallacy."*
+- **Collocations:** *succumb to the sunk-cost fallacy, driven by sunk-cost fallacy, overcome the sunk-cost fallacy*
+- **Nuance & Exam Tip:** Recurso argumentativo brillante para Part 1 Essays o informes de gestión cuando se justifica cancelar un proyecto inviable.
+- **Word Family:** sunk (adj), fallacy (n), fallacious (adj)
+
+---
+
+### Cognitive dissonance
+?
+- **Part of Speech:** Noun [Uncountable, Psychology]
+- **Español:** Disonancia cognitiva
+- **Definition:** The state of mental discomfort arising from holding two or more conflicting beliefs, values, or attitudes simultaneously.
+- **Example:** *"Advocating climate austerity while taking frequent long-haul flights creates acute cognitive dissonance for many professionals."*
+- **Collocations:** *experience cognitive dissonance, resolve cognitive dissonance, induce cognitive dissonance*
+- **Nuance & Exam Tip:** Describe la incomodidad psicológica de la contradicción interna, distinta de *ambivalence* (sentimientos mixtos aceptados).
+- **Word Family:** cognition (n), cognitive (adj), dissonant (adj)
+
+---
+
+### Groupthink
+?
+- **Part of Speech:** Noun [Uncountable]
+- **Español:** Pensamiento grupal, conformismo colectivo
+- **Definition:** The practice of thinking or making decisions as a group in a way that discourages creativity or individual dissent.
+- **Example:** *"Homogeneous executive boards are peculiarly susceptible to groupthink when evaluating disruptive competitors."*
+- **Collocations:** *succumb to groupthink, antidote to groupthink, culture of groupthink*
+- **Nuance & Exam Tip:** Se escribe en una sola palabra, incontable y siempre negativo en análisis organizacionales o políticos.
+- **Word Family:** group (n), think (v)
+
+---
+
+### Anchoring bias
+?
+- **Part of Speech:** Noun [Uncountable, Psychology]
+- **Español:** Sesgo de anclaje
+- **Definition:** A cognitive bias whereby an individual relies too heavily on an initial piece of information when making subsequent judgments.
+- **Example:** *"Salary negotiations frequently hinge on anchoring bias, since the first figure tabled frames every counteroffer."*
+- **Collocations:** *subject to anchoring bias, exploit anchoring bias, overcome anchoring*
+- **Nuance & Exam Tip:** Excelente vocabulario para ensayos de economía conductual, diseño de precios o toma de decisiones.
+- **Word Family:** anchor (v/n), biased (adj)
+
+---
+
+### Tunnel vision
+?
+- **Part of Speech:** Noun [Uncountable]
+- **Español:** Visión de túnel, enfoque estrecho
+- **Definition:** The tendency to focus exclusively on a single goal or point of view, overlooking broader context or alternatives.
+- **Example:** *"Optimizing strictly for short-term click metrics induced severe tunnel vision across the product organization."*
+- **Collocations:** *suffer from tunnel vision, narrow tunnel vision, overcome tunnel vision*
+- **Nuance & Exam Tip:** Metáfora visual muy natural tanto en habla culta como en ensayos; equivale a *myopia* en el plano intelectual.
+- **Word Family:** tunnel (n), visionary (adj/n)
+
+---
+
+### Preconception
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Preconcepción, idea preconcebida, prejuicio
+- **Definition:** An idea or opinion formed beforehand without adequate evidence or firsthand experience.
+- **Example:** *"Spending a semester in rural clinics quickly shattered her preconceptions about community healthcare."*
+- **Collocations:** *challenge preconceptions, harbour preconceptions, free from preconceptions*
+- **Nuance & Exam Tip:** Menos hostil que *prejudice*, pues una *preconception* puede ser simplemente una expectativa errónea que se corrige con datos.
+- **Word Family:** preconceived (adj), conceive (v)
+
+---
+
+### Myopic
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Miope, cortoplacista, falto de perspectiva
+- **Definition:** Lacking foresight or intellectual insight; narrowly focused on immediate concerns at the expense of the future.
+- **Example:** *"Slashing preventive maintenance to boost quarterly margins proved extraordinarily myopic once equipment began failing."*
+- **Collocations:** *myopic policy, myopic approach, dangerously myopic*
+- **Nuance & Exam Tip:** Metáfora C1 muy valorada para criticar cortoplacismo político o empresarial; en medicina significa literalmente miope.
+- **Word Family:** myopia (n), myopically (adv)
+
+---
+
+### Blinkered
+?
+- **Part of Speech:** Adjective [Chiefly British]
+- **Español:** Cerrado de miras, con anteojeras, estrecho de criterio
+- **Definition:** Having or showing a narrow, inflexible outlook that refuses to consider wider perspectives.
+- **Example:** *"A blinkered obsession with standardized test scores obscures vital dimensions of artistic and civic education."*
+- **Collocations:** *blinkered view, blinkered attitude, remarkably blinkered*
+- **Nuance & Exam Tip:** Alude a las anteojeras de los caballos (*blinkers*); muy expresivo en Cambridge C1/C2 para criticar dogmatismo.
+- **Word Family:** blinker (n/v)
+
+---
+
+### Oblivious
+?
+- **Part of Speech:** Adjective
+- **Español:** Ajeno, inconsciente, distraído ante algo
+- **Definition:** Not aware of or not concerned about what is happening around one.
+- **Example:** *"He scrolled calmly through his messages, seemingly oblivious to the growing impatience of everyone behind him."*
+- **Collocations:** *oblivious to, blissfully oblivious, seemingly oblivious of*
+- **Nuance & Exam Tip:** Atención a la preposición en Use of English: rige casi siempre *to* (*oblivious to the danger*), ocasionalmente *of*.
+- **Word Family:** oblivion (n), obliviously (adv), obliviousness (n)
+
+---
+
+### Fixated on
+?
+- **Part of Speech:** Adjective
+- **Español:** Obsesionado con, fijado en
+- **Definition:** Having an obsessive, unhealthy preoccupation with a single person, idea, or goal.
+- **Example:** *"Commentators became so fixated on superficial polling swings that they missed deeper demographic shifts."*
+- **Collocations:** *fixated on, become fixated upon, obsessively fixated*
+- **Nuance & Exam Tip:** Más clínico o crítico que *focused on*: sugiere pérdida de proporción al centrarse en un solo detalle.
+- **Word Family:** fixate (v), fixation (n)
+
+---
+
+### Credulous
+?
+- **Part of Speech:** Adjective [Formal]
+- **Español:** Crédulo, ingenuo en exceso
+- **Definition:** Having or showing too great a readiness to believe things without adequate scrutiny.
+- **Example:** *"Pseudoscientific remedies continue to thrive wherever credulous audiences mistake anecdotes for clinical trials."*
+- **Collocations:** *credulous audience, overly credulous, exploit the credulous*
+- **Nuance & Exam Tip:** Par mínimo clásico en C1/C2: *credulous* (que cree demasiado fácil, sinónimo culto de *gullible*) frente a *credible* (creíble, digno de fe).
+- **Word Family:** credulity (n), credulously (adv), incredulous (adj - opuesto)
+
+---
+
+### Inured to
+?
+- **Part of Speech:** Adjective [Formal / C2]
+- **Español:** Insensibilizado ante, curtido frente a
+- **Definition:** Accustomed to something unpleasant, difficult, or painful so that it no longer shocks or affects one.
+- **Example:** *"Emergency dispatchers gradually become inured to panic, maintaining steady voices through every call."*
+- **Collocations:** *become inured to, inured to hardship, inured to criticism*
+- **Nuance & Exam Tip:** Adjetivo C2 de precisión psicológica: no es frialdad innata (*callous*), sino desensibilización adquirida por costumbre.
+- **Word Family:** inure (v), inurement (n)
+
+---
+
+### Predisposed
+?
+- **Part of Speech:** Adjective
+- **Español:** Predispuesto, inclinado de antemano
+- **Definition:** Made liable or inclined beforehand to a specified attitude, action, or condition.
+- **Example:** *"Readers already skeptical of regulation are naturally predisposed to accept claims of bureaucratic overreach."*
+- **Collocations:** *predisposed to believe, genetically predisposed to, predisposed toward*
+- **Nuance & Exam Tip:** Rige *to* + infinitivo o sustantivo, o *toward* + sustantivo; muy útil en textos sobre psicología y medicina.
+- **Word Family:** predispose (v), predisposition (n)
+
+---
+
+### Squint
+?
+- **Part of Speech:** Verb [Intransitive] / Noun
+- **Español:** Entrecerrar los ojos (para enfocar o por desconfianza)
+- **Definition:** To look at someone or something with one or both eyes partly closed in an attempt to see more clearly or as a reaction to bright light.
+- **Example:** *"She had to squint at the faint watermark in the margin before spotting the forged date."*
+- **Collocations:** *squint at, squint against the glare, squint in disbelief*
+- **Nuance & Exam Tip:** Precisión sensorial visual: diferencia clara frente a *peer* (mirar con esfuerzo en penumbra o curiosidad) y *glare* (mirar furioso).
+- **Word Family:** squint (n), squinting (adj)
+
+---
+
+### Glare
+?
+- **Part of Speech:** Verb [Intransitive] / Noun
+- **Español:** Mirar con furia fija; resplandor cegador
+- **Definition:** To stare in an angry or fierce way; as a noun, a fierce stare or dazzlingly bright light.
+- **Example:** *"Several librarians glared at the visitor whose phone kept chiming loudly in the reading room."*
+- **Collocations:** *glare at, icy glare, blinding glare*
+- **Nuance & Exam Tip:** Siempre transmite hostilidad o reproche en la mirada (*glare at*). Como sustantivo también designa el deslumbramiento de una pantalla o el sol.
+- **Word Family:** glaring (adj - evidente/deslumbrante), glaringly (adv)
+
+---
+
+### Gape
+?
+- **Part of Speech:** Verb [Intransitive]
+- **Español:** Quedarse boquiabierto, mirar con la boca abierta
+- **Definition:** To stare with one's mouth open wide in amazement, shock, or bewilderment.
+- **Example:** *"Tourists stopped mid-step to gape at the colossal medieval vault illuminated for the first time in decades."*
+- **Collocations:** *gape at, stand gaping, gape in astonishment*
+- **Nuance & Exam Tip:** Matiz más vívido y físico que *stare*; además funciona en sentido literal espacial (*a gaping hole*, un boquete abierto).
+- **Word Family:** gaping (adj), agape (adj)
+
+---
+
+### Glower
+?
+- **Part of Speech:** Verb [Intransitive]
+- **Español:** Mirar con el ceño fruncido y hostil, fulminar con la mirada
+- **Definition:** To have an angry, sullen, or threatening look on one's face.
+- **Example:** *"The dismissed minister glowered from the back benches throughout his successor's inaugural address."*
+- **Collocations:** *glower at, dark glower, glower in silence*
+- **Nuance & Exam Tip:** Combina ceño fruncido y resentimiento sombrío; más hosco y silenciosamente amenazante que *glare*.
+- **Word Family:** glower (n), gloweringly (adv)
+
+---
+
+### Flinch
+?
+- **Part of Speech:** Verb [Intransitive] / Noun
+- **Español:** Respingar, encogerse por reflejo, amedrentarse
+- **Definition:** To make a quick, nervous movement of the face or body as an instinctive reaction to fear, pain, or surprise.
+- **Example:** *"To his credit, the negotiator did not flinch when the opposing delegation threatened to walk out."*
+- **Collocations:** *without flinching, flinch at, flinch from responsibility*
+- **Nuance & Exam Tip:** Brilla tanto en sentido físico (acto reflejo) como figurado (*without flinching*, sin pestañear ni acobardarse).
+- **Word Family:** unflinching (adj), unflinchingly (adv)
 
 ---

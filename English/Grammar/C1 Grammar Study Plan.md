@@ -8,6 +8,7 @@ created: 2025-12-29
 
 ## 🎯 Main Resource
 > **[[C1 Grammar Complete Guide]]** - Guía completa de gramática nivel C1 para Cambridge & IELTS
+> **🃏 Mazo Anki Activo:** [[C1 Grammar Flashcards|C1 Grammar Flashcards (250 Tarjetas)]] (`#flashcards/grammar` con `Alt + R`)
 
 ---
 

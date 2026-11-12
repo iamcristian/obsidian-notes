@@ -5,13 +5,15 @@ tags:
   - level/C1
   - review
 created: 2026-11-02
-total_cards: 100
+total_cards: 250
 ---
 # 🎤 Debate & Argumentation — Mazo Anki C1
 
 > [!tip] Mazo de Repetición Espaciada (Anki)
-> Mazo intensivo de 100 tarjetas con vocabulario avanzado de retórica, falacias lógicas, argumentación y análisis crítico para Cambridge C1 y debates profesionales.
-> Presiona `Alt + R` para repasar este mazo interactivo de 100 tarjetas.
+> Mazo intensivo de 250 tarjetas con vocabulario avanzado de retórica, falacias lógicas, argumentación y análisis crítico para Cambridge C1 y debates profesionales.
+> Presiona `Alt + R` para repasar este mazo interactivo de 250 tarjetas.
+
+---
 
 ---
 
@@ -615,18 +617,6 @@ total_cards: 100
 
 ---
 
-### Fallacy
-?
-- **Part of Speech:** Noun [Countable, Formal]
-- **Español:** Falacia (razonamiento erróneo o engañoso)
-- **Definition:** A mistaken belief or a failure in reasoning that renders an argument invalid.
-- **Example:** *"Arguing that an idea must be true simply because it is popular is a classic ad populum fallacy."*
-- **Collocations:** *logical fallacy, common fallacy, commit a fallacy*
-- **Nuance & Exam Tip:** Vital for dissecting flawed logic in academic debates.
-- **Word Family:** fallacious (adj), fallaciously (adv)
-
----
-
 ### Fallacious
 ?
 - **Part of Speech:** Adjective [Formal]
@@ -636,30 +626,6 @@ total_cards: 100
 - **Collocations:** *fallacious argument, fallacious assumption, fallacious reasoning*
 - **Nuance & Exam Tip:** Stronger and more intellectually cutting than simply saying *false* or *wrong*.
 - **Word Family:** fallacy (noun)
-
----
-
-### Corroborate
-?
-- **Part of Speech:** Verb [Transitive, Formal]
-- **Español:** Corroborar / Respaldar con pruebas fehacientes
-- **Definition:** To confirm, support, or give certainty to a statement or theory with empirical evidence.
-- **Example:** *"Independent satellite observations corroborate the claim that arctic ice shelves are thinning rapidly."*
-- **Collocations:** *corroborate evidence, corroborate a hypothesis, independently corroborated*
-- **Nuance & Exam Tip:** A core scientific and legal C1 verb of evidentiary support.
-- **Word Family:** corroboration (noun), corroborative (adj)
-
----
-
-### Substantiate
-?
-- **Part of Speech:** Verb [Transitive, Formal]
-- **Español:** Sustentar / Justificar con pruebas sólidas
-- **Definition:** To provide evidence to support or prove the truth of an assertion.
-- **Example:** *"You cannot accuse rival competitors of intellectual theft without documented data to substantiate it."*
-- **Collocations:** *substantiate claims, substantiate an allegation, fully substantiated*
-- **Nuance & Exam Tip:** Crucial verb in academic discourse when demanding verifiable proof.
-- **Word Family:** substantiation (noun), unsubstantiated (antonym)
 
 ---
 
@@ -687,30 +653,6 @@ total_cards: 100
 
 ---
 
-### Irrefutable
-?
-- **Part of Speech:** Adjective [Formal]
-- **Español:** Irrefutable / Indiscutible / Inapelable
-- **Definition:** Impossible to deny, disprove, or argue against.
-- **Example:** *"The forensic DNA analysis provided irrefutable proof of the defendant's complete innocence."*
-- **Collocations:** *irrefutable evidence, irrefutable logic, irrefutable fact*
-- **Nuance & Exam Tip:** Highest degree of evidential certainty.
-- **Word Family:** refute (verb), irrefutably (adv)
-
----
-
-### Tenable
-?
-- **Part of Speech:** Adjective [Formal]
-- **Español:** Sostenible / Defendible razonablemente
-- **Definition:** Able to be maintained, defended, or justified against objection or criticism.
-- **Example:** *"His position as dean became no longer tenable after the plagiarism inquiry published its findings."*
-- **Collocations:** *tenable position, scientifically tenable, intellectually tenable*
-- **Nuance & Exam Tip:** Frequently used in the negative (*untenable*).
-- **Word Family:** untenable (antonym)
-
----
-
 ### Untenable
 ?
 - **Part of Speech:** Adjective [Formal]
@@ -723,18 +665,6 @@ total_cards: 100
 
 ---
 
-### Plausible
-?
-- **Part of Speech:** Adjective [Neutral/Formal]
-- **Español:** Plausible / Verosímil / Creíble a simple vista
-- **Definition:** Seeming reasonable, probable, or worthy of belief, though not definitively proven.
-- **Example:** *"Historians offered a plausible explanation for the sudden abandonment of the Mayan citadel."*
-- **Collocations:** *plausible explanation, plausible scenario, entirely plausible*
-- **Nuance & Exam Tip:** Differs from *certain*; it means it makes logical sense based on the evidence.
-- **Word Family:** plausibility (noun), implausible (antonym)
-
----
-
 ### Implausible
 ?
 - **Part of Speech:** Adjective [Formal]
@@ -744,18 +674,6 @@ total_cards: 100
 - **Collocations:** *implausible explanation, highly implausible, wholly implausible*
 - **Nuance & Exam Tip:** Tactful way to dismiss an absurd or contrived justification.
 - **Word Family:** plausible (antonym), implausibility (noun)
-
----
-
-### Paradigm
-?
-- **Part of Speech:** Noun [Countable, Academic]
-- **Español:** Paradigma (modelo teórico o patrón rector)
-- **Definition:** A typical example, framework, or pattern of something; an overarching theoretical model.
-- **Example:** *"Quantum mechanics caused a radical paradigm shift in twentieth-century physics."*
-- **Collocations:** *paradigm shift, dominant paradigm, theoretical paradigm*
-- **Nuance & Exam Tip:** Prime C1 academic vocabulary when discussing major shifts in understanding.
-- **Word Family:** paradigmatic (adj)
 
 ---
 
@@ -780,18 +698,6 @@ total_cards: 100
 - **Collocations:** *axiomatic truth, axiomatic principle, treat as axiomatic*
 - **Nuance & Exam Tip:** High-register replacement for *obvious* or *self-evident*.
 - **Word Family:** axiom (noun)
-
----
-
-### Discrepancy
-?
-- **Part of Speech:** Noun [Countable, Formal]
-- **Español:** Discrepancia / Incongruencia entre dos datos
-- **Definition:** A lack of compatibility or similarity between two or more facts, figures, or accounts.
-- **Example:** *"The forensic audit revealed a multi-million-dollar discrepancy between ledger revenues and bank balances."*
-- **Collocations:** *glaring discrepancy, minor discrepancy, discrepancy between X and Y*
-- **Nuance & Exam Tip:** Essential term in analytical reports and critical evaluations.
-- **Word Family:** discrepant (adj)
 
 ---
 
@@ -840,18 +746,6 @@ total_cards: 100
 - **Collocations:** *anomalous reading, anomalous result, anomalous behavior*
 - **Nuance & Exam Tip:** Much more technical and scholarly than *strange* or *weird*.
 - **Word Family:** anomaly (noun)
-
----
-
-### Unequivocal
-?
-- **Part of Speech:** Adjective [Formal]
-- **Español:** Inequívoco / Categórico / Sin lugar a dudas
-- **Definition:** Leaving no doubt; completely clear and unambiguous.
-- **Example:** *"The scientific panel issued an unequivocal warning regarding the imminent tipping points of global warming."*
-- **Collocations:** *unequivocal evidence, unequivocal support, unequivocal rejection*
-- **Nuance & Exam Tip:** Marks the strongest possible commitment to a claim.
-- **Word Family:** unequivocally (adv), equivocal (antonym)
 
 ---
 
@@ -960,30 +854,6 @@ total_cards: 100
 - **Collocations:** *trenchant criticism, trenchant analysis, trenchant wit*
 - **Nuance & Exam Tip:** High praise for intellectual sharpness that cuts straight to the core.
 - **Word Family:** trenchantly (adv)
-
----
-
-### Cogent
-?
-- **Part of Speech:** Adjective [Formal]
-- **Español:** Convincente / Bien fundamentado / Lógicamente irrebatible
-- **Definition:** Clear, logical, and convincing; powerfully persuasive.
-- **Example:** *"The economist presented a cogent argument demonstrating why tariff wars harm domestic consumers."*
-- **Collocations:** *cogent argument, cogent explanation, cogent evidence*
-- **Nuance & Exam Tip:** Describes argumentation whose logical strength compels intellectual assent.
-- **Word Family:** cogently (adv), cogency (noun)
-
----
-
-### Compelling
-?
-- **Part of Speech:** Adjective [Formal]
-- **Español:** Apremiante / Convincente / Cautivador
-- **Definition:** Evoking interest, attention, or admiration in a powerfully irresistible way; convincing.
-- **Example:** *"There is compelling clinical evidence that early intervention mitigates cardiovascular risk."*
-- **Collocations:** *compelling evidence, compelling reason, compelling narrative*
-- **Nuance & Exam Tip:** Both intellectually convincing and emotionally engaging.
-- **Word Family:** compel (verb), compellingly (adv)
 
 ---
 
@@ -1167,18 +1037,6 @@ total_cards: 100
 
 ---
 
-### Consensus
-?
-- **Part of Speech:** Noun [Uncountable/Singular, Formal]
-- **Español:** Consenso / Acuerdo general
-- **Definition:** General agreement among a group of people.
-- **Example:** *"There is overwhelming scientific consensus that anthropogenic carbon emissions drive rising temperatures."*
-- **Collocations:** *reach a consensus, broad consensus, scientific consensus*
-- **Nuance & Exam Tip:** Does not imply unanimity, but widespread foundational agreement.
-- **Word Family:** consensual (adj)
-
----
-
 ### Unanimity
 ?
 - **Part of Speech:** Noun [Uncountable, Formal]
@@ -1203,14 +1061,1633 @@ total_cards: 100
 
 ---
 
-### Caveat
+### Maintain
 ?
-- **Part of Speech:** Noun [Countable, Formal/Latin]
-- **Español:** Salvedad / Advertencia condicionante / Matiz restrictivo
-- **Definition:** A warning or proviso of specific stipulations, conditions, or limitations.
-- **Example:** *"The government approved the pharmaceutical trials, but with the strict caveat that patients give informed consent."*
-- **Collocations:** *important caveat, enter a caveat, with one major caveat*
-- **Nuance & Exam Tip:** Latin loanword universally employed in high-register policy, legal, and academic writing.
-- **Word Family:** caveat emptor (Latin legal maxim: buyer beware)
+- **Part of Speech:** Verb [Tr] [Reg] (*maintained*)
+- **Español:** Mantener, sostener (ante la duda)
+- **Definition:** To state strongly that something is true, especially when doubted
+- **Example:** *"Despite the evidence, he **maintains** his innocence."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Purport
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*purported*)
+- **Español:** Pretender (ser algo que no es)
+- **Definition:** To appear or claim to be or do something, especially falsely
+- **Example:** *"This document **purports** to be official, but lacks a signature."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Profess
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*professed*)
+- **Español:** Profesar, declarar abiertamente
+- **Definition:** To claim that one has (a quality/feeling); to affirm faith
+- **Example:** *"He **professes** to be an expert, yet understands nothing."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Avow
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*avowed*)
+- **Español:** Confesar, reconocer francamente
+- **Definition:** To assert or confess openly
+- **Example:** *"He is an **avowed** pacifist."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Proclaim
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*proclaimed*)
+- **Español:** Proclamar
+- **Definition:** To announce officially or publicly
+- **Example:** *"The government **proclaimed** a state of emergency."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Articulate
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*articulated*)
+- **Español:** Articular (ideas complejas)
+- **Definition:** To express fluently and coherently
+- **Example:** *"She struggled to **articulate** her feelings."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Propound
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*propounded*)
+- **Español:** Proponer (teoría/idea) para consideración
+- **Definition:** To put forward for consideration by others
+- **Example:** *"Darwin **propounded** the theory of natural selection."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Advance
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*advanced*)
+- **Español:** Avanzar (un argumento)
+- **Definition:** To put forward (a theory or suggestion)
+- **Example:** *"He **advanced** the argument that free will exists."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Suggest
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*suggested*)
+- **Español:** Sugerir, indicar
+- **Definition:** To put forward for consideration; to state indirectly
+- **Example:** *"The logs **suggest** the error is in the auth module."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Allude To
+?
+- **Part of Speech:** Verb [Intr] [Reg] (*alluded*)
+- **Español:** Aludir a
+- **Definition:** To suggest or call attention to indirectly
+- **Example:** *"The speaker **alluded to** past failures."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Opine
+?
+- **Part of Speech:** Verb [Intr] [Reg] (*opined*)
+- **Español:** Opinar (formalmente)
+- **Definition:** To hold and state as one's opinion
+- **Example:** *"The judge **opined** that evidence was insufficient."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Assert, Propose & State. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Underpin
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*underpinned*)
+- **Español:** Sustentar (ser la base)
+- **Definition:** To form the basis for
+- **Example:** *"Logic must **underpin** arguments."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Support & Strengthen. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Validate
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*validated*)
+- **Español:** Validar
+- **Definition:** To check or prove the validity/accuracy
+- **Example:** *"You must **validate** user input."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Support & Strengthen. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Vindicate
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*vindicated*)
+- **Español:** Reivindicar, justificar, exculpar
+- **Definition:** To clear of blame; show to be right
+- **Example:** *"History will **vindicate** his decision."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Support & Strengthen. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Advocate For
+?
+- **Part of Speech:** Verb [Tr] [Reg] (*advocated*)
+- **Español:** Abogar por
+- **Definition:** To publicly recommend or support
+- **Example:** *"I **advocate for** open source."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Support & Strengthen. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Debunk
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Desmitificar, desmentir
+- **Definition:** To expose the falseness of a myth/belief
+- **Example:** *"Science **debunked** the flat earth theory."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Invalidate
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Invalidar
+- **Definition:** To make unsound or erroneous; deprive of legal efficacy
+- **Example:** *"Changes **invalidate** previous tests."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Nullify
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Anular
+- **Definition:** To make legally null and void
+- **Example:** *"The contract was **nullified**."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Dissect
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Diseccionar
+- **Definition:** To analyze in minute detail
+- **Example:** *"We need to **dissect** the problem."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Impugn
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Impugnar, poner en duda honestidad
+- **Definition:** To dispute the truth/honesty of
+- **Example:** *"I do not **impugn** his integrity."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Contest
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Contestar, disputar
+- **Definition:** To oppose as mistaken or wrong
+- **Example:** *"They will **contest** the election."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Undermine
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Socavar
+- **Definition:** To weaken gradually
+- **Example:** *"Data errors **undermine** trust."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Cast Doubt On
+?
+- **Part of Speech:** Verb [Phrase]
+- **Español:** Sembrar dudas
+- **Definition:** To cause uncertainty
+- **Example:** *"Evidence **casts doubt on** the alibi."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Dismiss
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Desestimar
+- **Definition:** To treat as unworthy of consideration
+- **Example:** *"Don't **dismiss** his idea."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Repudiate
+?
+- **Part of Speech:** Verb [Tr] [Reg]
+- **Español:** Repudiar, rechazar
+- **Definition:** To refuse to accept/be associated with
+- **Example:** *"He **repudiated** the debt."*
+- **Nuance & Exam Tip:** Categoría retórica: VERBS: Attack, Criticize & Refute. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Contention
+?
+- **Part of Speech:** Noun [C/U]
+- **Español:** Contención (punto de disputa)
+- **Definition:** An assertion maintained in argument; a point of disagreement
+- **Example:** *"It is my **contention** that microservices will increase costs."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Assertion
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Aseveración, afirmación rotunda
+- **Definition:** A confident and forceful statement of fact or belief
+- **Example:** *"I challenge your **assertion** that this code is ready."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Thesis
+?
+- **Part of Speech:** Noun [C] Plural: *Theses*
+- **Español:** Tesis (idea central a probar)
+- **Definition:** A statement put forward as a premise to be proved
+- **Example:** *"The central **thesis** is that technology drives social change."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Postulate
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Postulado
+- **Definition:** A thing assumed as true as the basis for reasoning
+- **Example:** *"Euclid's parallel **postulate** is the foundation of geometry."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Conjecture
+?
+- **Part of Speech:** Noun [C/U]
+- **Español:** Conjetura
+- **Definition:** An opinion formed on incomplete information; a guess
+- **Example:** *"Without logs, the cause is pure **conjecture**."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Surmise
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Sospecha, conjetura (leve)
+- **Definition:** A supposition without evidence to confirm it
+- **Example:** *"My **surmise** is that the database lock is causing the timeout."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Deduction
+?
+- **Part of Speech:** Noun [C/U]
+- **Español:** Deducción (de lo general a específico)
+- **Definition:** The inference of particular instances from a general law
+- **Example:** *"Through logical **deduction**, we identified the memory leak."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Induction
+?
+- **Part of Speech:** Noun [Uncountable]
+- **Español:** Inducción (de lo específico a general)
+- **Definition:** The inference of a general law from particular instances
+- **Example:** *"Scientific laws are established through **induction**."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Paradox
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Paradoja
+- **Definition:** A seemingly absurd statement that may prove well founded
+- **Example:** *"The **paradox**: we have more data but less insight."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Arguments & Logical Concepts. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Dispute
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Disputa, litigio
+- **Definition:** A disagreement, argument, or debate
+- **Example:** *"The labor **dispute** led to a strike."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Discord
+?
+- **Part of Speech:** Noun [Uncountable]
+- **Español:** Discordia
+- **Definition:** Disagreement between people; lack of harmony
+- **Example:** *"The issue sowed **discord** among the population."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Strife
+?
+- **Part of Speech:** Noun [Uncountable]
+- **Español:** Conflicto amargo, lucha
+- **Definition:** Angry or bitter disagreement over fundamental issues
+- **Example:** *"The country was torn apart by civil **strife**."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Controversy
+?
+- **Part of Speech:** Noun [C/U]
+- **Español:** Controversia
+- **Definition:** Disagreement, typically prolonged, public, and heated
+- **Example:** *"The privacy policy sparked a major **controversy**."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Altercation
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Altercado
+- **Definition:** A noisy argument or disagreement, especially in public
+- **Example:** *"He got into a verbal **altercation** with the driver."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Rift
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Grieta, ruptura
+- **Definition:** A serious break in friendly relations
+- **Example:** *"The disagreement caused a permanent **rift**."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Inconsistency
+?
+- **Part of Speech:** Noun [C/U]
+- **Español:** Inconsistencia
+- **Definition:** The fact or state of being inconsistent
+- **Example:** *"The **inconsistency** of his statements made police suspicious."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Objection
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Objeción
+- **Definition:** An expression of disapproval or opposition
+- **Example:** *"My main **objection** to the plan is the high cost."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Retort
+?
+- **Part of Speech:** Noun [Countable]
+- **Español:** Réplica mordaz
+- **Definition:** A sharp, angry, or witty reply to a remark
+- **Example:** *"His witty **retort** made everyone laugh."*
+- **Nuance & Exam Tip:** Categoría retórica: NOUNS: Conflict & Disagreement. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Ubiquitous
+?
+- **Part of Speech:** Adjective
+- **Español:** Ubicuo, omnipresente
+- **Definition:** Present, appearing, or found everywhere
+- **Example:** *"Smartphones and high-speed internet have become **ubiquitous** in modern society."*
+- **Collocations:** *ubiquitous presence, ubiquitous technology, increasingly ubiquitous*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Positive (Strong Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Unassailable
+?
+- **Part of Speech:** Adjective
+- **Español:** Inatacable
+- **Definition:** Unable to be attacked, questioned, or defeated
+- **Example:** *"He built an **unassailable** argument based on data."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Positive (Strong Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Comprehensive
+?
+- **Part of Speech:** Adjective
+- **Español:** Exhaustivo, completo
+- **Definition:** Including all or nearly all elements
+- **Example:** *"The tutorial offers a **comprehensive** guide."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Positive (Strong Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Spurious
+?
+- **Part of Speech:** Adjective
+- **Español:** Espurio, falso
+- **Definition:** Not being what it purports to be; false
+- **Example:** *"We found a **spurious** correlation."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Negative (Weak Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Baseless
+?
+- **Part of Speech:** Adjective
+- **Español:** Sin base
+- **Definition:** Without foundation in fact
+- **Example:** *"These are **baseless** allegations."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Negative (Weak Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Tenuous
+?
+- **Part of Speech:** Adjective
+- **Español:** Tenue, débil
+- **Definition:** Very weak or slight
+- **Example:** *"The link between variables is **tenuous**."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Negative (Weak Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Incoherent
+?
+- **Part of Speech:** Adjective
+- **Español:** Incoherente
+- **Definition:** Expressed in an incomprehensible or confusing way
+- **Example:** *"The legacy code is **incoherent** logic."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Negative (Weak Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Muddled
+?
+- **Part of Speech:** Adjective
+- **Español:** Confuso, enredado
+- **Definition:** In a disordered or confusing state
+- **Example:** *"His thinking is **muddled** by emotion."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Negative (Weak Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Vague
+?
+- **Part of Speech:** Adjective
+- **Español:** Vago
+- **Definition:** Of uncertain or unclear character
+- **Example:** *"The error message is too **vague** to be useful."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Negative (Weak Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Preposterous
+?
+- **Part of Speech:** Adjective
+- **Español:** Absurdo
+- **Definition:** Contrary to reason or common sense
+- **Example:** *"Asking for a 50% raise after one month is **preposterous**."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Negative (Weak Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Trivial
+?
+- **Part of Speech:** Adjective
+- **Español:** Trivial
+- **Definition:** Of little value or importance
+- **Example:** *"Don't get bogged down in **trivial** details."*
+- **Nuance & Exam Tip:** Categoría retórica: ADJECTIVES: Negative (Weak Argument). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Undeniably
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Innegablemente
+- **Definition:** Cannot be denied
+- **Example:** *"Climate change is **undeniably** a great challenge."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Indisputably
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Indiscutiblemente
+- **Definition:** Cannot be challenged or denied
+- **Example:** *"She is **indisputably** the winner."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Manifestly
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Manifiestamente
+- **Definition:** Clear or obvious to the eye or mind
+- **Example:** *"The policy has **manifestly** failed."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Blatantly
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Descaradamente
+- **Definition:** In an open and unashamed manner
+- **Example:** *"He **blatantly** ignored the warnings."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Categorically
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Categóricamente
+- **Definition:** Unambiguously explicit and direct
+- **Example:** *"I **categorically** deny any involvement."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Intrinsically
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Intrínsecamente
+- **Definition:** In an essential or natural way
+- **Example:** *"Freedom is **intrinsically** valuable."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Fundamentally
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Fundamentalmente
+- **Definition:** In central or primary respects
+- **Example:** *"The two approaches are **fundamentally** different."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Predominantly
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Predominantemente
+- **Definition:** Mainly; for the most part
+- **Example:** *"The codebase is **predominantly** in Java."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Significantly
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Significativamente
+- **Definition:** In a sufficiently great or important way
+- **Example:** *"Performance improved **significantly**."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Markedly
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Marcadamente
+- **Definition:** To an extent that is clearly noticeable
+- **Example:** *"User engagement dropped **markedly**."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Admittedly
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Hay que admitir que...
+- **Definition:** Used to introduce a concession
+- **Example:** *"**Admittedly**, I made a mistake."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Invariably
+?
+- **Part of Speech:** Verb [ADVERBS: Emphasis & Certainty]
+- **Español:** Invariablemente
+- **Definition:** In every case; always
+- **Example:** *"Quick fixes **invariably** cause problems later."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS: Emphasis & Certainty. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Conversely
+?
+- **Part of Speech:** Verb [ADVERBS & CONNECTORS: Contrast & Concession]
+- **Español:** Por el contrario
+- **Definition:** Introducing a statement that reverses the one made
+- **Example:** *"High risk can lead to reward; **conversely**, it can lead to ruin."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS & CONNECTORS: Contrast & Concession. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Albeit
+?
+- **Part of Speech:** Verb [ADVERBS & CONNECTORS: Contrast & Concession]
+- **Español:** Aunque
+- **Definition:** Although
+- **Example:** *"The algorithm is accurate, **albeit** slow."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS & CONNECTORS: Contrast & Concession. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Nevertheless
+?
+- **Part of Speech:** Verb [ADVERBS & CONNECTORS: Contrast & Concession]
+- **Español:** Sin embargo
+- **Definition:** In spite of that; notwithstanding
+- **Example:** *"The data is incomplete. **Nevertheless**, we see a trend."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS & CONNECTORS: Contrast & Concession. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Nonetheless
+?
+- **Part of Speech:** Verb [ADVERBS & CONNECTORS: Contrast & Concession]
+- **Español:** No obstante
+- **Definition:** In spite of that
+- **Example:** *"The problems are serious. **Nonetheless**, we are optimistic."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS & CONNECTORS: Contrast & Concession. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Yet
+?
+- **Part of Speech:** Verb [ADVERBS & CONNECTORS: Contrast & Concession]
+- **Español:** Pero, y sin embargo
+- **Definition:** But at the same time; nevertheless
+- **Example:** *"It is a simple, **yet** effective solution."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS & CONNECTORS: Contrast & Concession. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### On the contrary
+?
+- **Part of Speech:** Verb [ADVERBS & CONNECTORS: Contrast & Concession]
+- **Español:** Al contrario
+- **Definition:** Used to intensify a denial
+- **Example:** *"The update didn't fix it; **on the contrary**, it broke more."*
+- **Nuance & Exam Tip:** Categoría retórica: ADVERBS & CONNECTORS: Contrast & Concession. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Sticking point
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** Punto de fricción
+- **Definition:** An obstacle to progress toward an agreement
+- **Example:** *"The price was the main **sticking point**."*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Moot point
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** Punto irrelevante o debatible
+- **Definition:** A fact that doesn't matter; or open to debate
+- **Example:** *"Optimizing that query is a **moot point** if the server is down."*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Begging the question
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** Petición de principio
+- **Definition:** To assume the conclusion in the premises
+- **Example:** *"His argument **begs the question**."*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Devil's advocate
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** Abogado del diablo
+- **Definition:** One who expresses contentious opinion to provoke debate
+- **Example:** *"Let me play **devil's advocate**: what if the user is offline?"*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Sit on the fence
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** No tomar partido
+- **Definition:** To avoid making a decision or choice
+- **Example:** *"You can't **sit on the fence**; vote yes or no."*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Tip of the iceberg
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** La punta del iceberg
+- **Definition:** The small part of a much larger hidden problem
+- **Example:** *"UI errors are just the **tip of the iceberg**."*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Double-edged sword
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** Arma de doble filo
+- **Definition:** A situation with both positive and negative effects
+- **Example:** *"Caching is a **double-edged sword**."*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Achilles' heel
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** Talón de Aquiles
+- **Definition:** A weakness or vulnerable point
+- **Example:** *"Security was the system's **Achilles' heel**."*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Move the goalposts
+?
+- **Part of Speech:** Rhetorical Idiom [IDIOMS & METAPHORS]
+- **Español:** Cambiar las reglas injustamente
+- **Definition:** To change criteria while a process is in progress
+- **Example:** *"The client keeps **moving the goalposts**."*
+- **Nuance & Exam Tip:** Categoría retórica: IDIOMS & METAPHORS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### A priori
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** A priori
+- **Definition:** Reasoning from theoretical deduction
+- **Example:** *"He rejected the idea **a priori**."*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### A posteriori
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** A posteriori
+- **Definition:** Reasoning based on observation or experience
+- **Example:** *"We determined the cause **a posteriori**."*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### De jure
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** Por derecho
+- **Definition:** According to law
+- **Example:** *"Segregation was abolished **de jure**."*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Vice versa
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** Viceversa
+- **Definition:** With items the other way around
+- **Example:** *"We can convert JSON to XML and **vice versa**."*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Per se
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** Por sí mismo
+- **Definition:** Intrinsically; by itself
+- **Example:** *"The code isn't bad **per se**, just messy."*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Quid pro quo
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** Una cosa por otra
+- **Definition:** A favor granted in return for something
+- **Example:** *"The deal was a **quid pro quo**."*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Modus operandi
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** Modus operandi
+- **Definition:** A particular way or method of doing something
+- **Example:** *"Agile is our **modus operandi**."*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Bona fide
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** De buena fe, auténtico
+- **Definition:** Genuine; real
+- **Example:** *"He is a **bona fide** expert."*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Q.E.D.
+?
+- **Part of Speech:** Latin Academic Term [LATIN TERMS (Academic/Legal)]
+- **Español:** Lo que se quería demostrar
+- **Definition:** Quod Erat Demonstrandum (end of proofs)
+- **Example:** *"Thus, x equals y. **Q.E.D.**"*
+- **Nuance & Exam Tip:** Categoría retórica: LATIN TERMS (Academic/Legal). Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Subsequently
+?
+- **Part of Speech:** Academic Expression [TRANSITION PHRASES: Time & Sequence]
+- **Español:** Posteriormente
+- **Definition:** After a particular thing has happened; afterward
+- **Example:** *"He failed the test and was **subsequently** dismissed."*
+- **Nuance & Exam Tip:** Categoría retórica: TRANSITION PHRASES: Time & Sequence. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Henceforth
+?
+- **Part of Speech:** Academic Expression [TRANSITION PHRASES: Time & Sequence]
+- **Español:** De ahora en adelante
+- **Definition:** From this time on
+- **Example:** *"**Henceforth**, all commits must be reviewed."*
+- **Nuance & Exam Tip:** Categoría retórica: TRANSITION PHRASES: Time & Sequence. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Heretofore
+?
+- **Part of Speech:** Academic Expression [TRANSITION PHRASES: Time & Sequence]
+- **Español:** Hasta este momento
+- **Definition:** Before now
+- **Example:** *"A **heretofore** unseen level of complexity."*
+- **Nuance & Exam Tip:** Categoría retórica: TRANSITION PHRASES: Time & Sequence. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Meanwhile
+?
+- **Part of Speech:** Academic Expression [TRANSITION PHRASES: Time & Sequence]
+- **Español:** Mientras tanto
+- **Definition:** At the same time
+- **Example:** *"**Meanwhile**, the server was overloading."*
+- **Nuance & Exam Tip:** Categoría retórica: TRANSITION PHRASES: Time & Sequence. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Beforehand
+?
+- **Part of Speech:** Academic Expression [TRANSITION PHRASES: Time & Sequence]
+- **Español:** De antemano
+- **Definition:** Before an action or event; in advance
+- **Example:** *"You should have told me **beforehand**."*
+- **Nuance & Exam Tip:** Categoría retórica: TRANSITION PHRASES: Time & Sequence. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### At the outset
+?
+- **Part of Speech:** Academic Expression [TRANSITION PHRASES: Time & Sequence]
+- **Español:** Desde el principio
+- **Definition:** At the beginning
+- **Example:** *"**At the outset**, let me clarify my position."*
+- **Nuance & Exam Tip:** Categoría retórica: TRANSITION PHRASES: Time & Sequence. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Ultimately
+?
+- **Part of Speech:** Academic Expression [TRANSITION PHRASES: Time & Sequence]
+- **Español:** En última instancia
+- **Definition:** Finally; in the end
+- **Example:** *"**Ultimately**, the decision is yours."*
+- **Nuance & Exam Tip:** Categoría retórica: TRANSITION PHRASES: Time & Sequence. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### To some extent
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** Hasta cierto punto
+- **Definition:** Partly; to a degree
+- **Example:** *"I agree with you **to some extent**."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### To a large extent
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** En gran medida
+- **Definition:** Mostly; largely
+- **Example:** *"Success depends **to a large extent** on preparation."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### By and large
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** En general, en términos generales
+- **Definition:** On the whole; mostly
+- **Example:** *"**By and large**, the project was successful."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### On the whole
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** En conjunto
+- **Definition:** In general; considering everything
+- **Example:** *"**On the whole**, it was a good experience."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### In essence
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** En esencia
+- **Definition:** Fundamentally; basically
+- **Example:** *"**In essence**, you are saying we should quit."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Virtually
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** Prácticamente
+- **Definition:** Nearly; almost
+- **Example:** *"The project is **virtually** complete."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Entirely
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** Enteramente
+- **Definition:** Completely
+- **Example:** *"I **entirely** disagree with that assessment."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Wholly
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** Totalmente
+- **Definition:** Entirely; fully
+- **Example:** *"The claim is **wholly** unfounded."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Marginally
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** Marginalmente
+- **Definition:** Slightly; by a small amount
+- **Example:** *"Performance improved **marginally**."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Substantially
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** Sustancialmente
+- **Definition:** To a great or significant extent
+- **Example:** *"The design changed **substantially**."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Exceedingly
+?
+- **Part of Speech:** Academic Expression [DEGREE & EXTENT PHRASES]
+- **Español:** Sumamente
+- **Definition:** Extremely; to a very great degree
+- **Example:** *"This is **exceedingly** difficult."*
+- **Nuance & Exam Tip:** Categoría retórica: DEGREE & EXTENT PHRASES. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### First and foremost
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** Ante todo, en primer lugar
+- **Definition:** Most importantly; before anything else
+- **Example:** *"**First and foremost**, we need to define the requirements."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### In the first place
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** En primer lugar
+- **Definition:** As the first consideration
+- **Example:** *"**In the first place**, we lack the budget."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### It is worth noting that
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** Cabe destacar que
+- **Definition:** It is important to mention
+- **Example:** *"**It is worth noting that** this is not a new issue."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### It goes without saying
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** No hace falta decir
+- **Definition:** It is obvious
+- **Example:** *"**It goes without saying** that security is paramount."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Suffice it to say
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** Baste decir que
+- **Definition:** It is enough to say
+- **Example:** *"**Suffice it to say**, the meeting did not go well."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### As a matter of fact
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** De hecho
+- **Definition:** In reality; actually
+- **Example:** *"**As a matter of fact**, I was there."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### As it turns out
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** Resulta que
+- **Definition:** As was discovered
+- **Example:** *"**As it turns out**, the bug was in production."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### That being said
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** Dicho esto
+- **Definition:** However; having said that
+- **Example:** *"**That being said**, I still support the idea."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Having said that
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** Habiendo dicho eso
+- **Definition:** However; but
+- **Example:** *"**Having said that**, there are some concerns."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Be that as it may
+?
+- **Part of Speech:** Academic Expression [INTRODUCING ARGUMENTS]
+- **Español:** Sea como fuere
+- **Definition:** Nevertheless; regardless
+- **Example:** *"**Be that as it may**, we must continue."*
+- **Nuance & Exam Tip:** Categoría retórica: INTRODUCING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Moreover
+?
+- **Part of Speech:** Academic Expression [ADDING & EMPHASIZING]
+- **Español:** Además, es más
+- **Definition:** In addition (stronger than 'furthermore')
+- **Example:** *"**Moreover**, the results are reproducible."*
+- **Nuance & Exam Tip:** Categoría retórica: ADDING & EMPHASIZING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### What is more
+?
+- **Part of Speech:** Academic Expression [ADDING & EMPHASIZING]
+- **Español:** Es más
+- **Definition:** Additionally; and more importantly
+- **Example:** *"**What is more**, the client is unhappy."*
+- **Nuance & Exam Tip:** Categoría retórica: ADDING & EMPHASIZING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Not only... but also
+?
+- **Part of Speech:** Academic Expression [ADDING & EMPHASIZING]
+- **Español:** No solo... sino también
+- **Definition:** Used to add emphasis to both parts
+- **Example:** *"**Not only** is it slow, **but** it's also buggy."*
+- **Nuance & Exam Tip:** Categoría retórica: ADDING & EMPHASIZING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Not to mention
+?
+- **Part of Speech:** Academic Expression [ADDING & EMPHASIZING]
+- **Español:** Por no mencionar
+- **Definition:** In addition to; and also
+- **Example:** *"It's expensive, **not to mention** unreliable."*
+- **Nuance & Exam Tip:** Categoría retórica: ADDING & EMPHASIZING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Most importantly
+?
+- **Part of Speech:** Academic Expression [ADDING & EMPHASIZING]
+- **Español:** Lo más importante
+- **Definition:** The most significant point
+- **Example:** *"**Most importantly**, backup your data."*
+- **Nuance & Exam Tip:** Categoría retórica: ADDING & EMPHASIZING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### In particular
+?
+- **Part of Speech:** Academic Expression [ADDING & EMPHASIZING]
+- **Español:** En particular
+- **Definition:** Especially; specifically
+- **Example:** *"I enjoy music, **in particular** jazz."*
+- **Nuance & Exam Tip:** Categoría retórica: ADDING & EMPHASIZING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Namely
+?
+- **Part of Speech:** Academic Expression [ADDING & EMPHASIZING]
+- **Español:** A saber, concretamente
+- **Definition:** That is to say; specifically
+- **Example:** *"One language, **namely** Python, dominates."*
+- **Nuance & Exam Tip:** Categoría retórica: ADDING & EMPHASIZING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Owing to
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** Debido a
+- **Definition:** Because of
+- **Example:** *"**Owing to** the storm, flights were canceled."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Due to
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** Debido a
+- **Definition:** Because of
+- **Example:** *"The delay is **due to** a server issue."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### As a result
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** Como resultado
+- **Definition:** Consequently
+- **Example:** *"**As a result**, the project was delayed."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Hence
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** Por lo tanto, de ahí
+- **Definition:** For this reason; therefore
+- **Example:** *"The code is legacy, **hence** the bugs."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Thus
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** Así, por lo tanto
+- **Definition:** As a result; therefore
+- **Example:** *"**Thus**, we conclude the experiment."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Thereby
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** De ese modo
+- **Definition:** By that means; as a result of that
+- **Example:** *"He resigned, **thereby** ending the dispute."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### In light of
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** A la luz de
+- **Definition:** Taking into consideration
+- **Example:** *"**In light of** recent events, we changed plans."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Given that
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** Dado que
+- **Definition:** Considering that
+- **Example:** *"**Given that** we have no budget, we must improvise."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Assuming that
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** Suponiendo que
+- **Definition:** If we suppose that
+- **Example:** *"**Assuming that** the data is correct..."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Inasmuch as
+?
+- **Part of Speech:** Academic Expression [CAUSE & EFFECT]
+- **Español:** En tanto que
+- **Definition:** Because; since
+- **Example:** *"**Inasmuch as** you're here, let's talk."*
+- **Nuance & Exam Tip:** Categoría retórica: CAUSE & EFFECT. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Likewise
+?
+- **Part of Speech:** Academic Expression [COMPARING & CONTRASTING]
+- **Español:** Igualmente, del mismo modo
+- **Definition:** In the same way; also
+- **Example:** *"Python is popular; **likewise**, JavaScript."*
+- **Nuance & Exam Tip:** Categoría retórica: COMPARING & CONTRASTING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### By the same token
+?
+- **Part of Speech:** Academic Expression [COMPARING & CONTRASTING]
+- **Español:** Por la misma razón
+- **Definition:** In the same way; for the same reason
+- **Example:** *"**By the same token**, we should test this too."*
+- **Nuance & Exam Tip:** Categoría retórica: COMPARING & CONTRASTING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Along the same lines
+?
+- **Part of Speech:** Academic Expression [COMPARING & CONTRASTING]
+- **Español:** En la misma línea
+- **Definition:** In a similar way
+- **Example:** *"**Along the same lines**, we could also..."*
+- **Nuance & Exam Tip:** Categoría retórica: COMPARING & CONTRASTING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### By contrast
+?
+- **Part of Speech:** Academic Expression [COMPARING & CONTRASTING]
+- **Español:** Por el contrario
+- **Definition:** Used to show difference
+- **Example:** *"**By contrast**, the new version is faster."*
+- **Nuance & Exam Tip:** Categoría retórica: COMPARING & CONTRASTING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Then again
+?
+- **Part of Speech:** Academic Expression [COMPARING & CONTRASTING]
+- **Español:** Por otra parte
+- **Definition:** But also considering; however
+- **Example:** *"It's expensive. **Then again**, it's quality."*
+- **Nuance & Exam Tip:** Categoría retórica: COMPARING & CONTRASTING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Rather than
+?
+- **Part of Speech:** Academic Expression [COMPARING & CONTRASTING]
+- **Español:** En lugar de
+- **Definition:** Instead of
+- **Example:** *"Use composition **rather than** inheritance."*
+- **Nuance & Exam Tip:** Categoría retórica: COMPARING & CONTRASTING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### All in all
+?
+- **Part of Speech:** Academic Expression [CONCLUDING ARGUMENTS]
+- **Español:** En definitiva
+- **Definition:** Considering everything
+- **Example:** *"**All in all**, it was a good year."*
+- **Nuance & Exam Tip:** Categoría retórica: CONCLUDING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### On balance
+?
+- **Part of Speech:** Academic Expression [CONCLUDING ARGUMENTS]
+- **Español:** En balance, sopesando todo
+- **Definition:** After considering all factors
+- **Example:** *"**On balance**, the benefits outweigh the risks."*
+- **Nuance & Exam Tip:** Categoría retórica: CONCLUDING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### The bottom line is
+?
+- **Part of Speech:** Academic Expression [CONCLUDING ARGUMENTS]
+- **Español:** La conclusión es
+- **Definition:** The most important point is
+- **Example:** *"**The bottom line is** we need more funding."*
+- **Nuance & Exam Tip:** Categoría retórica: CONCLUDING ARGUMENTS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Arguably
+?
+- **Part of Speech:** Hedging Phrase [HEDGING & SOFTENING]
+- **Español:** Podría decirse que
+- **Definition:** It can be argued
+- **Example:** *"Python is **arguably** the best for beginners."*
+- **Nuance & Exam Tip:** Categoría retórica: HEDGING & SOFTENING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Presumably
+?
+- **Part of Speech:** Hedging Phrase [HEDGING & SOFTENING]
+- **Español:** Presumiblemente
+- **Definition:** Used to convey what is probably true
+- **Example:** *"**Presumably**, they know what they're doing."*
+- **Nuance & Exam Tip:** Categoría retórica: HEDGING & SOFTENING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Seemingly
+?
+- **Part of Speech:** Hedging Phrase [HEDGING & SOFTENING]
+- **Español:** Aparentemente
+- **Definition:** So it appears
+- **Example:** *"The **seemingly** simple task took hours."*
+- **Nuance & Exam Tip:** Categoría retórica: HEDGING & SOFTENING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Purportedly
+?
+- **Part of Speech:** Hedging Phrase [HEDGING & SOFTENING]
+- **Español:** Supuestamente
+- **Definition:** As is claimed; allegedly
+- **Example:** *"The **purportedly** secure system was hacked."*
+- **Nuance & Exam Tip:** Categoría retórica: HEDGING & SOFTENING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Conceivably
+?
+- **Part of Speech:** Hedging Phrase [HEDGING & SOFTENING]
+- **Español:** Posiblemente, imaginablemente
+- **Definition:** It is possible to imagine
+- **Example:** *"This could **conceivably** take years."*
+- **Nuance & Exam Tip:** Categoría retórica: HEDGING & SOFTENING. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Constitute
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Constituir
+- **Definition:** To be or be equivalent to
+- **Example:** *"This **constitutes** a breach of contract."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Encompass
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Abarcar
+- **Definition:** To include comprehensively
+- **Example:** *"The project **encompasses** multiple phases."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Entail
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Conllevar, implicar
+- **Definition:** To involve as a necessary part
+- **Example:** *"Success **entails** hard work."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Denote
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Denotar, significar
+- **Definition:** To be a sign of; indicate
+- **Example:** *"Red **denotes** danger."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Alleviate
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Aliviar
+- **Definition:** To make less severe
+- **Example:** *"This should **alleviate** the pain."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Mitigate
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Mitigar
+- **Definition:** To make less severe or serious
+- **Example:** *"We must **mitigate** the risks."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Ameliorate
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Mejorar
+- **Definition:** To make something bad better
+- **Example:** *"Reforms will **ameliorate** the situation."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Elucidate
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Elucidar, aclarar
+- **Definition:** To make clear; explain
+- **Example:** *"Please **elucidate** your point."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Exemplify
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Ejemplificar
+- **Definition:** To be a typical example of
+- **Example:** *"This case **exemplifies** the problem."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Underscore
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Subrayar, enfatizar
+- **Definition:** To emphasize
+- **Example:** *"This **underscores** the importance of testing."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Emphasize
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Enfatizar
+- **Definition:** To give special importance to
+- **Example:** *"I cannot **emphasize** this enough."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Acknowledge
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Reconocer
+- **Definition:** To accept or admit the existence of
+- **Example:** *"I **acknowledge** my mistake."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Preclude
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Impedir, excluir
+- **Definition:** To prevent from happening; make impossible
+- **Example:** *"Age doesn't **preclude** learning new skills."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
+
+---
+
+### Render
+?
+- **Part of Speech:** Verb [USEFUL ACADEMIC VERBS]
+- **Español:** Volver, hacer (causar un estado)
+- **Definition:** To cause to be or become
+- **Example:** *"The update **rendered** the system useless."*
+- **Nuance & Exam Tip:** Categoría retórica: USEFUL ACADEMIC VERBS. Útil para argumentación formal y evaluación crítica C1.
 
 ---

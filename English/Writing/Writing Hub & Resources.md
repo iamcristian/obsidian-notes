@@ -10,6 +10,7 @@ created: 2025-12-29
 - [[Essay Guide]] - How to write essays
 - [[Essay Dictionary]] - Useful phrases
 - [[Essay Quick Reference]] - Quick lookup
+- [[Essay & Writing Flashcards]] - Mazo Anki de **250 tarjetas** (`#flashcards/writing`) para práctica activa con `Alt + R`
 
 ---
 

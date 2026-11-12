@@ -23,12 +23,12 @@ created: 2025-12-29
 
 > [!success]+ 🏛️ [[English/Cambridge Exam Suite/Cambridge Exam Suite Hub|Cambridge Exam Suite (Reading & Use of English)]]
 > Suite oficial interactiva de preparación Cambridge B2 First y C1 Advanced:
-> - **300 Tests operativos** con explicación, regla sintáctica, desglose de distractores y traducción.
-> - **4 Mazos de Repetición Espaciada (Anki):** `#flashcards/cambridge/part1`, `part2`, `part3` y `part4`.
+> - **1,000 Tests operativos** en 16 volúmenes con explicación, regla sintáctica, desglose de distractores y traducción.
+> - **4 Mazos de Repetición Espaciada (Anki):** `#flashcards/cambridge/part1`, `part2`, `part3` y `part4` (**250 tarjetas c/u**).
 > - **Partes 1 a 4:** Multiple Choice Cloze, Open Cloze, Word Formation y Key Word Transformations.
 
 > [!info]+ 📖 [[English/Vocabulary/Vocabulary Hub|Vocabulary]]
-> Words, phrasal verbs, idioms
+> Words, phrasal verbs, collocations, idioms, prepositions, confusables & business/tech (**11 mazos x 250 tarjetas**)
 > ```dataview
 > LIST WITHOUT ID file.link
 > FROM "English/Vocabulary"

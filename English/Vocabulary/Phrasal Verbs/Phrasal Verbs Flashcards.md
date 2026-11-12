@@ -5,13 +5,15 @@ tags:
   - level/C1
   - review
 created: 2026-11-02
-total_cards: 100
+total_cards: 250
 ---
 # ⚡ Essential Phrasal Verbs — Mazo Anki C1
 
 > [!tip] Mazo de Repetición Espaciada (Anki)
-> Mazo intensivo de 100 tarjetas con phrasal verbs indispensables de tres partes, separables, inseparables y de alto rendimiento para Cambridge B2/C1.
-> Presiona `Alt + R` para repasar este mazo interactivo de 100 tarjetas.
+> Mazo intensivo de 250 tarjetas con phrasal verbs indispensables de tres partes, separables, inseparables y de alto rendimiento para Cambridge B2/C1.
+> Presiona `Alt + R` para repasar este mazo interactivo de 250 tarjetas.
+
+---
 
 ---
 
@@ -615,30 +617,6 @@ total_cards: 100
 
 ---
 
-### Bring about
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Provocar / Causar / Ocasionar
-- **Definition:** To cause something to happen, especially a significant change.
-- **Example:** *"The rapid advent of quantum computing will bring about radical transformations in data encryption."*
-- **Collocations:** *bring about change, bring about a collapse, bring about reform*
-- **Nuance & Exam Tip:** Formal and analytical; frequent in Cambridge essays and academic reports.
-- **Word Family:** bring (verb)
-
----
-
-### Bring up
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Mencionar un tema / Criar y educar a un menor
-- **Definition:** 1. To mention or introduce a topic in conversation. 2. To look after a child until adulthood.
-- **Example:** *"I didn't want to bring up the budget deficit during the celebratory shareholders dinner."*
-- **Collocations:** *bring up an issue, bring up children, well brought up*
-- **Nuance & Exam Tip:** Dual meaning: conversational topic introduction vs. parental rearing.
-- **Word Family:** upbringing (noun)
-
----
-
 ### Bring down
 ?
 - **Part of Speech:** Phrasal verb [Transitive, Separable]
@@ -651,18 +629,6 @@ total_cards: 100
 
 ---
 
-### Call off
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Cancelar un evento planificado
-- **Definition:** To cancel an event or an agreement that had previously been scheduled.
-- **Example:** *"Organizers were forced to call off the outdoor festival due to torrential flooding."*
-- **Collocations:** *call off a strike, call off a wedding, call off a search*
-- **Nuance & Exam Tip:** Differs from *put off*: *put off* = postpone; *call off* = cancel entirely.
-- **Word Family:** call (verb)
-
----
-
 ### Call for
 ?
 - **Part of Speech:** Phrasal verb [Inseparable]
@@ -672,18 +638,6 @@ total_cards: 100
 - **Collocations:** *call for an investigation, call for patience, call for a toast*
 - **Nuance & Exam Tip:** Often used in political headlines to demand official action.
 - **Word Family:** call (verb)
-
----
-
-### Carry out
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Llevar a cabo / Realizar un experimento o tarea
-- **Definition:** To perform or complete a task, experiment, order, or investigation.
-- **Example:** *"Biochemists carried out rigorous clinical trials before submitting the vaccine for authorization."*
-- **Collocations:** *carry out research, carry out a survey, carry out orders*
-- **Nuance & Exam Tip:** High-frequency academic verb; colits with *research, test, survey, audit*.
-- **Word Family:** carry (verb)
 
 ---
 
@@ -735,18 +689,6 @@ total_cards: 100
 
 ---
 
-### Count on
-?
-- **Part of Speech:** Phrasal verb [Inseparable]
-- **Español:** Contar con / Fiarse plenamente de
-- **Definition:** To rely on someone or expect something to happen with confidence.
-- **Example:** *"In times of geopolitical crisis, small democracies must be able to count on mutual defense treaties."*
-- **Collocations:** *count on support, count on sb to do sth*
-- **Nuance & Exam Tip:** Synonym of *rely on* and *depend on*.
-- **Word Family:** count (verb)
-
----
-
 ### Cut back on
 ?
 - **Part of Speech:** Three-part phrasal verb [Inseparable]
@@ -756,18 +698,6 @@ total_cards: 100
 - **Collocations:** *cut back on spending, cut back on sugar, cut back on emissions*
 - **Nuance & Exam Tip:** Followed directly by a noun phrase or gerund (*-ing*).
 - **Word Family:** cutback (noun: recorte)
-
----
-
-### Do away with
-?
-- **Part of Speech:** Three-part phrasal verb [Inseparable]
-- **Español:** Abolir / Eliminar por completo / Suprimir
-- **Definition:** To abolish, discard, or eliminate something permanently.
-- **Example:** *"Progressive educators argue that we should do away with rigid standardized memorization exams."*
-- **Collocations:** *do away with regulations, do away with slavery, do away with paper records*
-- **Nuance & Exam Tip:** Stronger than *stop*; implies the complete institutional eradication of a practice.
-- **Word Family:** do (verb)
 
 ---
 
@@ -804,18 +734,6 @@ total_cards: 100
 - **Collocations:** *fall out over money, fall out with family*
 - **Nuance & Exam Tip:** Implies a serious rift that damages a personal or professional friendship.
 - **Word Family:** fallout (noun: secuelas/consecuencias tóxicas)
-
----
-
-### Figure out
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Descifrar / Resolver tras reflexionar
-- **Definition:** To understand or solve something after thought, investigation, or calculation.
-- **Example:** *"Cryptographers took three grueling months to figure out the encryption key of the rogue malware."*
-- **Collocations:** *figure out a puzzle, figure out the solution, figure out how to do*
-- **Nuance & Exam Tip:** Implies cognitive effort and problem-solving success.
-- **Word Family:** figure (noun/verb)
 
 ---
 
@@ -879,18 +797,6 @@ total_cards: 100
 
 ---
 
-### Hold back
-?
-- **Part of Speech:** Phrasal verb [Transitive/Intransitive, Separable]
-- **Español:** Contener lágrimas o impulsos / Retener información
-- **Definition:** To prevent someone or something from making progress; to restrain an emotion or withhold data.
-- **Example:** *"The whistleblower refused to hold back any incriminating documents from the investigative committee."*
-- **Collocations:** *hold back tears, hold back information, hold someone back*
-- **Nuance & Exam Tip:** Suppression of natural flow, whether emotional or informational.
-- **Word Family:** hold (verb)
-
----
-
 ### Hold up
 ?
 - **Part of Speech:** Phrasal verb [Transitive, Separable]
@@ -900,18 +806,6 @@ total_cards: 100
 - **Collocations:** *held up in traffic, armed hold-up, hold up well under stress*
 - **Nuance & Exam Tip:** Very frequent in passive voice: *I was held up in traffic*.
 - **Word Family:** holdup (noun: retraso / atraco)
-
----
-
-### Keep up with
-?
-- **Part of Speech:** Three-part phrasal verb [Inseparable]
-- **Español:** Mantener el ritmo de / Estar al día con
-- **Definition:** To move or progress at the same rate as someone or something; to remain abreast of news.
-- **Example:** *"It requires continuous professional reading to keep up with developments in artificial intelligence."*
-- **Collocations:** *keep up with the news, keep up with competitors, keep up with the pace*
-- **Nuance & Exam Tip:** Combines physical pacing with intellectual currency.
-- **Word Family:** keep (verb)
 
 ---
 
@@ -951,30 +845,6 @@ total_cards: 100
 
 ---
 
-### Make out
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Distinguir con dificultad / Comprender algo confuso
-- **Definition:** To manage with difficulty to see, hear, or understand something.
-- **Example:** *"Through the dense sea fog, the lookout could barely make out the distant flashing lighthouse beam."*
-- **Collocations:** *make out a shape, can barely make out, make out what someone is saying*
-- **Nuance & Exam Tip:** Refers to perception strained by darkness, noise, distance, or obscurity.
-- **Word Family:** make (verb)
-
----
-
-### Make up for
-?
-- **Part of Speech:** Three-part phrasal verb [Inseparable]
-- **Español:** Compensar por una falta o deficiencia
-- **Definition:** To compensate for something bad, lost, or inadequate with something good.
-- **Example:** *"Her exceptional intellectual enthusiasm more than made up for her lack of formal coding credentials."*
-- **Collocations:** *make up for lost time, make up for a mistake, make up for a deficit*
-- **Nuance & Exam Tip:** Synonym of the formal Latinate verb *compensate for*.
-- **Word Family:** make (verb)
-
----
-
 ### Pass away
 ?
 - **Part of Speech:** Phrasal verb [Intransitive, Euphemism]
@@ -983,18 +853,6 @@ total_cards: 100
 - **Example:** *"The beloved community physician passed away peacefully in his sleep at the venerable age of ninety-four."*
 - **Collocations:** *pass away peacefully, after someone passed away*
 - **Nuance & Exam Tip:** Polite social and formal register; preferred over the abrupt *die* in sympathetic contexts.
-- **Word Family:** pass (verb)
-
----
-
-### Pass out
-?
-- **Part of Speech:** Phrasal verb [Intransitive]
-- **Español:** Desmayarse / Perder el conocimiento
-- **Definition:** To become unconscious suddenly for a short time; to faint.
-- **Example:** *"Two dehydrated marathon runners passed out near the finish line in the blistering summer heat."*
-- **Collocations:** *pass out from heat, pass out from exhaustion*
-- **Nuance & Exam Tip:** Do NOT confuse with *pass away* (die). *Pass out* is temporary fainting.
 - **Word Family:** pass (verb)
 
 ---
@@ -1011,30 +869,6 @@ total_cards: 100
 
 ---
 
-### Point out
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Señalar / Hacer notar un hecho relevante
-- **Definition:** To direct someone's attention toward a particular fact, detail, or truth.
-- **Example:** *"The defense attorney pointed out that the security camera footage was time-stamped twenty minutes prior."*
-- **Collocations:** *point out an error, point out that, rightly pointed out*
-- **Nuance & Exam Tip:** Universal reporting verb in argumentative essays and debates.
-- **Word Family:** point (noun/verb)
-
----
-
-### Put off
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Posponer / Desanimar o causar rechazo
-- **Definition:** 1. To postpone to a later date. 2. To cause someone to feel dislike or reluctance towards something.
-- **Example:** *"Do not put off revising until the final week before your Cambridge examinations."*
-- **Collocations:** *put off a decision, put someone off eating, put off by the smell*
-- **Nuance & Exam Tip:** Followed by a gerund (*put off doing*). Dual meaning: scheduling vs. sensory repulsion.
-- **Word Family:** off-putting (adj: desagradable)
-
----
-
 ### Put out
 ?
 - **Part of Speech:** Phrasal verb [Transitive, Separable]
@@ -1044,78 +878,6 @@ total_cards: 100
 - **Collocations:** *put out a fire, put out a cigarette, hope I'm not putting you out*
 - **Nuance & Exam Tip:** Fire extinguishing vs. social inconvenience.
 - **Word Family:** put (verb)
-
----
-
-### Run into
-?
-- **Part of Speech:** Phrasal verb [Inseparable]
-- **Español:** Tropezarse con alguien por casualidad / Chocar con
-- **Definition:** To meet someone by chance; to collide with.
-- **Example:** *"I ran into my former physics lecturer while browsing the university bookshop in Edinburgh."*
-- **Collocations:** *run into an old friend, run into difficulties, run into debt*
-- **Nuance & Exam Tip:** Also used metaphorically: *run into difficulties/trouble* (encounter obstacles).
-- **Word Family:** run (verb)
-
----
-
-### Run out of
-?
-- **Part of Speech:** Three-part phrasal verb [Inseparable]
-- **Español:** Quedarse sin provisiones, tiempo o paciencia
-- **Definition:** To use up or finish a supply of something so that none remains.
-- **Example:** *"The stranded expedition ran out of potable water three days before reaching the coastal base."*
-- **Collocations:** *run out of time, run out of steam, run out of patience*
-- **Nuance & Exam Tip:** Classic C1 exam item: *we ran out of time* = *our time ran out*.
-- **Word Family:** run (verb)
-
----
-
-### Set off
-?
-- **Part of Speech:** Phrasal verb [Intransitive / Transitive, Separable]
-- **Español:** Partir de viaje / Activar una alarma / Desencadenar
-- **Definition:** 1. To begin a journey. 2. To cause an alarm or explosive device to trigger.
-- **Example:** *"The mountaineering squad set off at sunrise to reach the high ridge before the afternoon storm."*
-- **Collocations:** *set off on a journey, set off an alarm, set off a chain reaction*
-- **Nuance & Exam Tip:** Very versatile: departure vs. detonation vs. triggering reactions.
-- **Word Family:** set (verb)
-
----
-
-### Stand for
-?
-- **Part of Speech:** Phrasal verb [Inseparable]
-- **Español:** Significar (siglas) / Tolerar o consentir
-- **Definition:** 1. To represent or mean (especially of initials or acronyms). 2. To tolerate or accept behavior.
-- **Example:** *"The school headmistress stated firmly that she would not stand for bullying of any kind."*
-- **Collocations:** *what does it stand for?, not stand for bad behavior*
-- **Nuance & Exam Tip:** Usually used with negative (*won't stand for*) when denoting tolerance.
-- **Word Family:** stand (verb)
-
----
-
-### Stand out
-?
-- **Part of Speech:** Phrasal verb [Intransitive]
-- **Español:** Destacar con claridad / Sobresalir visiblemente
-- **Definition:** To be clearly noticeable, prominent, or conspicuously superior to others.
-- **Example:** *"Her impeccable command of idiomatic English made her stand out among all scholarship applicants."*
-- **Collocations:** *stand out from the crowd, stand out like a sore thumb (idiom)*
-- **Nuance & Exam Tip:** Positive distinction or prominent visual contrast.
-- **Word Family:** outstanding (adj: sobresaliente)
-
----
-
-### Take after
-?
-- **Part of Speech:** Phrasal verb [Inseparable]
-- **Español:** Parecerse físicamente o en carácter a un progenitor
-- **Definition:** To resemble an older relative in appearance, mannerisms, or temperament.
-- **Example:** *"With her quick mathematical intellect and love of chess, she clearly takes after her maternal grandfather."*
-- **Collocations:** *take after his father, take after her mother in temperament*
-- **Nuance & Exam Tip:** Specifically hereditary; do NOT confuse with *look like* (pure physical appearance without kinship).
-- **Word Family:** take (verb)
 
 ---
 
@@ -1140,30 +902,6 @@ total_cards: 100
 - **Collocations:** *take over a business, take over as leader, hostile takeover*
 - **Nuance & Exam Tip:** Essential corporate, political, and management verb.
 - **Word Family:** takeover (noun: adquisición empresarial)
-
----
-
-### Turn down
-?
-- **Part of Speech:** Phrasal verb [Transitive, Separable]
-- **Español:** Rechazar una oferta / Bajar el volumen de un aparato
-- **Definition:** 1. To reject an offer, request, or applicant. 2. To reduce the volume or intensity of an appliance.
-- **Example:** *"He decided to turn down the prestigious job offer in London because he preferred working remotely."*
-- **Collocations:** *turn down an offer, turn down an invitation, turn down the radio*
-- **Nuance & Exam Tip:** Rejection of opportunities vs. auditory reduction.
-- **Word Family:** turn (verb)
-
----
-
-### Turn out
-?
-- **Part of Speech:** Phrasal verb [Intransitive / Copular]
-- **Español:** Resultar ser al final / Asistir a una cita en masa
-- **Definition:** 1. To prove to be in the end; to transpire. 2. Of people, to attend an event in large numbers.
-- **Example:** *"What seemed like an insurmountable crisis turned out to be a tremendous learning opportunity."*
-- **Collocations:** *turn out to be, as it turned out, thousands turned out to vote*
-- **Nuance & Exam Tip:** Followed by infinitive (*turned out to be*) or clause (*it turned out that*).
-- **Word Family:** turnout (noun: afluencia / participación electoral)
 
 ---
 
@@ -1203,14 +941,1806 @@ total_cards: 100
 
 ---
 
-### Zero in on
+### Finish up
 ?
-- **Part of Speech:** Three-part phrasal verb [Inseparable]
-- **Español:** Fijar toda la atención en / Enfocarse con precisión milimétrica
-- **Definition:** To focus all of one's attention or aim directly at a specific target or problem.
-- **Example:** *"The forensic accounting squad immediately zeroed in on the suspicious Cayman Islands wire transfers."*
-- **Collocations:** *zero in on the problem, zero in on the target*
-- **Nuance & Exam Tip:** Military metaphor denoting laser-focused analytical concentration.
-- **Word Family:** zero (noun/verb)
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Terminar, acabar
+- **Definition:** To complete something
+- **Example:** *"Let's finish up this project before the deadline."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Use up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Agotar, usar todo
+- **Definition:** To consume completely
+- **Example:** *"We've used up all the printer paper."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Eat up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Comerse todo
+- **Definition:** To eat all of something
+- **Example:** *"Eat up your vegetables!"*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Clean up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Limpiar (completamente)
+- **Definition:** To make clean and tidy
+- **Example:** *"We need to clean up after the party."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Tidy up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Ordenar
+- **Definition:** To make neat and organized
+- **Example:** *"Please tidy up your room."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Sum up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Resumir
+- **Definition:** To summarize
+- **Example:** *"To sum up, we need to act now."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Speed up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Acelerar
+- **Definition:** To increase speed
+- **Example:** *"We need to speed up production."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Cheer up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Animar(se)
+- **Definition:** To become happier or make someone happier
+- **Example:** *"Cheer up! Things will get better."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Liven up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Animar, avivar
+- **Definition:** To make more interesting or exciting
+- **Example:** *"Some music would liven up this party."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Step up
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · UP]
+- **Español:** Intensificar, asumir responsabilidad
+- **Definition:** To increase effort; to take responsibility
+- **Example:** *"It's time to step up our efforts."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Ramp up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Aumentar, intensificar
+- **Definition:** To increase significantly
+- **Example:** *"The company is ramping up production."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Make up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Inventar; reconciliarse; maquillarse
+- **Definition:** To invent; to reconcile; to apply cosmetics
+- **Example:** *"Don't make up excuses." / "They made up after the argument."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Set up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Establecer, configurar, instalar
+- **Definition:** To establish or arrange
+- **Example:** *"We need to set up a meeting."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Build up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Acumular, desarrollar
+- **Definition:** To accumulate or develop gradually
+- **Example:** *"You need to build up your confidence."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Draw up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Redactar, preparar (documento)
+- **Definition:** To prepare a document
+- **Example:** *"The lawyer will draw up the contract."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Think up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Inventar, idear
+- **Definition:** To create or invent
+- **Example:** *"She's always thinking up new ideas."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Come up
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · UP]
+- **Español:** Surgir, aparecer
+- **Definition:** To arise or be mentioned
+- **Example:** *"The topic came up during the meeting."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Show up
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · UP]
+- **Español:** Aparecer, presentarse
+- **Definition:** To arrive or appear
+- **Example:** *"He didn't show up for the interview."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Crop up
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · UP]
+- **Español:** Surgir (inesperadamente)
+- **Definition:** To appear or occur unexpectedly
+- **Example:** *"Problems keep cropping up."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Pop up
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · UP]
+- **Español:** Aparecer repentinamente
+- **Definition:** To appear suddenly
+- **Example:** *"New cafes are popping up everywhere."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Catch up
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · UP]
+- **Español:** Ponerse al día, alcanzar
+- **Definition:** To reach the same level; to update
+- **Example:** *"I need to catch up on work."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Keep up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Mantener el ritmo
+- **Definition:** To maintain the same level or pace
+- **Example:** *"Keep up the good work!"*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Look up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Buscar (información); mejorar
+- **Definition:** To search for information; to improve
+- **Example:** *"Look it up in the dictionary."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Pick up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Recoger; aprender; mejorar
+- **Definition:** To collect; to learn informally; to improve
+- **Example:** *"Can you pick up the kids?" / "He picked up Spanish quickly."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Take up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Empezar (hobby); ocupar (espacio/tiempo)
+- **Definition:** To start a hobby; to occupy space/time
+- **Example:** *"I've taken up yoga." / "This takes up too much time."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Open up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Abrirse (emocionalmente); abrir
+- **Definition:** To share feelings; to unlock
+- **Example:** *"He finally opened up about his problems."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Back up
+?
+- **Part of Speech:** Phrasal Verb [Separable · UP]
+- **Español:** Hacer copia de seguridad; apoyar; retroceder
+- **Definition:** To support; to make a copy; to reverse
+- **Example:** *"Back up your files regularly."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### End up
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · UP]
+- **Español:** Terminar (en un estado/lugar)
+- **Definition:** To finally be in a situation
+- **Example:** *"We ended up getting lost."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Slow down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Reducir velocidad
+- **Definition:** To decrease speed
+- **Example:** *"You need to slow down and relax."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Calm down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Calmarse
+- **Definition:** To become less agitated
+- **Example:** *"Calm down, everything will be okay."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Cut down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Reducir (consumo); talar
+- **Definition:** To reduce; to fell (a tree)
+- **Example:** *"I'm trying to cut down on sugar."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Scale down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Reducir escala
+- **Definition:** To make smaller or reduce
+- **Example:** *"The company had to scale down operations."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Wind down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Relajarse; ir terminando
+- **Definition:** To relax; to gradually end
+- **Example:** *"I like to wind down with a book."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Die down
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · DOWN]
+- **Español:** Disminuir, apagarse
+- **Definition:** To become less intense
+- **Example:** *"The controversy eventually died down."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Tone down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Suavizar, moderar
+- **Definition:** To make less extreme
+- **Example:** *"You should tone down your criticism."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Write down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Anotar
+- **Definition:** To record in writing
+- **Example:** *"Write down the main points."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Note down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Tomar nota
+- **Definition:** To make a note of
+- **Example:** *"I noted down the address."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Jot down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Apuntar rápidamente
+- **Definition:** To write quickly
+- **Example:** *"Let me jot down your number."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Take down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Anotar; desmontar
+- **Definition:** To write down; to disassemble
+- **Example:** *"The secretary took down the minutes."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Come down to
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · DOWN]
+- **Español:** Reducirse a
+- **Definition:** To be essentially about
+- **Example:** *"It all comes down to money."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Get down to
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · DOWN]
+- **Español:** Ponerse a (trabajar)
+- **Definition:** To start doing something seriously
+- **Example:** *"Let's get down to business."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Track down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Localizar, encontrar
+- **Definition:** To find after searching
+- **Example:** *"We finally tracked down the source."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Narrow down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Reducir (opciones)
+- **Definition:** To reduce the number of options
+- **Example:** *"We've narrowed it down to three candidates."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Pin down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Concretar; inmovilizar
+- **Definition:** To determine exactly; to restrain
+- **Example:** *"It's hard to pin down the exact cause."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Play down
+?
+- **Part of Speech:** Phrasal Verb [Separable · DOWN]
+- **Español:** Restar importancia
+- **Definition:** To minimize the importance of
+- **Example:** *"The company tried to play down the scandal."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Boil down to
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · DOWN]
+- **Español:** Reducirse a
+- **Definition:** To be summarized as
+- **Example:** *"It boils down to a lack of communication."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Find out
+?
+- **Part of Speech:** Phrasal Verb [Separable · OUT]
+- **Español:** Descubrir, averiguar
+- **Definition:** To discover or learn
+- **Example:** *"I need to find out what happened."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Sort out
+?
+- **Part of Speech:** Phrasal Verb [Separable · OUT]
+- **Español:** Resolver, organizar
+- **Definition:** To resolve or organize
+- **Example:** *"We need to sort out this problem."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Cut out
+?
+- **Part of Speech:** Phrasal Verb [Separable · OUT]
+- **Español:** Recortar; eliminar; dejar de
+- **Definition:** To remove; to stop doing
+- **Example:** *"You should cut out junk food."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Phase out
+?
+- **Part of Speech:** Phrasal Verb [Separable · OUT]
+- **Español:** Eliminar gradualmente
+- **Definition:** To gradually discontinue
+- **Example:** *"They're phasing out older models."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Weed out
+?
+- **Part of Speech:** Phrasal Verb [Separable · OUT]
+- **Español:** Eliminar (lo indeseado)
+- **Definition:** To remove unwanted elements
+- **Example:** *"We need to weed out unqualified candidates."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Hand out
+?
+- **Part of Speech:** Phrasal Verb [Separable · OUT]
+- **Español:** Repartir, distribuir
+- **Definition:** To distribute
+- **Example:** *"The teacher handed out the tests."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Give out
+?
+- **Part of Speech:** Phrasal Verb [Separable · OUT]
+- **Español:** Distribuir; agotarse
+- **Definition:** To distribute; to stop functioning
+- **Example:** *"They're giving out free samples."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Set out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Partir; exponer; disponerse a
+- **Definition:** To start a journey; to explain; to intend
+- **Example:** *"We set out early in the morning."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Reach out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Contactar; tender la mano
+- **Definition:** To make contact; to extend help
+- **Example:** *"Don't hesitate to reach out if you need help."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Branch out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Expandirse, diversificarse
+- **Definition:** To expand into new areas
+- **Example:** *"The company is branching out into new markets."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Burn out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Agotarse (física/mentalmente)
+- **Definition:** To become exhausted
+- **Example:** *"Many employees are burning out."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Run out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Quedarse sin, agotarse
+- **Definition:** To use up completely
+- **Example:** *"We've run out of time."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Sell out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Agotarse (entradas); venderse
+- **Definition:** To sell all of something
+- **Example:** *"The concert sold out in minutes."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Opt out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Optar por no participar
+- **Definition:** To choose not to participate
+- **Example:** *"You can opt out of the program."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Miss out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Perderse (una oportunidad)
+- **Definition:** To fail to take an opportunity
+- **Example:** *"Don't miss out on this chance."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Help out
+?
+- **Part of Speech:** Phrasal Verb [Separable · OUT]
+- **Español:** Echar una mano
+- **Definition:** To assist
+- **Example:** *"Can you help out with the project?"*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Back out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Echarse atrás
+- **Definition:** To withdraw from a commitment
+- **Example:** *"They backed out of the deal."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Fall out
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OUT]
+- **Español:** Pelearse; caerse
+- **Definition:** To have a disagreement
+- **Example:** *"They fell out over money."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Go on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Continuar; ocurrir
+- **Definition:** To continue; to happen
+- **Example:** *"Please go on, I'm listening."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Keep on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Seguir (haciendo)
+- **Definition:** To continue doing
+- **Example:** *"Keep on trying, you'll succeed."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Move on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Seguir adelante
+- **Definition:** To progress; to leave the past behind
+- **Example:** *"It's time to move on from this issue."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Hold on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Esperar; aguantar
+- **Definition:** To wait; to grip tightly
+- **Example:** *"Hold on, I'll be right back."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Drag on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Prolongarse (tediosamente)
+- **Definition:** To continue for too long
+- **Example:** *"The meeting dragged on for hours."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Turn on
+?
+- **Part of Speech:** Phrasal Verb [Separable · ON]
+- **Español:** Encender
+- **Definition:** To switch on
+- **Example:** *"Turn on the lights, please."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Rely on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Depender de, confiar en
+- **Definition:** To depend on
+- **Example:** *"You can rely on me."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Depend on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Depender de
+- **Definition:** To be influenced by
+- **Example:** *"Success depends on hard work."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Take on
+?
+- **Part of Speech:** Phrasal Verb [Separable · ON]
+- **Español:** Asumir; contratar; enfrentar
+- **Definition:** To accept responsibility; to hire; to compete against
+- **Example:** *"She took on more responsibilities."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Catch on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Ponerse de moda; entender
+- **Definition:** To become popular; to understand
+- **Example:** *"The trend is catching on quickly."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Get on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Subir(se); llevarse bien
+- **Definition:** To board; to have a good relationship
+- **Example:** *"We get on well with our neighbors."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Focus on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Concentrarse en
+- **Definition:** To direct attention to
+- **Example:** *"Let's focus on the main issue."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Dwell on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Darle vueltas a
+- **Definition:** To think too much about
+- **Example:** *"Don't dwell on past mistakes."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Embark on
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · ON]
+- **Español:** Embarcarse en
+- **Definition:** To start something new
+- **Example:** *"She embarked on a new career."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Turn off
+?
+- **Part of Speech:** Phrasal Verb [Separable · OFF]
+- **Español:** Apagar
+- **Definition:** To switch off
+- **Example:** *"Turn off your phone during the exam."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Hold off
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OFF]
+- **Español:** Esperar, postergar
+- **Definition:** To delay or wait
+- **Example:** *"Let's hold off on making a decision."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Take off
+?
+- **Part of Speech:** Phrasal Verb [Separable · OFF]
+- **Español:** Despegar; quitarse; tener éxito
+- **Definition:** To leave the ground; to remove; to become successful
+- **Example:** *"The plane is about to take off."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Kick off
+?
+- **Part of Speech:** Phrasal Verb [Separable · OFF]
+- **Español:** Empezar, dar inicio
+- **Definition:** To start
+- **Example:** *"Let's kick off the meeting."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Come off
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OFF]
+- **Español:** Salir (bien/mal); desprenderse
+- **Definition:** To succeed; to become detached
+- **Example:** *"The event came off well."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Drop off
+?
+- **Part of Speech:** Phrasal Verb [Separable · OFF]
+- **Español:** Dejar (a alguien); dormirse
+- **Definition:** To leave someone; to fall asleep
+- **Example:** *"I'll drop you off at the station."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Go off
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OFF]
+- **Español:** Sonar (alarma); estropearse; explotar
+- **Definition:** To sound (alarm); to go bad; to explode
+- **Example:** *"The alarm went off at 6 AM."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Pull off
+?
+- **Part of Speech:** Phrasal Verb [Separable · OFF]
+- **Español:** Lograr (algo difícil)
+- **Definition:** To succeed in something difficult
+- **Example:** *"They pulled off an amazing victory."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Show off
+?
+- **Part of Speech:** Phrasal Verb [Separable · OFF]
+- **Español:** Presumir, fardar
+- **Definition:** To display proudly
+- **Example:** *"He's always showing off his new car."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Write off
+?
+- **Part of Speech:** Phrasal Verb [Separable · OFF]
+- **Español:** Dar por perdido; cancelar (deuda)
+- **Definition:** To consider as a loss
+- **Example:** *"They wrote off the debt."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Go away
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · AWAY]
+- **Español:** Irse, marcharse
+- **Definition:** To leave
+- **Example:** *"Go away, I need some peace."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Run away
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · AWAY]
+- **Español:** Huir, escaparse
+- **Definition:** To escape
+- **Example:** *"The dog ran away from home."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Get away
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · AWAY]
+- **Español:** Escaparse; alejarse
+- **Definition:** To escape; to take a break
+- **Example:** *"I need to get away for a few days."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Fade away
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · AWAY]
+- **Español:** Desvanecerse
+- **Definition:** To gradually disappear
+- **Example:** *"The music faded away slowly."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Drift apart
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · AWAY]
+- **Español:** Distanciarse
+- **Definition:** To gradually become less close
+- **Example:** *"We drifted apart over the years."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Put away
+?
+- **Part of Speech:** Phrasal Verb [Separable · AWAY]
+- **Español:** Guardar
+- **Definition:** To store in the proper place
+- **Example:** *"Put away your toys."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Take away
+?
+- **Part of Speech:** Phrasal Verb [Separable · AWAY]
+- **Español:** Llevarse; quitar
+- **Definition:** To remove
+- **Example:** *"What's your main takeaway from this?"*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Throw away
+?
+- **Part of Speech:** Phrasal Verb [Separable · AWAY]
+- **Español:** Tirar (a la basura)
+- **Definition:** To discard
+- **Example:** *"Don't throw away recyclable materials."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Shy away
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · AWAY]
+- **Español:** Evitar, rehuir
+- **Definition:** To avoid because of fear or dislike
+- **Example:** *"Don't shy away from challenges."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Get through
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · THROUGH]
+- **Español:** Superar; completar; comunicarse
+- **Definition:** To survive; to finish; to reach by phone
+- **Example:** *"How did you get through that difficult time?"*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Go through
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · THROUGH]
+- **Español:** Experimentar; revisar
+- **Definition:** To experience; to examine
+- **Example:** *"She's going through a difficult time."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Come through
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · THROUGH]
+- **Español:** Superar; cumplir
+- **Definition:** To survive; to deliver as promised
+- **Example:** *"She always comes through when needed."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Pull through
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · THROUGH]
+- **Español:** Recuperarse, salir adelante
+- **Definition:** To recover from illness or difficulty
+- **Example:** *"The patient pulled through after surgery."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### See through
+?
+- **Part of Speech:** Phrasal Verb [Separable · THROUGH]
+- **Español:** Calar (a alguien); llevar a cabo
+- **Definition:** To recognize deception; to complete
+- **Example:** *"I can see through your excuses."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Follow through
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · THROUGH]
+- **Español:** Cumplir, llevar a término
+- **Definition:** To complete something fully
+- **Example:** *"It's important to follow through on your commitments."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Look through
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · THROUGH]
+- **Español:** Revisar, examinar
+- **Definition:** To examine or read quickly
+- **Example:** *"I'll look through your report today."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Think through
+?
+- **Part of Speech:** Phrasal Verb [Separable · THROUGH]
+- **Español:** Reflexionar detenidamente
+- **Definition:** To consider carefully
+- **Example:** *"Think through the consequences before deciding."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Run through
+?
+- **Part of Speech:** Phrasal Verb [Separable · THROUGH]
+- **Español:** Repasar; ensayar
+- **Definition:** To review or practice
+- **Example:** *"Let's run through the presentation once more."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Break through
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · THROUGH]
+- **Español:** Lograr un avance
+- **Definition:** To achieve a breakthrough
+- **Example:** *"Scientists broke through in cancer research."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Go over
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OVER]
+- **Español:** Revisar, repasar
+- **Definition:** To review or examine
+- **Example:** *"Let's go over the main points."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Think over
+?
+- **Part of Speech:** Phrasal Verb [Separable · OVER]
+- **Español:** Considerar, reflexionar
+- **Definition:** To consider carefully
+- **Example:** *"I need time to think it over."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Do over
+?
+- **Part of Speech:** Phrasal Verb [Separable · OVER]
+- **Español:** Rehacer
+- **Definition:** To do again
+- **Example:** *"If I could do it over, I would."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Mull over
+?
+- **Part of Speech:** Phrasal Verb [Separable · OVER]
+- **Español:** Reflexionar sobre
+- **Definition:** To think about carefully
+- **Example:** *"I've been mulling over your proposal."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Blow over
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OVER]
+- **Español:** Pasar (una crisis)
+- **Definition:** To pass without serious consequences
+- **Example:** *"The scandal will eventually blow over."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Hand over
+?
+- **Part of Speech:** Phrasal Verb [Separable · OVER]
+- **Español:** Entregar
+- **Definition:** To give control or possession
+- **Example:** *"He handed over the documents."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Turn over
+?
+- **Part of Speech:** Phrasal Verb [Separable · OVER]
+- **Español:** Dar la vuelta; entregar
+- **Definition:** To flip; to transfer
+- **Example:** *"Turn over the page."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Win over
+?
+- **Part of Speech:** Phrasal Verb [Separable · OVER]
+- **Español:** Ganarse (a alguien)
+- **Definition:** To gain someone's support
+- **Example:** *"He won over the audience with his speech."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Gloss over
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · OVER]
+- **Español:** Pasar por alto
+- **Definition:** To avoid or minimize
+- **Example:** *"Don't gloss over the problems."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Come back
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · BACK]
+- **Español:** Volver, regresar
+- **Definition:** To return
+- **Example:** *"When will you come back?"*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Get back
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · BACK]
+- **Español:** Volver; recuperar
+- **Definition:** To return; to recover
+- **Example:** *"I'll get back to you tomorrow."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Look back
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · BACK]
+- **Español:** Mirar atrás, recordar
+- **Definition:** To remember the past
+- **Example:** *"Looking back, I have no regrets."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Date back
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · BACK]
+- **Español:** Datar de
+- **Definition:** To have existed since
+- **Example:** *"This tradition dates back centuries."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Pay back
+?
+- **Part of Speech:** Phrasal Verb [Separable · BACK]
+- **Español:** Devolver (dinero); vengarse
+- **Definition:** To repay; to get revenge
+- **Example:** *"I'll pay you back next week."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Call back
+?
+- **Part of Speech:** Phrasal Verb [Separable · BACK]
+- **Español:** Devolver la llamada
+- **Definition:** To return a phone call
+- **Example:** *"Can I call you back later?"*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Set back
+?
+- **Part of Speech:** Phrasal Verb [Separable · BACK]
+- **Español:** Retrasar; costar
+- **Definition:** To delay; to cost
+- **Example:** *"The delay set us back by two weeks."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Cut back
+?
+- **Part of Speech:** Phrasal Verb [Separable · BACK]
+- **Español:** Reducir, recortar
+- **Definition:** To reduce
+- **Example:** *"We need to cut back on expenses."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Fall back
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · BACK]
+- **Español:** Retroceder; recurrir a
+- **Definition:** To retreat; to rely on
+- **Example:** *"We can fall back on our savings."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Join in
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · IN]
+- **Español:** Participar, unirse
+- **Definition:** To participate
+- **Example:** *"Everyone joined in the discussion."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Chip in
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · IN]
+- **Español:** Contribuir (dinero/ideas)
+- **Definition:** To contribute
+- **Example:** *"We all chipped in for the gift."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Weigh in
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · IN]
+- **Español:** Opinar, intervenir
+- **Definition:** To give an opinion
+- **Example:** *"I'd like to weigh in on this issue."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Step in
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · IN]
+- **Español:** Intervenir
+- **Definition:** To intervene
+- **Example:** *"The manager had to step in."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Hand in
+?
+- **Part of Speech:** Phrasal Verb [Separable · IN]
+- **Español:** Entregar
+- **Definition:** To submit
+- **Example:** *"Hand in your assignments by Friday."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Fill in
+?
+- **Part of Speech:** Phrasal Verb [Separable · IN]
+- **Español:** Rellenar; sustituir
+- **Definition:** To complete a form; to substitute
+- **Example:** *"Please fill in the blanks."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Log in
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · IN]
+- **Español:** Iniciar sesión
+- **Definition:** To access a computer system
+- **Example:** *"You need to log in to continue."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Fit in
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · IN]
+- **Español:** Encajar, adaptarse
+- **Definition:** To be accepted; to have time for
+- **Example:** *"She fit in immediately with the team."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Kick in
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · IN]
+- **Español:** Hacer efecto; contribuir
+- **Definition:** To start to have an effect; to contribute
+- **Example:** *"The medication should kick in soon."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Factor in
+?
+- **Part of Speech:** Phrasal Verb [Separable · IN]
+- **Español:** Tener en cuenta
+- **Definition:** To include as a factor
+- **Example:** *"We need to factor in the costs."*
+- **Nuance & Exam Tip:** Separable: si el objeto es un pronombre (it, them, him), colócalo obligatoriamente en medio.
+
+---
+
+### Get on with
+?
+- **Part of Speech:** Phrasal Verb [Inseparable · 🔷 TRES PARTÍCULAS (Three-word Phrasal Verbs)]
+- **Español:** Llevarse bien con; continuar
+- **Definition:** To have a good relationship; to continue
+- **Example:** *"I get on well with my colleagues."*
+- **Nuance & Exam Tip:** Inseparable: el objeto siempre va detrás de la partícula (incluso si es pronombre).
+
+---
+
+### Clamp down on
+?
+- **Part of Speech:** Three-Part Phrasal Verb [Inseparable, Transitive]
+- **Español:** Tomar medidas drásticas contra, reprimir
+- **Definition:** To take strict official action to suppress, restrict, or stop an undesirable or illegal activity.
+- **Example:** *"Municipal regulators pledged to clamp down on short-term rental platforms operating without safety permits."*
+- **Collocations:** *clamp down on tax evasion, clamp down on speculation, clamp down hard on*
+- **Nuance & Exam Tip:** Equivalente formal: *crack down on* o *suppress*. Nunca separes sus partículas; sustantivo derivado muy frecuente en prensa: *a clampdown*.
+- **Word Family:** clampdown (n), crackdown (synonym n)
+
+---
+
+### Step down
+?
+- **Part of Speech:** Phrasal Verb [Intransitive]
+- **Español:** Dimitir, renunciar a un cargo o puesto
+- **Definition:** To resign or retire from an important position, office, or role.
+- **Example:** *"The board chairperson announced she would step down once the merger received regulatory clearance."*
+- **Collocations:** *step down as CEO, step down from office, agree to step down*
+- **Nuance & Exam Tip:** Más diplomático y voluntario en tono que *resign* bajo presión; rige *as* + cargo o *from* + institución.
+- **Word Family:** step-down (n/adj), resignation (formal equiv n)
+
+---
+
+### Pan out
+?
+- **Part of Speech:** Phrasal Verb [Intransitive]
+- **Español:** Salir bien, resultar, desenvolverse
+- **Definition:** To turn out well, succeed, or develop in a particular way over time.
+- **Example:** *"We cannot predict how the remote-first experiment will pan out until productivity stabilizes over two quarters."*
+- **Collocations:** *pan out as planned, see how things pan out, fail to pan out*
+- **Nuance & Exam Tip:** Procede de la minería de oro (lavar arena en sartén); muy idiomático en Speaking y artículos para evaluar resultados inciertos.
+- **Word Family:** outcome (formal equiv n), unfold (v)
+
+---
+
+### Iron out
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Limar asperezas, resolver pequeños detalles o problemas
+- **Definition:** To settle, resolve, or smooth away minor difficulties, disagreements, or inconsistencies.
+- **Example:** *"Lawyers worked late into the night to iron out final liability clauses before signing the treaty."*
+- **Collocations:** *iron out differences, iron out bugs, iron out details*
+- **Nuance & Exam Tip:** Alude a planchar arrugas: se aplica a problemas restantes o técnicos cuando lo esencial ya está acordado.
+- **Word Family:** resolution (formal equiv n), smooth over (synonym)
+
+---
+
+### Hash out
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Negociar a fondo, acordar tras largo debate
+- **Definition:** To reach an agreement or plan by discussing every detail thoroughly and often vigorously.
+- **Example:** *"Coalition leaders met behind closed doors to hash out a compromise on the energy budget."*
+- **Collocations:** *hash out a deal, hash out terms, hash out a strategy*
+- **Nuance & Exam Tip:** Sugiere discusión intensa y franca hasta pulir un acuerdo; diferente de *iron out* (pulir detalles finales ya encauzados).
+- **Word Family:** negotiate (formal equiv v), thrash out (BrE variant)
+
+---
+
+### Brush aside
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Hacer caso omiso de, descartar con displicencia
+- **Definition:** To dismiss a criticism, warning, or objection casually and refuse to take it seriously.
+- **Example:** *"Senior executives brushed aside engineers' warnings about database bottlenecks until Black Friday traffic hit."*
+- **Collocations:** *brush aside concerns, brush aside objections, lightly brush aside*
+- **Nuance & Exam Tip:** Transmite desdén o exceso de confianza al ignorar advertencias; equivalente culto: *dismiss out of hand*.
+- **Word Family:** dismissal (formal equiv n), shrug off (synonym)
+
+---
+
+### Fend off
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Defenderse de, repeler, capear (críticas o ataques)
+- **Definition:** To defend oneself against an attack, rival, or unwelcome questions and keep them at bay.
+- **Example:** *"The spokesperson deftly fended off hostile questions about executive bonuses during the briefing."*
+- **Collocations:** *fend off criticism, fend off a takeover, fend off competitors*
+- **Nuance & Exam Tip:** Muy usado tanto en lo físico (repeler un golpe) como en prensa económica o política (frenar una OPA hostil o críticas).
+- **Word Family:** defensive (adj), ward off (near-synonym)
+
+---
+
+### Stave off
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Evitar temporalmente, conjurar, posponer (una crisis)
+- **Definition:** To avert, delay, or hold back something dangerous, unpleasant, or threatening.
+- **Example:** *"Emergency liquidity injections helped the regional bank stave off insolvency through the winter."*
+- **Collocations:** *stave off bankruptcy, stave off disaster, stave off hunger*
+- **Nuance & Exam Tip:** Implica frenar un mal inminente, a menudo ganando tiempo; muy frecuente en ensayos sobre economía o clima.
+- **Word Family:** avert (formal equiv v), forestall (formal equiv v)
+
+---
+
+### Pare down
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Recortar a lo esencial, reducir drásticamente
+- **Definition:** To reduce something in size, number, or scope by trimming away unnecessary parts.
+- **Example:** *"To meet the strict launch window, the product team had to pare down the feature set to core diagnostics."*
+- **Collocations:** *pare down expenses, pare down a list, pared-down version*
+- **Nuance & Exam Tip:** Más preciso que *cut down*: sugiere podar cuidadosamente hasta dejar solo el núcleo indispensable (*pared-down*).
+- **Word Family:** pared-down (adj), trim (v), streamline (formal equiv v)
+
+---
+
+### Knuckle down
+?
+- **Part of Speech:** Phrasal Verb [Intransitive]
+- **Español:** Ponerse las pilas, aplicarse en serio al trabajo
+- **Definition:** To begin to work hard, steadily, and seriously after a period of delay or distraction.
+- **Example:** *"With Cambridge exams six weeks away, she decided to knuckle down and drill Use of English papers daily."*
+- **Collocations:** *knuckle down to work, time to knuckle down, really knuckle down*
+- **Nuance & Exam Tip:** Puede seguirse de *to + sustantivo/gerundio* (*knuckle down to revising*). Ideal en Speaking Part 1 o artículos semiformales.
+- **Word Family:** knuckle (n), buckle down (synonym)
+
+---
+
+### Hinge on
+?
+- **Part of Speech:** Prepositional Phrasal Verb [Inseparable, Transitive]
+- **Español:** Depender crucialmente de, girar en torno a
+- **Definition:** To depend entirely or critically on a particular condition, fact, or event.
+- **Example:** *"The viability of tidal power in the estuary hinges on lowering turbine maintenance costs."*
+- **Collocations:** *hinge on a single factor, hinge upon the outcome, everything hinges on*
+- **Nuance & Exam Tip:** Sinónimo formal y muy elegante de *depend completely on*; variante aún más formal: *hinge upon*. Imprescindible en Writing C1.
+- **Word Family:** hinge (n/v), pivotal (adj)
+
+---
+
+### Tamper with
+?
+- **Part of Speech:** Prepositional Phrasal Verb [Inseparable, Transitive]
+- **Español:** Manipular indebidamente, alterar, sabotear
+- **Definition:** To interfere with something in order to damage it, alter it without authorization, or falsify it.
+- **Example:** *"Cryptographic checksums immediately alert administrators if anyone attempts to tamper with audit logs."*
+- **Collocations:** *tamper with evidence, tamper with seals, tamper with witnesses*
+- **Nuance & Exam Tip:** Siempre conlleva intervención ilícita o dañina; no confundir con *tinker with* (retocar por curiosidad o ajuste).
+- **Word Family:** tampering (n), tamper-proof (adj), untampered (adj)
+
+---
+
+### Chime in
+?
+- **Part of Speech:** Phrasal Verb [Intransitive]
+- **Español:** Intervenir, terciar en una conversación, aportar un comentario
+- **Definition:** To interject a remark or join smoothly into an ongoing discussion, often in agreement or addition.
+- **Example:** *"Just as the debate stalled over licensing, the legal counsel chimed in with a pragmatic precedent."*
+- **Collocations:** *chime in with a comment, everyone chimed in, chime in to agree*
+- **Nuance & Exam Tip:** Más colaborativo o espontáneo que *butt in* (interrumpir con mala educación); rige *with* para introducir el comentario.
+- **Word Family:** chime (n/v), interject (formal equiv v)
+
+---
+
+### Double down on
+?
+- **Part of Speech:** Three-Part Phrasal Verb [Inseparable, Transitive]
+- **Español:** Redoblar la apuesta en, insistir con más fuerza en
+- **Definition:** To strengthen one's commitment to a particular strategy or course of action, especially a risky or criticized one.
+- **Example:** *"Despite sluggish subscriber growth, the streaming giant chose to double down on original science fiction."*
+- **Collocations:** *double down on a bet, double down on claims, double down on strategy*
+- **Nuance & Exam Tip:** Origen en el blackjack; hoy omnipresente en periodismo de análisis para señalar obstinación o convicción estratégica.
+- **Word Family:** double (adj/v), redouble (formal equiv v)
+
+---
+
+### Shore up
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Apuntalar, reforzar, sostener algo debilitado
+- **Definition:** To support, reinforce, or strengthen something that is weak, failing, or in danger of collapse.
+- **Example:** *"Coastal wetlands act as natural buffers that shore up vulnerable towns against severe storm surges."*
+- **Collocations:** *shore up confidence, shore up finances, shore up support*
+- **Nuance & Exam Tip:** De origen arquitectónico (apuntalar un muro), en C1/C2 brilla en sentido figurado con *confidence*, *defences* o *support*.
+- **Word Family:** shore (n), bolster (formal equiv v)
+
+---
+
+### Fizzle out
+?
+- **Part of Speech:** Phrasal Verb [Intransitive]
+- **Español:** Apagarse poco a poco, desinflarse, quedar en nada
+- **Definition:** To gradually lose energy, enthusiasm, or momentum and end in a weak or disappointing way.
+- **Example:** *"Although the boycott drew huge headlines on Monday, momentum began to fizzle out by Friday afternoon."*
+- **Collocations:** *fizzle out quickly, enthusiasm fizzled out, talks fizzled out*
+- **Nuance & Exam Tip:** Evoca el sonido de una chispa o bebida efervescente que pierde fuerza; sugiere contraste entre arranque fuerte y final flojo.
+- **Word Family:** fizzle (n/v), peter out (synonym)
+
+---
+
+### Stem from
+?
+- **Part of Speech:** Prepositional Phrasal Verb [Inseparable, Transitive]
+- **Español:** Provenir de, derivarse de, tener su origen en
+- **Definition:** To originate in or be caused directly by a particular source, condition, or event.
+- **Example:** *"Most deployment failures stem from undocumented assumptions buried in configuration scripts."*
+- **Collocations:** *stem from a misunderstanding, stem directly from, largely stem from*
+- **Nuance & Exam Tip:** Verbo causal imprescindible en C1 Essays como alternativa precisa a *come from* o *be caused by*. Nunca se usa en pasiva.
+- **Word Family:** stem (n/v), originate from (formal equiv)
+
+---
+
+### Account for
+?
+- **Part of Speech:** Prepositional Phrasal Verb [Inseparable, Transitive]
+- **Español:** Explicar, dar cuenta de; representar (un porcentaje)
+- **Definition:** To provide a satisfactory explanation for something, or to constitute a specified proportion of a total.
+- **Example:** *"Renewable sources accounted for nearly forty percent of national electricity generation last autumn."*
+- **Collocations:** *account for the discrepancy, account for half of, difficult to account for*
+- **Nuance & Exam Tip:** Doble uso vital en Cambridge Writing/Reports: 1) explicar una anomalía; 2) indicar porcentaje en gráficos o estadísticas.
+- **Word Family:** account (n), accountable (adj), unaccounted for (adj)
+
+---
+
+### Amount to
+?
+- **Part of Speech:** Prepositional Phrasal Verb [Inseparable, Transitive]
+- **Español:** Equivaler a, ascender a, suponer en la práctica
+- **Definition:** To add up to a total figure, or to be equivalent in effect or significance to something else.
+- **Example:** *"Delaying enforcement indefinitely would amount to tacitly repealing the environmental statute."*
+- **Collocations:** *amount to nothing, amount to a confession, amount to thousands*
+- **Nuance & Exam Tip:** En registro argumentativo C1/C2 equivale a 'venir a ser lo mismo que', casi siempre con *gerundio* o sustantivo detrás.
+- **Word Family:** amount (n), tantamount to (adj equiv)
+
+---
+
+### Bank on
+?
+- **Part of Speech:** Prepositional Phrasal Verb [Inseparable, Transitive]
+- **Español:** Contar con, dar por sentado, fiarse de que ocurra
+- **Definition:** To rely confidently on something happening or someone doing something as planned.
+- **Example:** *"Travelers should not bank on punctual rail connections during the winter engineering works."*
+- **Collocations:** *don't bank on it, bank on someone's support, bank on winning*
+- **Nuance & Exam Tip:** Muy frecuente en negativa (*don't bank on it*) o con objeto + gerundio (*bank on the weather holding*).
+- **Word Family:** bank (n/v), count on (synonym)
+
+---
+
+### Bear out
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Corroborar, confirmar, respaldar (una teoría o relato)
+- **Definition:** To confirm, support, or prove the truth of a claim, prediction, or account.
+- **Example:** *"Longitudinal medical records bear out the hypothesis that chronic sleep debt impairs metabolic health."*
+- **Collocations:** *bear out a theory, borne out by evidence, bear out someone's claim*
+- **Nuance & Exam Tip:** Atención al participio irregular: *borne out* (*his fears were borne out by the audit*). Nunca confundir con *born*.
+- **Word Family:** corroborate (formal equiv v), substantiate (formal equiv v)
+
+---
+
+### Blurt out
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Soltar de golpe, decir sin pensar
+- **Definition:** To say something suddenly and without careful thought, often revealing a secret or causing embarrassment.
+- **Example:** *"Flustered by the cross-examination, the witness inadvertently blurted out the exact date of the private meeting."*
+- **Collocations:** *blurt out the truth, accidentally blurt out, blurt out a secret*
+- **Nuance & Exam Tip:** Transmite pérdida momentánea de filtro o discreción por nervios, emoción o impulsividad.
+- **Word Family:** blurt (v), divulge (formal equiv v)
+
+---
+
+### Bottle up
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Reprimir, guardarse dentro (emociones)
+- **Definition:** To suppress and conceal strong emotions rather than expressing them openly.
+- **Example:** *"Psychologists warn that employees who bottle up chronic frustration risk sudden burnout."*
+- **Collocations:** *bottle up anger, bottle up feelings, bottled-up resentment*
+- **Nuance & Exam Tip:** El adjetivo compuesto *bottled-up* (reprimido, contenido) es muy expresivo en ensayos y reseñas psicológicas.
+- **Word Family:** bottled-up (adj), suppress (formal equiv v)
+
+---
+
+### Cave in
+?
+- **Part of Speech:** Phrasal Verb [Intransitive]
+- **Español:** Ceder ante la presión, derrumbarse
+- **Definition:** To collapse inward physically, or to finally yield to demands, pressure, or persuasion after resisting.
+- **Example:** *"After weeks of consumer boycotts, the manufacturer caved in and restored repairability guarantees."*
+- **Collocations:** *cave in to pressure, cave in under scrutiny, roof caved in*
+- **Nuance & Exam Tip:** Sentido doble: literal (hundirse un techo o túnel) y figurado (rendirse tras haber resistido; rige *to*).
+- **Word Family:** cave-in (n), capitulate (formal equiv v)
+
+---
+
+### Chalk up to
+?
+- **Part of Speech:** Three-Part Phrasal Verb [Separable Object + Preposition, Transitive]
+- **Español:** Atribuir a, achacar a (como lección o causa)
+- **Definition:** To attribute a success, failure, or odd event to a particular cause or treat it as a learning experience.
+- **Example:** *"Rather than dwelling on the misconfigured launch, the team chose to chalk it up to experience."*
+- **Collocations:** *chalk it up to experience, chalk up to luck, chalk up to poor planning*
+- **Nuance & Exam Tip:** El objeto va casi siempre entre *chalk* y *up to* (*chalk [something] up to [cause]*). Idiomático y muy natural.
+- **Word Family:** attribute to (formal equiv), put down to (synonym)
+
+---
+
+### Conjure up
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Evocar, traer a la mente; hacer surgir como por arte de magia
+- **Definition:** To evoke an image, memory, or feeling in the mind, or to produce something impressive as if by magic.
+- **Example:** *"The smell of wet pine needles instantly conjured up memories of childhood summers in the highlands."*
+- **Collocations:** *conjure up images of, conjure up memories, conjure up a solution*
+- **Nuance & Exam Tip:** Muy valioso en Reviews y narrativa C1/C2 para describir cómo una obra evoca atmósferas o recuerdos.
+- **Word Family:** conjure (v), evoke (formal equiv v)
+
+---
+
+### Dawn on
+?
+- **Part of Speech:** Prepositional Phrasal Verb [Inseparable, Transitive]
+- **Español:** Caer en la cuenta, volverse evidente de repente
+- **Definition:** To suddenly become clear or obvious to someone after a period of unawareness.
+- **Example:** *"It gradually dawned on the investigators that the seemingly random outages shared a single upstream dependency."*
+- **Collocations:** *dawn on someone, suddenly dawn on me, it dawned on them that*
+- **Nuance & Exam Tip:** Sujeto frecuente *it* anticipatorio (*it dawned on her that...*) o el hecho mismo (*the truth dawned on him*). Nunca pasiva.
+- **Word Family:** dawn (n/v), realization (n)
+
+---
+
+### Drum up
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Conseguir activamente, movilizar, generar (apoyo o negocio)
+- **Definition:** To generate, attract, or increase support, enthusiasm, or business through deliberate effort.
+- **Example:** *"Campaigners toured regional towns to drum up grassroots support for the clean-air referendum."*
+- **Collocations:** *drum up support, drum up enthusiasm, drum up business*
+- **Nuance & Exam Tip:** Evoca redoblar un tambor para reunir gente; sugiere promoción energética para despertar interés.
+- **Word Family:** rally (synonym v), garner (formal equiv v)
+
+---
+
+### Eke out
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Estirar con esfuerzo, ganarse a duras penas
+- **Definition:** To make a limited supply last longer by using it sparingly, or to earn a living with great difficulty.
+- **Example:** *"Before rural electrification, families eked out a precarious living farming terraced hillsides."*
+- **Collocations:** *eke out a living, eke out scarce supplies, eke out a narrow victory*
+- **Nuance & Exam Tip:** Palabra C2 de alto rendimiento en Reading; siempre transmite escasez y esfuerzo tenaz.
+- **Word Family:** subsist (formal equiv v), scrape by (near-synonym)
+
+---
+
+### Flesh out
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Dar cuerpo a, desarrollar con detalle, concretar
+- **Definition:** To add substance, concrete details, or fuller information to an outline, skeleton plan, or argument.
+- **Example:** *"Your essay outline is promising, though the third paragraph needs empirical examples to flesh out the claim."*
+- **Collocations:** *flesh out a proposal, flesh out details, flesh out an argument*
+- **Nuance & Exam Tip:** Metáfora de añadir carne a un esqueleto; ideal en informes, propuestas y tutorías de redacción.
+- **Word Family:** elaborate on (formal equiv), substantiate (formal equiv v)
+
+---
+
+### Fob off
+?
+- **Part of Speech:** Phrasal Verb [Separable, Transitive]
+- **Español:** Despachar con excusas, dar gato por liebre
+- **Definition:** To deceive or pacify someone with an insincere excuse or something of inferior value.
+- **Example:** *"Residents refused to be fobbed off with vague assurances when drinking water remained discoloured."*
+- **Collocations:** *fob someone off with excuses, be fobbed off, fob off callers*
+- **Nuance & Exam Tip:** De uso británico frecuente (*BrE*); estructura habitual: *fob [someone] off with [something inferior/excuse]*.
+- **Word Family:** palming off (synonym), brush off (near-synonym)
+
+---
+
+### Get round to
+?
+- **Part of Speech:** Three-Part Phrasal Verb [Inseparable, Transitive]
+- **Español:** Encontrar por fin tiempo para hacer algo
+- **Definition:** To finally find the time or opportunity to deal with something one has been intending to do.
+- **Example:** *"Despite flagging three documentation errors last month, I still have not got round to patching them."*
+- **Collocations:** *get round to doing, finally get round to, never get round to*
+- **Nuance & Exam Tip:** En inglés americano suele escribirse *get around to*. Atención en Use of English: aquí *to* es preposición y exige gerundio (*-ing*).
+- **Word Family:** round (adv), procrastinate (related v)
+
+---
+
+### Harp on about
+?
+- **Part of Speech:** Three-Part Phrasal Verb [Inseparable, Transitive]
+- **Español:** Machacar con, insistir cansinamente en lo mismo
+- **Definition:** To talk or complain persistently and tediously about the same topic.
+- **Example:** *"Colleagues grew weary of hearing the consultant harp on about minor formatting preferences during strategy meetings."*
+- **Collocations:** *keep harping on about, harp on the same theme, stop harping on*
+- **Nuance & Exam Tip:** Siempre desaprobador: describe reiteración pesada y molesta. A veces se usa sin *about* (*harp on the same point*).
+- **Word Family:** harp (v), dwell on (near-synonym)
+
+---
+
+### Lash out
+?
+- **Part of Speech:** Phrasal Verb [Intransitive]
+- **Español:** Arremeter, atacar verbal o físicamente de repente
+- **Definition:** To make a sudden, violent physical or verbal attack against someone or something, often out of frustration.
+- **Example:** *"Cornered by contradictory audit findings, the director lashed out at journalists covering the press conference."*
+- **Collocations:** *lash out at critics, lash out in anger, lash out verbally*
+- **Nuance & Exam Tip:** Rige *at* o *against* cuando se nombra el blanco de la ira; indica pérdida brusca de compostura.
+- **Word Family:** lash (v/n), backlash (n)
+
+---
+
+### Latch onto
+?
+- **Part of Speech:** Prepositional Phrasal Verb [Inseparable, Transitive]
+- **Español:** Aferrarse a (una idea o persona), captar al vuelo
+- **Definition:** To seize upon and adopt an idea eagerly, or to attach oneself persistently to another person.
+- **Example:** *"Populist commentators quickly latched onto the flawed statistic, repeating it across television panels."*
+- **Collocations:** *latch onto an idea, latch onto a trend, latch onto someone*
+- **Nuance & Exam Tip:** Con ideas o frases implica aprovecharlas con entusiasmo (a veces oportunista); con personas indica apego pegajoso.
+- **Word Family:** latch (n/v), seize upon (formal equiv)
+
+---
+
+### Level off
+?
+- **Part of Speech:** Phrasal Verb [Intransitive]
+- **Español:** Estabilizarse, nivelarse (una tendencia o cifra)
+- **Definition:** To stop rising or falling and remain steady at a relatively constant rate or level.
+- **Example:** *"Following three years of steep price inflation, housing costs finally began to level off in the autumn."*
+- **Collocations:** *prices level off, growth levels off, begin to level off*
+- **Nuance & Exam Tip:** Verbo técnico de gran valor en Cambridge Reports y descripción de tendencias; variante: *level out*.
+- **Word Family:** plateau (formal equiv v/n), stabilize (formal equiv v)
+
+---
+
+### Own up to
+?
+- **Part of Speech:** Three-Part Phrasal Verb [Inseparable, Transitive]
+- **Español:** Confesar, admitir la culpa de algo
+- **Definition:** To confess openly and honestly to having done something wrong or foolish.
+- **Example:** *"Nobody was willing to own up to deleting the shared production credentials before the release."*
+- **Collocations:** *own up to a mistake, refuse to own up, eventually own up*
+- **Nuance & Exam Tip:** Más natural en habla y narrativa que *confess to*; exige sustantivo o gerundio tras *to* (*own up to breaking it*).
+- **Word Family:** confess to (formal equiv), acknowledge (formal equiv v)
 
 ---

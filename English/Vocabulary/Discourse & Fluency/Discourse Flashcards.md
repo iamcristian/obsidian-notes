@@ -5,13 +5,15 @@ tags:
   - level/C1
   - review
 created: 2026-11-02
-total_cards: 100
+total_cards: 250
 ---
 # 🌊 Discourse & Fluency — Mazo Anki C1
 
 > [!tip] Mazo de Repetición Espaciada (Anki)
-> Mazo intensivo de 100 tarjetas con conectores discursivos, marcadores de fluidez, operadores de concesión, causalidad y síntesis para Cambridge C1 y ensayos académicos.
-> Presiona `Alt + R` para repasar este mazo interactivo de 100 tarjetas.
+> Mazo intensivo de 250 tarjetas con conectores discursivos, marcadores de fluidez, operadores de concesión, causalidad y síntesis para Cambridge C1 y ensayos académicos.
+> Presiona `Alt + R` para repasar este mazo interactivo de 250 tarjetas.
+
+---
 
 ---
 
@@ -627,30 +629,6 @@ total_cards: 100
 
 ---
 
-### Conversely
-?
-- **Part of Speech:** Adverb / Sentence connector
-- **Español:** Por el contrario / A la inversa
-- **Definition:** Introducing a statement or idea which reverses one that has just been made or presents an opposite truth.
-- **Example:** *"High interest rates cool inflationary pressure; conversely, they increase the borrowing costs for startups."*
-- **Collocations:** *conversely, it might be argued that*
-- **Nuance & Exam Tip:** Logical operator showing reciprocal inversion rather than simple contradiction.
-- **Word Family:** converse (noun/adj)
-
----
-
-### On the contrary
-?
-- **Part of Speech:** Adverbial emphatic phrase
-- **Español:** Al contrario / Todo lo contrario
-- **Definition:** Used to refute a negative statement and introduce an emphatic opposing truth.
-- **Example:** *"The reforms did not stifle innovation; on the contrary, they spurred unprecedented venture investments."*
-- **Collocations:** *quite the contrary, on the contrary*
-- **Nuance & Exam Tip:** Must follow a negative assertion. Do NOT confuse with *on the other hand* (which balances two valid views).
-- **Word Family:** contrary (adj)
-
----
-
 ### Whereas
 ?
 - **Part of Speech:** Subordinating conjunction
@@ -684,18 +662,6 @@ total_cards: 100
 - **Collocations:** *albeit slowly, albeit briefly, albeit with difficulty*
 - **Nuance & Exam Tip:** Never followed by a finite clause with a verb: *albeit it was slow* is INCORRECT; use *albeit slowly*.
 - **Word Family:** although (synonym)
-
----
-
-### Nonetheless
-?
-- **Part of Speech:** Adverb / Sentence transition
-- **Español:** No obstante / Aun así / Sin embargo
-- **Definition:** In spite of that; nevertheless.
-- **Example:** *"The experimental trial was fraught with logistical delays; nonetheless, the team met its clinical deadline."*
-- **Collocations:** *nonetheless, the evidence suggests*
-- **Nuance & Exam Tip:** Written as a single compound word. Highly formal concession.
-- **Word Family:** nevertheless (synonym)
 
 ---
 
@@ -735,18 +701,6 @@ total_cards: 100
 
 ---
 
-### Notwithstanding
-?
-- **Part of Speech:** Preposition / Adverb [Formal/Legal]
-- **Español:** A pesar de / No obstante
-- **Definition:** In spite of; despite.
-- **Example:** *"Notwithstanding several fiery protests outside parliament, the contentious tax reform bill passed smoothly."*
-- **Collocations:** *notwithstanding the fact that, difficulties notwithstanding*
-- **Nuance & Exam Tip:** Can be placed BEFORE or AFTER the noun phrase (*the objections notwithstanding*).
-- **Word Family:** withstand (verb)
-
----
-
 ### In consequence
 ?
 - **Part of Speech:** Formal causal transition
@@ -759,18 +713,6 @@ total_cards: 100
 
 ---
 
-### Thereby
-?
-- **Part of Speech:** Adverb [Academic/Formal]
-- **Español:** De ese modo / Con ello / Por medio de lo cual
-- **Definition:** By that means; as a result of that.
-- **Example:** *"The software compresses video streams dynamically, thereby reducing bandwidth consumption by forty percent."*
-- **Collocations:** *thereby reducing, thereby eliminating, thereby allowing*
-- **Nuance & Exam Tip:** Usually followed by a present participle (*-ing*), forming tight, elegant subordinate clauses.
-- **Word Family:** there (adv) + by (prep)
-
----
-
 ### Whereby
 ?
 - **Part of Speech:** Relative adverb [Formal/Legal]
@@ -780,30 +722,6 @@ total_cards: 100
 - **Collocations:** *a mechanism whereby, a system whereby, a process whereby*
 - **Nuance & Exam Tip:** Introduces relative clauses describing systems, protocols, or agreements.
 - **Word Family:** where (adv) + by (prep)
-
----
-
-### Thus
-?
-- **Part of Speech:** Adverb [Academic]
-- **Español:** Por consiguiente / Así pues / De este modo
-- **Definition:** As a result or consequence of this; therefore.
-- **Example:** *"The alloy contains titanium; thus, it withstands extreme friction without warping."*
-- **Collocations:** *thus creating, thus far, thus enabling*
-- **Nuance & Exam Tip:** Classical mathematical and scholarly connector of deduction.
-- **Word Family:** therefore (synonym)
-
----
-
-### Hence
-?
-- **Part of Speech:** Adverb [Formal/Academic]
-- **Español:** De ahí que / Por ende / En consecuencia
-- **Definition:** As a consequence; for this reason.
-- **Example:** *"The legal wording was intensely ambiguous; hence, the court required three months to deliver its interpretation."*
-- **Collocations:** *hence the need for, hence the term*
-- **Nuance & Exam Tip:** Can be followed directly by a noun phrase (*hence the confusion*) without a full clause.
-- **Word Family:** thence (archaic cousin)
 
 ---
 
@@ -855,18 +773,6 @@ total_cards: 100
 
 ---
 
-### In order that
-?
-- **Part of Speech:** Subordinating purpose conjunction [Formal]
-- **Español:** Con el fin de que / Para que
-- **Definition:** So that; introducing a purpose clause, frequently with modal auxiliaries (*may, might, should*).
-- **Example:** *"Vaccine patents were pooled in order that developing nations might manufacture affordable generics."*
-- **Collocations:** *in order that citizens may*
-- **Nuance & Exam Tip:** Much more elevated and formal than standard *so that*.
-- **Word Family:** order (noun)
-
----
-
 ### With the aim of
 ?
 - **Part of Speech:** Prepositional purpose phrase
@@ -888,30 +794,6 @@ total_cards: 100
 - **Collocations:** *working to this end, dedicated to this end*
 - **Nuance & Exam Tip:** Stands at the start of a sentence linking the strategic action to the stated objective.
 - **Word Family:** end (noun: fin/propósito)
-
----
-
-### That is to say
-?
-- **Part of Speech:** Reformulation marker [Formal]
-- **Español:** Es decir / A saber / O lo que es lo mismo
-- **Definition:** In other words; used to clarify or specify the exact meaning of what has just been stated.
-- **Example:** *"The contract is non-exclusive; that is to say, both parties remain free to solicit outside agreements."*
-- **Collocations:** *or that is to say*
-- **Nuance & Exam Tip:** Precise explanatory tool in legal and theoretical arguments.
-- **Word Family:** say (verb)
-
----
-
-### Namely
-?
-- **Part of Speech:** Exemplifying adverb [Formal]
-- **Español:** A saber / Concretamente
-- **Definition:** That is to say; specifically (used to introduce detailed items that specify a general term).
-- **Example:** *"Only one sovereign nation has successfully landed astronauts on the Moon, namely the United States."*
-- **Collocations:** *one critical factor, namely*
-- **Nuance & Exam Tip:** Points directly to an exhaustive or singular identification.
-- **Word Family:** name (noun/verb)
 
 ---
 
@@ -1023,30 +905,6 @@ total_cards: 100
 
 ---
 
-### By the same token
-?
-- **Part of Speech:** Analogous connector
-- **Español:** Por la misma razón / Del mismo modo
-- **Definition:** In the same way or for the same reason.
-- **Example:** *"High quality demands rigorous investment; by the same token, cheap shortcuts inevitably degrade standards."*
-- **Collocations:** *equally, by the same token*
-- **Nuance & Exam Tip:** Emphasizes reciprocal logic between two complementary truths.
-- **Word Family:** token (noun)
-
----
-
-### For instance
-?
-- **Part of Speech:** Exemplifying connector
-- **Español:** Por ejemplo
-- **Definition:** As an example.
-- **Example:** *"Many mammals hibernate during winter; for instance, European hedgehogs enter deep torpor until spring."*
-- **Collocations:** *take, for instance; for instance,*
-- **Nuance & Exam Tip:** Interchangeable with *for example*, but slightly more literary in essays.
-- **Word Family:** instance (noun)
-
----
-
 ### Not to mention
 ?
 - **Part of Speech:** Additive intensifying phrase
@@ -1131,18 +989,6 @@ total_cards: 100
 
 ---
 
-### By the same token
-?
-- **Part of Speech:** Reciprocal logical connector
-- **Español:** Del mismo modo / Por analogía
-- **Definition:** Introducing a statement that follows from the same line of logic as the previous point.
-- **Example:** *"Rewarding excellence inspires young talent; by the same token, rewarding nepotism demoralizes the workforce."*
-- **Collocations:** *in equal measure, by the same token*
-- **Nuance & Exam Tip:** Balances symmetrical causes and consequences in argumentative writing.
-- **Word Family:** token (noun)
-
----
-
 ### In accordance with
 ?
 - **Part of Speech:** Prepositional conformity phrase
@@ -1212,5 +1058,1635 @@ total_cards: 100
 - **Collocations:** *to top it all off, as a final blow*
 - **Nuance & Exam Tip:** Brings dramatic momentum to personal narratives and case studies.
 - **Word Family:** cap (verb)
+
+---
+
+### To begin with
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** Para empezar, en primer lugar
+- **Definition:** Introduces the first point in a structured speech or essay.
+- **Example:** *"To begin with, let us examine the architectural costs of microservices."*
+- **Nuance & Exam Tip:** More formal than 'for starters'. Often paired with 'secondly'.
+
+---
+
+### Initially
+?
+- **Part of Speech:** Discourse Marker [Formal/Narrative]
+- **Español:** Al principio, inicialmente
+- **Definition:** Describes the opening stage before changes or developments occur.
+- **Example:** *"Initially, the project was budgeted at two million euros."*
+- **Nuance & Exam Tip:** Often sets up a contrast with 'later' or 'subsequently'.
+
+---
+
+### When it comes to
+?
+- **Part of Speech:** Discourse Marker [Neutral]
+- **Español:** En lo que respecta a, a la hora de
+- **Definition:** Introduces a specific topic, domain, or practical skill.
+- **Example:** *"When it comes to asynchronous throughput, Go outperforms Python."*
+- **Nuance & Exam Tip:** Followed strictly by a noun phrase or gerund (-ing).
+
+---
+
+### Regarding
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** En cuanto a, sobre
+- **Definition:** Single-word prepositional opener for focusing on a topic.
+- **Example:** *"Regarding the server migration, we anticipate minimal user downtime."*
+- **Nuance & Exam Tip:** Very common in corporate email and professional correspondence.
+
+---
+
+### As for
+?
+- **Part of Speech:** Discourse Marker [Neutral]
+- **Español:** En cuanto a, por lo que toca a
+- **Definition:** Introduces a secondary subject, often contrasting with the main one.
+- **Example:** *"The hardware is intact; as for the software, extensive patching is needed."*
+- **Nuance & Exam Tip:** Often starts a sentence with a casual shift of focus.
+
+---
+
+### In the interim
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** En el período intermedio
+- **Definition:** During the temporary period between transitions.
+- **Example:** *"The vice-president will manage the division in the interim."*
+- **Nuance & Exam Tip:** Formal business and institutional phrasing.
+
+---
+
+### Additionally
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** Adicionalmente, asimismo
+- **Definition:** Single-word formal transition for adding information.
+- **Example:** *"Additionally, five international airports have installed thermal scanners."*
+- **Nuance & Exam Tip:** Modern journalistic and academic standard.
+
+---
+
+### Into the bargain
+?
+- **Part of Speech:** Discourse Marker [Idiomatic]
+- **Español:** Por añadidura, de propina
+- **Definition:** In addition to other items; on top of everything else.
+- **Example:** *"She was awarded the championship trophy and a ten-thousand-dollar scholarship into the bargain."*
+- **Nuance & Exam Tip:** Positioned at the end of a clause for rhetorical climax.
+
+---
+
+### In sharp contrast to
+?
+- **Part of Speech:** Discourse Marker [Prepositional]
+- **Español:** En marcado contraste con
+- **Definition:** Emphasizes an intense, dramatic disparity.
+- **Example:** *"In sharp contrast to his dogmatic predecessor, the new prime minister consults widely."*
+- **Nuance & Exam Tip:** Requires an immediate noun phrase.
+
+---
+
+### Despite
+?
+- **Part of Speech:** Discourse Marker [Prepositional]
+- **Español:** A pesar de, pese a
+- **Definition:** Preposition indicating concession without clause change.
+- **Example:** *"Despite heavy morning blizzards, all suburban trains ran strictly on time."*
+- **Nuance & Exam Tip:** Followed by a noun, pronoun, or gerund (-ing). NEVER use *despite of*.
+
+---
+
+### Irrespective of
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** Independientemente de, sin tener en cuenta
+- **Definition:** Formal equivalent of 'regardless of'.
+- **Example:** *"Candidates are evaluated strictly on academic merit, irrespective of socioeconomic origin."*
+- **Nuance & Exam Tip:** Prepositional collocation with 'of'.
+
+---
+
+### Therefore
+?
+- **Part of Speech:** Discourse Marker [Logical]
+- **Español:** Por lo tanto, por consiguiente
+- **Definition:** Deduces a direct logical conclusion from established premises.
+- **Example:** *"The suspect was in another city; therefore, he cannot have committed the crime."*
+- **Nuance & Exam Tip:** Classical syllogistic and mathematical connector.
+
+---
+
+### Owing to
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** Debido a, a causa de
+- **Definition:** Formal prepositional synonym of 'because of'.
+- **Example:** *"Owing to mechanical difficulties, flight four-twelve has been cancelled."*
+- **Nuance & Exam Tip:** Preferred at the start of sentences in formal British prose.
+
+---
+
+### In that
+?
+- **Part of Speech:** Discourse Marker [Qualifying]
+- **Español:** En el sentido de que, dado que
+- **Definition:** Explains in what specific way or respect a statement is true.
+- **Example:** *"The two approaches differ in that one prioritizes speed while the other ensures safety."*
+- **Nuance & Exam Tip:** Subordinating conjunction of explanation.
+
+---
+
+### Unless
+?
+- **Part of Speech:** Discourse Marker [Negative Conditional]
+- **Español:** A menos que, a no ser que
+- **Definition:** Introduces an exception without which the main clause holds.
+- **Example:** *"The merger cannot proceed unless approved unanimously by regulatory overseers."*
+- **Nuance & Exam Tip:** Equivalent to 'if... not'.
+
+---
+
+### For example
+?
+- **Part of Speech:** Discourse Marker [Exemplifying]
+- **Español:** Por ejemplo
+- **Definition:** Universal exemplifying connector.
+- **Example:** *"Renewable energy costs have fallen dramatically; for example, solar panel prices dropped ninety percent in a decade."*
+- **Nuance & Exam Tip:** Universal across registers.
+
+---
+
+### In summary
+?
+- **Part of Speech:** Discourse Marker [Academic]
+- **Español:** En resumen, en síntesis
+- **Definition:** Introduces the summarizing final section of an essay or report.
+- **Example:** *"In summary, the empirical evidence demonstrates three undeniable advantages of bilingual instruction."*
+- **Nuance & Exam Tip:** Standard essay concluding marker.
+
+---
+
+### In the final analysis
+?
+- **Part of Speech:** Discourse Marker [Philosophical]
+- **Español:** En último término, en el análisis final
+- **Definition:** Delivers the overarching verdict after weighing all evidence.
+- **Example:** *"In the final analysis, human empathy remains the indispensable foundation of a just society."*
+- **Nuance & Exam Tip:** Grand philosophical and academic conclusion.
+
+---
+
+### Let me gather my thoughts for a moment
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Permíteme ordenar mis ideas un momento
+- **Definition:** Buys 3 to 5 seconds of thinking time transparently without losing fluency marks.
+- **Example:** *"Let me gather my thoughts for a moment—the correlation between urban density and mental health is certainly multifaceted."*
+- **Nuance & Exam Tip:** Far superior to saying 'ummm' or freezing. Examiners award marks for natural conversational repair.
+
+---
+
+### I have not given it much thought previously, but
+?
+- **Part of Speech:** Discourse Marker [Spoken]
+- **Español:** No lo había pensado detenidamente antes, pero...
+- **Definition:** Natural conversational hedge demonstrating authentic spontaneous reasoning on unfamiliar topics.
+- **Example:** *"I haven't given it much thought previously, but my initial instinct would be that public libraries remain vital community hubs."*
+- **Nuance & Exam Tip:** Ideal for Part 1 or Part 4 when faced with unexpected questions.
+
+---
+
+### Arguably
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Podría decirse que / Podría sostenerse que
+- **Definition:** Single-word adverb qualifying a claim as persuasive yet open to legitimate debate.
+- **Example:** *"Artificial intelligence is arguably the most transformative general-purpose technology since the internal combustion engine."*
+- **Nuance & Exam Tip:** Standard Cambridge C1 hedging adverb; avoids dogmatic claims in essays and oral debates.
+
+---
+
+### It would appear that
+?
+- **Part of Speech:** Discourse Marker [Formal/Hedging]
+- **Español:** Parece ser que / Todo parece indicar que
+- **Definition:** Epistemic modal hedge that distances the speaker from assertive dogmatism.
+- **Example:** *"It would appear that consumer confidence is rebounding faster than central banks had anticipated."*
+- **Nuance & Exam Tip:** Hallmark of sophisticated formal discourse.
+
+---
+
+### On the face of it
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** A primera vista / En apariencia
+- **Definition:** Describes an initial impression that may prove deceptive upon deeper inspection.
+- **Example:** *"On the face of it, the proposal looks economically viable, but hidden maintenance overheads tell another story."*
+- **Nuance & Exam Tip:** Sets up a brilliant rhetorical contrast with *however* or *in reality*.
+
+---
+
+### Virtually
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Prácticamente / Casi por completo
+- **Definition:** Qualifies a statement as practically absolute with negligible exception.
+- **Example:** *"Virtually all high-throughput microservices rely on distributed message brokers today."*
+- **Nuance & Exam Tip:** Replaces 'almost' or 'nearly' with C1 academic register.
+
+---
+
+### As a rule of thumb
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Como regla general / Por norma general
+- **Definition:** Introduces a practical guiding heuristic based on experience rather than rigid theory.
+- **Example:** *"As a rule of thumb, database queries should avoid table scans whenever an index can be leveraged."*
+- **Nuance & Exam Tip:** Demonstrates idiomatic mastery in professional and academic discourse.
+
+---
+
+### That may well be the case, however
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Bien puede ser el caso, sin embargo...
+- **Definition:** Acknowledges the plausibility of an opponent's scenario while redirecting attention to an overriding objection.
+- **Example:** *"That may well be the case, however empirical studies suggest that productivity remains unaffected."*
+- **Nuance & Exam Tip:** Prestigious debate linker pairing epistemic modal *may well be* with contrastive *however*.
+
+---
+
+### Fair enough, but on the flip side
+?
+- **Part of Speech:** Discourse Marker [Informal/Spoken]
+- **Español:** Me parece justo, pero por otra parte...
+- **Definition:** Colloquial concession marker that pivots directly to the opposite side of the coin.
+- **Example:** *"Fair enough, but on the flip side, remote working has decimated foot traffic for city-centre small businesses."*
+- **Nuance & Exam Tip:** Extremely natural in speaking exams; indicates effortless conversational fluidity.
+
+---
+
+### That is a valid argument, nonetheless
+?
+- **Part of Speech:** Discourse Marker [Formal/Debate]
+- **Español:** Ese es un argumento válido, no obstante...
+- **Definition:** Praises the logical coherence of a point before demonstrating why other priorities override it.
+- **Example:** *"That is a valid argument, nonetheless fiscal responsibility dictates that we balance the budget first."*
+- **Nuance & Exam Tip:** Shows intellectual maturity and debate poise.
+
+---
+
+### I would not say that is necessarily the case
+?
+- **Part of Speech:** Discourse Marker [Spoken]
+- **Español:** Yo no diría que ese sea necesariamente el caso
+- **Definition:** Challenges the universality of an assertion softly.
+- **Example:** *"I wouldn't say that is necessarily the case; many startup ecosystems flourish without direct state subsidies."*
+- **Nuance & Exam Tip:** Diplomatic refusal to accept an absolute claim.
+
+---
+
+### I am not entirely convinced by that
+?
+- **Part of Speech:** Discourse Marker [Spoken]
+- **Español:** No estoy del todo convencido por eso
+- **Definition:** Signals intellectual skepticism regarding an argument or proposed remedy.
+- **Example:** *"I am not entirely convinced by that argument because it assumes rational market behavior at all times."*
+- **Nuance & Exam Tip:** Honest, analytical stance that opens space for counter-evidence.
+
+---
+
+### I would challenge the assumption that
+?
+- **Part of Speech:** Discourse Marker [Formal/Debate]
+- **Español:** Cuestionaría el supuesto de que...
+- **Definition:** Directly interrogates an unverified presupposition.
+- **Example:** *"I would challenge the assumption that younger generations are inherently indifferent to civic engagement."*
+- **Nuance & Exam Tip:** Strong argumentative device for academic discussions.
+
+---
+
+### Or rather
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** O más bien / Mejor dicho
+- **Definition:** Instant inline precision adjustment of terminology.
+- **Example:** *"The team had no clear architectural guidance—or rather, the guidance was fundamentally contradictory."*
+- **Nuance & Exam Tip:** Elegant two-word formula for self-correction.
+
+---
+
+### Better yet
+?
+- **Part of Speech:** Discourse Marker [Neutral/Spoken]
+- **Español:** Mejor aún / Todavía mejor
+- **Definition:** Introduces an improved alternative or superior proposal.
+- **Example:** *"We could refactor the authentication service, or better yet, migrate to a proven open standard like OAuth2."*
+- **Nuance & Exam Tip:** Enriches solution proposals in Cambridge Part 3.
+
+---
+
+### What I am getting at is
+?
+- **Part of Speech:** Discourse Marker [Spoken/Idiom]
+- **Español:** A lo que me refiero es a...
+- **Definition:** Direct conversational synonym of *what I am driving at*.
+- **Example:** *"What I am getting at is that user adoption hinges on perceived simplicity rather than feature abundance."*
+- **Nuance & Exam Tip:** Smooth concluding formulation.
+
+---
+
+### Hypothetically speaking
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Hablando hipotéticamente
+- **Definition:** Frames a scenario as an abstract thought experiment.
+- **Example:** *"Hypothetically speaking, what if public transport were made entirely free of charge at point of use?"*
+- **Nuance & Exam Tip:** Stimulates creative problem-solving in Part 3.
+
+---
+
+### One cannot rule out the possibility that
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** No se puede descartar la posibilidad de que...
+- **Definition:** Precautionary epistemic claim warning against premature dismissal of a risk.
+- **Example:** *"One cannot rule out the possibility that geopolitical tensions could disrupt maritime shipping routes."*
+- **Nuance & Exam Tip:** Sophisticated double-negative hedge (*cannot rule out*).
+
+---
+
+### Given the circumstances, it is likely that
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Dadas las circunstancias, es probable que...
+- **Definition:** Grounds a probabilistic prediction in real contextual constraints.
+- **Example:** *"Given the circumstances, it is likely that the board will postpone the initial public offering."*
+- **Nuance & Exam Tip:** Combines participial clause (*given the circumstances*) with deduction.
+
+---
+
+### Under no circumstances should
+?
+- **Part of Speech:** Discourse Marker [Formal/Inversion]
+- **Español:** Bajo ninguna circunstancia se debe...
+- **Definition:** Negative adverbial inversion demanding verb-subject inversion.
+- **Example:** *"Under no circumstances should production credentials be committed to a public version control repository."*
+- **Nuance & Exam Tip:** Guaranteed C2 grammar mark when executed accurately in speech or writing.
+
+---
+
+### Unequivocally
+?
+- **Part of Speech:** Discourse Marker [Formal/Emphatic]
+- **Español:** De manera inequívoca / categóricamente
+- **Definition:** Asserts a conclusion that admits of no ambiguity or alternative interpretation.
+- **Example:** *"The committee unequivocally endorsed the adoption of renewable energy targets."*
+- **Nuance & Exam Tip:** C1 academic adverb.
+
+---
+
+### It goes without saying that
+?
+- **Part of Speech:** Discourse Marker [Idiom/Formula]
+- **Español:** Huelga decir que / Se da por sentado que...
+- **Definition:** Longer formal equivalent of *needless to say*.
+- **Example:** *"It goes without saying that robust security practices must be embedded from day one."*
+- **Nuance & Exam Tip:** Refined academic and professional transition.
+
+---
+
+### May I add something to that?
+?
+- **Part of Speech:** Discourse Marker [Spoken/Polite]
+- **Español:** ¿Podría añadir algo a eso?
+- **Definition:** Courteous floor-request formula showing collaborative respect.
+- **Example:** *"May I add something to that? Our internal user research entirely corroborates what you just mentioned."*
+- **Nuance & Exam Tip:** Smooth interactive opener in panel discussions.
+
+---
+
+### Hold on a second, if I may
+?
+- **Part of Speech:** Discourse Marker [Spoken/Conversational]
+- **Español:** Un segundo, si me lo permites...
+- **Definition:** Politely pauses an interlocutor to introduce an immediate clarification.
+- **Example:** *"Hold on a second, if I may—did the trial measure cognitive load or solely task completion velocity?"*
+- **Nuance & Exam Tip:** Demonstrates assertive yet diplomatic communicative agency.
+
+---
+
+### Sorry to cut across you, but
+?
+- **Part of Speech:** Discourse Marker [Spoken/British]
+- **Español:** Perdona que te interrumpa, pero...
+- **Definition:** British conversational idiom for interrupting with minimum friction.
+- **Example:** *"Sorry to cut across you, but aren't we conflating customer acquisition cost with long-term lifetime value?"*
+- **Nuance & Exam Tip:** Natural native idiom (*cut across someone*).
+
+---
+
+### Do you see where I am coming from?
+?
+- **Part of Speech:** Discourse Marker [Spoken/Idiom]
+- **Español:** ¿Entiendes mi punto de vista / a lo que voy?
+- **Definition:** Checks whether the underlying rationale was effectively communicated.
+- **Example:** *"I'm not against automation; I simply advocate for a phased retraining safety net. Do you see where I'm coming from?"*
+- **Nuance & Exam Tip:** Great conversational check for consensus.
+
+---
+
+### How do you view this situation?
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** ¿Cómo ves tú esta situación?
+- **Definition:** Broad, open-ended question that passes the speaking turn smoothly.
+- **Example:** *"Given the rapid pace of urban gentrification, how do you view this situation in historic neighborhoods?"*
+- **Nuance & Exam Tip:** Empowers the interlocutor to express a rich point of view.
+
+---
+
+### As a general rule
+?
+- **Part of Speech:** Discourse Marker [Neutral/Spoken]
+- **Español:** Por regla general
+- **Definition:** Identifies standard operating procedures or regular occurrences.
+- **Example:** *"As a general rule, microservice architectures introduce network complexity that monolithic codebases evade."*
+- **Nuance & Exam Tip:** Useful for explaining engineering or societal heuristics.
+
+---
+
+### To cite a concrete illustration
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Para citar una ilustración concreta
+- **Definition:** Academic introduction of an empirical case study.
+- **Example:** *"To cite a concrete illustration, the municipal bike-share scheme decreased inner-city vehicular emissions by 14%."*
+- **Nuance & Exam Tip:** Adds formal empirical gravitas in essays and speeches.
+
+---
+
+### Similarly
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** De manera similar / Análogamente
+- **Definition:** Standard comparative connector linking analogous facts.
+- **Example:** *"Similarly, adjacent industries like aerospace have pioneered rigorous safety protocols that software could emulate."*
+- **Nuance & Exam Tip:** Essential comparative connector.
+
+---
+
+### Along the same lines
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** En esa misma línea / En el mismo sentido
+- **Definition:** Adds an additional corroborating point adhering to the exact same logic.
+- **Example:** *"Along the same lines, several Scandinavian nations have piloted unconditional basic income with promising results."*
+- **Nuance & Exam Tip:** Natural conversational connective phrase.
+
+---
+
+### Regrettably
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Lamentablemente / Por desgracia
+- **Definition:** Formal stance adverb conveying regret over an adverse reality.
+- **Example:** *"Regrettably, the committee chose to defer the environmental impact assessment until next fiscal year."*
+- **Nuance & Exam Tip:** Formal substitute for 'unfortunately'.
+
+---
+
+### Ironically
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Irónicamente
+- **Definition:** Draws attention to a poetic or tragic incongruity where outcome mirrors the opposite of intent.
+- **Example:** *"Ironically, the introduction of email was intended to eliminate bureaucracy, yet it vastly amplified corporate chatter."*
+- **Nuance & Exam Tip:** Sharp, sophisticated intellectual evaluation.
+
+---
+
+### Let me start by stating that
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Permítanme comenzar afirmando que...
+- **Definition:** Authoritative presentation opener that establishes a foundational axiom.
+- **Example:** *"Let me start by stating that ethical governance and technological velocity are not mutually exclusive goals."*
+- **Nuance & Exam Tip:** Magnificent opener for long speaking turns and presentations.
+
+---
+
+### To bring this discussion to a close
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Para ir cerrando esta discusión / intervención
+- **Definition:** Signals that the speaker is delivering their final summary and wrapping up the turn.
+- **Example:** *"To bring this discussion to a close, our priority must shift from short-term customer acquisition to structural retention."*
+- **Nuance & Exam Tip:** Professional meeting and exam closer.
+
+---
+
+### Crucially
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Crucialmente, de manera determinante
+- **Definition:** Fronted sentence adverbial emphasizing that the following proposition is of decisive paramount significance.
+- **Example:** *"Crucially, the architecture must support horizontal autoscaling without manual intervention."*
+- **Nuance & Exam Tip:** High-impact sentence adverbial that elevates register beyond 'importantly'.
+
+---
+
+### Right off the bat
+?
+- **Part of Speech:** Discourse Marker [Informal/Idiom]
+- **Español:** De entrada / Nada más empezar
+- **Definition:** Colloquial opener denoting instantaneous action or observation.
+- **Example:** *"Right off the bat, I noticed a dramatic divergence in how the two candidates approached fiscal policy."*
+- **Nuance & Exam Tip:** Adds authentic conversational punch in Part 1 or Part 2.
+
+---
+
+### Let us first establish that
+?
+- **Part of Speech:** Discourse Marker [Formal/Debate]
+- **Español:** Establezcamos en primer lugar que...
+- **Definition:** Demands mutual consensus on a foundational axiom before proceeding.
+- **Example:** *"Let us first establish that access to clean water is a non-negotiable human right rather than a commercial commodity."*
+- **Nuance & Exam Tip:** Authoritative debate launch formula.
+
+---
+
+### First things first
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Lo primero es lo primero
+- **Definition:** Everyday conversational idiom prioritizing urgent matters.
+- **Example:** *"First things first: we need to ensure the staging environment mirrors production before running the migration."*
+- **Nuance & Exam Tip:** Conversational idiom showing natural fluency.
+
+---
+
+### In terms of
+?
+- **Part of Speech:** Discourse Marker [Neutral/Spoken]
+- **Español:** En términos de / En lo relativo a
+- **Definition:** Defines the exact parameter being evaluated.
+- **Example:** *"In terms of scalability, the relational database struggled under holiday surge traffic."*
+- **Nuance & Exam Tip:** Ubiquitous, essential topic limiter.
+
+---
+
+### Speaking of
+?
+- **Part of Speech:** Discourse Marker [Spoken/Conversational]
+- **Español:** Hablando de / A propósito de
+- **Definition:** Pivots to an adjacent topic triggered by a word in the previous sentence.
+- **Example:** *"Speaking of infrastructure costs, have we evaluated serverless compute models for this workload?"*
+- **Nuance & Exam Tip:** Classic conversational bridge.
+
+---
+
+### Shifting our focus to
+?
+- **Part of Speech:** Discourse Marker [Formal/Presentation]
+- **Español:** Cambiando nuestro enfoque hacia...
+- **Definition:** Deliberate, explicit signpost marking a thematic transition.
+- **Example:** *"Shifting our focus to international trade, currency fluctuations have created substantial arbitrage opportunities."*
+- **Nuance & Exam Tip:** Presentation and debate signpost.
+
+---
+
+### So far as X goes
+?
+- **Part of Speech:** Discourse Marker [Spoken/Idiom]
+- **Español:** En lo que respecta a X
+- **Definition:** Conversational delimiter of topical scope.
+- **Example:** *"So far as raw processing power goes, the new chip architecture easily surpasses its predecessors."*
+- **Nuance & Exam Tip:** Natural conversational variant.
+
+---
+
+### From the standpoint of
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Desde el punto de vista de...
+- **Definition:** Academic variant of 'from the perspective of'.
+- **Example:** *"From the standpoint of evolutionary biology, altruism enhances inclusive genetic fitness across kin groups."*
+- **Nuance & Exam Tip:** High-register analytical frame.
+
+---
+
+### Within this framework
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Dentro de este marco conceptual...
+- **Definition:** Anchors an argument inside an established theoretical structure.
+- **Example:** *"Within this framework, economic growth is viewed not as an end in itself, but as a vehicle for human flourishing."*
+- **Nuance & Exam Tip:** Academic essay and debate transition.
+
+---
+
+### At a later stage
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** En una etapa posterior
+- **Definition:** Defers consideration of a component to future phases.
+- **Example:** *"We can integrate third-party payment gateways at a later stage once core transaction throughput is proven."*
+- **Nuance & Exam Tip:** Procedural project planning marker.
+
+---
+
+### Prior to that
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** Con anterioridad a eso...
+- **Definition:** Chronologically precedes a previously mentioned reference point.
+- **Example:** *"Prior to that legislative reform, tenants possessed virtually no statutory protection against arbitrary eviction."*
+- **Nuance & Exam Tip:** Precise retrospective signpost.
+
+---
+
+### Simultaneously with
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** Simultáneamente a...
+- **Definition:** Co-locates events occurring at the exact same instant.
+- **Example:** *"Simultaneously with the stock exchange opening, the central bank announced an emergency rate cut."*
+- **Nuance & Exam Tip:** High precision temporal preposition.
+
+---
+
+### Henceforth
+?
+- **Part of Speech:** Discourse Marker [Formal/Legal]
+- **Español:** De ahora en adelante / En lo sucesivo
+- **Definition:** Establishes a binding rule effective from this point forward.
+- **Example:** *"Henceforth, any developer deploying to production without dual-factor authentication will have their credentials revoked."*
+- **Nuance & Exam Tip:** Solemn formal marker.
+
+---
+
+### Over the course of
+?
+- **Part of Speech:** Discourse Marker [Neutral/Spoken]
+- **Español:** A lo largo de / En el transcurso de
+- **Definition:** Describes progressive transformation unfolding over time.
+- **Example:** *"Over the course of the semester, students demonstrated a remarkable evolution in their critical reading methodologies."*
+- **Nuance & Exam Tip:** Smooth duration marker.
+
+---
+
+### Coupled with
+?
+- **Part of Speech:** Discourse Marker [Formal/Participial]
+- **Español:** Sumado a / En combinación con
+- **Definition:** Combines two potent forces that multiply each other's effects.
+- **Example:** *"Exorbitant housing costs, coupled with stagnant wage growth, have triggered an unprecedented affordability crisis."*
+- **Nuance & Exam Tip:** Participial causal-additive connector.
+
+---
+
+### Let alone
+?
+- **Part of Speech:** Discourse Marker [Idiom/Negative]
+- **Español:** Mucho menos / Ni hablar de...
+- **Definition:** Used after a negative statement to emphasize that an even more extreme situation is unthinkable.
+- **Example:** *"Underfunded regional clinics cannot afford basic diagnostic equipment, let alone advanced MRI scanners."*
+- **Nuance & Exam Tip:** C1 grammar testing point (inversion / negative polarity).
+
+---
+
+### Equally important is
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** De igual importancia es...
+- **Definition:** Elevates a secondary argument to parity with the primary point.
+- **Example:** *"Securing robust hardware foundries is critical; equally important is cultivating a domestic pipeline of semiconductor engineers."*
+- **Nuance & Exam Tip:** Rhetorical balance formula.
+
+---
+
+### An additional dimension to consider is
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Una dimensión adicional a considerar es...
+- **Definition:** Expands the analytical geometry of an argument.
+- **Example:** *"An additional dimension to consider is the geopolitical vulnerability of rare earth mineral processing facilities."*
+- **Nuance & Exam Tip:** Top-scoring academic transition.
+
+---
+
+### In virtue of
+?
+- **Part of Speech:** Discourse Marker [Formal/Philosophical]
+- **Español:** En virtud de / Gracias a
+- **Definition:** Academic causal preposition rooted in intrinsic qualities.
+- **Example:** *"In virtue of its immutable ledger, blockchain architecture guarantees transaction auditability without centralized intermediaries."*
+- **Nuance & Exam Tip:** Prestigious philosophical and legal marker.
+
+---
+
+### As a consequence of
+?
+- **Part of Speech:** Discourse Marker [Formal]
+- **Español:** Como consecuencia de...
+- **Definition:** Prepositional phrase denoting direct causal provenance.
+- **Example:** *"As a consequence of unchecked deforestation, local rainfall patterns have suffered severe ecological disruption."*
+- **Nuance & Exam Tip:** Standard formal cause-effect linker.
+
+---
+
+### Rooted in
+?
+- **Part of Speech:** Discourse Marker [Formal/Metaphorical]
+- **Español:** Arraigado en / Que tiene su raíz en...
+- **Definition:** Identifies deep-seated philosophical or sociological origins.
+- **Example:** *"Democratic resistance to mass surveillance is deeply rooted in historical memories of totalitarian regimes."*
+- **Nuance & Exam Tip:** Metaphorical depth.
+
+---
+
+### Spurred by
+?
+- **Part of Speech:** Discourse Marker [Formal/Metaphorical]
+- **Español:** Espoleado por / Impulsado por...
+- **Definition:** Metaphor of spurs driving a horse into rapid motion.
+- **Example:** *"Spurred by aggressive venture capital subsidies, autonomous vehicle startups expanded testing across urban centers."*
+- **Nuance & Exam Tip:** Dynamic, vivid storytelling verb.
+
+---
+
+### On the score of
+?
+- **Part of Speech:** Discourse Marker [Idiom/Archaic]
+- **Español:** En lo relativo a / Por motivos de...
+- **Definition:** Idiomatic formula explaining reasons or excuses.
+- **Example:** *"Nobody could fault the young founder on the score of enthusiasm or technical brilliance."*
+- **Nuance & Exam Tip:** Rich C2 idiomatic phrase.
+
+---
+
+### Driven by
+?
+- **Part of Speech:** Discourse Marker [Formal/Participial]
+- **Español:** Impulsado por / Movido por...
+- **Definition:** Identifies the underlying engine powering an initiative.
+- **Example:** *"Driven by geopolitical insecurity, sovereign nations are pouring hundreds of billions into localized semiconductor manufacturing."*
+- **Nuance & Exam Tip:** Vivid participial causal opener.
+
+---
+
+### With the result that
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Con el resultado de que...
+- **Definition:** Connects an action directly to its concrete observable outcome.
+- **Example:** *"Interest rates were slashed to near zero, with the result that real estate asset valuations inflated dramatically."*
+- **Nuance & Exam Tip:** Clean, transparent causal-consecutive linker.
+
+---
+
+### Setting off a chain reaction
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Desencadenando una reacción en cadena
+- **Definition:** Describes an action that unleashes an uncontrollable cascade of domino effects.
+- **Example:** *"The sudden insolvency of the regional lender set off a chain reaction throughout the interbank repo market."*
+- **Nuance & Exam Tip:** Dynamic idiomatic metaphor.
+
+---
+
+### The inevitable consequence is
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** La consecuencia inevitable es...
+- **Definition:** Warns that a negative outcome cannot be averted under current trajectories.
+- **Example:** *"If we continue to deplete oceanic fish stocks at commercial scale, the inevitable consequence is total marine ecological collapse."*
+- **Nuance & Exam Tip:** Strong moral and analytical authority.
+
+---
+
+### Laying the groundwork for
+?
+- **Part of Speech:** Discourse Marker [Idiom/Formal]
+- **Español:** Sentando las bases para...
+- **Definition:** Identifies early structural investments that make future success possible.
+- **Example:** *"Early mathematical literacy lays the groundwork for advanced algorithmic competency later in life."*
+- **Nuance & Exam Tip:** Metaphorical foundation marker.
+
+---
+
+### Contingent upon
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Supeditado a / Dependiente de...
+- **Definition:** Expresses philosophical or operational dependence on a prerequisite factor.
+- **Example:** *"Long-term economic prosperity is contingent upon our capacity to transition toward circular resource loops."*
+- **Nuance & Exam Tip:** Elevated C2 vocabulary (*contingent upon*).
+
+---
+
+### With the express intent of
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Con la expresa intención de...
+- **Definition:** Emphasizes deliberate, non-accidental premeditation.
+- **Example:** *"The regulations were drafted with the express intent of preventing predatory speculative trading in public utilities."*
+- **Nuance & Exam Tip:** Authoritative legal and academic purpose marker.
+
+---
+
+### With a view to + -ing
+?
+- **Part of Speech:** Discourse Marker [Formal/Grammar]
+- **Español:** Con miras a / Con el propósito de (+ gerundio)
+- **Definition:** Grammatical trap testing gerund requirement after preposition *to*.
+- **Example:** *"The company expanded its R&D division with a view to pioneering next-generation solid-state battery cells."*
+- **Nuance & Exam Tip:** Cambridge C1 exam favorite for Use of English Part 4 key word transformations.
+
+---
+
+### To illustrate this point
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Para ilustrar este punto...
+- **Definition:** Explicit presentation signpost introducing a case study.
+- **Example:** *"To illustrate this point, consider how Singapore transformed itself from a developing port into a premier global financial hub within two generations."*
+- **Nuance & Exam Tip:** Classic presentation and speaking exam formula.
+
+---
+
+### Such as, for instance,
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Tales como, por ejemplo...
+- **Definition:** Double exemplifying formula providing rhythmic emphasis.
+- **Example:** *"Critical national infrastructure, such as, for instance, power grids and municipal water treatment plants, must remain isolated from public networks."*
+- **Nuance & Exam Tip:** Elevates sentence rhythm.
+
+---
+
+### As exemplified by
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Como queda ejemplificado en...
+- **Definition:** High-register variant of 'as shown by'.
+- **Example:** *"The risks of centralized financial custodial services are catastrophic, as exemplified by the sudden collapse of several cryptocurrency exchanges."*
+- **Nuance & Exam Tip:** Top-scoring academic essay and speaking formula.
+
+---
+
+### Witness the case of
+?
+- **Part of Speech:** Discourse Marker [Formal/Rhetorical]
+- **Español:** Véase el caso de / Sea testigo el caso de...
+- **Definition:** Imperative rhetorical flourish commanding attention toward a proof.
+- **Example:** *"Witness the tragic case of the Aral Sea, once the world's fourth-largest lake, desiccated by disastrous irrigation planning."*
+- **Nuance & Exam Tip:** Dramatic rhetorical device for debate.
+
+---
+
+### A salient example would be
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Un ejemplo sobresaliente sería...
+- **Definition:** Uses elevated adjective *salient* (destacado/relevante) to describe an example.
+- **Example:** *"A salient example would be the proliferation of algorithmic pricing across commercial airline booking engines."*
+- **Nuance & Exam Tip:** High-scoring lexical choice (*salient*).
+
+---
+
+### This is best demonstrated by
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Esto queda demostrado de la mejor manera por...
+- **Definition:** Presents the single strongest proof supporting a thesis.
+- **Example:** *"The vital importance of software testing is best demonstrated by the infamous Mars Climate Orbiter metric conversion failure."*
+- **Nuance & Exam Tip:** High-impact essay and speech linker.
+
+---
+
+### In layman's terms
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** En lenguaje llano / Para que nos entendamos
+- **Definition:** Translates complex technical or legal jargon into everyday language.
+- **Example:** *"In layman's terms, the system caches popular database queries in high-speed memory so the server doesn't break a sweat."*
+- **Nuance & Exam Tip:** Great for explaining technical topics to general examiners.
+
+---
+
+### Let me put it this way
+?
+- **Part of Speech:** Discourse Marker [Spoken/Conversational]
+- **Español:** Permíteme plantearlo de esta manera...
+- **Definition:** Prefaces an illustrative analogy or provocative rephrasing.
+- **Example:** *"Let me put it this way: deploying unverified third-party libraries to production is like leaving the vault door unlocked on a busy street."*
+- **Nuance & Exam Tip:** Memorable speaking hook.
+
+---
+
+### To articulate this more clearly
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Para articular esto con mayor claridad...
+- **Definition:** Signals an elevated effort to provide conceptual lucidity.
+- **Example:** *"To articulate this more clearly, the challenge lies not in generating electricity, but in storage and grid distribution over peak hours."*
+- **Nuance & Exam Tip:** Prestigious rhetorical marker.
+
+---
+
+### I have often reflected on that
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** A menudo he reflexionado sobre eso...
+- **Definition:** Shows intellectual depth and buys thinking time.
+- **Example:** *"I have often reflected on that, particularly when observing how social media algorithms exacerbate political polarization."*
+- **Nuance & Exam Tip:** Deep, contemplative speaking opener.
+
+---
+
+### That depends on where you stand
+?
+- **Part of Speech:** Discourse Marker [Spoken/Conversational]
+- **Español:** Eso depende de dónde te posiciones
+- **Definition:** Highlights that perception depends entirely on stakeholder vantage point.
+- **Example:** *"That depends on where you stand: from a corporate viewpoint it slashes overheads, but for employees it can induce severe isolation."*
+- **Nuance & Exam Tip:** Sets up a brilliant contrastive analysis.
+
+---
+
+### If you ask me off the cuff
+?
+- **Part of Speech:** Discourse Marker [Spoken/Idiom]
+- **Español:** Si me preguntas así de repente / a bote pronto
+- **Definition:** Casual spoken staller demonstrating authenticity.
+- **Example:** *"If you ask me off the cuff, I'd say that excessive screen time is merely a symptom of wider sociological alienation."*
+- **Nuance & Exam Tip:** Demonstrates command of relaxed native idioms.
+
+---
+
+### At the risk of sounding speculative
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** A riesgo de parecer especulativo...
+- **Definition:** Prefatory hedge warning the listener that an extrapolation follows.
+- **Example:** *"At the risk of sounding speculative, I suspect that localized microgrids will render massive centralized coal plants completely redundant."*
+- **Nuance & Exam Tip:** Demonstrates intellectual modesty.
+
+---
+
+### It's a question of priorities, really
+?
+- **Part of Speech:** Discourse Marker [Spoken/Conversational]
+- **Español:** En realidad, es una cuestión de prioridades
+- **Definition:** Reframes a complex debate around competing moral or strategic values.
+- **Example:** *"It's a question of priorities, really: do we value unfettered economic growth above public health and environmental integrity?"*
+- **Nuance & Exam Tip:** Cuts through noise to expose the moral core.
+
+---
+
+### In a manner of speaking
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Por así decirlo / En cierto sentido
+- **Definition:** Acknowledges that an expression is metaphorical or approximate rather than literal.
+- **Example:** *"In a manner of speaking, distributed cache nodes act as the short-term memory of a cloud-scale web application."*
+- **Nuance & Exam Tip:** Classic English metaphorical hedge.
+
+---
+
+### To a certain degree
+?
+- **Part of Speech:** Discourse Marker [Neutral/Spoken]
+- **Español:** En cierta medida / Hasta cierto grado
+- **Definition:** Qualifies a statement as partially true.
+- **Example:** *"Every software engineering methodology is, to a certain degree, a sociological reaction against the excesses of the preceding paradigm."*
+- **Nuance & Exam Tip:** Smooth analytical qualification.
+
+---
+
+### One might be tempted to conclude that
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Uno podría verse tentado a concluir que...
+- **Definition:** Sets up a seductive yet ultimately flawed conclusion before refuting it.
+- **Example:** *"One might be tempted to conclude that automation creates mass unemployment, yet historical precedents consistently show sector reallocation."*
+- **Nuance & Exam Tip:** Brilliant rhetorical C2 trap formula.
+
+---
+
+### That holds water, but only if
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Eso se sostiene / tiene sentido, pero solo si...
+- **Definition:** Validates an argument strictly conditioned on a vital assumption.
+- **Example:** *"That argument holds water, but only if regulatory enforcement mechanisms are endowed with independent punitive powers."*
+- **Nuance & Exam Tip:** Top C1 idiom (*hold water*).
+
+---
+
+### Point well taken, but look at it this way
+?
+- **Part of Speech:** Discourse Marker [Spoken/Idiom]
+- **Español:** Punto muy bien tomado, pero míralo de este modo...
+- **Definition:** Validates the partner's score before inviting them into an alternative perspective.
+- **Example:** *"Point well taken, but look at it this way: without early risk capital, breakthrough innovations never leave the laboratory."*
+- **Nuance & Exam Tip:** Collaborative conversational pivot.
+
+---
+
+### Up to a certain threshold, yes, but
+?
+- **Part of Speech:** Discourse Marker [Formal/Analytical]
+- **Español:** Hasta cierto umbral sí, pero...
+- **Definition:** Identifies an inflection point where a positive policy turns negative.
+- **Example:** *"Up to a certain threshold, yes, but beyond that level of taxation, capital flight becomes an acute economic threat."*
+- **Nuance & Exam Tip:** Nuanced analytical reasoning.
+
+---
+
+### That makes sense on paper, but in practice
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Eso tiene sentido sobre el papel, pero en la práctica...
+- **Definition:** Sharp contrast between theoretical design and messy empirical reality.
+- **Example:** *"That makes complete sense on paper, but in practice, cross-functional squads suffer from severe communication bottlenecks."*
+- **Nuance & Exam Tip:** Ubiquitous, highly relatable speaking formula.
+
+---
+
+### That flies in the face of the evidence
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Eso choca frontalmente con la evidencia
+- **Definition:** Strong idiomatic critique stating that an assertion contradicts empirical facts.
+- **Example:** *"Claiming that austerity stimulates domestic consumption flies in the face of all macroeconomic empirical evidence."*
+- **Nuance & Exam Tip:** Vivid, authoritative idiom (*fly in the face of*).
+
+---
+
+### I cannot subscribe to that view
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** No puedo suscribir ese punto de vista
+- **Definition:** Formal philosophical refusal to endorse a stance.
+- **Example:** *"I cannot subscribe to that view because it reduces complex human motivations to purely transactional economic incentives."*
+- **Nuance & Exam Tip:** High-register vocabulary (*subscribe to a view*).
+
+---
+
+### That premise is deeply flawed
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Esa premisa es profundamente defectuosa
+- **Definition:** Attacks the foundation on which an opponent's edifice rests.
+- **Example:** *"That premise is deeply flawed because it assumes infinite exponential resource extraction on a geographically closed planet."*
+- **Nuance & Exam Tip:** Philosophical deconstruction.
+
+---
+
+### I am afraid that is beside the point
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Me temo que eso no viene al caso / es irrelevante
+- **Definition:** Dismisses a distracting red herring and re-centers the core issue.
+- **Example:** *"The historical origins of the treaty are fascinating, but I'm afraid that is beside the point when assessing immediate maritime access."*
+- **Nuance & Exam Tip:** Keeps debate focused on target.
+
+---
+
+### What's your gut reaction to that?
+?
+- **Part of Speech:** Discourse Marker [Spoken/Conversational]
+- **Español:** ¿Cuál es tu primera reacción visceral ante eso?
+- **Definition:** Invites spontaneous, honest immediate impression from the partner.
+- **Example:** *"We could propose banning single-use coffee cups across the university campus. What's your gut reaction to that?"*
+- **Nuance & Exam Tip:** Great conversational prompt in Part 3.
+
+---
+
+### How does that resonate with your experience?
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** ¿Cómo resuena eso con tu experiencia personal?
+- **Definition:** Invites the partner to substantiate the discussion with their personal observations.
+- **Example:** *"That mirrors what we observe in urban schools, but how does that resonate with your experience in rural districts?"*
+- **Nuance & Exam Tip:** Deeply collaborative and respectful.
+
+---
+
+### Don't you think there is another side to this?
+?
+- **Part of Speech:** Discourse Marker [Spoken]
+- **Español:** ¿No crees que hay otra cara de esta cuestión?
+- **Definition:** Prompts the partner to explore multi-perspective analysis together.
+- **Example:** *"Before we conclude that remote working is universally beneficial, don't you think there is another side to this for junior onboarding?"*
+- **Nuance & Exam Tip:** Stimulates critical balance.
+
+---
+
+### I'm curious to hear your perspective on
+?
+- **Part of Speech:** Discourse Marker [Spoken/Conversational]
+- **Español:** Tengo curiosidad por conocer tu perspectiva sobre...
+- **Definition:** Warm, authentic invitation showing intellectual curiosity.
+- **Example:** *"I've shared my thoughts on nuclear energy, but I'm curious to hear your perspective on the disposal of radioactive waste."*
+- **Nuance & Exam Tip:** High interpersonal rapport.
+
+---
+
+### Where would you draw the line?
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** ¿Dónde pondrías tú el límite?
+- **Definition:** Invites the partner to establish ethical or practical boundaries.
+- **Example:** *"Surveillance cameras reduce street crime, but where would you draw the line regarding facial recognition in public parks?"*
+- **Nuance & Exam Tip:** High-scoring idiomatic question (*draw the line*).
+
+---
+
+### May I chime in on this?
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** ¿Puedo meter mi cuchara / intervenir en esto?
+- **Definition:** Lively idiomatic formula requesting entry into a discussion.
+- **Example:** *"May I chime in on this? Our UX testing revealed that users abandoned the checkout flow precisely at the phone verification step."*
+- **Nuance & Exam Tip:** Natural conversational idiom (*chime in*).
+
+---
+
+### If I might add a quick clarification
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Si se me permite añadir una rápida aclaración...
+- **Definition:** Politely prevents a misunderstanding from snowballing.
+- **Example:** *"If I might add a quick clarification, the proposed emissions cap applies only to industrial facilities, not residential homes."*
+- **Nuance & Exam Tip:** Diplomatic corrective intervention.
+
+---
+
+### I'd like to pick up on that thread
+?
+- **Part of Speech:** Discourse Marker [Metaphor/Spoken]
+- **Español:** Me gustaría retomar ese hilo...
+- **Definition:** Weaving metaphor indicating continuity of conversational fabric.
+- **Example:** *"I'd like to pick up on that thread regarding algorithmic transparency; without open-source auditability, public trust remains impossible."*
+- **Nuance & Exam Tip:** Refined discourse metaphor (*thread*).
+
+---
+
+### If you'll indulge me for a moment
+?
+- **Part of Speech:** Discourse Marker [Formal/Polite]
+- **Español:** Si me lo permiten por un momento...
+- **Definition:** Polite formal request for audience patience while making a point.
+- **Example:** *"If you'll indulge me for a moment, I would like to draw a historical analogy with the transition from horse carriages to early automobiles."*
+- **Nuance & Exam Tip:** Courteous and scholarly.
+
+---
+
+### May I offer an alternative perspective here?
+?
+- **Part of Speech:** Discourse Marker [Formal/Debate]
+- **Español:** ¿Podría ofrecer una perspectiva alternativa aquí?
+- **Definition:** Courteous framing of a dissenting viewpoint.
+- **Example:** *"May I offer an alternative perspective here? Rather than viewing automation as job destruction, we can conceptualize it as task elevation."*
+- **Nuance & Exam Tip:** Diplomatic dissent formula.
+
+---
+
+### Hardly had we begun when
+?
+- **Part of Speech:** Discourse Marker [Formal/Inversion]
+- **Español:** Apenas habíamos comenzado cuando...
+- **Definition:** Classic time inversion structure (*hardly had + subject + past participle + when*).
+- **Example:** *"Hardly had we initiated the production rollout when catastrophic network partitions severed database replication across all availability zones."*
+- **Nuance & Exam Tip:** Guaranteed C2 grammar score in Cambridge exams.
+
+---
+
+### Not for one moment do I believe that
+?
+- **Part of Speech:** Discourse Marker [Emphatic/Inversion]
+- **Español:** Ni por un solo instante creo que...
+- **Definition:** Absolute rejection of a proposition with negative inversion.
+- **Example:** *"Not for one moment do I believe that voluntary corporate pledges will suffice to reverse catastrophic biodiversity depletion."*
+- **Nuance & Exam Tip:** Vigorous philosophical conviction.
+
+---
+
+### Little did they know that
+?
+- **Part of Speech:** Discourse Marker [Formal/Inversion]
+- **Español:** Poco sabían ellos que...
+- **Definition:** Dramatic narrative inversion highlighting historical irony.
+- **Example:** *"Little did they know that this obscure garage startup would dismantle decades of legacy telecommunication monopolies within a decade."*
+- **Nuance & Exam Tip:** Storytelling flourish for Part 2.
+
+---
+
+### We must drive home the fact that
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Debemos recalcar / dejar bien en claro el hecho de que...
+- **Definition:** Idiomatic expression emphasizing repeated forceful communication.
+- **Example:** *"We must drive home the fact that preventative wellness interventions save healthcare budgets billions over downstream crisis treatments."*
+- **Nuance & Exam Tip:** Forceful rhetorical idiom (*drive home*).
+
+---
+
+### If current trends continue unabated
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Si las tendencias actuales continúan sin freno...
+- **Definition:** Extrapolates consequences from empirical trajectories.
+- **Example:** *"If current trends continue unabated, urban flood damage from extreme weather events will quadruple over the next four decades."*
+- **Nuance & Exam Tip:** High-impact ecological and economic forecast.
+
+---
+
+### It could very well turn out that
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Bien podría resultar que...
+- **Definition:** Speculative idiom anticipating an unexpected outcome.
+- **Example:** *"It could very well turn out that the most transformative application of generative AI lies in personalized medical diagnostics."*
+- **Nuance & Exam Tip:** Natural native idiom (*turn out that*).
+
+---
+
+### The probability of this materializing is
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** La probabilidad de que esto se materialice es...
+- **Definition:** Evaluates the statistical credibility of a forecast.
+- **Example:** *"The probability of this materializing is high, provided that sovereign governments sustain long-term basic research subsidies."*
+- **Nuance & Exam Tip:** Academic analysis of future trajectories.
+
+---
+
+### One can only speculate, but
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Uno solo puede especular, pero...
+- **Definition:** Modestly acknowledges uncertainty before sharing an insightful hunch.
+- **Example:** *"One can only speculate, but early archaeological findings hint at an advanced urban civil infrastructure predating the Bronze Age."*
+- **Nuance & Exam Tip:** Intellectual modesty formula.
+
+---
+
+### On the whole of it
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** En su conjunto / Tomado en conjunto
+- **Definition:** Synthesizes disparate evidence into an overarching judgment.
+- **Example:** *"On the whole of it, the educational reform fostered creative problem-solving, even if standardized test metrics lagged."*
+- **Nuance & Exam Tip:** Balanced evaluation marker.
+
+---
+
+### Across the board
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** En todos los ámbitos / De forma generalizada
+- **Definition:** Emphasizes that an impact touches every constituent group equally.
+- **Example:** *"The sudden inflation shock triggered real wage contraction across the board, sparing neither white-collar nor industrial laborers."*
+- **Nuance & Exam Tip:** Ubiquitous business and social idiom.
+
+---
+
+### In the aggregate,
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** En el agregado / Considerado colectivamente
+- **Definition:** Considers total cumulative statistical outcomes rather than isolated events.
+- **Example:** *"While individual investments carried high volatility, in the aggregate, the venture portfolio yielded thirty percent annual returns."*
+- **Nuance & Exam Tip:** High-register economic phrasing.
+
+---
+
+### Looking at the wider picture,
+?
+- **Part of Speech:** Discourse Marker [Neutral/Spoken]
+- **Español:** Mirando el panorama más amplio...
+- **Definition:** Pivots away from narrow metrics to holistic implications.
+- **Example:** *"Looking at the wider picture, short-term transition costs are trivial compared to the existential expense of climate inaction."*
+- **Nuance & Exam Tip:** Essential speaking pivot.
+
+---
+
+### In general parlance,
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** En el lenguaje común / En el habla habitual
+- **Definition:** Contrasts everyday vernacular with specialized scientific definitions.
+- **Example:** *"In general parlance, the term 'encryption' is often confused with simple hashing or password protection."*
+- **Nuance & Exam Tip:** Linguistic precision opener.
+
+---
+
+### For the most part, however,
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** En su mayor parte, sin embargo...
+- **Definition:** Balances general consensus with an immediate critical objection.
+- **Example:** *"For the most part, however, municipal transit subsidies fail to reach low-density outer suburban commuters."*
+- **Nuance & Exam Tip:** Contrasting generalizer.
+
+---
+
+### Much like
+?
+- **Part of Speech:** Discourse Marker [Neutral/Spoken]
+- **Español:** De manera muy similar a / Al igual que...
+- **Definition:** Dynamic comparative preposition drawing analogies.
+- **Example:** *"Much like the physical highway system of the twentieth century, digital broadband networks constitute vital civic infrastructure."*
+- **Nuance & Exam Tip:** Visual and accessible comparative opener.
+
+---
+
+### On par with
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Al mismo nivel que / A la par de...
+- **Definition:** Asserts complete equivalence of quality or status.
+- **Example:** *"The educational outcomes of vocational apprenticeships in Switzerland are considered fully on par with traditional university degrees."*
+- **Nuance & Exam Tip:** Idiomatic benchmark (*on par with*).
+
+---
+
+### In direct proportion to
+?
+- **Part of Speech:** Discourse Marker [Formal/Mathematical]
+- **Español:** En proporción directa a...
+- **Definition:** Establishes a rigorous mathematical correlation.
+- **Example:** *"Consumer willingness to adopt electric vehicles expands in direct proportion to the density of public fast-charging networks."*
+- **Nuance & Exam Tip:** Scientific cause-effect parallelism.
+
+---
+
+### Sharing common characteristics with
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Compartiendo características comunes con...
+- **Definition:** Identifies shared phylogenetic or structural traits.
+- **Example:** *"Synthetic biology shares common characteristics with computer software engineering, particularly in its emphasis on standardized modular parts."*
+- **Nuance & Exam Tip:** Academic comparative phrasing.
+
+---
+
+### Pales in comparison to
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Palidece en comparación con...
+- **Definition:** Demonstrates that one factor completely dwarfs another.
+- **Example:** *"The financial cost of installing solar panels pales in comparison to the catastrophic long-term economic damage of unmitigated global warming."*
+- **Nuance & Exam Tip:** Vivid idiomatic contrastive comparison.
+
+---
+
+### In unison with
+?
+- **Part of Speech:** Discourse Marker [Formal/Musical]
+- **Español:** Al unísono con / En perfecta armonía con...
+- **Definition:** Describes harmonious, coordinated simultaneous action.
+- **Example:** *"The central bank lowered lending rates in unison with international monetary authorities to stabilize liquidity."*
+- **Nuance & Exam Tip:** Prestigious musical metaphor.
+
+---
+
+### I am disheartened to see that
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Me descorazona ver que...
+- **Definition:** Conveys authentic emotional sorrow regarding social or ethical decline.
+- **Example:** *"I am disheartened to see that funding for humanities and classical literature continues to be slashed across public universities."*
+- **Nuance & Exam Tip:** Rich affective stance scoring high for emotional authenticity.
+
+---
+
+### To my mind, this borders on
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** A mi juicio, esto raya en...
+- **Definition:** Categorizes an action as pushing dangerously close to an extreme boundary.
+- **Example:** *"To my mind, using algorithmic biometric profiling on public subway commuters borders on unconstitutional mass surveillance."*
+- **Nuance & Exam Tip:** Sharp ethical critique (*borders on*).
+
+---
+
+### It is painful to admit, but
+?
+- **Part of Speech:** Discourse Marker [Spoken/Honest]
+- **Español:** Es doloroso admitirlo, pero...
+- **Definition:** Demonstrates honesty by conceding an uncomfortable personal or collective fault.
+- **Example:** *"It is painful to admit, but our initial architectural projections completely underestimated the operational complexity of distributed databases."*
+- **Nuance & Exam Tip:** Shows intellectual integrity and maturity.
+
+---
+
+### It is heartening to observe that
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Es reconfortante / alentador observar que...
+- **Definition:** Warm formal evaluation praising moral progress.
+- **Example:** *"It is heartening to observe that younger generations are demanding stringent ethical auditability from corporate employers."*
+- **Nuance & Exam Tip:** Elevated positive stance (*heartening*).
+
+---
+
+### To draw the threads together,
+?
+- **Part of Speech:** Discourse Marker [Idiom/Metaphorical]
+- **Español:** Para atar los cabos / Para recapitular...
+- **Definition:** Weaving metaphor synthesizing multiple argumentative strands into a cohesive conclusion.
+- **Example:** *"To draw the threads together, a resilient energy grid demands a tripartite foundation: diversified renewables, grid-scale batteries, and demand response."*
+- **Nuance & Exam Tip:** Brilliant oratorical closing formula.
+
+---
+
+### By way of conclusion,
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** A modo de conclusión...
+- **Definition:** Classic formal essay and speech closer.
+- **Example:** *"By way of conclusion, let us recognize that technological tools are value-neutral; it is our social governance that infuses them with purpose."*
+- **Nuance & Exam Tip:** Formal presentation formula.
+
+---
+
+### To round off this presentation,
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Para redondear / culminar esta presentación...
+- **Definition:** Refined presentation closing formula.
+- **Example:** *"To round off this presentation, remember that security is not a feature you bolt on at the end; it is an architectural mindset."*
+- **Nuance & Exam Tip:** Memorable presentation punchline.
+
+---
+
+### To synthesize our main findings,
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Para sintetizar nuestros hallazgos principales...
+- **Definition:** Academic and executive synthesis opener.
+- **Example:** *"To synthesize our main findings, machine learning automation enhances diagnostic radiology accuracy while dramatically reducing clinician fatigue."*
+- **Nuance & Exam Tip:** Prestigious research conclusion.
+
+---
+
+### To put it in a nutshell,
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Para resumirlo en pocas palabras / En una cáscara de nuez
+- **Definition:** Classic English idiom for an ultra-compact summary.
+- **Example:** *"To put it in a nutshell: the project failed because executive leadership prioritized speed over architectural integrity."*
+- **Nuance & Exam Tip:** Quintessential British idiom (*in a nutshell*).
+
+---
+
+### The drawbacks far outweigh the benefits
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Los inconvenientes superan con creces los beneficios
+- **Definition:** Decisively rejects a proposal on net-benefit grounds.
+- **Example:** *"Rushing the software migration without automated regression test suites has drawbacks that far outweigh any temporary speed gains."*
+- **Nuance & Exam Tip:** Crucial for concluding negotiations in Part 3.
+
+---
+
+### A critical trade-off to consider is
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Un sacrificio / trade-off crítico a considerar es...
+- **Definition:** Identifies what must be surrendered to gain a benefit.
+- **Example:** *"A critical trade-off to consider is that maximizing query caching speed inevitably increases memory consumption on host nodes."*
+- **Nuance & Exam Tip:** Analytical reasoning vocabulary (*trade-off*).
+
+---
+
+### A viable middle ground would be
+?
+- **Part of Speech:** Discourse Marker [Formal/Spoken]
+- **Español:** Un punto intermedio viable sería...
+- **Definition:** Synthesizes opposing stances into a workable protocol.
+- **Example:** *"A viable middle ground would be to mandate solar panels on all newly constructed commercial buildings while offering residential tax credits."*
+- **Nuance & Exam Tip:** Constructive policy proposal marker.
+
+---
+
+### Pitting X against Y
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Enfrentando X contra Y...
+- **Definition:** Highlights the systemic conflict between two priorities.
+- **Example:** *"The current regulatory debate pits short-term venture capital returns against long-term societal resilience."*
+- **Nuance & Exam Tip:** Dynamic argumentative verb (*pit against*).
+
+---
+
+### It all hinges on
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Todo depende / gira en torno a...
+- **Definition:** Points out the single pivotal axis upon which success balances.
+- **Example:** *"The commercial viability of hydrogen fuel cells all hinges on whether we can generate green hydrogen at scale with surplus renewable power."*
+- **Nuance & Exam Tip:** High-utility phrasal verb (*hinge on*).
+
+---
+
+### Navigating between Scylla and Charybdis
+?
+- **Part of Speech:** Discourse Marker [Idiom/Literary]
+- **Español:** Navegando entre Escila y Caribdis / Entre la espada y la pared
+- **Definition:** Mythological idiom describing the treacherous path between two deadly hazards.
+- **Example:** *"Central bankers are navigating between Scylla and Charybdis: raise rates and trigger recession, or lower rates and entrench inflation."*
+- **Nuance & Exam Tip:** Prestigious C2 literary idiom.
+
+---
+
+### At what cost?
+?
+- **Part of Speech:** Discourse Marker [Rhetorical/Spoken]
+- **Español:** ¿A qué precio? / ¿A costa de qué?
+- **Definition:** Profound rhetorical challenge interrogating hidden damages.
+- **Example:** *"We have achieved instantaneous global digital communication, but at what cost to human attention spans and psychological serenity?"*
+- **Nuance & Exam Tip:** High-impact rhetorical punchline for Part 4.
+
+---
+
+### Far from being a liability, it actually
+?
+- **Part of Speech:** Discourse Marker [Formal/Inversion]
+- **Español:** Lejos de ser una desventaja, en realidad...
+- **Definition:** Flips an alleged weakness into a powerful competitive asset.
+- **Example:** *"Far from being a liability, strict data privacy compliance actually builds durable consumer trust that legacy competitors cannot match."*
+- **Nuance & Exam Tip:** High-scoring rhetorical pivot.
+
+---
+
+### It is misleading to suggest that
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Es engañoso insinuar que...
+- **Definition:** Points out deceptive framing or selective statistics.
+- **Example:** *"It is misleading to suggest that electric vehicles generate zero emissions without auditing the carbon footprint of battery gigafactories."*
+- **Nuance & Exam Tip:** Academic rigor and skepticism.
+
+---
+
+### That may be true in theory, but in practice
+?
+- **Part of Speech:** Discourse Marker [Idiom/Spoken]
+- **Español:** Eso puede ser verdad en teoría, pero en la práctica...
+- **Definition:** Shatters academic abstractions with hard empirical reality.
+- **Example:** *"That may be true in classical economic theory, but in practice, real-world labor markets suffer from immense regional immobility."*
+- **Nuance & Exam Tip:** Relatable and grounded.
+
+---
+
+### You are looking at this through a narrow lens
+?
+- **Part of Speech:** Discourse Marker [Metaphor/Spoken]
+- **Español:** Estás mirando esto a través de un lente estrecho
+- **Definition:** Challenges an overly restrictive perspective.
+- **Example:** *"You are looking at this through a narrow fiscal lens; if we calculate the public healthcare dividends, the program pays for itself ten times over."*
+- **Nuance & Exam Tip:** Visual perspective metaphor.
+
+---
+
+### Correlation does not imply causation
+?
+- **Part of Speech:** Discourse Marker [Formal/Scientific]
+- **Español:** Correlación no implica causalidad
+- **Definition:** The golden rule of scientific and statistical critique.
+- **Example:** *"Just because smartphone adoption coincided with rising teenage anxiety does not mean correlation implies causation; other societal shifts were at play."*
+- **Nuance & Exam Tip:** Essential scientific debate tool.
+
+---
+
+### That objection has been thoroughly debunked
+?
+- **Part of Speech:** Discourse Marker [Formal/Academic]
+- **Español:** Esa objeción ha sido completamente desmontada / refutada
+- **Definition:** Asserts that consensus science has already dismantled an objection.
+- **Example:** *"The myth that childhood vaccines induce neurodevelopmental disorders has been thoroughly debunked by dozens of longitudinal studies."*
+- **Nuance & Exam Tip:** Vigorous debunking verb (*debunk*).
+
+---
+
+### That creates a false dilemma
+?
+- **Part of Speech:** Discourse Marker [Formal/Logical]
+- **Español:** Eso crea un falso dilema
+- **Definition:** Exposes a binary choice as artificially restrictive.
+- **Example:** *"Framing environmental protection as economic suicide creates a false dilemma; green technologies are the premier engine of modern industrial growth."*
+- **Nuance & Exam Tip:** Exposes logical fallacies.
 
 ---
