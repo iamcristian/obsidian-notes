@@ -25,19 +25,18 @@ total_tests: 50
 
 ---
 
-### Test 801 — Inversion: Hardly... When #flashcards/cambridge/part4
+### Test 801
 
-**First Sentence:** As soon as we deployed the hotfix, the secondary database replica crashed.
-**Key Word:** `[HARDLY]`
-**Second Sentence:** ______ the hotfix when the secondary database replica crashed.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** As soon as we deployed the hotfix, the secondary database replica crashed.
+> - **Key Word:** `[HARDLY]`
+> - **Second Sentence:** ______ the hotfix when the secondary database replica crashed.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Hardly had we deployed` (4 palabras)
-
-**Oración Completa:** *"Hardly had we deployed the hotfix when the secondary database replica crashed."*
-
+- **Oración Completa:** *"Hardly had we deployed the hotfix when the secondary database replica crashed."*
+- **Enfoque:** Inversion: Hardly... When
 - **Estructura Gramatical:** Negative Time Inversion: *Hardly + had + subject + past participle... when*
 - **Regla Clave:** Cuando *hardly* encabeza la oración, exige inversión del auxiliar *had* antes del sujeto y se correlaciona estrictamente con *when*.
 - **Razón y Mecánica:** *Hardly* + *had* + *we* + *deployed*. Son 4 palabras.
@@ -46,19 +45,18 @@ total_tests: 50
 
 ---
 
-### Test 802 — Inversion: No Sooner... Than #flashcards/cambridge/part4
+### Test 802
 
-**First Sentence:** The architect finished the presentation and immediately the stakeholders approved the budget.
-**Key Word:** `[SOONER]`
-**Second Sentence:** No ______ the presentation than the stakeholders approved the budget.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The architect finished the presentation and immediately the stakeholders approved the budget.
+> - **Key Word:** `[SOONER]`
+> - **Second Sentence:** No ______ the presentation than the stakeholders approved the budget.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `sooner had the architect finished` (5 palabras)
-
-**Oración Completa:** *"No sooner had the architect finished the presentation than the stakeholders approved the budget."*
-
+- **Oración Completa:** *"No sooner had the architect finished the presentation than the stakeholders approved the budget."*
+- **Enfoque:** Inversion: No Sooner... Than
 - **Estructura Gramatical:** Negative Time Inversion: *No sooner + had + subject + past participle... than*
 - **Regla Clave:** *No sooner* rige inversión con *had* y se correlaciona obligatoriamente con la conjunción *than*.
 - **Razón y Mecánica:** *sooner* + *had* + sujeto (*the architect*) + participio (*finished*). Son 5 palabras.
@@ -67,19 +65,18 @@ total_tests: 50
 
 ---
 
-### Test 803 — Inversion: Under No Circumstances #flashcards/cambridge/part4
+### Test 803
 
-**First Sentence:** You must never commit production database passwords to public repositories.
-**Key Word:** `[CIRCUMSTANCES]`
-**Second Sentence:** Under ______ commit production database passwords to public repositories.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You must never commit production database passwords to public repositories.
+> - **Key Word:** `[CIRCUMSTANCES]`
+> - **Second Sentence:** Under ______ commit production database passwords to public repositories.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `no circumstances must you` (4 palabras)
-
-**Oración Completa:** *"Under no circumstances must you commit production database passwords to public repositories."*
-
+- **Oración Completa:** *"Under no circumstances must you commit production database passwords to public repositories."*
+- **Enfoque:** Inversion: Under No Circumstances
 - **Estructura Gramatical:** Negative Prepositional Inversion: *Under no circumstances + modal + subject + verb*
 - **Regla Clave:** Frase preposicional negativa enfática que obliga a invertir el modal *must* delante del sujeto *you*.
 - **Razón y Mecánica:** *no circumstances* (2 palabras) + modal (*must*) + sujeto (*you*). Total: 4 palabras.
@@ -88,19 +85,18 @@ total_tests: 50
 
 ---
 
-### Test 804 — Inversion: Seldom / Rarely #flashcards/cambridge/part4
+### Test 804
 
-**First Sentence:** We have rarely encountered such a complex synchronization deadlock.
-**Key Word:** `[SELDOM]`
-**Second Sentence:** ______ such a complex synchronization deadlock.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** We have rarely encountered such a complex synchronization deadlock.
+> - **Key Word:** `[SELDOM]`
+> - **Second Sentence:** ______ such a complex synchronization deadlock.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Seldom have we encountered` (4 palabras)
-
-**Oración Completa:** *"Seldom have we encountered such a complex synchronization deadlock."*
-
+- **Oración Completa:** *"Seldom have we encountered such a complex synchronization deadlock."*
+- **Enfoque:** Inversion: Seldom / Rarely
 - **Estructura Gramatical:** Negative Frequency Inversion: *Seldom + have/has + subject + past participle*
 - **Regla Clave:** Adverbio restrictivo al frente de la oración que invierte el verbo auxiliar.
 - **Razón y Mecánica:** *Seldom* + *have* + *we* + *encountered*. Son 4 palabras.
@@ -109,19 +105,18 @@ total_tests: 50
 
 ---
 
-### Test 805 — Inversion: Little Did He Know #flashcards/cambridge/part4
+### Test 805
 
-**First Sentence:** Mark didn't realize that his script had accidentally deleted production logs.
-**Key Word:** `[LITTLE]`
-**Second Sentence:** ______ that his script had accidentally deleted production logs.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Mark didn't realize that his script had accidentally deleted production logs.
+> - **Key Word:** `[LITTLE]`
+> - **Second Sentence:** ______ that his script had accidentally deleted production logs.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Little did Mark realize` (4 palabras)
-
-**Oración Completa:** *"Little did Mark realize that his script had accidentally deleted production logs."*
-
+- **Oración Completa:** *"Little did Mark realize that his script had accidentally deleted production logs."*
+- **Enfoque:** Inversion: Little Did He Know
 - **Estructura Gramatical:** Cognitive Negative Inversion: *Little + did + subject + bare infinitive*
 - **Regla Clave:** *Little* al inicio con verbos de conocimiento (*know, realize, suspect*) exige inversión en pasado con el auxiliar *did*.
 - **Razón y Mecánica:** *Little* + auxiliar (*did*) + sujeto (*Mark*) + infinitivo base (*realize*). Son 4 palabras.
@@ -130,19 +125,18 @@ total_tests: 50
 
 ---
 
-### Test 806 — Inversion: Not Only... But Also #flashcards/cambridge/part4
+### Test 806
 
-**First Sentence:** The new release improved system throughput and it also reduced memory consumption.
-**Key Word:** `[ONLY]`
-**Second Sentence:** Not ______ system throughput, but it also reduced memory consumption.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The new release improved system throughput and it also reduced memory consumption.
+> - **Key Word:** `[ONLY]`
+> - **Second Sentence:** Not ______ system throughput, but it also reduced memory consumption.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `only did the release improve` (5 palabras)
-
-**Oración Completa:** *"Not only did the release improve system throughput, but it also reduced memory consumption."*
-
+- **Oración Completa:** *"Not only did the release improve system throughput, but it also reduced memory consumption."*
+- **Enfoque:** Inversion: Not Only... But Also
 - **Estructura Gramatical:** Additive Inversion: *Not only + auxiliary + subject + verb... but also*
 - **Regla Clave:** La cláusula introducida por *Not only* debe sufrir inversión sintáctica.
 - **Razón y Mecánica:** *only* + auxiliar (*did*) + sujeto (*the release*) + infinitivo (*improve*). Son 5 palabras.
@@ -151,19 +145,18 @@ total_tests: 50
 
 ---
 
-### Test 807 — Reported Speech: Accuse Someone Of #flashcards/cambridge/part4
+### Test 807
 
-**First Sentence:** 'You stole the client's proprietary encryption algorithm!' the CEO said to Julian.
-**Key Word:** `[ACCUSED]`
-**Second Sentence:** The CEO ______ the client's proprietary encryption algorithm.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'You stole the client's proprietary encryption algorithm!' the CEO said to Julian.
+> - **Key Word:** `[ACCUSED]`
+> - **Second Sentence:** The CEO ______ the client's proprietary encryption algorithm.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `accused Julian of stealing` (4 palabras)
-
-**Oración Completa:** *"The CEO accused Julian of stealing the client's proprietary encryption algorithm."*
-
+- **Oración Completa:** *"The CEO accused Julian of stealing the client's proprietary encryption algorithm."*
+- **Enfoque:** Reported Speech: Accuse Someone Of
 - **Estructura Gramatical:** Reporting Verb Pattern: *accuse + person + OF + gerund*
 - **Regla Clave:** Sustituye la cita directa por el verbo reportativo específico *accused*, que rige preposición *of* + gerundio.
 - **Razón y Mecánica:** *accused* + persona (*Julian*) + preposición (*of*) + gerundio (*stealing*). Son 4 palabras.
@@ -172,19 +165,18 @@ total_tests: 50
 
 ---
 
-### Test 808 — Reported Speech: Apologize For #flashcards/cambridge/part4
+### Test 808
 
-**First Sentence:** 'I am deeply sorry that I broke the staging pipeline,' said David.
-**Key Word:** `[APOLOGIZED]`
-**Second Sentence:** David ______ the staging pipeline.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'I am deeply sorry that I broke the staging pipeline,' said David.
+> - **Key Word:** `[APOLOGIZED]`
+> - **Second Sentence:** David ______ the staging pipeline.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `apologized for breaking` (3 palabras)
-
-**Oración Completa:** *"David apologized for breaking the staging pipeline."*
-
+- **Oración Completa:** *"David apologized for breaking the staging pipeline."*
+- **Enfoque:** Reported Speech: Apologize For
 - **Estructura Gramatical:** Reporting Verb Pattern: *apologize (to someone) FOR + gerund*
 - **Regla Clave:** *Apologize* rige la preposición *for* seguida de gerundio (-ing) para la acción lamentada.
 - **Razón y Mecánica:** *apologized* + preposición (*for*) + gerundio (*breaking*). Son 3 palabras.
@@ -193,19 +185,18 @@ total_tests: 50
 
 ---
 
-### Test 809 — Reported Speech: Deny + Gerund #flashcards/cambridge/part4
+### Test 809
 
-**First Sentence:** 'I did not leak the confidential API keys,' insisted the developer.
-**Key Word:** `[DENIED]`
-**Second Sentence:** The developer ______ the confidential API keys.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'I did not leak the confidential API keys,' insisted the developer.
+> - **Key Word:** `[DENIED]`
+> - **Second Sentence:** The developer ______ the confidential API keys.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `denied leaking` (2 palabras)
-
-**Oración Completa:** *"The developer denied leaking the confidential API keys."*
-
+- **Oración Completa:** *"The developer denied leaking the confidential API keys."*
+- **Enfoque:** Reported Speech: Deny + Gerund
 - **Estructura Gramatical:** Reporting Verb Pattern: *deny + gerund* (o *deny having leaked*)
 - **Regla Clave:** *Deny* rige directamente gerundio sin preposición intermedia.
 - **Razón y Mecánica:** *denied* + gerundio (*leaking*). Son 2 palabras (o 3: *denied having leaked*).
@@ -214,19 +205,18 @@ total_tests: 50
 
 ---
 
-### Test 810 — Reported Speech: Congratulate On #flashcards/cambridge/part4
+### Test 810
 
-**First Sentence:** 'Well done on passing the AWS Solutions Architect exam!' my mentor said to me.
-**Key Word:** `[CONGRATULATED]`
-**Second Sentence:** My mentor ______ the AWS Solutions Architect exam.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'Well done on passing the AWS Solutions Architect exam!' my mentor said to me.
+> - **Key Word:** `[CONGRATULATED]`
+> - **Second Sentence:** My mentor ______ the AWS Solutions Architect exam.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `congratulated me on passing` (4 palabras)
-
-**Oración Completa:** *"My mentor congratulated me on passing the AWS Solutions Architect exam."*
-
+- **Oración Completa:** *"My mentor congratulated me on passing the AWS Solutions Architect exam."*
+- **Enfoque:** Reported Speech: Congratulate On
 - **Estructura Gramatical:** Reporting Verb Pattern: *congratulate + person + ON + gerund*
 - **Regla Clave:** *Congratulate* requiere la preposición *on* (NUNCA *for*).
 - **Razón y Mecánica:** *congratulated* + objeto (*me*) + preposición (*on*) + gerundio (*passing*). Son 4 palabras.
@@ -235,19 +225,18 @@ total_tests: 50
 
 ---
 
-### Test 811 — Reported Speech: Warn Against / Warn Not To #flashcards/cambridge/part4
+### Test 811
 
-**First Sentence:** 'Do not deploy changes directly to the main branch,' the tech lead told us.
-**Key Word:** `[WARNED]`
-**Second Sentence:** The tech lead ______ changes directly to the main branch.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'Do not deploy changes directly to the main branch,' the tech lead told us.
+> - **Key Word:** `[WARNED]`
+> - **Second Sentence:** The tech lead ______ changes directly to the main branch.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `warned us against deploying` (4 palabras)
-
-**Oración Completa:** *"The tech lead warned us against deploying changes directly to the main branch."*
-
+- **Oración Completa:** *"The tech lead warned us against deploying changes directly to the main branch."*
+- **Enfoque:** Reported Speech: Warn Against / Warn Not To
 - **Estructura Gramatical:** Reporting Verb Pattern: *warn + person + against + -ing* (o *warn us not to deploy*)
 - **Regla Clave:** *Warn against* rige gerundio para advertir sobre no realizar una conducta peligrosa.
 - **Razón y Mecánica:** *warned* + *us* + *against* + *deploying* (4 palabras) o alternativamente *warned us not to deploy* (5 palabras).
@@ -256,19 +245,18 @@ total_tests: 50
 
 ---
 
-### Test 812 — Reported Speech: Insist On #flashcards/cambridge/part4
+### Test 812
 
-**First Sentence:** 'You must rewrite this function using recursion,' the professor said to me.
-**Key Word:** `[INSISTED]`
-**Second Sentence:** The professor ______ that function using recursion.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'You must rewrite this function using recursion,' the professor said to me.
+> - **Key Word:** `[INSISTED]`
+> - **Second Sentence:** The professor ______ that function using recursion.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `insisted on my rewriting` (4 palabras)
-
-**Oración Completa:** *"The professor insisted on my rewriting that function using recursion."*
-
+- **Oración Completa:** *"The professor insisted on my rewriting that function using recursion."*
+- **Enfoque:** Reported Speech: Insist On
 - **Estructura Gramatical:** Reporting Verb Pattern: *insist on + possessive/object + gerund*
 - **Regla Clave:** *Insist* requiere la preposición *on* seguida de gerundio o sintagma nominal.
 - **Razón y Mecánica:** *insisted* + *on* + posesivo (*my*) + gerundio (*rewriting*). Son 4 palabras.
@@ -277,19 +265,18 @@ total_tests: 50
 
 ---
 
-### Test 813 — Comparatives: The More... The More #flashcards/cambridge/part4
+### Test 813
 
-**First Sentence:** If you write more automated tests, your deployment process becomes safer.
-**Key Word:** `[THE]`
-**Second Sentence:** The more automated tests you write, ______ your deployment process becomes.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** If you write more automated tests, your deployment process becomes safer.
+> - **Key Word:** `[THE]`
+> - **Second Sentence:** The more automated tests you write, ______ your deployment process becomes.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `the safer` (2 palabras)
-
-**Oración Completa:** *"The more automated tests you write, the safer your deployment process becomes."*
-
+- **Oración Completa:** *"The more automated tests you write, the safer your deployment process becomes."*
+- **Enfoque:** Comparatives: The More... The More
 - **Estructura Gramatical:** Proportional Comparative: *The + comparative... the + comparative*
 - **Regla Clave:** Estructura correlativa de proporcionalidad directa.
 - **Razón y Mecánica:** *the* + adjetivo comparativo sintético (*safer*). Son 2 palabras exactas.
@@ -298,19 +285,18 @@ total_tests: 50
 
 ---
 
-### Test 814 — Comparatives: Nowhere Near As (Emphatic Difference) #flashcards/cambridge/part4
+### Test 814
 
-**First Sentence:** The legacy monolithic system is vastly inferior in performance to the new distributed architecture.
-**Key Word:** `[NEAR]`
-**Second Sentence:** The legacy monolithic system is ______ performant as the new distributed architecture.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The legacy monolithic system is vastly inferior in performance to the new distributed architecture.
+> - **Key Word:** `[NEAR]`
+> - **Second Sentence:** The legacy monolithic system is ______ performant as the new distributed architecture.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `nowhere near as` (3 palabras)
-
-**Oración Completa:** *"The legacy monolithic system is nowhere near as performant as the new distributed architecture."*
-
+- **Oración Completa:** *"The legacy monolithic system is nowhere near as performant as the new distributed architecture."*
+- **Enfoque:** Comparatives: Nowhere Near As (Emphatic Difference)
 - **Estructura Gramatical:** Emphatic Negative Equative: *nowhere near as + adjective + as*
 - **Regla Clave:** *Nowhere near as* enfatiza una enorme distancia cualitativa o cuantitativa ('ni de lejos tan... como').
 - **Razón y Mecánica:** *nowhere* + *near* + *as*. Son exactamente 3 palabras.
@@ -319,19 +305,18 @@ total_tests: 50
 
 ---
 
-### Test 815 — Comparatives: Far and Away (Superlative Emphasis) #flashcards/cambridge/part4
+### Test 815
 
-**First Sentence:** Python is without question the most popular language for machine learning research.
-**Key Word:** `[AWAY]`
-**Second Sentence:** Python is ______ the most popular language for machine learning research.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Python is without question the most popular language for machine learning research.
+> - **Key Word:** `[AWAY]`
+> - **Second Sentence:** Python is ______ the most popular language for machine learning research.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `far and away` (3 palabras)
-
-**Oración Completa:** *"Python is far and away the most popular language for machine learning research."*
-
+- **Oración Completa:** *"Python is far and away the most popular language for machine learning research."*
+- **Enfoque:** Comparatives: Far and Away (Superlative Emphasis)
 - **Estructura Gramatical:** Superlative Emphatic Adverbial: *far and away + superlative*
 - **Regla Clave:** *Far and away* intensifica un superlativo ('de lejos el más...').
 - **Razón y Mecánica:** *far* + *and* + *away*. Son 3 palabras exactas.
@@ -340,19 +325,18 @@ total_tests: 50
 
 ---
 
-### Test 816 — Idioms: Make Sense Of #flashcards/cambridge/part4
+### Test 816
 
-**First Sentence:** I couldn't understand the obscure error stack trace at all.
-**Key Word:** `[SENSE]`
-**Second Sentence:** I could not ______ the obscure error stack trace at all.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I couldn't understand the obscure error stack trace at all.
+> - **Key Word:** `[SENSE]`
+> - **Second Sentence:** I could not ______ the obscure error stack trace at all.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `make sense of` (3 palabras)
-
-**Oración Completa:** *"I could not make sense of the obscure error stack trace at all."*
-
+- **Oración Completa:** *"I could not make sense of the obscure error stack trace at all."*
+- **Enfoque:** Idioms: Make Sense Of
 - **Estructura Gramatical:** Idiomatic Cognitive Collocation: *make sense of*
 - **Regla Clave:** *Make sense of* significa descifrar o comprender el significado de algo confuso.
 - **Razón y Mecánica:** *make* + *sense* + *of*. Son 3 palabras.
@@ -361,19 +345,18 @@ total_tests: 50
 
 ---
 
-### Test 817 — Idioms: Come as a Surprise #flashcards/cambridge/part4
+### Test 817
 
-**First Sentence:** The announcement of the CEO's resignation completely surprised everyone.
-**Key Word:** `[CAME]`
-**Second Sentence:** The announcement of the CEO's resignation ______ to everyone.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The announcement of the CEO's resignation completely surprised everyone.
+> - **Key Word:** `[CAME]`
+> - **Second Sentence:** The announcement of the CEO's resignation ______ to everyone.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `came as a surprise` (4 palabras)
-
-**Oración Completa:** *"The announcement of the CEO's resignation came as a surprise to everyone."*
-
+- **Oración Completa:** *"The announcement of the CEO's resignation came as a surprise to everyone."*
+- **Enfoque:** Idioms: Come as a Surprise
 - **Estructura Gramatical:** Idiomatic Event Collocation: *come as a surprise (to someone)*
 - **Regla Clave:** Construcción fija para expresar que un suceso causó sorpresa.
 - **Razón y Mecánica:** *came* + *as* + artículo (*a*) + sustantivo (*surprise*). Son 4 palabras.
@@ -382,19 +365,18 @@ total_tests: 50
 
 ---
 
-### Test 818 — Idioms: Lose One's Temper #flashcards/cambridge/part4
+### Test 818
 
-**First Sentence:** The lead engineer suddenly became furious during the code review.
-**Key Word:** `[LOST]`
-**Second Sentence:** The lead engineer suddenly ______ during the code review.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The lead engineer suddenly became furious during the code review.
+> - **Key Word:** `[LOST]`
+> - **Second Sentence:** The lead engineer suddenly ______ during the code review.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `lost his temper` (3 palabras)
-
-**Oración Completa:** *"The lead engineer suddenly lost his temper during the code review."*
-
+- **Oración Completa:** *"The lead engineer suddenly lost his temper during the code review."*
+- **Enfoque:** Idioms: Lose One's Temper
 - **Estructura Gramatical:** Idiomatic Emotional Collocation: *lose one's temper*
 - **Regla Clave:** *Lose one's temper* es la expresión canónica para enfurecerse o perder los estribos.
 - **Razón y Mecánica:** *lost* + posesivo (*his*) + sustantivo (*temper*). Son 3 palabras.
@@ -403,19 +385,18 @@ total_tests: 50
 
 ---
 
-### Test 819 — Phrasal Substitutions: Call Off (Cancel) #flashcards/cambridge/part4
+### Test 819
 
-**First Sentence:** The management decided to cancel the quarterly hackathon due to budget cuts.
-**Key Word:** `[CALL]`
-**Second Sentence:** The management decided to ______ the quarterly hackathon due to budget cuts.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The management decided to cancel the quarterly hackathon due to budget cuts.
+> - **Key Word:** `[CALL]`
+> - **Second Sentence:** The management decided to ______ the quarterly hackathon due to budget cuts.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `call off` (2 palabras)
-
-**Oración Completa:** *"The management decided to call off the quarterly hackathon due to budget cuts."*
-
+- **Oración Completa:** *"The management decided to call off the quarterly hackathon due to budget cuts."*
+- **Enfoque:** Phrasal Substitutions: Call Off (Cancel)
 - **Estructura Gramatical:** Phrasal Verb Substitution: *cancel -> call off*
 - **Regla Clave:** Conversión directa de verbo formal a phrasal verb B2.
 - **Razón y Mecánica:** Infinitivo con *decided to*: *call* + partícula *off*. Son 2 palabras exactas.
@@ -424,19 +405,18 @@ total_tests: 50
 
 ---
 
-### Test 820 — Phrasal Substitutions: Put Up With (Tolerate) #flashcards/cambridge/part4
+### Test 820
 
-**First Sentence:** I refuse to tolerate poor commit messages in this repository any longer.
-**Key Word:** `[PUT]`
-**Second Sentence:** I refuse to ______ poor commit messages in this repository any longer.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I refuse to tolerate poor commit messages in this repository any longer.
+> - **Key Word:** `[PUT]`
+> - **Second Sentence:** I refuse to ______ poor commit messages in this repository any longer.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `put up with` (3 palabras)
-
-**Oración Completa:** *"I refuse to put up with poor commit messages in this repository any longer."*
-
+- **Oración Completa:** *"I refuse to put up with poor commit messages in this repository any longer."*
+- **Enfoque:** Phrasal Substitutions: Put Up With (Tolerate)
 - **Estructura Gramatical:** Three-Part Phrasal Verb: *tolerate -> put up with*
 - **Regla Clave:** *Put up with* es la sustitución idiomática obligatoria para *tolerate*.
 - **Razón y Mecánica:** *put* + *up* + *with*. Son 3 palabras.
@@ -445,19 +425,18 @@ total_tests: 50
 
 ---
 
-### Test 821 — Inversion: Nowhere Else #flashcards/cambridge/part4
+### Test 821
 
-**First Sentence:** You will not find such high concurrency performance in any other framework.
-**Key Word:** `[ELSE]`
-**Second Sentence:** Nowhere ______ find such high concurrency performance.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You will not find such high concurrency performance in any other framework.
+> - **Key Word:** `[ELSE]`
+> - **Second Sentence:** Nowhere ______ find such high concurrency performance.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `else will you` (3 palabras)
-
-**Oración Completa:** *"Nowhere else will you find such high concurrency performance."*
-
+- **Oración Completa:** *"Nowhere else will you find such high concurrency performance."*
+- **Enfoque:** Inversion: Nowhere Else
 - **Estructura Gramatical:** Negative Locative Inversion: *Nowhere else + auxiliary + subject + verb*
 - **Regla Clave:** La locución negativa *Nowhere else* exige inversión sujeto-auxiliar.
 - **Razón y Mecánica:** *else* + auxiliar (*will*) + sujeto (*you*). Son 3 palabras exactas.
@@ -466,19 +445,18 @@ total_tests: 50
 
 ---
 
-### Test 822 — Reported Speech: Remind Someone To #flashcards/cambridge/part4
+### Test 822
 
-**First Sentence:** 'Don't forget to push your branch before the end of the day,' said Sarah.
-**Key Word:** `[REMINDED]`
-**Second Sentence:** Sarah ______ my branch before the end of the day.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'Don't forget to push your branch before the end of the day,' said Sarah.
+> - **Key Word:** `[REMINDED]`
+> - **Second Sentence:** Sarah ______ my branch before the end of the day.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `reminded me to push` (4 palabras)
-
-**Oración Completa:** *"Sarah reminded me to push my branch before the end of the day."*
-
+- **Oración Completa:** *"Sarah reminded me to push my branch before the end of the day."*
+- **Enfoque:** Reported Speech: Remind Someone To
 - **Estructura Gramatical:** Reporting Verb Pattern: *remind + person + to-infinitive*
 - **Regla Clave:** *Remind* toma objeto personal seguido de infinitivo con *to*.
 - **Razón y Mecánica:** *reminded* + persona (*me*) + *to* + verbo (*push*). Son 4 palabras.
@@ -487,19 +465,18 @@ total_tests: 50
 
 ---
 
-### Test 823 — Idioms: Cast Doubt On #flashcards/cambridge/part4
+### Test 823
 
-**First Sentence:** The benchmark anomalies made people question the validity of the architecture.
-**Key Word:** `[DOUBT]`
-**Second Sentence:** The benchmark anomalies ______ the validity of the architecture.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The benchmark anomalies made people question the validity of the architecture.
+> - **Key Word:** `[DOUBT]`
+> - **Second Sentence:** The benchmark anomalies ______ the validity of the architecture.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `cast doubt on` (3 palabras)
-
-**Oración Completa:** *"The benchmark anomalies cast doubt on the validity of the architecture."*
-
+- **Oración Completa:** *"The benchmark anomalies cast doubt on the validity of the architecture."*
+- **Enfoque:** Idioms: Cast Doubt On
 - **Estructura Gramatical:** Advanced Collocation: *cast doubt on*
 - **Regla Clave:** Expresión fija C1 equivalente a 'sembrar dudas sobre'.
 - **Razón y Mecánica:** Pasado de cast (*cast*) + *doubt* + *on*. Son 3 palabras.
@@ -508,19 +485,18 @@ total_tests: 50
 
 ---
 
-### Test 824 — Comparatives: Prefer -ing to -ing -> Would Rather #flashcards/cambridge/part4
+### Test 824
 
-**First Sentence:** I prefer debugging locally rather than using remote profiling tools.
-**Key Word:** `[RATHER]`
-**Second Sentence:** I would ______ using remote profiling tools.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I prefer debugging locally rather than using remote profiling tools.
+> - **Key Word:** `[RATHER]`
+> - **Second Sentence:** I would ______ using remote profiling tools.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `rather debug locally than be` (5 palabras)
-
-**Oración Completa:** *"I would rather debug locally than be using remote profiling tools."*
-
+- **Oración Completa:** *"I would rather debug locally than be using remote profiling tools."*
+- **Enfoque:** Comparatives: Prefer -ing to -ing -> Would Rather
 - **Estructura Gramatical:** Modal Preference: *would rather + bare infinitive... than*
 - **Regla Clave:** Modal Preference: *would rather + bare infinitive... than*
 - **Razón y Mecánica:** *rather* + bare infinitive (*debug*) + adverb (*locally*) + *than* + *be*. Son 5 palabras.
@@ -529,19 +505,18 @@ total_tests: 50
 
 ---
 
-### Test 825 — Idioms: Bring to Light #flashcards/cambridge/part4
+### Test 825
 
-**First Sentence:** The deep log analysis revealed several long-standing race conditions.
-**Key Word:** `[LIGHT]`
-**Second Sentence:** The deep log analysis ______ several long-standing race conditions.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The deep log analysis revealed several long-standing race conditions.
+> - **Key Word:** `[LIGHT]`
+> - **Second Sentence:** The deep log analysis ______ several long-standing race conditions.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `brought to light` (3 palabras)
-
-**Oración Completa:** *"The deep log analysis brought to light several long-standing race conditions."*
-
+- **Oración Completa:** *"The deep log analysis brought to light several long-standing race conditions."*
+- **Enfoque:** Idioms: Bring to Light
 - **Estructura Gramatical:** Idiomatic Revelation: *bring to light = reveal*
 - **Regla Clave:** *Bring to light* significa sacar a la luz o revelar información oculta.
 - **Razón y Mecánica:** Pasado de bring (*brought*) + *to* + *light*. Son 3 palabras.
@@ -550,19 +525,18 @@ total_tests: 50
 
 ---
 
-### Test 826 — Inversion: At No Time #flashcards/cambridge/part4
+### Test 826
 
-**First Sentence:** The security auditor was never informed about the secret cryptographic backdoor.
-**Key Word:** `[TIME]`
-**Second Sentence:** At ______ informed about the secret cryptographic backdoor.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The security auditor was never informed about the secret cryptographic backdoor.
+> - **Key Word:** `[TIME]`
+> - **Second Sentence:** At ______ informed about the secret cryptographic backdoor.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `no time was the auditor` (5 palabras)
-
-**Oración Completa:** *"At no time was the auditor informed about the secret cryptographic backdoor."*
-
+- **Oración Completa:** *"At no time was the auditor informed about the secret cryptographic backdoor."*
+- **Enfoque:** Inversion: At No Time
 - **Estructura Gramatical:** Temporal Negative Inversion: *At no time + auxiliary + subject + participle*
 - **Regla Clave:** *At no time* encabeza la oración e impone inversión sintáctica estricta.
 - **Razón y Mecánica:** *no time* (2 palabras) + auxiliar pasado (*was*) + sujeto (*the auditor*). Total: 5 palabras.
@@ -571,19 +545,18 @@ total_tests: 50
 
 ---
 
-### Test 827 — Reported Speech: Blame Someone For #flashcards/cambridge/part4
+### Test 827
 
-**First Sentence:** 'It's entirely your fault that the database crashed,' the CEO shouted at the CTO.
-**Key Word:** `[BLAMED]`
-**Second Sentence:** The CEO ______ the database crash.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'It's entirely your fault that the database crashed,' the CEO shouted at the CTO.
+> - **Key Word:** `[BLAMED]`
+> - **Second Sentence:** The CEO ______ the database crash.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `blamed the CTO for` (4 palabras)
-
-**Oración Completa:** *"The CEO blamed the CTO for the database crash."*
-
+- **Oración Completa:** *"The CEO blamed the CTO for the database crash."*
+- **Enfoque:** Reported Speech: Blame Someone For
 - **Estructura Gramatical:** Reporting Verb Pattern: *blame + person + FOR + noun/gerund*
 - **Regla Clave:** La construcción estándar con objeto personal es *blame someone FOR something*.
 - **Razón y Mecánica:** *blamed* + persona (*the CTO*) + preposición (*for*). Son 4 palabras.
@@ -592,19 +565,18 @@ total_tests: 50
 
 ---
 
-### Test 828 — Idioms: Take Pride In #flashcards/cambridge/part4
+### Test 828
 
-**First Sentence:** The backend team is very proud of maintaining zero critical bugs for a year.
-**Key Word:** `[PRIDE]`
-**Second Sentence:** The backend team ______ maintaining zero critical bugs for a year.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The backend team is very proud of maintaining zero critical bugs for a year.
+> - **Key Word:** `[PRIDE]`
+> - **Second Sentence:** The backend team ______ maintaining zero critical bugs for a year.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `takes immense pride in` (4 palabras)
-
-**Oración Completa:** *"The backend team takes immense pride in maintaining zero critical bugs for a year."*
-
+- **Oración Completa:** *"The backend team takes immense pride in maintaining zero critical bugs for a year."*
+- **Enfoque:** Idioms: Take Pride In
 - **Estructura Gramatical:** Nominalized Emotion Collocation: *take pride in + gerund*
 - **Regla Clave:** *Be proud of* se transforma en la colocación formal *take pride in*.
 - **Razón y Mecánica:** Tercera persona singular (*takes*) + intensificador (*immense* o *great*) + *pride* + *in*. Son 4 palabras (o 3 con *takes pride in*).
@@ -613,19 +585,18 @@ total_tests: 50
 
 ---
 
-### Test 829 — Comparatives: So... That vs Such... That #flashcards/cambridge/part4
+### Test 829
 
-**First Sentence:** The memory leak was so severe that the server crashed every twenty minutes.
-**Key Word:** `[SUCH]`
-**Second Sentence:** It was ______ that the server crashed every twenty minutes.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The memory leak was so severe that the server crashed every twenty minutes.
+> - **Key Word:** `[SUCH]`
+> - **Second Sentence:** It was ______ that the server crashed every twenty minutes.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `such a severe memory leak` (5 palabras)
-
-**Oración Completa:** *"It was such a severe memory leak that the server crashed every twenty minutes."*
-
+- **Oración Completa:** *"It was such a severe memory leak that the server crashed every twenty minutes."*
+- **Enfoque:** Comparatives: So... That vs Such... That
 - **Estructura Gramatical:** Result Clause Shift: *so + adj -> such a + adj + noun*
 - **Regla Clave:** *Such* modifica a un sintagma nominal (*such a severe memory leak*), mientras que *so* modifica únicamente al adjetivo.
 - **Razón y Mecánica:** *such* + artículo (*a*) + adjetivo (*severe*) + sustantivo (*memory leak*). Son 5 palabras.
@@ -634,19 +605,18 @@ total_tests: 50
 
 ---
 
-### Test 830 — Inversion: Not Until #flashcards/cambridge/part4
+### Test 830
 
-**First Sentence:** We realized the API was down only after customers began complaining on social media.
-**Key Word:** `[UNTIL]`
-**Second Sentence:** Not ______ complaining on social media did we realize the API was down.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** We realized the API was down only after customers began complaining on social media.
+> - **Key Word:** `[UNTIL]`
+> - **Second Sentence:** Not ______ complaining on social media did we realize the API was down.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `until customers began` (3 palabras)
-
-**Oración Completa:** *"Not until customers began complaining on social media did we realize the API was down."*
-
+- **Oración Completa:** *"Not until customers began complaining on social media did we realize the API was down."*
+- **Enfoque:** Inversion: Not Until
 - **Estructura Gramatical:** Delayed Inversion: *Not until + clause + auxiliary + subject + verb*
 - **Regla Clave:** Con *Not until*, la inversión se produce en la CLÁUSULA PRINCIPAL (*did we realize*), no en la cláusula del until.
 - **Razón y Mecánica:** *until* + sujeto (*customers*) + verbo (*began*). Son 3 palabras.
@@ -655,19 +625,18 @@ total_tests: 50
 
 ---
 
-### Test 831 — Phrasal Substitutions: Look Down On (Despise) #flashcards/cambridge/part4
+### Test 831
 
-**First Sentence:** Some senior engineers look with contempt on developers who write CSS.
-**Key Word:** `[DOWN]`
-**Second Sentence:** Some senior engineers ______ developers who write CSS.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Some senior engineers look with contempt on developers who write CSS.
+> - **Key Word:** `[DOWN]`
+> - **Second Sentence:** Some senior engineers ______ developers who write CSS.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `look down on` (3 palabras)
-
-**Oración Completa:** *"Some senior engineers look down on developers who write CSS."*
-
+- **Oración Completa:** *"Some senior engineers look down on developers who write CSS."*
+- **Enfoque:** Phrasal Substitutions: Look Down On (Despise)
 - **Estructura Gramatical:** Three-Part Phrasal Verb: *despise / look with contempt -> look down on*
 - **Regla Clave:** *Look down on* es el modismo que significa despreciar o mirar por encima del hombro.
 - **Razón y Mecánica:** *look* + *down* + *on*. Son 3 palabras.
@@ -676,19 +645,18 @@ total_tests: 50
 
 ---
 
-### Test 832 — Idioms: Stand a Chance #flashcards/cambridge/part4
+### Test 832
 
-**First Sentence:** Our application has no possibility of winning the performance benchmark against C++.
-**Key Word:** `[CHANCE]`
-**Second Sentence:** Our application does not ______ winning the performance benchmark against C++.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Our application has no possibility of winning the performance benchmark against C++.
+> - **Key Word:** `[CHANCE]`
+> - **Second Sentence:** Our application does not ______ winning the performance benchmark against C++.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `stand a chance of` (4 palabras)
-
-**Oración Completa:** *"Our application does not stand a chance of winning the performance benchmark against C++."*
-
+- **Oración Completa:** *"Our application does not stand a chance of winning the performance benchmark against C++."*
+- **Enfoque:** Idioms: Stand a Chance
 - **Estructura Gramatical:** Idiomatic Probability Collocation: *stand a chance of + gerund*
 - **Regla Clave:** *Stand a chance of* significa tener posibilidades reales de conseguir algo.
 - **Razón y Mecánica:** Verbo *stand* + artículo (*a*) + *chance* + preposición (*of*). Son 4 palabras.
@@ -697,19 +665,18 @@ total_tests: 50
 
 ---
 
-### Test 833 — Reported Speech: Suggested + Gerund #flashcards/cambridge/part4
+### Test 833
 
-**First Sentence:** 'Why don't we decouple the monolithic user service?' asked Sarah.
-**Key Word:** `[SUGGESTED]`
-**Second Sentence:** Sarah ______ the monolithic user service.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'Why don't we decouple the monolithic user service?' asked Sarah.
+> - **Key Word:** `[SUGGESTED]`
+> - **Second Sentence:** Sarah ______ the monolithic user service.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `suggested decoupling` (2 palabras)
-
-**Oración Completa:** *"Sarah suggested decoupling the monolithic user service."*
-
+- **Oración Completa:** *"Sarah suggested decoupling the monolithic user service."*
+- **Enfoque:** Reported Speech: Suggested + Gerund
 - **Estructura Gramatical:** Reporting Verb Pattern: *suggest + gerund*
 - **Regla Clave:** *Suggest* rige gerundio directo sin objeto personal (o subjuntivo con *that we decouple*). NUNCA infinitivo con *to*.
 - **Razón y Mecánica:** *suggested* + gerundio (*decoupling*). Son 2 palabras.
@@ -718,19 +685,18 @@ total_tests: 50
 
 ---
 
-### Test 834 — Inversion: Only After #flashcards/cambridge/part4
+### Test 834
 
-**First Sentence:** You can understand asynchronous event loops only after you master memory stacks.
-**Key Word:** `[AFTER]`
-**Second Sentence:** Only ______ memory stacks can you understand asynchronous event loops.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You can understand asynchronous event loops only after you master memory stacks.
+> - **Key Word:** `[AFTER]`
+> - **Second Sentence:** Only ______ memory stacks can you understand asynchronous event loops.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `after you master` (3 palabras)
-
-**Oración Completa:** *"Only after you master memory stacks can you understand asynchronous event loops."*
-
+- **Oración Completa:** *"Only after you master memory stacks can you understand asynchronous event loops."*
+- **Enfoque:** Inversion: Only After
 - **Estructura Gramatical:** Temporal Inversion with *Only after*: *Only after + clause + auxiliary + subject + verb*
 - **Regla Clave:** *Only after* impone inversión en la proposición principal (*can you understand*).
 - **Razón y Mecánica:** *after* + sujeto (*you*) + verbo (*master*). Son 3 palabras.
@@ -739,19 +705,18 @@ total_tests: 50
 
 ---
 
-### Test 835 — Idioms: Bear in Mind #flashcards/cambridge/part4
+### Test 835
 
-**First Sentence:** You must remember that distributed consensus algorithms are inherently complex.
-**Key Word:** `[BEAR]`
-**Second Sentence:** You must ______ that distributed consensus algorithms are inherently complex.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You must remember that distributed consensus algorithms are inherently complex.
+> - **Key Word:** `[BEAR]`
+> - **Second Sentence:** You must ______ that distributed consensus algorithms are inherently complex.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `bear in mind` (3 palabras)
-
-**Oración Completa:** *"You must bear in mind that distributed consensus algorithms are inherently complex."*
-
+- **Oración Completa:** *"You must bear in mind that distributed consensus algorithms are inherently complex."*
+- **Enfoque:** Idioms: Bear in Mind
 - **Estructura Gramatical:** Formal Cognitive Collocation: *bear in mind that...*
 - **Regla Clave:** *Bear in mind* es el equivalente formal de *remember / take into account*.
 - **Razón y Mecánica:** *bear* + *in* + *mind*. Son 3 palabras.
@@ -760,19 +725,18 @@ total_tests: 50
 
 ---
 
-### Test 836 — Phrasal Substitutions: Bring About (Cause) #flashcards/cambridge/part4
+### Test 836
 
-**First Sentence:** The automated deployment pipeline caused a dramatic improvement in developer velocity.
-**Key Word:** `[BROUGHT]`
-**Second Sentence:** The automated deployment pipeline ______ a dramatic improvement in developer velocity.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The automated deployment pipeline caused a dramatic improvement in developer velocity.
+> - **Key Word:** `[BROUGHT]`
+> - **Second Sentence:** The automated deployment pipeline ______ a dramatic improvement in developer velocity.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `brought about` (2 palabras)
-
-**Oración Completa:** *"The automated deployment pipeline brought about a dramatic improvement in developer velocity."*
-
+- **Oración Completa:** *"The automated deployment pipeline brought about a dramatic improvement in developer velocity."*
+- **Enfoque:** Phrasal Substitutions: Bring About (Cause)
 - **Estructura Gramatical:** Causal Phrasal Verb: *cause -> bring about*
 - **Regla Clave:** *Bring about* sustituye al verbo *cause* en contextos de cambios profundos.
 - **Razón y Mecánica:** Pasado *brought* + partícula *about*. Son 2 palabras exactas.
@@ -781,19 +745,18 @@ total_tests: 50
 
 ---
 
-### Test 837 — Idioms: Give Rise To #flashcards/cambridge/part4
+### Test 837
 
-**First Sentence:** Lack of thread synchronization frequently causes unpredictable race conditions.
-**Key Word:** `[RISE]`
-**Second Sentence:** Lack of thread synchronization frequently ______ unpredictable race conditions.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Lack of thread synchronization frequently causes unpredictable race conditions.
+> - **Key Word:** `[RISE]`
+> - **Second Sentence:** Lack of thread synchronization frequently ______ unpredictable race conditions.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `gives rise to` (3 palabras)
-
-**Oración Completa:** *"Lack of thread synchronization frequently gives rise to unpredictable race conditions."*
-
+- **Oración Completa:** *"Lack of thread synchronization frequently gives rise to unpredictable race conditions."*
+- **Enfoque:** Idioms: Give Rise To
 - **Estructura Gramatical:** Formal Causal Idiom: *give rise to + noun*
 - **Regla Clave:** *Give rise to* sustituye formalmente a *causes / triggers*.
 - **Razón y Mecánica:** Tercera persona singular (*gives*) + *rise* + *to*. Son 3 palabras.
@@ -802,19 +765,18 @@ total_tests: 50
 
 ---
 
-### Test 838 — Comparatives: As Good As (Virtually) #flashcards/cambridge/part4
+### Test 838
 
-**First Sentence:** The proof-of-concept prototype is practically finished.
-**Key Word:** `[GOOD]`
-**Second Sentence:** The proof-of-concept prototype is ______ finished.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The proof-of-concept prototype is practically finished.
+> - **Key Word:** `[GOOD]`
+> - **Second Sentence:** The proof-of-concept prototype is ______ finished.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `as good as` (3 palabras)
-
-**Oración Completa:** *"The proof-of-concept prototype is as good as finished."*
-
+- **Oración Completa:** *"The proof-of-concept prototype is as good as finished."*
+- **Enfoque:** Comparatives: As Good As (Virtually)
 - **Estructura Gramatical:** Idiomatic Adverbial of Degree: *as good as + adjective/participle = virtually / practically*
 - **Regla Clave:** *As good as* significa prácticamente o virtualmente hecho.
 - **Razón y Mecánica:** *as* + *good* + *as*. Son 3 palabras.
@@ -823,19 +785,18 @@ total_tests: 50
 
 ---
 
-### Test 839 — Idioms: Pay Attention To #flashcards/cambridge/part4
+### Test 839
 
-**First Sentence:** Junior programmers should listen carefully to advice given by senior staff.
-**Key Word:** `[ATTENTION]`
-**Second Sentence:** Junior programmers should ______ advice given by senior staff.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Junior programmers should listen carefully to advice given by senior staff.
+> - **Key Word:** `[ATTENTION]`
+> - **Second Sentence:** Junior programmers should ______ advice given by senior staff.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `pay close attention to` (4 palabras)
-
-**Oración Completa:** *"Junior programmers should pay close attention to advice given by senior staff."*
-
+- **Oración Completa:** *"Junior programmers should pay close attention to advice given by senior staff."*
+- **Enfoque:** Idioms: Pay Attention To
 - **Estructura Gramatical:** Attentive Collocation: *pay (close) attention to*
 - **Regla Clave:** Locución fija verbal con preposición *to*.
 - **Razón y Mecánica:** *pay* + adjetivo enfático (*close*) + *attention* + preposición (*to*). Son 4 palabras.
@@ -844,19 +805,18 @@ total_tests: 50
 
 ---
 
-### Test 840 — Reported Speech: Denied Having Done #flashcards/cambridge/part4
+### Test 840
 
-**First Sentence:** 'I definitely didn't leak customer records,' said the database administrator.
-**Key Word:** `[HAVING]`
-**Second Sentence:** The database administrator denied ______ customer records.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'I definitely didn't leak customer records,' said the database administrator.
+> - **Key Word:** `[HAVING]`
+> - **Second Sentence:** The database administrator denied ______ customer records.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `having leaked` (2 palabras)
-
-**Oración Completa:** *"The database administrator denied having leaked customer records."*
-
+- **Oración Completa:** *"The database administrator denied having leaked customer records."*
+- **Enfoque:** Reported Speech: Denied Having Done
 - **Estructura Gramatical:** Perfect Gerund Reporting: *deny + having + past participle*
 - **Regla Clave:** El gerundio compuesto (*having leaked*) enfatiza la anterioridad temporal de la acción negada.
 - **Razón y Mecánica:** Auxiliar gerundio (*having*) + participio (*leaked*). Son 2 palabras exactas.
@@ -865,19 +825,18 @@ total_tests: 50
 
 ---
 
-### Test 841 — Inversion: Scarcely... When #flashcards/cambridge/part4
+### Test 841
 
-**First Sentence:** Immediately after the server rebooted, another memory leak appeared.
-**Key Word:** `[SCARCELY]`
-**Second Sentence:** ______ the server rebooted when another memory leak appeared.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Immediately after the server rebooted, another memory leak appeared.
+> - **Key Word:** `[SCARCELY]`
+> - **Second Sentence:** ______ the server rebooted when another memory leak appeared.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Scarcely had` (2 palabras)
-
-**Oración Completa:** *"Scarcely had the server rebooted when another memory leak appeared."*
-
+- **Oración Completa:** *"Scarcely had the server rebooted when another memory leak appeared."*
+- **Enfoque:** Inversion: Scarcely... When
 - **Estructura Gramatical:** Correlative Inversion: *Scarcely + had + subject + past participle... when*
 - **Regla Clave:** *Scarcely* funciona igual que *Hardly*: rige *had* con inversión y se enlaza con *when*.
 - **Razón y Mecánica:** *Scarcely* + auxiliar (*had*). Son 2 palabras exactas (el sujeto *the server rebooted* ya figura en la frase).
@@ -886,19 +845,18 @@ total_tests: 50
 
 ---
 
-### Test 842 — Idioms: Catch Sight Of #flashcards/cambridge/part4
+### Test 842
 
-**First Sentence:** I briefly saw the elusive bug in the debugging console for a split second.
-**Key Word:** `[SIGHT]`
-**Second Sentence:** I ______ the elusive bug in the debugging console for a split second.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I briefly saw the elusive bug in the debugging console for a split second.
+> - **Key Word:** `[SIGHT]`
+> - **Second Sentence:** I ______ the elusive bug in the debugging console for a split second.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `caught sight of` (3 palabras)
-
-**Oración Completa:** *"I caught sight of the elusive bug in the debugging console for a split second."*
-
+- **Oración Completa:** *"I caught sight of the elusive bug in the debugging console for a split second."*
+- **Enfoque:** Idioms: Catch Sight Of
 - **Estructura Gramatical:** Perceptual Idiom: *catch sight of*
 - **Regla Clave:** *Catch sight of* significa divisar o ver fugazmente por un instante.
 - **Razón y Mecánica:** Pasado *caught* + sustantivo *sight* + preposición *of*. Son 3 palabras.
@@ -907,19 +865,18 @@ total_tests: 50
 
 ---
 
-### Test 843 — Idioms: Come to Terms With #flashcards/cambridge/part4
+### Test 843
 
-**First Sentence:** The founders had to accept that their initial architecture was obsolete.
-**Key Word:** `[TERMS]`
-**Second Sentence:** The founders had to ______ the obsolescence of their initial architecture.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The founders had to accept that their initial architecture was obsolete.
+> - **Key Word:** `[TERMS]`
+> - **Second Sentence:** The founders had to ______ the obsolescence of their initial architecture.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `come to terms with` (4 palabras)
-
-**Oración Completa:** *"The founders had to come to terms with the obsolescence of their initial architecture."*
-
+- **Oración Completa:** *"The founders had to come to terms with the obsolescence of their initial architecture."*
+- **Enfoque:** Idioms: Come to Terms With
 - **Estructura Gramatical:** Psychological Idiom: *come to terms with + noun*
 - **Regla Clave:** *Come to terms with* denota resignarse a aceptar una realidad adversa.
 - **Razón y Mecánica:** *come* + *to* + *terms* + *with*. Son 4 palabras.
@@ -928,19 +885,18 @@ total_tests: 50
 
 ---
 
-### Test 844 — Phrasal Substitutions: Face Up To #flashcards/cambridge/part4
+### Test 844
 
-**First Sentence:** We can no longer avoid the reality of our increasing technical debt.
-**Key Word:** `[FACE]`
-**Second Sentence:** We must ______ the reality of our increasing technical debt.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** We can no longer avoid the reality of our increasing technical debt.
+> - **Key Word:** `[FACE]`
+> - **Second Sentence:** We must ______ the reality of our increasing technical debt.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `face up to` (3 palabras)
-
-**Oración Completa:** *"We must face up to the reality of our increasing technical debt."*
-
+- **Oración Completa:** *"We must face up to the reality of our increasing technical debt."*
+- **Enfoque:** Phrasal Substitutions: Face Up To
 - **Estructura Gramatical:** Three-Part Phrasal Verb: *avoid reality -> face up to*
 - **Regla Clave:** *Face up to* significa encarar con valentía un problema ineludible.
 - **Razón y Mecánica:** Bare infinitive tras *must*: *face* + *up* + *to*. Son 3 palabras.
@@ -949,19 +905,18 @@ total_tests: 50
 
 ---
 
-### Test 845 — Reported Speech: Warned Not To #flashcards/cambridge/part4
+### Test 845
 
-**First Sentence:** 'You really must not push unencrypted keys,' said the security officer.
-**Key Word:** `[WARNED]`
-**Second Sentence:** The security officer ______ unencrypted keys.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** 'You really must not push unencrypted keys,' said the security officer.
+> - **Key Word:** `[WARNED]`
+> - **Second Sentence:** The security officer ______ unencrypted keys.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `warned us not to push` (5 palabras)
-
-**Oración Completa:** *"The security officer warned us not to push unencrypted keys."*
-
+- **Oración Completa:** *"The security officer warned us not to push unencrypted keys."*
+- **Enfoque:** Reported Speech: Warned Not To
 - **Estructura Gramatical:** Reporting Prohibition: *warn + person + not to-infinitive*
 - **Regla Clave:** Conversión directa de prohibición a infinitivo negativo reportado.
 - **Razón y Mecánica:** *warned* + *us* + *not* + *to* + *push*. Son 5 palabras.
@@ -970,19 +925,18 @@ total_tests: 50
 
 ---
 
-### Test 846 — Inversion: On No Condition #flashcards/cambridge/part4
+### Test 846
 
-**First Sentence:** You must never share production customer data with unverified third parties.
-**Key Word:** `[CONDITION]`
-**Second Sentence:** On ______ share production customer data with unverified third parties.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You must never share production customer data with unverified third parties.
+> - **Key Word:** `[CONDITION]`
+> - **Second Sentence:** On ______ share production customer data with unverified third parties.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `no condition must you` (4 palabras)
-
-**Oración Completa:** *"On no condition must you share production customer data with unverified third parties."*
-
+- **Oración Completa:** *"On no condition must you share production customer data with unverified third parties."*
+- **Enfoque:** Inversion: On No Condition
 - **Estructura Gramatical:** Negative Condition Inversion: *On no condition + modal + subject + verb*
 - **Regla Clave:** Construcción formal enfática análoga a *Under no circumstances*.
 - **Razón y Mecánica:** *no condition* (2 palabras) + modal (*must*) + sujeto (*you*). Total: 4 palabras.
@@ -991,19 +945,18 @@ total_tests: 50
 
 ---
 
-### Test 847 — Idioms: In the Dark About #flashcards/cambridge/part4
+### Test 847
 
-**First Sentence:** The developers were completely uninformed about the impending corporate merger.
-**Key Word:** `[DARK]`
-**Second Sentence:** The developers were kept completely ______ the impending corporate merger.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The developers were completely uninformed about the impending corporate merger.
+> - **Key Word:** `[DARK]`
+> - **Second Sentence:** The developers were kept completely ______ the impending corporate merger.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `in the dark about` (4 palabras)
-
-**Oración Completa:** *"The developers were kept completely in the dark about the impending corporate merger."*
-
+- **Oración Completa:** *"The developers were kept completely in the dark about the impending corporate merger."*
+- **Enfoque:** Idioms: In the Dark About
 - **Estructura Gramatical:** Idiomatic Ignorance: *in the dark about + noun*
 - **Regla Clave:** *Be / be kept in the dark about* significa no tener conocimiento de un asunto porque se mantiene en secreto.
 - **Razón y Mecánica:** *in* + *the* + *dark* + *about*. Son 4 palabras.
@@ -1012,19 +965,18 @@ total_tests: 50
 
 ---
 
-### Test 848 — Comparatives: Nothing Like As #flashcards/cambridge/part4
+### Test 848
 
-**First Sentence:** The first version of the software was far less reliable than this new build.
-**Key Word:** `[NOTHING]`
-**Second Sentence:** The first version of the software was ______ reliable as this new build.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The first version of the software was far less reliable than this new build.
+> - **Key Word:** `[NOTHING]`
+> - **Second Sentence:** The first version of the software was ______ reliable as this new build.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `nothing like as` (3 palabras)
-
-**Oración Completa:** *"The first version of the software was nothing like as reliable as this new build."*
-
+- **Oración Completa:** *"The first version of the software was nothing like as reliable as this new build."*
+- **Enfoque:** Comparatives: Nothing Like As
 - **Estructura Gramatical:** Emphatic Comparative Disparity: *nothing like as + adjective + as*
 - **Regla Clave:** *Nothing like as... as* es una colocación formal británica C1 que expresa una inferioridad cualitativa rotunda.
 - **Razón y Mecánica:** *nothing* + *like* + *as*. Son 3 palabras.
@@ -1033,19 +985,18 @@ total_tests: 50
 
 ---
 
-### Test 849 — Idioms: Play a Part / Role In #flashcards/cambridge/part4
+### Test 849
 
-**First Sentence:** Clean architecture contributed significantly to our rapid development velocity.
-**Key Word:** `[PART]`
-**Second Sentence:** Clean architecture ______ our rapid development velocity.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Clean architecture contributed significantly to our rapid development velocity.
+> - **Key Word:** `[PART]`
+> - **Second Sentence:** Clean architecture ______ our rapid development velocity.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `played a significant part in` (5 palabras)
-
-**Oración Completa:** *"Clean architecture played a significant part in our rapid development velocity."*
-
+- **Oración Completa:** *"Clean architecture played a significant part in our rapid development velocity."*
+- **Enfoque:** Idioms: Play a Part / Role In
 - **Estructura Gramatical:** Contribution Collocation: *play a part in + noun/gerund*
 - **Regla Clave:** La expresión fija de contribución causal es *play a part in*.
 - **Razón y Mecánica:** Pasado *played* + artículo (*a*) + adjetivo (*significant*) + sustantivo (*part*) + preposición (*in*). Son 5 palabras.
@@ -1054,19 +1005,18 @@ total_tests: 50
 
 ---
 
-### Test 850 — Inversion: So Fast Did He Code #flashcards/cambridge/part4
+### Test 850
 
-**First Sentence:** He coded so quickly that he finished the entire microservice in a single afternoon.
-**Key Word:** `[FAST]`
-**Second Sentence:** So ______ that he finished the entire microservice in a single afternoon.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** He coded so quickly that he finished the entire microservice in a single afternoon.
+> - **Key Word:** `[FAST]`
+> - **Second Sentence:** So ______ that he finished the entire microservice in a single afternoon.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `fast did he code` (4 palabras)
-
-**Oración Completa:** *"So fast did he code that he finished the entire microservice in a single afternoon."*
-
+- **Oración Completa:** *"So fast did he code that he finished the entire microservice in a single afternoon."*
+- **Enfoque:** Inversion: So Fast Did He Code
 - **Estructura Gramatical:** Result Inversion with *So + adverb*: *So + adv + auxiliary + subject + verb... that*
 - **Regla Clave:** Cuando la construcción enfática con *So* encabeza la oración, la cláusula debe invertirse obligatoriamente con el auxiliar correspondiente.
 - **Razón y Mecánica:** *fast* + auxiliar (*did*) + sujeto (*he*) + verbo infinitivo (*code*). Son 4 palabras.

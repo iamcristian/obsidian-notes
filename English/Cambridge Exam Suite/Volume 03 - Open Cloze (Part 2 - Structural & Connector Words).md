@@ -21,15 +21,15 @@ total_tests: 50
 
 ---
 
-### Test 251 — Open Cloze: In Spite Of #flashcards/cambridge/part2
+### Test 251
 
-The engineering team met the launch deadline ______ spite of unexpected hardware delays in the European datacenter.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The engineering team met the launch deadline ______ spite of unexpected hardware delays in the European datacenter.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `in`
-
+- **Enfoque:** Open Cloze: In Spite Of
 - **Categoría Gramatical:** Preposition (Part of Fixed Complex Preposition)
 - **Estructura Sintáctica:** `in spite of + noun phrase (a pesar de)`
 - **Razón Explicativa:** La locución preposicional concesiva de tres partes exige obligatoriamente *in* al inicio (*in spite of*).
@@ -38,15 +38,15 @@ The engineering team met the launch deadline ______ spite of unexpected hardware
 
 ---
 
-### Test 252 — Open Cloze: Neither... Nor #flashcards/cambridge/part2
+### Test 252
 
-Neither the software architect ______ the lead systems engineer was able to reproduce the intermittent race condition.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Neither the software architect ______ the lead systems engineer was able to reproduce the intermittent race condition.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `nor`
-
+- **Enfoque:** Open Cloze: Neither... Nor
 - **Categoría Gramatical:** Correlative Conjunction
 - **Estructura Sintáctica:** `neither... nor (ni... ni)`
 - **Razón Explicativa:** *Neither* se correlaciona estrictamente con *nor* para coordinar dos elementos negativos.
@@ -55,15 +55,15 @@ Neither the software architect ______ the lead systems engineer was able to repr
 
 ---
 
-### Test 253 — Open Cloze: Such As (Exemplification) #flashcards/cambridge/part2
+### Test 253
 
-Modern web developers must master frontend frameworks ______ as React, Vue, and Angular.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Modern web developers must master frontend frameworks ______ as React, Vue, and Angular.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `such`
-
+- **Enfoque:** Open Cloze: Such As (Exemplification)
 - **Categoría Gramatical:** Exemplification Marker
 - **Estructura Sintáctica:** `such as + examples (tal como / tales como)`
 - **Razón Explicativa:** La fórmula estándar para introducir ejemplos concretos tras un sustantivo plural es *such as*.
@@ -72,15 +72,15 @@ Modern web developers must master frontend frameworks ______ as React, Vue, and 
 
 ---
 
-### Test 254 — Open Cloze: Relative Pronoun: Whose #flashcards/cambridge/part2
+### Test 254
 
-We interviewed an experienced security engineer ______ open-source vulnerability scanner is used by thousands of companies.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> We interviewed an experienced security engineer ______ open-source vulnerability scanner is used by thousands of companies.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `whose`
-
+- **Enfoque:** Open Cloze: Relative Pronoun: Whose
 - **Categoría Gramatical:** Possessive Relative Pronoun
 - **Estructura Sintáctica:** `noun (person) + whose + noun (possession)`
 - **Razón Explicativa:** *Whose* indica posesión respecto al antecedente personal (*engineer*) y el sustantivo poseído (*scanner*).
@@ -89,15 +89,15 @@ We interviewed an experienced security engineer ______ open-source vulnerability
 
 ---
 
-### Test 255 — Open Cloze: As Well As (Addition) #flashcards/cambridge/part2
+### Test 255
 
-The new runtime release improves memory utilization as ______ as increasing raw throughput by thirty percent.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The new runtime release improves memory utilization as ______ as increasing raw throughput by thirty percent.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `well`
-
+- **Enfoque:** Open Cloze: As Well As (Addition)
 - **Categoría Gramatical:** Additive Conjunction
 - **Estructura Sintáctica:** `as well as + -ing / noun (así como / además de)`
 - **Razón Explicativa:** *As well as* es el conector aditivo formado por la estructura comparativa correlativa con *well*.
@@ -106,15 +106,15 @@ The new runtime release improves memory utilization as ______ as increasing raw 
 
 ---
 
-### Test 256 — Open Cloze: Little (Negative Quantifier with Uncountable) #flashcards/cambridge/part2
+### Test 256
 
-There is ______ doubt that artificial intelligence will transform automated code review pipelines.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> There is ______ doubt that artificial intelligence will transform automated code review pipelines.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `little`
-
+- **Enfoque:** Open Cloze: Little (Negative Quantifier with Uncountable)
 - **Categoría Gramatical:** Negative Quantifier
 - **Estructura Sintáctica:** `there is little doubt that... (apenas hay duda de que / no cabe duda)`
 - **Razón Explicativa:** *Doubt* es un sustantivo incontable. Para expresar ausencia casi total de duda en colocación formal se emplea *little* sin artículo.
@@ -123,15 +123,15 @@ There is ______ doubt that artificial intelligence will transform automated code
 
 ---
 
-### Test 257 — Open Cloze: Due To (Causal Preposition) #flashcards/cambridge/part2
+### Test 257
 
-The sudden degradation in API response times was largely ______ to an unindexed database query in the checkout service.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The sudden degradation in API response times was largely ______ to an unindexed database query in the checkout service.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `due`
-
+- **Enfoque:** Open Cloze: Due To (Causal Preposition)
 - **Categoría Gramatical:** Causal Adjective / Preposition
 - **Estructura Sintáctica:** `be due to + noun (deberse a)`
 - **Razón Explicativa:** Tras el verbo *was*, la fórmula causal que precede a la preposición *to* es *due to*.
@@ -140,15 +140,15 @@ The sudden degradation in API response times was largely ______ to an unindexed 
 
 ---
 
-### Test 258 — Open Cloze: Order To (Purpose) #flashcards/cambridge/part2
+### Test 258
 
-The security team isolated the affected virtual private cloud in ______ to prevent lateral malware movement.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The security team isolated the affected virtual private cloud in ______ to prevent lateral malware movement.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `order`
-
+- **Enfoque:** Open Cloze: Order To (Purpose)
 - **Categoría Gramatical:** Purpose Conjunction Component
 - **Estructura Sintáctica:** `in order to + infinitive (con el fin de / para)`
 - **Razón Explicativa:** La locución teleológica formal que introduce un infinitivo de finalidad es *in order to*.
@@ -157,15 +157,15 @@ The security team isolated the affected virtual private cloud in ______ to preve
 
 ---
 
-### Test 259 — Open Cloze: Whether... Or Not #flashcards/cambridge/part2
+### Test 259
 
-The pipeline runs automated tests regardless of ______ the commit was pushed by a human or a bot.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The pipeline runs automated tests regardless of ______ the commit was pushed by a human or a bot.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `whether`
-
+- **Enfoque:** Open Cloze: Whether... Or Not
 - **Categoría Gramatical:** Alternative Conjunction
 - **Estructura Sintáctica:** `regardless of whether... or...`
 - **Razón Explicativa:** Tras preposiciones como *of*, la conjunción que introduce alternativas dependientes es obligatoriamente *whether* (NUNCA *if*).
@@ -174,15 +174,15 @@ The pipeline runs automated tests regardless of ______ the commit was pushed by 
 
 ---
 
-### Test 260 — Open Cloze: Few (Quantifier with Plurals) #flashcards/cambridge/part2
+### Test 260
 
-Very ______ software developers possess deep expertise in both kernel programming and cloud infrastructure.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Very ______ software developers possess deep expertise in both kernel programming and cloud infrastructure.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `few`
-
+- **Enfoque:** Open Cloze: Few (Quantifier with Plurals)
 - **Categoría Gramatical:** Negative Quantifier
 - **Estructura Sintáctica:** `very few + plural countable noun (muy pocos)`
 - **Razón Explicativa:** *Developers* es un sustantivo contable plural. Para indicar escasez extrema precedido del intensificador *very*, se utiliza *few*.
@@ -191,15 +191,15 @@ Very ______ software developers possess deep expertise in both kernel programmin
 
 ---
 
-### Test 261 — Open Cloze: Far (Degree Modifier with Comparatives) #flashcards/cambridge/part2
+### Test 261
 
-Writing concurrent code in Rust is ______ safer than in C, thanks to its strict compile-time borrow checker.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Writing concurrent code in Rust is ______ safer than in C, thanks to its strict compile-time borrow checker.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `far`
-
+- **Enfoque:** Open Cloze: Far (Degree Modifier with Comparatives)
 - **Categoría Gramatical:** Comparative Intensifier
 - **Estructura Sintáctica:** `far / much + comparative adjective (mucho más seguro)`
 - **Razón Explicativa:** Los comparativos se intensifican con los adverbios de grado *far*, *much* o *way* (informal). En registro formal Cambridge, *far safer* es la fórmula canónica.
@@ -208,15 +208,15 @@ Writing concurrent code in Rust is ______ safer than in C, thanks to its strict 
 
 ---
 
-### Test 262 — Open Cloze: Rather Than (Contrast) #flashcards/cambridge/part2
+### Test 262
 
-We decided to scale horizontally by adding more container nodes ______ than increasing the RAM of a single instance.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> We decided to scale horizontally by adding more container nodes ______ than increasing the RAM of a single instance.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `rather`
-
+- **Enfoque:** Open Cloze: Rather Than (Contrast)
 - **Categoría Gramatical:** Preference / Contrast Marker
 - **Estructura Sintáctica:** `rather than + -ing / bare infinitive (en lugar de / más bien que)`
 - **Razón Explicativa:** La fórmula comparativa que introduce una preferencia alternativa ante la conjunción *than* es *rather*.
@@ -225,15 +225,15 @@ We decided to scale horizontally by adding more container nodes ______ than incr
 
 ---
 
-### Test 263 — Open Cloze: Had (Inversion in Third Conditional) #flashcards/cambridge/part2
+### Test 263
 
-______ we known that the cloud provider had scheduled datacenter maintenance, we would have deferred the deployment.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> ______ we known that the cloud provider had scheduled datacenter maintenance, we would have deferred the deployment.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Had`
-
+- **Enfoque:** Open Cloze: Had (Inversion in Third Conditional)
 - **Categoría Gramatical:** Inverted Auxiliary Verb
 - **Estructura Sintáctica:** `Had + subject + past participle (inversión de if we had known)`
 - **Razón Explicativa:** Al omitirse *if* en una hipótesis sobre el pasado, la oración debe comenzar obligatoriamente con el auxiliar invertido *Had*.
@@ -242,15 +242,15 @@ ______ we known that the cloud provider had scheduled datacenter maintenance, we
 
 ---
 
-### Test 264 — Open Cloze: No (Negative Article / Determiner) #flashcards/cambridge/part2
+### Test 264
 
-Under ______ circumstances should unhashed passwords be logged in plaintext application telemetry.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Under ______ circumstances should unhashed passwords be logged in plaintext application telemetry.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `no`
-
+- **Enfoque:** Open Cloze: No (Negative Article / Determiner)
 - **Categoría Gramatical:** Negative Determiner
 - **Estructura Sintáctica:** `Under no circumstances (bajo ninguna circunstancia)`
 - **Razón Explicativa:** Locución preposicional fija enfática que encabeza una inversión sintáctica.
@@ -259,15 +259,15 @@ Under ______ circumstances should unhashed passwords be logged in plaintext appl
 
 ---
 
-### Test 265 — Open Cloze: So (Result Conjunction / Degree) #flashcards/cambridge/part2
+### Test 265
 
-The asynchronous worker threads consumed ______ much CPU that the host operating system began throttling processes.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The asynchronous worker threads consumed ______ much CPU that the host operating system began throttling processes.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `so`
-
+- **Enfoque:** Open Cloze: So (Result Conjunction / Degree)
 - **Categoría Gramatical:** Intensifier of Degree with Result Clause
 - **Estructura Sintáctica:** `so + much/many + that-clause (tanto... que)`
 - **Razón Explicativa:** *So much... that* expresa una cantidad tan desmesurada que desencadena una consecuencia subordinada introducida por *that*.
@@ -276,15 +276,15 @@ The asynchronous worker threads consumed ______ much CPU that the host operating
 
 ---
 
-### Test 266 — Open Cloze: One (Impersonal Pronoun) #flashcards/cambridge/part2
+### Test 266
 
-When architecting distributed microservices, ______ must always consider the eventual consistency guarantees of each store.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> When architecting distributed microservices, ______ must always consider the eventual consistency guarantees of each store.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `one`
-
+- **Enfoque:** Open Cloze: One (Impersonal Pronoun)
 - **Categoría Gramatical:** Formal Impersonal Pronoun
 - **Estructura Sintáctica:** `one must + verb (uno debe / se debe)`
 - **Razón Explicativa:** *One* funciona como pronombre impersonal genérico formal de tercera persona en inglés académico y técnico.
@@ -293,15 +293,15 @@ When architecting distributed microservices, ______ must always consider the eve
 
 ---
 
-### Test 267 — Open Cloze: Despite (Concession) #flashcards/cambridge/part2
+### Test 267
 
-______ running continuous stress tests for forty-eight hours, the QA team found no memory leaks in the backend engine.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> ______ running continuous stress tests for forty-eight hours, the QA team found no memory leaks in the backend engine.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Despite`
-
+- **Enfoque:** Open Cloze: Despite (Concession)
 - **Categoría Gramatical:** Concessive Preposition
 - **Estructura Sintáctica:** `Despite + -ing / noun phrase (a pesar de)`
 - **Razón Explicativa:** *Despite* va seguido directamente de gerundio (*running*) o sintagma nominal sin llevar preposición *of*.
@@ -310,15 +310,15 @@ ______ running continuous stress tests for forty-eight hours, the QA team found 
 
 ---
 
-### Test 268 — Open Cloze: To (Dependent Preposition with Look Forward) #flashcards/cambridge/part2
+### Test 268
 
-We are eagerly looking forward ______ collaborating with the open-source community on this project.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> We are eagerly looking forward ______ collaborating with the open-source community on this project.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Open Cloze: To (Dependent Preposition with Look Forward)
 - **Categoría Gramatical:** Dependent Preposition
 - **Estructura Sintáctica:** `look forward to + -ing`
 - **Razón Explicativa:** La expresión verbal exige la preposición *to*, la cual introduce el gerundio subordinado.
@@ -327,15 +327,15 @@ We are eagerly looking forward ______ collaborating with the open-source communi
 
 ---
 
-### Test 269 — Open Cloze: Unless (Negative Conditional) #flashcards/cambridge/part2
+### Test 269
 
-You will not gain access to the production cluster ______ you have completed the mandatory security training.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> You will not gain access to the production cluster ______ you have completed the mandatory security training.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `unless`
-
+- **Enfoque:** Open Cloze: Unless (Negative Conditional)
 - **Categoría Gramatical:** Negative Conditional Conjunction
 - **Estructura Sintáctica:** `unless + affirmative clause (a menos que / a no ser que)`
 - **Razón Explicativa:** *Unless* introduce la condición imprescindible en afirmativo que anula la prohibición de la cláusula principal.
@@ -344,15 +344,15 @@ You will not gain access to the production cluster ______ you have completed the
 
 ---
 
-### Test 270 — Open Cloze: Been (Passive Perfect Aspect) #flashcards/cambridge/part2
+### Test 270
 
-The security patch had already ______ applied to all European servers before the vulnerability was disclosed.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The security patch had already ______ applied to all European servers before the vulnerability was disclosed.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `been`
-
+- **Enfoque:** Open Cloze: Been (Passive Perfect Aspect)
 - **Categoría Gramatical:** Passive Auxiliary Participle
 - **Estructura Sintáctica:** `had + been + past participle (pasiva en pasado perfecto)`
 - **Razón Explicativa:** El pasado perfecto pasivo se construye con el auxiliar *had* + el participio del verbo to be (*been*) + el participio principal (*applied*).
@@ -361,15 +361,15 @@ The security patch had already ______ applied to all European servers before the
 
 ---
 
-### Test 271 — Open Cloze: It (Dummy / Anticipatory Subject) #flashcards/cambridge/part2
+### Test 271
 
-______ is widely believed that quantum computers will eventually render RSA encryption obsolete.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> ______ is widely believed that quantum computers will eventually render RSA encryption obsolete.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `It`
-
+- **Enfoque:** Open Cloze: It (Dummy / Anticipatory Subject)
 - **Categoría Gramatical:** Anticipatory Dummy Pronoun
 - **Estructura Sintáctica:** `It is + past participle + that-clause (sujeto preparatorio impersonal)`
 - **Razón Explicativa:** *It* funciona como sujeto gramatical vacío en estructuras pasivas impersonales con cláusulas introducidas por *that*.
@@ -378,15 +378,15 @@ ______ is widely believed that quantum computers will eventually render RSA encr
 
 ---
 
-### Test 272 — Open Cloze: By (Agent in Passive Voice) #flashcards/cambridge/part2
+### Test 272
 
-The entire monolithic codebase was refactored ______ a dedicated team of five senior software engineers.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The entire monolithic codebase was refactored ______ a dedicated team of five senior software engineers.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `by`
-
+- **Enfoque:** Open Cloze: By (Agent in Passive Voice)
 - **Categoría Gramatical:** Passive Agent Preposition
 - **Estructura Sintáctica:** `passive verb + by + agent (por parte de / por)`
 - **Razón Explicativa:** En voz pasiva, el agente humano o entidad que realiza la acción se introduce con la preposición *by*.
@@ -395,15 +395,15 @@ The entire monolithic codebase was refactored ______ a dedicated team of five se
 
 ---
 
-### Test 273 — Open Cloze: What (Nominal Relative Pronoun) #flashcards/cambridge/part2
+### Test 273
 
-The lead architect carefully explained ______ needed to be done before the scheduled maintenance window.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The lead architect carefully explained ______ needed to be done before the scheduled maintenance window.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `what`
-
+- **Enfoque:** Open Cloze: What (Nominal Relative Pronoun)
 - **Categoría Gramatical:** Nominal Relative Pronoun
 - **Estructura Sintáctica:** `explained what + verb phrase (lo que / qué)`
 - **Razón Explicativa:** *What* actúa como relativo compuesto con antecedente implícito (*the things that / that which*).
@@ -412,15 +412,15 @@ The lead architect carefully explained ______ needed to be done before the sched
 
 ---
 
-### Test 274 — Open Cloze: Make (Collocation with Sense) #flashcards/cambridge/part2
+### Test 274
 
-The error stack trace was so obscure that none of the junior developers could ______ sense of it.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The error stack trace was so obscure that none of the junior developers could ______ sense of it.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `make`
-
+- **Enfoque:** Open Cloze: Make (Collocation with Sense)
 - **Categoría Gramatical:** Verb in Fixed Collocation
 - **Estructura Sintáctica:** `could make sense of + noun (entender / descifrar)`
 - **Razón Explicativa:** La expresión invariable para 'encontrarle sentido a algo' es *make sense of*.
@@ -429,15 +429,15 @@ The error stack trace was so obscure that none of the junior developers could __
 
 ---
 
-### Test 275 — Open Cloze: Used (Habitual Past) #flashcards/cambridge/part2
+### Test 275
 
-Before adopting automated CI/CD pipelines, our engineering team ______ to deploy production releases manually.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Before adopting automated CI/CD pipelines, our engineering team ______ to deploy production releases manually.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `used`
-
+- **Enfoque:** Open Cloze: Used (Habitual Past)
 - **Categoría Gramatical:** Semi-Modal of Past Habit
 - **Estructura Sintáctica:** `used to + infinitive (solía / hacía antes en el pasado)`
 - **Razón Explicativa:** *Used to* denota una acción o hábito habitual en el pasado que ya no se realiza en el presente.
@@ -446,15 +446,15 @@ Before adopting automated CI/CD pipelines, our engineering team ______ to deploy
 
 ---
 
-### Test 276 — Open Cloze: Only (Restrictive Adverbial with If) #flashcards/cambridge/part2
+### Test 276
 
-You will be granted administrative database access ______ if your request is approved by the security director.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> You will be granted administrative database access ______ if your request is approved by the security director.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `only`
-
+- **Enfoque:** Open Cloze: Only (Restrictive Adverbial with If)
 - **Categoría Gramatical:** Restrictive Adverb
 - **Estructura Sintáctica:** `only if + condition (únicamente si / solo si)`
 - **Razón Explicativa:** *Only* califica y restringe la conjunción condicional *if* para marcar una condición exclusiva.
@@ -463,15 +463,15 @@ You will be granted administrative database access ______ if your request is app
 
 ---
 
-### Test 277 — Open Cloze: All (Quantifier in Fixed Phrase) #flashcards/cambridge/part2
+### Test 277
 
-The distributed lock mechanism must prevent data corruption at ______ costs.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The distributed lock mechanism must prevent data corruption at ______ costs.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `all`
-
+- **Enfoque:** Open Cloze: All (Quantifier in Fixed Phrase)
 - **Categoría Gramatical:** Universal Quantifier in Idiom
 - **Estructura Sintáctica:** `at all costs (a toda costa)`
 - **Razón Explicativa:** La locución invariable para indicar prioridad absoluta innegociable es *at all costs*.
@@ -480,15 +480,15 @@ The distributed lock mechanism must prevent data corruption at ______ costs.
 
 ---
 
-### Test 278 — Open Cloze: There (Existential Dummy Subject) #flashcards/cambridge/part2
+### Test 278
 
-During the network stress test, ______ were several unexpected dropped packet anomalies observed in the logs.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> During the network stress test, ______ were several unexpected dropped packet anomalies observed in the logs.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `there`
-
+- **Enfoque:** Open Cloze: There (Existential Dummy Subject)
 - **Categoría Gramatical:** Existential Pronoun
 - **Estructura Sintáctica:** `there were + plural noun (hubo / existieron)`
 - **Razón Explicativa:** *There were* introduce la existencia de entidades en el pasado.
@@ -497,15 +497,15 @@ During the network stress test, ______ were several unexpected dropped packet an
 
 ---
 
-### Test 279 — Open Cloze: Being (Continuous Passive) #flashcards/cambridge/part2
+### Test 279
 
-Our primary database cluster is currently ______ migrated to a multi-region cloud deployment.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Our primary database cluster is currently ______ migrated to a multi-region cloud deployment.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `being`
-
+- **Enfoque:** Open Cloze: Being (Continuous Passive)
 - **Categoría Gramatical:** Continuous Passive Auxiliary
 - **Estructura Sintáctica:** `is currently being + past participle (está siendo migrado)`
 - **Razón Explicativa:** El aspecto continuo pasivo presente exige la forma en gerundio del verbo to be (*being*).
@@ -514,15 +514,15 @@ Our primary database cluster is currently ______ migrated to a multi-region clou
 
 ---
 
-### Test 280 — Open Cloze: Which (Non-Defining Relative Pronoun) #flashcards/cambridge/part2
+### Test 280
 
-The authentication service timed out, ______ caused all subsequent API requests to fail with HTTP 504.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The authentication service timed out, ______ caused all subsequent API requests to fail with HTTP 504.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `which`
-
+- **Enfoque:** Open Cloze: Which (Non-Defining Relative Pronoun)
 - **Categoría Gramatical:** Sentential Relative Pronoun
 - **Estructura Sintáctica:** `, which + verb (lo cual provocó...)`
 - **Razón Explicativa:** *Which* tras coma funciona como relativo oracional que se refiere a toda la proposición anterior como antecedente.
@@ -531,15 +531,15 @@ The authentication service timed out, ______ caused all subsequent API requests 
 
 ---
 
-### Test 281 — Open Cloze: Even (Emphasis / Concession) #flashcards/cambridge/part2
+### Test 281
 
-The legacy code was so convoluted that ______ the most experienced senior engineers struggled to understand it.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The legacy code was so convoluted that ______ the most experienced senior engineers struggled to understand it.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `even`
-
+- **Enfoque:** Open Cloze: Even (Emphasis / Concession)
 - **Categoría Gramatical:** Focusing / Emphatic Adverb
 - **Estructura Sintáctica:** `even + noun phrase (incluso / hasta los más experimentados)`
 - **Razón Explicativa:** *Even* enfatiza un caso extremo que añade sorpresa a la afirmación.
@@ -548,15 +548,15 @@ The legacy code was so convoluted that ______ the most experienced senior engine
 
 ---
 
-### Test 282 — Open Cloze: On (Preposition in Fixed Expression: On Behalf Of) #flashcards/cambridge/part2
+### Test 282
 
-The lead developer spoke ______ behalf of the entire engineering team during the quarterly town hall meeting.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The lead developer spoke ______ behalf of the entire engineering team during the quarterly town hall meeting.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `on`
-
+- **Enfoque:** Open Cloze: On (Preposition in Fixed Expression: On Behalf Of)
 - **Categoría Gramatical:** Preposition in Fixed Idiom
 - **Estructura Sintáctica:** `on behalf of + person/group (en nombre de)`
 - **Razón Explicativa:** La expresión fija de representación formal se inicia invariablemente con la preposición *on*.
@@ -565,15 +565,15 @@ The lead developer spoke ______ behalf of the entire engineering team during the
 
 ---
 
-### Test 283 — Open Cloze: Make (Collocation with Effort) #flashcards/cambridge/part2
+### Test 283
 
-Every member of the agile development team must ______ a conscious effort to document their code thoroughly.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Every member of the agile development team must ______ a conscious effort to document their code thoroughly.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `make`
-
+- **Enfoque:** Open Cloze: Make (Collocation with Effort)
 - **Categoría Gramatical:** Verb Collocation
 - **Estructura Sintáctica:** `make an effort (hacer un esfuerzo)`
 - **Razón Explicativa:** El verbo canónico que se combina con el sustantivo *effort* en inglés estándar es *make*.
@@ -582,15 +582,15 @@ Every member of the agile development team must ______ a conscious effort to doc
 
 ---
 
-### Test 284 — Open Cloze: Up (Phrasal Verb Particle: Catch Up With) #flashcards/cambridge/part2
+### Test 284
 
-We had to work late on Thursday evening to catch ______ with our sprint delivery commitments.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> We had to work late on Thursday evening to catch ______ with our sprint delivery commitments.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `up`
-
+- **Enfoque:** Open Cloze: Up (Phrasal Verb Particle: Catch Up With)
 - **Categoría Gramatical:** Phrasal Verb Particle
 - **Estructura Sintáctica:** `catch up with + noun (ponerse al día con / alcanzar)`
 - **Razón Explicativa:** La locución verbal de tres partes para recuperar el retraso es *catch up with*.
@@ -599,15 +599,15 @@ We had to work late on Thursday evening to catch ______ with our sprint delivery
 
 ---
 
-### Test 285 — Open Cloze: Having (Perfect Participle Clause) #flashcards/cambridge/part2
+### Test 285
 
-______ resolved the critical memory leak, the engineering squad turned their attention to query optimization.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> ______ resolved the critical memory leak, the engineering squad turned their attention to query optimization.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Having`
-
+- **Enfoque:** Open Cloze: Having (Perfect Participle Clause)
 - **Categoría Gramatical:** Perfect Participle Auxiliary
 - **Estructura Sintáctica:** `Having + past participle (habiendo resuelto...)`
 - **Razón Explicativa:** La cláusula de participio compuesto *Having resolved* indica que una acción concluyó con éxito antes de que comenzara la siguiente.
@@ -616,15 +616,15 @@ ______ resolved the critical memory leak, the engineering squad turned their att
 
 ---
 
-### Test 286 — Open Cloze: Not (Negative Particle in Condition) #flashcards/cambridge/part2
+### Test 286
 
-If ______ for Sarah's prompt intervention, the production deployment would have suffered severe data corruption.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> If ______ for Sarah's prompt intervention, the production deployment would have suffered severe data corruption.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `not`
-
+- **Enfoque:** Open Cloze: Not (Negative Particle in Condition)
 - **Categoría Gramatical:** Negative Particle in Conditional Idiom
 - **Estructura Sintáctica:** `If not for + noun phrase (de no ser por / si no fuera por)`
 - **Razón Explicativa:** *If not for* es la estructura condicional preposicional sin verbo auxiliar que equivale a *but for*.
@@ -633,15 +633,15 @@ If ______ for Sarah's prompt intervention, the production deployment would have 
 
 ---
 
-### Test 287 — Open Cloze: Case (Precautionary Connector) #flashcards/cambridge/part2
+### Test 287
 
-We set up automated replica failover in ______ the primary database instance suffered a catastrophic failure.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> We set up automated replica failover in ______ the primary database instance suffered a catastrophic failure.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `case`
-
+- **Enfoque:** Open Cloze: Case (Precautionary Connector)
 - **Categoría Gramatical:** Precautionary Conjunction Component
 - **Estructura Sintáctica:** `in case + subject + verb (por si acaso / en caso de que)`
 - **Razón Explicativa:** *In case* introduce una medida preventiva ante un suceso adverso potencial.
@@ -650,15 +650,15 @@ We set up automated replica failover in ______ the primary database instance suf
 
 ---
 
-### Test 288 — Open Cloze: With (Preposition in Collocation: Come Up With) #flashcards/cambridge/part2
+### Test 288
 
-During the brainstorm, the junior engineer came up ______ a remarkably efficient solution to the routing problem.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> During the brainstorm, the junior engineer came up ______ a remarkably efficient solution to the routing problem.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `with`
-
+- **Enfoque:** Open Cloze: With (Preposition in Collocation: Come Up With)
 - **Categoría Gramatical:** Phrasal Verb Preposition
 - **Estructura Sintáctica:** `come up with + idea/solution (idear / ocurrírsele)`
 - **Razón Explicativa:** La locución idiomática de tres partes para inventar o proponer una solución es *come up with*.
@@ -667,15 +667,15 @@ During the brainstorm, the junior engineer came up ______ a remarkably efficient
 
 ---
 
-### Test 289 — Open Cloze: Put (Phrasal Verb: Put Up With) #flashcards/cambridge/part2
+### Test 289
 
-Our software engineers refused to ______ up with slow and unstable local development environments any longer.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Our software engineers refused to ______ up with slow and unstable local development environments any longer.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `put`
-
+- **Enfoque:** Open Cloze: Put (Phrasal Verb: Put Up With)
 - **Categoría Gramatical:** Verb in Three-Part Phrasal Verb
 - **Estructura Sintáctica:** `to put up with + noun (tolerar / aguantar)`
 - **Razón Explicativa:** El verbo canónico que forma la locución de tolerancia con *up with* es *put*.
@@ -684,15 +684,15 @@ Our software engineers refused to ______ up with slow and unstable local develop
 
 ---
 
-### Test 290 — Open Cloze: Terms (Idiom: Come to Terms With) #flashcards/cambridge/part2
+### Test 290
 
-It took several months for the engineering leadership to come to ______ with the necessity of a total system rewrite.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> It took several months for the engineering leadership to come to ______ with the necessity of a total system rewrite.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `terms`
-
+- **Enfoque:** Open Cloze: Terms (Idiom: Come to Terms With)
 - **Categoría Gramatical:** Noun in Fixed Idiom
 - **Estructura Sintáctica:** `come to terms with + noun (asimilar / aceptar una realidad dura)`
 - **Razón Explicativa:** La expresión psicológica idiomática es invariable: *come to terms with*.
@@ -701,15 +701,15 @@ It took several months for the engineering leadership to come to ______ with the
 
 ---
 
-### Test 291 — Open Cloze: So (Connective Adverb with Inversion) #flashcards/cambridge/part2
+### Test 291
 
-Rarely had we witnessed such a devastating cyberattack, and ______ did the international cybersecurity taskforce.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Rarely had we witnessed such a devastating cyberattack, and ______ did the international cybersecurity taskforce.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `so`
-
+- **Enfoque:** Open Cloze: So (Connective Adverb with Inversion)
 - **Categoría Gramatical:** Additive Adverb of Agreement
 - **Estructura Sintáctica:** `so + auxiliary + subject (así también / tampoco en afirmativo correlativo)`
 - **Razón Explicativa:** *So* encabeza la cláusula aditiva con inversión para confirmar concordancia afirmativa.
@@ -718,15 +718,15 @@ Rarely had we witnessed such a devastating cyberattack, and ______ did the inter
 
 ---
 
-### Test 292 — Open Cloze: Take (Collocation with Advantage) #flashcards/cambridge/part2
+### Test 292
 
-Companies must ______ advantage of modern cloud autoscaling to optimize infrastructure operational costs.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Companies must ______ advantage of modern cloud autoscaling to optimize infrastructure operational costs.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `take`
-
+- **Enfoque:** Open Cloze: Take (Collocation with Advantage)
 - **Categoría Gramatical:** Verb Collocation
 - **Estructura Sintáctica:** `to take advantage of + noun (aprovecharse de / sacar partido)`
 - **Razón Explicativa:** La única colocación fija admisible con *advantage of* en inglés estándar es con el verbo *take*.
@@ -735,15 +735,15 @@ Companies must ______ advantage of modern cloud autoscaling to optimize infrastr
 
 ---
 
-### Test 293 — Open Cloze: From (Preposition of Prevention) #flashcards/cambridge/part2
+### Test 293
 
-The security sandbox prevents untrusted external scripts ______ accessing local system memory directly.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The security sandbox prevents untrusted external scripts ______ accessing local system memory directly.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `from`
-
+- **Enfoque:** Open Cloze: From (Preposition of Prevention)
 - **Categoría Gramatical:** Dependent Preposition of Prevention
 - **Estructura Sintáctica:** `prevent someone/something from + -ing (impedir que haga algo)`
 - **Razón Explicativa:** El verbo *prevent* rige estrictamente la preposición *from* seguida de gerundio.
@@ -752,15 +752,15 @@ The security sandbox prevents untrusted external scripts ______ accessing local 
 
 ---
 
-### Test 294 — Open Cloze: Point (Idiom: On the Point of Doing) #flashcards/cambridge/part2
+### Test 294
 
-The development team was on the ______ of deploying the hotfix when an alert signaled a blocking regression.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The development team was on the ______ of deploying the hotfix when an alert signaled a blocking regression.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `point`
-
+- **Enfoque:** Open Cloze: Point (Idiom: On the Point of Doing)
 - **Categoría Gramatical:** Noun in Temporal Idiom
 - **Estructura Sintáctica:** `on the point of + -ing (a punto de hacer algo)`
 - **Razón Explicativa:** *On the point of + gerund* es el modismo formal para indicar inminencia temporal inmediata.
@@ -769,15 +769,15 @@ The development team was on the ______ of deploying the hotfix when an alert sig
 
 ---
 
-### Test 295 — Open Cloze: Mind (Idiom: Bear in Mind) #flashcards/cambridge/part2
+### Test 295
 
-Developers must always bear in ______ that network packets may arrive out of chronological sequence.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Developers must always bear in ______ that network packets may arrive out of chronological sequence.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `mind`
-
+- **Enfoque:** Open Cloze: Mind (Idiom: Bear in Mind)
 - **Categoría Gramatical:** Noun in Cognitive Idiom
 - **Estructura Sintáctica:** `to bear in mind that... (tener en cuenta que)`
 - **Razón Explicativa:** La locución idiomática obligatoria con el verbo *bear* es *bear in mind*.
@@ -786,15 +786,15 @@ Developers must always bear in ______ that network packets may arrive out of chr
 
 ---
 
-### Test 296 — Open Cloze: In (Preposition in Advance) #flashcards/cambridge/part2
+### Test 296
 
-All database migration scripts must be submitted two weeks ______ advance of the production release date.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> All database migration scripts must be submitted two weeks ______ advance of the production release date.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `in`
-
+- **Enfoque:** Open Cloze: In (Preposition in Advance)
 - **Categoría Gramatical:** Temporal Preposition in Idiom
 - **Estructura Sintáctica:** `in advance of + date (con antelación a)`
 - **Razón Explicativa:** La locución preposicional temporal obligatoria es *in advance*.
@@ -803,15 +803,15 @@ All database migration scripts must be submitted two weeks ______ advance of the
 
 ---
 
-### Test 297 — Open Cloze: Long (Conditional: As Long As) #flashcards/cambridge/part2
+### Test 297
 
-You may merge pull requests directly as ______ as they have passed all automated integration tests.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> You may merge pull requests directly as ______ as they have passed all automated integration tests.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `long`
-
+- **Enfoque:** Open Cloze: Long (Conditional: As Long As)
 - **Categoría Gramatical:** Adverb in Conditional Conjunction
 - **Estructura Sintáctica:** `as long as + clause (siempre y cuando / mientras que)`
 - **Razón Explicativa:** La conjunción condicional de tres partes se completa con el adjetivo/adverbio *long* (*as long as*).
@@ -820,15 +820,15 @@ You may merge pull requests directly as ______ as they have passed all automated
 
 ---
 
-### Test 298 — Open Cloze: Rather (Preference Marker) #flashcards/cambridge/part2
+### Test 298
 
-I would ______ spend time writing thorough unit tests than spend my weekend debugging production fires.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> I would ______ spend time writing thorough unit tests than spend my weekend debugging production fires.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `rather`
-
+- **Enfoque:** Open Cloze: Rather (Preference Marker)
 - **Categoría Gramatical:** Modal Preference Adverb
 - **Estructura Sintáctica:** `would rather + bare infinitive... than... (preferiría hacer X antes que Y)`
 - **Razón Explicativa:** La estructura de preferencia con el auxiliar modal *would* seguido de infinitivo base y correlacionado con *than* exige *rather*.
@@ -837,15 +837,15 @@ I would ______ spend time writing thorough unit tests than spend my weekend debu
 
 ---
 
-### Test 299 — Open Cloze: Were (Second Conditional Inversion) #flashcards/cambridge/part2
+### Test 299
 
-______ the main cloud datacenter to experience a catastrophic outage, secondary nodes would assume traffic automatically.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> ______ the main cloud datacenter to experience a catastrophic outage, secondary nodes would assume traffic automatically.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Were`
-
+- **Enfoque:** Open Cloze: Were (Second Conditional Inversion)
 - **Categoría Gramatical:** Inverted Subjunctive Auxiliary
 - **Estructura Sintáctica:** `Were + subject + to-infinitive (inversión de If the datacenter were to experience)`
 - **Razón Explicativa:** En la inversión formal del segundo condicional, la oración debe comenzar con el auxiliar en subjuntivo *Were*.
@@ -854,15 +854,15 @@ ______ the main cloud datacenter to experience a catastrophic outage, secondary 
 
 ---
 
-### Test 300 — Open Cloze: Result (Idiom: As a Result Of) #flashcards/cambridge/part2
+### Test 300
 
-Server latency increased significantly as a ______ of unexpected network congestion on the transatlantic cable.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Server latency increased significantly as a ______ of unexpected network congestion on the transatlantic cable.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `result`
-
+- **Enfoque:** Open Cloze: Result (Idiom: As a Result Of)
 - **Categoría Gramatical:** Noun in Causal Complex Preposition
 - **Estructura Sintáctica:** `as a result of + noun phrase (como resultado de / a causa de)`
 - **Razón Explicativa:** La locución causal fija de cuatro partes se construye con el sustantivo *result* (*as a result of*).

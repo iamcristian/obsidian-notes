@@ -24,16 +24,16 @@ total_tests: 75
 
 ---
 
-### Test 551 — Unexpectedly #flashcards/cambridge/part3
+### Test 551
 
-The stock market rebounded _______ after weeks of steady decline.
-**Root Word:** `[EXPECT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The stock market rebounded _______ after weeks of steady decline.
+>
+> - **Root Word:** `[EXPECT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `unexpectedly`
-
 - **Categoría Requerida:** Adverbio negativo de modo (de `EXPECT`)
 - **Morfología Aplicada:** Prefijo 'un-' + participio 'expected' + sufijo adverbial '-ly'
 - **Regla y Justificación:** El contexto de rebote sorpresivo exige la forma adverbial con prefijo negativo ('de forma inesperada').
@@ -42,16 +42,16 @@ The stock market rebounded _______ after weeks of steady decline.
 
 ---
 
-### Test 552 — Undeniably #flashcards/cambridge/part3
+### Test 552
 
-Her contributions to quantum astrophysics are _______ of Nobel caliber.
-**Root Word:** `[DENY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Her contributions to quantum astrophysics are _______ of Nobel caliber.
+>
+> - **Root Word:** `[DENY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `undeniably`
-
 - **Categoría Requerida:** Adverbio enfático de certeza (de `DENY`)
 - **Morfología Aplicada:** Prefijo 'un-' + sufijo adjetival '-able' (cambio y->i) + sufijo adverbial '-ly'
 - **Regla y Justificación:** Modifica al sintagma preposicional 'of Nobel caliber'; requiere adverbio con valor incontrovertible.
@@ -60,16 +60,16 @@ Her contributions to quantum astrophysics are _______ of Nobel caliber.
 
 ---
 
-### Test 553 — Unpredictability #flashcards/cambridge/part3
+### Test 553
 
-The sheer _______ of volcanic eruptions makes long-term settlement perilous.
-**Root Word:** `[PREDICT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The sheer _______ of volcanic eruptions makes long-term settlement perilous.
+>
+> - **Root Word:** `[PREDICT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `unpredictability`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `PREDICT`)
 - **Morfología Aplicada:** Prefijo 'un-' + raíz 'predict' + sufijo '-able' + sufijo nominal '-ity'
 - **Regla y Justificación:** Sigue al determinante enfático 'sheer' y rige 'of'; se requiere sustantivo abstracto de cualidad negativa.
@@ -78,16 +78,16 @@ The sheer _______ of volcanic eruptions makes long-term settlement perilous.
 
 ---
 
-### Test 554 — Disreputable #flashcards/cambridge/part3
+### Test 554
 
-The politician was heavily criticized for associating with _______ lobbyists.
-**Root Word:** `[REPUTE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The politician was heavily criticized for associating with _______ lobbyists.
+>
+> - **Root Word:** `[REPUTE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `disreputable`
-
 - **Categoría Requerida:** Adjetivo peyorativo (de `REPUTE`)
 - **Morfología Aplicada:** Prefijo peyorativo 'dis-' + raíz 'repute' + sufijo '-able'
 - **Regla y Justificación:** Califica al sustantivo plural 'lobbyists'; 'disreputable' significa de mala reputación o dudosa moral.
@@ -96,16 +96,16 @@ The politician was heavily criticized for associating with _______ lobbyists.
 
 ---
 
-### Test 555 — Disobedience #flashcards/cambridge/part3
+### Test 555
 
-Civil _______ has historically played a crucial role in securing voting rights.
-**Root Word:** `[OBEY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Civil _______ has historically played a crucial role in securing voting rights.
+>
+> - **Root Word:** `[OBEY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `disobedience`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `OBEY`)
 - **Morfología Aplicada:** Prefijo negativo 'dis-' + raíz 'obey' + sufijo nominal '-ience'
 - **Regla y Justificación:** Forma la colocación consagrada 'civil disobedience' ('desobediencia civil').
@@ -114,16 +114,16 @@ Civil _______ has historically played a crucial role in securing voting rights.
 
 ---
 
-### Test 556 — Disapproval #flashcards/cambridge/part3
+### Test 556
 
-The proposal was met with loud expressions of public _______.
-**Root Word:** `[APPROVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The proposal was met with loud expressions of public _______.
+>
+> - **Root Word:** `[APPROVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `disapproval`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `APPROVE`)
 - **Morfología Aplicada:** Prefijo 'dis-' + raíz 'approve' + sufijo nominal '-al'
 - **Regla y Justificación:** Tras la preposición 'of' y el adjetivo 'public', se requiere el sustantivo que denota desaprobación.
@@ -132,16 +132,16 @@ The proposal was met with loud expressions of public _______.
 
 ---
 
-### Test 557 — Disagreeable #flashcards/cambridge/part3
+### Test 557
 
-The committee reached a stalemate due to his consistently _______ demeanor.
-**Root Word:** `[AGREE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The committee reached a stalemate due to his consistently _______ demeanor.
+>
+> - **Root Word:** `[AGREE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `disagreeable`
-
 - **Categoría Requerida:** Adjetivo peyorativo de carácter (de `AGREE`)
 - **Morfología Aplicada:** Prefijo 'dis-' + raíz 'agree' + sufijo '-able'
 - **Regla y Justificación:** Califica al sustantivo 'demeanor' (comportamiento); denota actitud antipática o conflictiva.
@@ -150,16 +150,16 @@ The committee reached a stalemate due to his consistently _______ demeanor.
 
 ---
 
-### Test 558 — Dissatisfaction #flashcards/cambridge/part3
+### Test 558
 
-Mounting consumer _______ prompted the technology giant to recall the faulty tablets.
-**Root Word:** `[SATISFY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Mounting consumer _______ prompted the technology giant to recall the faulty tablets.
+>
+> - **Root Word:** `[SATISFY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `dissatisfaction`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `SATISFY`)
 - **Morfología Aplicada:** Prefijo 'dis-' + raíz nominal 'satisfaction'
 - **Regla y Justificación:** Funciona como núcleo del sujeto 'Mounting consumer dissatisfaction'.
@@ -168,16 +168,16 @@ Mounting consumer _______ prompted the technology giant to recall the faulty tab
 
 ---
 
-### Test 559 — Regardless #flashcards/cambridge/part3
+### Test 559
 
-They pushed forward with the arduous trek, _______ of the sub-zero blizzard.
-**Root Word:** `[REGARD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> They pushed forward with the arduous trek, _______ of the sub-zero blizzard.
+>
+> - **Root Word:** `[REGARD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `regardless`
-
 - **Categoría Requerida:** Adverbio/preposición concesiva (de `REGARD`)
 - **Morfología Aplicada:** Raíz 'regard' + sufijo privativo '-less'
 - **Regla y Justificación:** Forma la locución preposicional fija 'regardless of' ('a pesar de / sin importar').
@@ -186,16 +186,16 @@ They pushed forward with the arduous trek, _______ of the sub-zero blizzard.
 
 ---
 
-### Test 560 — Carelessness #flashcards/cambridge/part3
+### Test 560
 
-The catastrophic laboratory fire was directly attributed to technician _______.
-**Root Word:** `[CARE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The catastrophic laboratory fire was directly attributed to technician _______.
+>
+> - **Root Word:** `[CARE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `carelessness`
-
 - **Categoría Requerida:** Sustantivo abstracto privativo (de `CARE`)
 - **Morfología Aplicada:** Raíz 'care' + sufijo privativo '-less' + sufijo nominal '-ness'
 - **Regla y Justificación:** Sigue a 'technician' en una relación de genitivo o aposición; denota falta grave de precaución.
@@ -204,16 +204,16 @@ The catastrophic laboratory fire was directly attributed to technician _______.
 
 ---
 
-### Test 561 — Thoughtlessly #flashcards/cambridge/part3
+### Test 561
 
-He had _______ discarded the confidential memorandum into an unencrypted recycle bin.
-**Root Word:** `[THOUGHT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> He had _______ discarded the confidential memorandum into an unencrypted recycle bin.
+>
+> - **Root Word:** `[THOUGHT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `thoughtlessly`
-
 - **Categoría Requerida:** Adverbio de modo peyorativo (de `THOUGHT`)
 - **Morfología Aplicada:** Raíz 'thought' + sufijo privativo '-less' + sufijo adverbial '-ly'
 - **Regla y Justificación:** Modifica al participio pasado 'discarded'; describe una acción cometida sin reflexionar.
@@ -222,16 +222,16 @@ He had _______ discarded the confidential memorandum into an unencrypted recycle
 
 ---
 
-### Test 562 — Uselessness #flashcards/cambridge/part3
+### Test 562
 
-Frustrated by the total _______ of the broken compass, they navigated by the North Star.
-**Root Word:** `[USE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Frustrated by the total _______ of the broken compass, they navigated by the North Star.
+>
+> - **Root Word:** `[USE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `uselessness`
-
 - **Categoría Requerida:** Sustantivo abstracto de inoperancia (de `USE`)
 - **Morfología Aplicada:** Raíz 'use' + sufijo privativo '-less' + sufijo nominal '-ness'
 - **Regla y Justificación:** Precedido de 'the total' y seguido de 'of'; se requiere un sustantivo que denote inutilidad.
@@ -240,16 +240,16 @@ Frustrated by the total _______ of the broken compass, they navigated by the Nor
 
 ---
 
-### Test 563 — Harmlessness #flashcards/cambridge/part3
+### Test 563
 
-Toxicological trials confirmed the complete _______ of the bio-synthetic food dye.
-**Root Word:** `[HARM]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Toxicological trials confirmed the complete _______ of the bio-synthetic food dye.
+>
+> - **Root Word:** `[HARM]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `harmlessness`
-
 - **Categoría Requerida:** Sustantivo abstracto de inocuidad (de `HARM`)
 - **Morfología Aplicada:** Raíz 'harm' + sufijo privativo '-less' + sufijo nominal '-ness'
 - **Regla y Justificación:** Precedido de 'the complete'; se requiere el sustantivo que signifique 'inocuidad'.
@@ -258,16 +258,16 @@ Toxicological trials confirmed the complete _______ of the bio-synthetic food dy
 
 ---
 
-### Test 564 — Invaluable #flashcards/cambridge/part3
+### Test 564
 
-Her meticulous research notebooks proved _______ to the criminal investigation.
-**Root Word:** `[VALUE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Her meticulous research notebooks proved _______ to the criminal investigation.
+>
+> - **Root Word:** `[VALUE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `invaluable`
-
 - **Categoría Requerida:** Adjetivo de valor inestimable (de `VALUE`)
 - **Morfología Aplicada:** Prefijo 'in-' + raíz 'value' + sufijo '-able'
 - **Regla y Justificación:** Predicativo tras 'proved'; 'invaluable' significa de valor incalculable (altamente positivo).
@@ -276,16 +276,16 @@ Her meticulous research notebooks proved _______ to the criminal investigation.
 
 ---
 
-### Test 565 — Inaccessible #flashcards/cambridge/part3
+### Test 565
 
-Due to deep snowdrifts, the alpine observatory remained totally _______ all winter.
-**Root Word:** `[ACCESS]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Due to deep snowdrifts, the alpine observatory remained totally _______ all winter.
+>
+> - **Root Word:** `[ACCESS]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inaccessible`
-
 - **Categoría Requerida:** Adjetivo negativo de posibilidad (de `ACCESS`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'access' + sufijo '-ible'
 - **Regla y Justificación:** Modificado por el adverbio 'totally'; significa imposible de alcanzar o acceder.
@@ -294,16 +294,16 @@ Due to deep snowdrifts, the alpine observatory remained totally _______ all wint
 
 ---
 
-### Test 566 — Inaccuracy #flashcards/cambridge/part3
+### Test 566
 
-A minor statistical _______ in the spreadsheet threw off the entire national budget forecast.
-**Root Word:** `[ACCURATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A minor statistical _______ in the spreadsheet threw off the entire national budget forecast.
+>
+> - **Root Word:** `[ACCURATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inaccuracy`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `ACCURATE`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'accurate' + sufijo nominal '-cy'
 - **Regla y Justificación:** Precedido por 'A minor statistical'; se requiere el sustantivo que denota imprecisión o error.
@@ -312,16 +312,16 @@ A minor statistical _______ in the spreadsheet threw off the entire national bud
 
 ---
 
-### Test 567 — Inadequately #flashcards/cambridge/part3
+### Test 567
 
-The frontier garrison was _______ equipped to withstand a protracted siege.
-**Root Word:** `[ADEQUATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The frontier garrison was _______ equipped to withstand a protracted siege.
+>
+> - **Root Word:** `[ADEQUATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inadequately`
-
 - **Categoría Requerida:** Adverbio negativo de grado/modo (de `ADEQUATE`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'adequate' + sufijo adverbial '-ly'
 - **Regla y Justificación:** Modifica al participio pasado 'equipped'; indica insuficiencia de suministros.
@@ -330,16 +330,16 @@ The frontier garrison was _______ equipped to withstand a protracted siege.
 
 ---
 
-### Test 568 — Incapable #flashcards/cambridge/part3
+### Test 568
 
-He was deemed physically _______ of completing the grueling polar triathlon.
-**Root Word:** `[CAPABLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> He was deemed physically _______ of completing the grueling polar triathlon.
+>
+> - **Root Word:** `[CAPABLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `incapable`
-
 - **Categoría Requerida:** Adjetivo negativo de habilidad (de `CAPABLE`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'capable'
 - **Regla y Justificación:** Rige la preposición 'of' ('incapable of completing').
@@ -348,16 +348,16 @@ He was deemed physically _______ of completing the grueling polar triathlon.
 
 ---
 
-### Test 569 — Incompetence #flashcards/cambridge/part3
+### Test 569
 
-The auditor was dismissed for gross professional _______ and negligence.
-**Root Word:** `[COMPETENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The auditor was dismissed for gross professional _______ and negligence.
+>
+> - **Root Word:** `[COMPETENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `incompetence`
-
 - **Categoría Requerida:** Sustantivo abstracto peyorativo (de `COMPETENT`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'competent' + sufijo nominal '-ce'
 - **Regla y Justificación:** Coordinado con 'negligence' tras 'gross professional'; se requiere sustantivo abstracto.
@@ -366,16 +366,16 @@ The auditor was dismissed for gross professional _______ and negligence.
 
 ---
 
-### Test 570 — Indecisiveness #flashcards/cambridge/part3
+### Test 570
 
-Her habitual _______ in emergencies made her unsuited for a trauma ward.
-**Root Word:** `[DECISIVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Her habitual _______ in emergencies made her unsuited for a trauma ward.
+>
+> - **Root Word:** `[DECISIVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `indecisiveness`
-
 - **Categoría Requerida:** Sustantivo abstracto de rasgo psicológico (de `DECISIVE`)
 - **Morfología Aplicada:** Prefijo 'in-' + raíz 'decisive' + sufijo '-ness'
 - **Regla y Justificación:** Sujeto de la oración; describe la incapacidad crónica de tomar determinaciones rápidas.
@@ -384,16 +384,16 @@ Her habitual _______ in emergencies made her unsuited for a trauma ward.
 
 ---
 
-### Test 571 — Indirectly #flashcards/cambridge/part3
+### Test 571
 
-The environmental degradation of coral reefs _______ threatens coastal fishing livelihoods.
-**Root Word:** `[DIRECT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The environmental degradation of coral reefs _______ threatens coastal fishing livelihoods.
+>
+> - **Root Word:** `[DIRECT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `indirectly`
-
 - **Categoría Requerida:** Adverbio de relación mediada (de `DIRECT`)
 - **Morfología Aplicada:** Prefijo 'in-' + raíz 'direct' + sufijo '-ly'
 - **Regla y Justificación:** Modifica al verbo 'threatens'; denota una consecuencia colateral o mediada.
@@ -402,16 +402,16 @@ The environmental degradation of coral reefs _______ threatens coastal fishing l
 
 ---
 
-### Test 572 — Inefficiency #flashcards/cambridge/part3
+### Test 572
 
-The corporate audit highlighted chronic bureaucratic _______ throughout the procurement wing.
-**Root Word:** `[EFFICIENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The corporate audit highlighted chronic bureaucratic _______ throughout the procurement wing.
+>
+> - **Root Word:** `[EFFICIENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inefficiency`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `EFFICIENT`)
 - **Morfología Aplicada:** Prefijo 'in-' + raíz 'efficient' + sufijo nominal '-cy'
 - **Regla y Justificación:** Objeto directo de 'highlighted'; denota falta de rendimiento o despilfarro operativo.
@@ -420,16 +420,16 @@ The corporate audit highlighted chronic bureaucratic _______ throughout the proc
 
 ---
 
-### Test 573 — Inflexibility #flashcards/cambridge/part3
+### Test 573
 
-The failure of the negotiations was precipitated by the union leader's dogmatic _______.
-**Root Word:** `[FLEXIBLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The failure of the negotiations was precipitated by the union leader's dogmatic _______.
+>
+> - **Root Word:** `[FLEXIBLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inflexibility`
-
 - **Categoría Requerida:** Sustantivo abstracto de rigidez (de `FLEXIBLE`)
 - **Morfología Aplicada:** Prefijo 'in-' + raíz 'flexible' + sufijo nominal '-ity'
 - **Regla y Justificación:** Tras el genitivo sajón 'leader's dogmatic'; se requiere el sustantivo abstracto que denota rigidez.
@@ -438,16 +438,16 @@ The failure of the negotiations was precipitated by the union leader's dogmatic 
 
 ---
 
-### Test 574 — Injustice #flashcards/cambridge/part3
+### Test 574
 
-The peaceful demonstration protested against systemic racial and judicial _______.
-**Root Word:** `[JUSTICE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The peaceful demonstration protested against systemic racial and judicial _______.
+>
+> - **Root Word:** `[JUSTICE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `injustice`
-
 - **Categoría Requerida:** Sustantivo abstracto de opresión moral (de `JUSTICE`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'justice'
 - **Regla y Justificación:** Término de la preposición 'against'; denota agravio o falta de justicia.
@@ -456,16 +456,16 @@ The peaceful demonstration protested against systemic racial and judicial ______
 
 ---
 
-### Test 575 — Insignificance #flashcards/cambridge/part3
+### Test 575
 
-In comparison to the vastness of the cosmos, terrestrial concerns fade into utter _______.
-**Root Word:** `[SIGNIFICANT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> In comparison to the vastness of the cosmos, terrestrial concerns fade into utter _______.
+>
+> - **Root Word:** `[SIGNIFICANT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `insignificance`
-
 - **Categoría Requerida:** Sustantivo abstracto de nimiedad (de `SIGNIFICANT`)
 - **Morfología Aplicada:** Prefijo 'in-' + raíz 'significant' + sufijo nominal '-ce'
 - **Regla y Justificación:** Precedido de 'utter' (total); requiere el sustantivo que denota falta de importancia.
@@ -474,16 +474,16 @@ In comparison to the vastness of the cosmos, terrestrial concerns fade into utte
 
 ---
 
-### Test 576 — Insufficient #flashcards/cambridge/part3
+### Test 576
 
-The defense attorney argued that the prosecution's evidence was hopelessly _______.
-**Root Word:** `[SUFFICIENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The defense attorney argued that the prosecution's evidence was hopelessly _______.
+>
+> - **Root Word:** `[SUFFICIENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `insufficient`
-
 - **Categoría Requerida:** Adjetivo predicativo de escasez (de `SUFFICIENT`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'sufficient'
 - **Regla y Justificación:** Atributo tras el verbo copulativo 'was' y el adverbio 'hopelessly'; denota insuficiencia probatoria.
@@ -492,16 +492,16 @@ The defense attorney argued that the prosecution's evidence was hopelessly _____
 
 ---
 
-### Test 577 — Invariably #flashcards/cambridge/part3
+### Test 577
 
-Train commuters on that branch line are _______ delayed by ancient signaling mechanisms.
-**Root Word:** `[VARIABLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Train commuters on that branch line are _______ delayed by ancient signaling mechanisms.
+>
+> - **Root Word:** `[VARIABLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `invariably`
-
 - **Categoría Requerida:** Adverbio enfático de frecuencia invariable (de `VARIABLE`)
 - **Morfología Aplicada:** Prefijo 'in-' + raíz 'variable' + sufijo adverbial '-ly'
 - **Regla y Justificación:** Modifica al participio 'delayed'; significa 'sin excepción / siempre'.
@@ -510,16 +510,16 @@ Train commuters on that branch line are _______ delayed by ancient signaling mec
 
 ---
 
-### Test 578 — Invisibility #flashcards/cambridge/part3
+### Test 578
 
-Metamaterials bend light waves around objects, achieving functional optical _______.
-**Root Word:** `[VISIBLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Metamaterials bend light waves around objects, achieving functional optical _______.
+>
+> - **Root Word:** `[VISIBLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `invisibility`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `VISIBLE`)
 - **Morfología Aplicada:** Prefijo 'in-' + raíz 'visible' + sufijo nominal '-ity'
 - **Regla y Justificación:** Modificado por los adjetivos 'functional optical'; denota la cualidad de no poder ser visto.
@@ -528,16 +528,16 @@ Metamaterials bend light waves around objects, achieving functional optical ____
 
 ---
 
-### Test 579 — Immorality #flashcards/cambridge/part3
+### Test 579
 
-The satirist exposed the greed and moral _______ of the corrupt aristocracy.
-**Root Word:** `[MORAL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The satirist exposed the greed and moral _______ of the corrupt aristocracy.
+>
+> - **Root Word:** `[MORAL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `immorality`
-
 - **Categoría Requerida:** Sustantivo abstracto peyorativo (de `MORAL`)
 - **Morfología Aplicada:** Prefijo asimilado 'im-' + raíz 'moral' + sufijo nominal '-ity'
 - **Regla y Justificación:** Sigue a 'moral' como núcleo sustantivo coordinado con 'greed'; requiere prefijo asimilado ante 'm'.
@@ -546,16 +546,16 @@ The satirist exposed the greed and moral _______ of the corrupt aristocracy.
 
 ---
 
-### Test 580 — Impatiently #flashcards/cambridge/part3
+### Test 580
 
-The queued passengers drummed their fingers _______ on the check-in desk.
-**Root Word:** `[PATIENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The queued passengers drummed their fingers _______ on the check-in desk.
+>
+> - **Root Word:** `[PATIENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `impatiently`
-
 - **Categoría Requerida:** Adverbio de modo (de `PATIENT`)
 - **Morfología Aplicada:** Prefijo 'im-' + raíz 'patient' + sufijo adverbial '-ly'
 - **Regla y Justificación:** Modifica a la acción 'drummed their fingers'; denota inquietud o irritación por la espera.
@@ -564,16 +564,16 @@ The queued passengers drummed their fingers _______ on the check-in desk.
 
 ---
 
-### Test 581 — Imperfections #flashcards/cambridge/part3
+### Test 581
 
-Under high microscopic magnification, even refined optical glass reveals subtle _______.
-**Root Word:** `[PERFECT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Under high microscopic magnification, even refined optical glass reveals subtle _______.
+>
+> - **Root Word:** `[PERFECT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `imperfections`
-
 - **Categoría Requerida:** Sustantivo plural contable peyorativo (de `PERFECT`)
 - **Morfología Aplicada:** Prefijo 'im-' + raíz 'perfect' + sufijo '-ion' + plural '-s'
 - **Regla y Justificación:** Objeto directo del verbo 'reveals' modificado por 'subtle'; requiere plural contable.
@@ -582,16 +582,16 @@ Under high microscopic magnification, even refined optical glass reveals subtle 
 
 ---
 
-### Test 582 — Impossibility #flashcards/cambridge/part3
+### Test 582
 
-Given the sheer scale of the blizzard, clearing the mountain pass was a physical _______.
-**Root Word:** `[POSSIBLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Given the sheer scale of the blizzard, clearing the mountain pass was a physical _______.
+>
+> - **Root Word:** `[POSSIBLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `impossibility`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `POSSIBLE`)
 - **Morfología Aplicada:** Prefijo 'im-' + raíz 'possible' + sufijo nominal '-ity'
 - **Regla y Justificación:** Precedido por el artículo indefinido 'a' y el adjetivo 'physical'; requiere sustantivo abstracto.
@@ -600,16 +600,16 @@ Given the sheer scale of the blizzard, clearing the mountain pass was a physical
 
 ---
 
-### Test 583 — Improbability #flashcards/cambridge/part3
+### Test 583
 
-Despite the mathematical _______ of the lottery win, millions bought weekly tickets.
-**Root Word:** `[PROBABLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Despite the mathematical _______ of the lottery win, millions bought weekly tickets.
+>
+> - **Root Word:** `[PROBABLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `improbability`
-
 - **Categoría Requerida:** Sustantivo abstracto de baja probabilidad (de `PROBABLE`)
 - **Morfología Aplicada:** Prefijo 'im-' + raíz 'probable' + sufijo nominal '-ity'
 - **Regla y Justificación:** Término de la preposición 'Despite the mathematical'; se requiere sustantivo abstracto.
@@ -618,16 +618,16 @@ Despite the mathematical _______ of the lottery win, millions bought weekly tick
 
 ---
 
-### Test 584 — Impracticality #flashcards/cambridge/part3
+### Test 584
 
-The architects abandoned the futuristic glass bridge due to its extreme engineering _______.
-**Root Word:** `[PRACTICAL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The architects abandoned the futuristic glass bridge due to its extreme engineering _______.
+>
+> - **Root Word:** `[PRACTICAL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `impracticality`
-
 - **Categoría Requerida:** Sustantivo abstracto de inviabilidad (de `PRACTICAL`)
 - **Morfología Aplicada:** Prefijo 'im-' + raíz 'practical' + sufijo nominal '-ity'
 - **Regla y Justificación:** Sigue a 'engineering'; se refiere a la imposibilidad práctica o inviabilidad técnica.
@@ -636,16 +636,16 @@ The architects abandoned the futuristic glass bridge due to its extreme engineer
 
 ---
 
-### Test 585 — Immaturity #flashcards/cambridge/part3
+### Test 585
 
-His persistent refusal to accept constructive feedback demonstrated professional _______.
-**Root Word:** `[MATURE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> His persistent refusal to accept constructive feedback demonstrated professional _______.
+>
+> - **Root Word:** `[MATURE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `immaturity`
-
 - **Categoría Requerida:** Sustantivo abstracto peyorativo (de `MATURE`)
 - **Morfología Aplicada:** Prefijo 'im-' + raíz 'mature' + sufijo nominal '-ity'
 - **Regla y Justificación:** Objeto de 'demonstrated' precedido de 'professional'; indica falta de madurez o desarrollo.
@@ -654,16 +654,16 @@ His persistent refusal to accept constructive feedback demonstrated professional
 
 ---
 
-### Test 586 — Immeasurable #flashcards/cambridge/part3
+### Test 586
 
-The humanitarian donation brought _______ relief to thousands of displaced families.
-**Root Word:** `[MEASURE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The humanitarian donation brought _______ relief to thousands of displaced families.
+>
+> - **Root Word:** `[MEASURE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `immeasurable`
-
 - **Categoría Requerida:** Adjetivo de magnitud incalculable (de `MEASURE`)
 - **Morfología Aplicada:** Prefijo 'im-' + raíz 'measure' + sufijo '-able'
 - **Regla y Justificación:** Califica al sustantivo 'relief'; denota una cantidad tan vasta que no puede medirse.
@@ -672,16 +672,16 @@ The humanitarian donation brought _______ relief to thousands of displaced famil
 
 ---
 
-### Test 587 — Imbalance #flashcards/cambridge/part3
+### Test 587
 
-A severe hormonal _______ can trigger profound mood swings and chronic fatigue.
-**Root Word:** `[BALANCE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A severe hormonal _______ can trigger profound mood swings and chronic fatigue.
+>
+> - **Root Word:** `[BALANCE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `imbalance`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `BALANCE`)
 - **Morfología Aplicada:** Prefijo 'im-' + raíz 'balance'
 - **Regla y Justificación:** Sujeto singular precedido por 'A severe hormonal'; denota descompensación o asimetría.
@@ -690,16 +690,16 @@ A severe hormonal _______ can trigger profound mood swings and chronic fatigue.
 
 ---
 
-### Test 588 — Illegally #flashcards/cambridge/part3
+### Test 588
 
-The trawler was impounded by coastguards for fishing _______ inside territorial waters.
-**Root Word:** `[LEGAL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The trawler was impounded by coastguards for fishing _______ inside territorial waters.
+>
+> - **Root Word:** `[LEGAL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `illegally`
-
 - **Categoría Requerida:** Adverbio peyorativo de modo (de `LEGAL`)
 - **Morfología Aplicada:** Prefijo asimilado 'il-' + raíz 'legal' + sufijo '-ly'
 - **Regla y Justificación:** Modifica al gerundio 'fishing'; la asimilación ante 'l' convierte 'in-' en 'il-'.
@@ -708,16 +708,16 @@ The trawler was impounded by coastguards for fishing _______ inside territorial 
 
 ---
 
-### Test 589 — Illegibility #flashcards/cambridge/part3
+### Test 589
 
-The ancient codex was difficult to transcribe due to the severe _______ of the faded script.
-**Root Word:** `[LEGIBLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The ancient codex was difficult to transcribe due to the severe _______ of the faded script.
+>
+> - **Root Word:** `[LEGIBLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `illegibility`
-
 - **Categoría Requerida:** Sustantivo abstracto de dificultad lectora (de `LEGIBLE`)
 - **Morfología Aplicada:** Prefijo asimilado 'il-' + raíz 'legible' + sufijo nominal '-ity'
 - **Regla y Justificación:** Término de la frase preposicional 'due to the severe'; requiere sustantivo abstracto.
@@ -726,16 +726,16 @@ The ancient codex was difficult to transcribe due to the severe _______ of the f
 
 ---
 
-### Test 590 — Illogically #flashcards/cambridge/part3
+### Test 590
 
-He argued _______ that lowering ticket prices would somehow decrease passenger turnout.
-**Root Word:** `[LOGICAL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> He argued _______ that lowering ticket prices would somehow decrease passenger turnout.
+>
+> - **Root Word:** `[LOGICAL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `illogically`
-
 - **Categoría Requerida:** Adverbio peyorativo de razonamiento (de `LOGICAL`)
 - **Morfología Aplicada:** Prefijo asimilado 'il-' + raíz 'logical' + sufijo '-ly'
 - **Regla y Justificación:** Modifica al verbo 'argued'; describe un razonamiento carente de lógica interna.
@@ -744,16 +744,16 @@ He argued _______ that lowering ticket prices would somehow decrease passenger t
 
 ---
 
-### Test 591 — Illiteracy #flashcards/cambridge/part3
+### Test 591
 
-The NGO launched an educational campaign aimed at eradicating adult _______ in rural provinces.
-**Root Word:** `[LITERATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The NGO launched an educational campaign aimed at eradicating adult _______ in rural provinces.
+>
+> - **Root Word:** `[LITERATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `illiteracy`
-
 - **Categoría Requerida:** Sustantivo abstracto social (de `LITERATE`)
 - **Morfología Aplicada:** Prefijo 'il-' + raíz 'literate' + sufijo nominal '-cy'
 - **Regla y Justificación:** Objeto de 'eradicating' calificado por 'adult'; denota la incapacidad de leer y escribir.
@@ -762,16 +762,16 @@ The NGO launched an educational campaign aimed at eradicating adult _______ in r
 
 ---
 
-### Test 592 — Illegitimate #flashcards/cambridge/part3
+### Test 592
 
-The supreme court ruled that the retroactive tax levy was entirely _______ under the constitution.
-**Root Word:** `[LEGITIMATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The supreme court ruled that the retroactive tax levy was entirely _______ under the constitution.
+>
+> - **Root Word:** `[LEGITIMATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `illegitimate`
-
 - **Categoría Requerida:** Adjetivo jurídico negativo (de `LEGITIMATE`)
 - **Morfología Aplicada:** Prefijo asimilado 'il-' + raíz 'legitimate'
 - **Regla y Justificación:** Atributo tras 'was entirely'; denota falta de legalidad o legitimidad constitucional.
@@ -780,16 +780,16 @@ The supreme court ruled that the retroactive tax levy was entirely _______ under
 
 ---
 
-### Test 593 — Irrationality #flashcards/cambridge/part3
+### Test 593
 
-In moments of acute panic, human behavior is often characterized by sheer _______.
-**Root Word:** `[RATIONAL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> In moments of acute panic, human behavior is often characterized by sheer _______.
+>
+> - **Root Word:** `[RATIONAL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irrationality`
-
 - **Categoría Requerida:** Sustantivo abstracto de sinrazón (de `RATIONAL`)
 - **Morfología Aplicada:** Prefijo asimilado 'ir-' + raíz 'rational' + sufijo nominal '-ity'
 - **Regla y Justificación:** Término de 'characterized by sheer'; se asimila 'in-' a 'ir-' delante de 'r'.
@@ -798,16 +798,16 @@ In moments of acute panic, human behavior is often characterized by sheer ______
 
 ---
 
-### Test 594 — Irregularity #flashcards/cambridge/part3
+### Test 594
 
-An internal audit discovered a serious financial _______ in the subsidiary's balance sheet.
-**Root Word:** `[REGULAR]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> An internal audit discovered a serious financial _______ in the subsidiary's balance sheet.
+>
+> - **Root Word:** `[REGULAR]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irregularity`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `REGULAR`)
 - **Morfología Aplicada:** Prefijo 'ir-' + raíz 'regular' + sufijo nominal '-ity'
 - **Regla y Justificación:** Precedido de 'a serious financial'; denota una anomalía o infracción de normas.
@@ -816,16 +816,16 @@ An internal audit discovered a serious financial _______ in the subsidiary's bal
 
 ---
 
-### Test 595 — Irrelevance #flashcards/cambridge/part3
+### Test 595
 
-The judge instructed the jury to disregard the witness's testimony due to its blatant _______.
-**Root Word:** `[RELEVANT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The judge instructed the jury to disregard the witness's testimony due to its blatant _______.
+>
+> - **Root Word:** `[RELEVANT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irrelevance`
-
 - **Categoría Requerida:** Sustantivo abstracto de impertinencia (de `RELEVANT`)
 - **Morfología Aplicada:** Prefijo 'ir-' + raíz 'relevant' + sufijo nominal '-ce'
 - **Regla y Justificación:** Sigue a 'its blatant'; requiere el sustantivo que denota falta de conexión lógica con el caso.
@@ -834,16 +834,16 @@ The judge instructed the jury to disregard the witness's testimony due to its bl
 
 ---
 
-### Test 596 — Irresponsibly #flashcards/cambridge/part3
+### Test 596
 
-The teenagers acted _______ by leaving their campfire smoldering in the bone-dry forest.
-**Root Word:** `[RESPONSIBLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The teenagers acted _______ by leaving their campfire smoldering in the bone-dry forest.
+>
+> - **Root Word:** `[RESPONSIBLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irresponsibly`
-
 - **Categoría Requerida:** Adverbio peyorativo de conducta (de `RESPONSIBLE`)
 - **Morfología Aplicada:** Prefijo 'ir-' + raíz 'responsible' + sufijo adverbial '-ly'
 - **Regla y Justificación:** Modifica al verbo 'acted'; describe una conducta imprudente y negligente.
@@ -852,16 +852,16 @@ The teenagers acted _______ by leaving their campfire smoldering in the bone-dry
 
 ---
 
-### Test 597 — Irresistible #flashcards/cambridge/part3
+### Test 597
 
-The warm aroma of freshly baked sourdough bread proved utterly _______ to the hungry passers-by.
-**Root Word:** `[RESIST]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The warm aroma of freshly baked sourdough bread proved utterly _______ to the hungry passers-by.
+>
+> - **Root Word:** `[RESIST]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irresistible`
-
 - **Categoría Requerida:** Adjetivo de atracción ineludible (de `RESIST`)
 - **Morfología Aplicada:** Prefijo 'ir-' + raíz 'resist' + sufijo '-ible'
 - **Regla y Justificación:** Atributo tras 'proved utterly'; significa que no se puede resistir o rechazar.
@@ -870,16 +870,16 @@ The warm aroma of freshly baked sourdough bread proved utterly _______ to the hu
 
 ---
 
-### Test 598 — Irreparable #flashcards/cambridge/part3
+### Test 598
 
-The antique oil painting sustained _______ damage when water leaked through the skylight.
-**Root Word:** `[REPAIR]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The antique oil painting sustained _______ damage when water leaked through the skylight.
+>
+> - **Root Word:** `[REPAIR]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irreparable`
-
 - **Categoría Requerida:** Adjetivo de daño definitivo (de `REPAIR`)
 - **Morfología Aplicada:** Prefijo 'ir-' + raíz 'repair' (mutada a 'repar') + sufijo '-able'
 - **Regla y Justificación:** Califica a 'damage'; significa que no puede repararse o restaurarse.
@@ -888,16 +888,16 @@ The antique oil painting sustained _______ damage when water leaked through the 
 
 ---
 
-### Test 599 — Irreconcilable #flashcards/cambridge/part3
+### Test 599
 
-The two political factions divorced their coalition due to _______ ideological differences.
-**Root Word:** `[RECONCILE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The two political factions divorced their coalition due to _______ ideological differences.
+>
+> - **Root Word:** `[RECONCILE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irreconcilable`
-
 - **Categoría Requerida:** Adjetivo de incompatibilidad absoluta (de `RECONCILE`)
 - **Morfología Aplicada:** Prefijo 'ir-' + raíz 'reconcile' + sufijo '-able'
 - **Regla y Justificación:** Califica a 'ideological differences'; indica posturas que jamás podrán avenirse.
@@ -906,16 +906,16 @@ The two political factions divorced their coalition due to _______ ideological d
 
 ---
 
-### Test 600 — Irreplaceable #flashcards/cambridge/part3
+### Test 600
 
-The burned library archives contained thousands of unique, _______ medieval manuscripts.
-**Root Word:** `[REPLACE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The burned library archives contained thousands of unique, _______ medieval manuscripts.
+>
+> - **Root Word:** `[REPLACE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irreplaceable`
-
 - **Categoría Requerida:** Adjetivo de singularidad absoluta (de `REPLACE`)
 - **Morfología Aplicada:** Prefijo 'ir-' + raíz 'replace' + sufijo '-able'
 - **Regla y Justificación:** Coordinado con 'unique'; denota piezas imposibles de sustituir.
@@ -924,16 +924,16 @@ The burned library archives contained thousands of unique, _______ medieval manu
 
 ---
 
-### Test 601 — Misjudged #flashcards/cambridge/part3
+### Test 601
 
-The general severely _______ the tenacity of the opposing guerrilla forces in the mountains.
-**Root Word:** `[JUDGE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The general severely _______ the tenacity of the opposing guerrilla forces in the mountains.
+>
+> - **Root Word:** `[JUDGE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `misjudged`
-
 - **Categoría Requerida:** Verbo en pasado simple con prefijo erróneo (de `JUDGE`)
 - **Morfología Aplicada:** Prefijo de error 'mis-' + raíz verbal 'judge' + desinencia de pasado '-ed'
 - **Regla y Justificación:** Verbo transitivo en pasado que rige 'the tenacity'; indica cálculo erróneo de la fuerza enemiga.
@@ -942,16 +942,16 @@ The general severely _______ the tenacity of the opposing guerrilla forces in th
 
 ---
 
-### Test 602 — Misleadingly #flashcards/cambridge/part3
+### Test 602
 
-The nutritional label was _______ worded to imply that the sugary beverage was healthy.
-**Root Word:** `[LEAD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The nutritional label was _______ worded to imply that the sugary beverage was healthy.
+>
+> - **Root Word:** `[LEAD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `misleadingly`
-
 - **Categoría Requerida:** Adverbio peyorativo de falsedad (de `LEAD`)
 - **Morfología Aplicada:** Prefijo 'mis-' + participio 'leading' + sufijo adverbial '-ly'
 - **Regla y Justificación:** Modifica al participio 'worded'; describe una redacción intencionadamente engañosa.
@@ -960,16 +960,16 @@ The nutritional label was _______ worded to imply that the sugary beverage was h
 
 ---
 
-### Test 603 — Misinterpretation #flashcards/cambridge/part3
+### Test 603
 
-The tense diplomatic standoff was sparked by a linguistic _______ during translation.
-**Root Word:** `[INTERPRET]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The tense diplomatic standoff was sparked by a linguistic _______ during translation.
+>
+> - **Root Word:** `[INTERPRET]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `misinterpretation`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `INTERPRET`)
 - **Morfología Aplicada:** Prefijo 'mis-' + raíz 'interpret' + sufijo nominal '-ation'
 - **Regla y Justificación:** Precedido de 'a linguistic'; describe una decodificación errónea del mensaje original.
@@ -978,16 +978,16 @@ The tense diplomatic standoff was sparked by a linguistic _______ during transla
 
 ---
 
-### Test 604 — Misunderstanding #flashcards/cambridge/part3
+### Test 604
 
-A simple administrative _______ caused the scholarship funds to be routed to the wrong bank.
-**Root Word:** `[UNDERSTAND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A simple administrative _______ caused the scholarship funds to be routed to the wrong bank.
+>
+> - **Root Word:** `[UNDERSTAND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `misunderstanding`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `UNDERSTAND`)
 - **Morfología Aplicada:** Prefijo 'mis-' + participio sustantivado 'understanding'
 - **Regla y Justificación:** Sujeto singular precedido de 'A simple administrative'; denota un malentendido.
@@ -996,16 +996,16 @@ A simple administrative _______ caused the scholarship funds to be routed to the
 
 ---
 
-### Test 605 — Miscalculation #flashcards/cambridge/part3
+### Test 605
 
-A catastrophic orbital _______ sent the satellite spiraling beyond the earth's atmosphere.
-**Root Word:** `[CALCULATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A catastrophic orbital _______ sent the satellite spiraling beyond the earth's atmosphere.
+>
+> - **Root Word:** `[CALCULATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `miscalculation`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `CALCULATE`)
 - **Morfología Aplicada:** Prefijo 'mis-' + raíz 'calculate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Precedido por 'A catastrophic orbital'; indica un cómputo erróneo de trayectoria.
@@ -1014,16 +1014,16 @@ A catastrophic orbital _______ sent the satellite spiraling beyond the earth's a
 
 ---
 
-### Test 606 — Misplaced #flashcards/cambridge/part3
+### Test 606
 
-Her unwavering faith in the dishonest financial consultant proved to be tragically _______.
-**Root Word:** `[PLACE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Her unwavering faith in the dishonest financial consultant proved to be tragically _______.
+>
+> - **Root Word:** `[PLACE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `misplaced`
-
 - **Categoría Requerida:** Adjetivo / participio predicativo (de `PLACE`)
 - **Morfología Aplicada:** Prefijo 'mis-' + participio pasado 'placed'
 - **Regla y Justificación:** Predicativo tras 'proved to be tragically'; 'misplaced trust/faith' es una colocación fija.
@@ -1032,16 +1032,16 @@ Her unwavering faith in the dishonest financial consultant proved to be tragical
 
 ---
 
-### Test 607 — Misrepresentation #flashcards/cambridge/part3
+### Test 607
 
-The consumer watchdog sued the cosmetics company for fraudulent _______ of test results.
-**Root Word:** `[REPRESENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The consumer watchdog sued the cosmetics company for fraudulent _______ of test results.
+>
+> - **Root Word:** `[REPRESENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `misrepresentation`
-
 - **Categoría Requerida:** Sustantivo abstracto jurídico (de `REPRESENT`)
 - **Morfología Aplicada:** Prefijo 'mis-' + raíz 'represent' + sufijo nominal '-ation'
 - **Regla y Justificación:** Término de la frase 'fraudulent ... of test results'; denota distorsión deliberada de hechos.
@@ -1050,16 +1050,16 @@ The consumer watchdog sued the cosmetics company for fraudulent _______ of test 
 
 ---
 
-### Test 608 — Mistrustful #flashcards/cambridge/part3
+### Test 608
 
-Having been betrayed before, she was instinctively _______ of overly charming strangers.
-**Root Word:** `[TRUST]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Having been betrayed before, she was instinctively _______ of overly charming strangers.
+>
+> - **Root Word:** `[TRUST]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `mistrustful`
-
 - **Categoría Requerida:** Adjetivo peyorativo de desconfianza (de `TRUST`)
 - **Morfología Aplicada:** Prefijo 'mis-' + raíz 'trust' + sufijo adjetival '-ful'
 - **Regla y Justificación:** Atributo tras 'was instinctively' que rige 'of'; describe a una persona recelosa o suspicaz.
@@ -1068,16 +1068,16 @@ Having been betrayed before, she was instinctively _______ of overly charming st
 
 ---
 
-### Test 609 — Underestimate #flashcards/cambridge/part3
+### Test 609
 
-Novice mountaineers often dangerously _______ the ferocity of sudden alpine blizzards.
-**Root Word:** `[ESTIMATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Novice mountaineers often dangerously _______ the ferocity of sudden alpine blizzards.
+>
+> - **Root Word:** `[ESTIMATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `underestimate`
-
 - **Categoría Requerida:** Verbo transitivo en presente de valoración insuficiente (de `ESTIMATE`)
 - **Morfología Aplicada:** Prefijo 'under-' + raíz 'estimate'
 - **Regla y Justificación:** Verbo transitivo que rige 'the ferocity'; denota valorar algo por debajo de su magnitud real.
@@ -1086,16 +1086,16 @@ Novice mountaineers often dangerously _______ the ferocity of sudden alpine bliz
 
 ---
 
-### Test 610 — Understatement #flashcards/cambridge/part3
+### Test 610
 
-To describe that multi-vehicle collision as a mere fender-bender is a ludicrous _______.
-**Root Word:** `[STATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> To describe that multi-vehicle collision as a mere fender-bender is a ludicrous _______.
+>
+> - **Root Word:** `[STATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `understatement`
-
 - **Categoría Requerida:** Sustantivo singular de atenuación retórica (de `STATE`)
 - **Morfología Aplicada:** Prefijo 'under-' + raíz 'state' + sufijo nominal '-ment'
 - **Regla y Justificación:** Precedido de 'a ludicrous'; modismo retórico que denota quedarse enormemente corto al describir algo.
@@ -1104,16 +1104,16 @@ To describe that multi-vehicle collision as a mere fender-bender is a ludicrous 
 
 ---
 
-### Test 611 — Understaffed #flashcards/cambridge/part3
+### Test 611
 
-The rural medical clinic was chronically _______, with only two nurses managing sixty beds.
-**Root Word:** `[STAFF]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The rural medical clinic was chronically _______, with only two nurses managing sixty beds.
+>
+> - **Root Word:** `[STAFF]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `understaffed`
-
 - **Categoría Requerida:** Adjetivo participial de escasez laboral (de `STAFF`)
 - **Morfología Aplicada:** Prefijo 'under-' + raíz 'staff' + desinencia '-ed'
 - **Regla y Justificación:** Atributo tras 'was chronically'; describe una instalación con personal insuficiente.
@@ -1122,16 +1122,16 @@ The rural medical clinic was chronically _______, with only two nurses managing 
 
 ---
 
-### Test 612 — Underfunded #flashcards/cambridge/part3
+### Test 612
 
-Public art conservatories in developing regions remain desperately _______ by the ministry.
-**Root Word:** `[FUND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Public art conservatories in developing regions remain desperately _______ by the ministry.
+>
+> - **Root Word:** `[FUND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `underfunded`
-
 - **Categoría Requerida:** Participio pasivo adjetival de dotación económica deficiente (de `FUND`)
 - **Morfología Aplicada:** Prefijo 'under-' + raíz 'fund' + desinencia '-ed'
 - **Regla y Justificación:** Atributo tras 'remain desperately'; significa que reciben presupuestos muy por debajo de sus necesidades.
@@ -1140,16 +1140,16 @@ Public art conservatories in developing regions remain desperately _______ by th
 
 ---
 
-### Test 613 — Overestimate #flashcards/cambridge/part3
+### Test 613
 
-Venture capitalists must not _______ consumer demand when launching untested technologies.
-**Root Word:** `[ESTIMATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Venture capitalists must not _______ consumer demand when launching untested technologies.
+>
+> - **Root Word:** `[ESTIMATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `overestimate`
-
 - **Categoría Requerida:** Verbo transitivo de sobrevaloración (de `ESTIMATE`)
 - **Morfología Aplicada:** Prefijo de exceso 'over-' + raíz 'estimate'
 - **Regla y Justificación:** Tras el modal 'must not'; denota calcular un valor excesivo o irreal.
@@ -1158,16 +1158,16 @@ Venture capitalists must not _______ consumer demand when launching untested tec
 
 ---
 
-### Test 614 — Overcrowding #flashcards/cambridge/part3
+### Test 614
 
-Severe urban _______ has placed unsustainable pressure on municipal sanitation networks.
-**Root Word:** `[CROWD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Severe urban _______ has placed unsustainable pressure on municipal sanitation networks.
+>
+> - **Root Word:** `[CROWD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `overcrowding`
-
 - **Categoría Requerida:** Sustantivo incontable de hacinamiento (de `CROWD`)
 - **Morfología Aplicada:** Prefijo 'over-' + raíz 'crowd' + gerundio/nominalización '-ing'
 - **Regla y Justificación:** Sujeto calificado por 'Severe urban'; denota aglomeración o saturación demográfica excesiva.
@@ -1176,16 +1176,16 @@ Severe urban _______ has placed unsustainable pressure on municipal sanitation n
 
 ---
 
-### Test 615 — Overlooked #flashcards/cambridge/part3
+### Test 615
 
-The detective noticed a crucial fingerprint that the initial forensics squad had _______.
-**Root Word:** `[LOOK]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The detective noticed a crucial fingerprint that the initial forensics squad had _______.
+>
+> - **Root Word:** `[LOOK]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `overlooked`
-
 - **Categoría Requerida:** Participio pasado de omisión inadvertida (de `LOOK`)
 - **Morfología Aplicada:** Prefijo 'over-' + raíz verbal 'look' + desinencia '-ed'
 - **Regla y Justificación:** Forma el Past Perfect tras 'had'; 'overlook' significa pasar por alto o no percatarse de algo.
@@ -1194,16 +1194,16 @@ The detective noticed a crucial fingerprint that the initial forensics squad had
 
 ---
 
-### Test 616 — Overheard #flashcards/cambridge/part3
+### Test 616
 
-Sitting quietly in the café corner, she accidentally _______ their confidential takeover plot.
-**Root Word:** `[HEAR]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Sitting quietly in the café corner, she accidentally _______ their confidential takeover plot.
+>
+> - **Root Word:** `[HEAR]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `overheard`
-
 - **Categoría Requerida:** Verbo irregular en pasado simple de escucha fortuita (de `HEAR`)
 - **Morfología Aplicada:** Prefijo 'over-' + pasado irregular de hear ('heard')
 - **Regla y Justificación:** Verbo transitivo en pasado; 'overhear' significa oír involuntariamente una conversación ajena.
@@ -1212,16 +1212,16 @@ Sitting quietly in the café corner, she accidentally _______ their confidential
 
 ---
 
-### Test 617 — Outnumbered #flashcards/cambridge/part3
+### Test 617
 
-Although heavily _______ by the rival army, the defenders held the mountain citadel.
-**Root Word:** `[NUMBER]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Although heavily _______ by the rival army, the defenders held the mountain citadel.
+>
+> - **Root Word:** `[NUMBER]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `outnumbered`
-
 - **Categoría Requerida:** Participio pasivo de inferioridad numérica (de `NUMBER`)
 - **Morfología Aplicada:** Prefijo de superioridad 'out-' + raíz 'number' + desinencia '-ed'
 - **Regla y Justificación:** Modo concesivo elíptico tras 'Although heavily'; denota que el enemigo los superaba en número.
@@ -1230,16 +1230,16 @@ Although heavily _______ by the rival army, the defenders held the mountain cita
 
 ---
 
-### Test 618 — Outlived #flashcards/cambridge/part3
+### Test 618
 
-The eccentric dowager _______ three husbands and inherited immense colonial wealth.
-**Root Word:** `[LIVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The eccentric dowager _______ three husbands and inherited immense colonial wealth.
+>
+> - **Root Word:** `[LIVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `outlived`
-
 - **Categoría Requerida:** Verbo transitivo en pasado de longevidad comparativa (de `LIVE`)
 - **Morfología Aplicada:** Prefijo 'out-' + raíz 'live' + desinencia '-ed'
 - **Regla y Justificación:** Verbo transitivo en pasado; significa vivir más tiempo que otra persona.
@@ -1248,16 +1248,16 @@ The eccentric dowager _______ three husbands and inherited immense colonial weal
 
 ---
 
-### Test 619 — Outweigh #flashcards/cambridge/part3
+### Test 619
 
-The long-term ecological benefits of reforestation far _______ the initial planting expenses.
-**Root Word:** `[WEIGH]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The long-term ecological benefits of reforestation far _______ the initial planting expenses.
+>
+> - **Root Word:** `[WEIGH]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `outweigh`
-
 - **Categoría Requerida:** Verbo transitivo en presente de preponderancia (de `WEIGH`)
 - **Morfología Aplicada:** Prefijo 'out-' + raíz 'weigh'
 - **Regla y Justificación:** Sujeto plural 'benefits' que rige 'the initial planting expenses'; significa tener mayor peso o valor.
@@ -1266,16 +1266,16 @@ The long-term ecological benefits of reforestation far _______ the initial plant
 
 ---
 
-### Test 620 — Outshone #flashcards/cambridge/part3
+### Test 620
 
-With her magnetic theatrical performance, the young debutante completely _______ the veteran cast.
-**Root Word:** `[SHINE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> With her magnetic theatrical performance, the young debutante completely _______ the veteran cast.
+>
+> - **Root Word:** `[SHINE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `outshone`
-
 - **Categoría Requerida:** Verbo irregular en pasado de eclipse artístico (de `SHINE`)
 - **Morfología Aplicada:** Prefijo 'out-' + pasado irregular de shine ('shone')
 - **Regla y Justificación:** Verbo transitivo en pasado con modificador 'completely'; denota eclipsar o brillar más que otros.
@@ -1284,16 +1284,16 @@ With her magnetic theatrical performance, the young debutante completely _______
 
 ---
 
-### Test 621 — Outperformed #flashcards/cambridge/part3
+### Test 621
 
-The renewable energy investment portfolio easily _______ fossil fuel indices over five years.
-**Root Word:** `[PERFORM]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The renewable energy investment portfolio easily _______ fossil fuel indices over five years.
+>
+> - **Root Word:** `[PERFORM]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `outperformed`
-
 - **Categoría Requerida:** Verbo transitivo en pasado de rendimiento superior (de `PERFORM`)
 - **Morfología Aplicada:** Prefijo 'out-' + raíz 'perform' + desinencia '-ed'
 - **Regla y Justificación:** Verbo transitivo en pasado; denota superar en rendimiento o productividad a un competidor.
@@ -1302,16 +1302,16 @@ The renewable energy investment portfolio easily _______ fossil fuel indices ove
 
 ---
 
-### Test 622 — Counterproductive #flashcards/cambridge/part3
+### Test 622
 
-Imposing draconian curfews proved entirely _______, sparking widespread riots in the capital.
-**Root Word:** `[PRODUCTIVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Imposing draconian curfews proved entirely _______, sparking widespread riots in the capital.
+>
+> - **Root Word:** `[PRODUCTIVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `counterproductive`
-
 - **Categoría Requerida:** Adjetivo peyorativo de efecto adverso (de `PRODUCTIVE`)
 - **Morfología Aplicada:** Prefijo de oposición 'counter-' + raíz 'productive'
 - **Regla y Justificación:** Atributo tras 'proved entirely'; significa que produce un resultado opuesto al deseado.
@@ -1320,16 +1320,16 @@ Imposing draconian curfews proved entirely _______, sparking widespread riots in
 
 ---
 
-### Test 623 — Counteracted #flashcards/cambridge/part3
+### Test 623
 
-The antidote rapidly _______ the neurotoxic effects of the viper's venom.
-**Root Word:** `[ACT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The antidote rapidly _______ the neurotoxic effects of the viper's venom.
+>
+> - **Root Word:** `[ACT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `counteracted`
-
 - **Categoría Requerida:** Verbo transitivo en pasado de neutralización (de `ACT`)
 - **Morfología Aplicada:** Prefijo 'counter-' + raíz 'act' + desinencia '-ed'
 - **Regla y Justificación:** Verbo transitivo en pasado; significa neutralizar o actuar en sentido opuesto anulando el efecto.
@@ -1338,16 +1338,16 @@ The antidote rapidly _______ the neurotoxic effects of the viper's venom.
 
 ---
 
-### Test 624 — Counterbalance #flashcards/cambridge/part3
+### Test 624
 
-Progressive income taxation is designed to _______ the regressive burden of consumption taxes.
-**Root Word:** `[BALANCE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Progressive income taxation is designed to _______ the regressive burden of consumption taxes.
+>
+> - **Root Word:** `[BALANCE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `counterbalance`
-
 - **Categoría Requerida:** Verbo infinitivo de compensación equilibrada (de `BALANCE`)
 - **Morfología Aplicada:** Prefijo 'counter-' + raíz 'balance'
 - **Regla y Justificación:** Sigue a 'is designed to'; significa actuar como contrapeso compensador de una fuerza opuesta.
@@ -1356,16 +1356,16 @@ Progressive income taxation is designed to _______ the regressive burden of cons
 
 ---
 
-### Test 625 — Counterpart #flashcards/cambridge/part3
+### Test 625
 
-The British foreign secretary held private bilateral talks with his German _______ in Berlin.
-**Root Word:** `[PART]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The British foreign secretary held private bilateral talks with his German _______ in Berlin.
+>
+> - **Root Word:** `[PART]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `counterpart`
-
 - **Categoría Requerida:** Sustantivo singular de cargo homólogo (de `PART`)
 - **Morfología Aplicada:** Prefijo 'counter-' + raíz 'part'
 - **Regla y Justificación:** Sigue al determinante posesivo 'his German'; denota la persona que ostenta un cargo equivalente en otro país.

@@ -21,17 +21,20 @@ total_tests: 75
 
 ---
 
-### Test 101 — Ensure vs Insure vs Assure #flashcards/cambridge/part1
+### Test 101
 
-The lead architect scheduled an emergency review to ______ that the database failover mechanism worked flawlessly.
-
-- **A)** insure
-- **B)** ensure
-- **C)** assure
-- **D)** reassure
+> [!question] Multiple Choice Cloze
+> The lead architect scheduled an emergency review to ______ that the database failover mechanism worked flawlessly.
+>
+> - **A)** insure
+> - **B)** ensure
+> - **C)** assure
+> - **D)** reassure
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) ensure**
-
+- **Enfoque:** Ensure vs Insure vs Assure
 - **Colocación / Regla:** Confusing Verbs: Ensure vs Insure vs Assure
 - **Estructura Sintáctica:** `to ensure that + clause (garantizar / cerciorarse de)`
 - **Razón Explicativa:** Ensure significa hacer que algo sea seguro o garantizar un resultado. Insure se refiere a contratar pólizas de seguro financiero, y assure implica dar tranquilidad verbal a una persona (assure someone that).
@@ -43,17 +46,20 @@ The lead architect scheduled an emergency review to ______ that the database fai
 
 ---
 
-### Test 102 — Comprehend vs Apprehend #flashcards/cambridge/part1
+### Test 102
 
-The error stack trace was so convoluted that none of the junior developers could ______ its root cause.
-
-- **A)** apprehend
-- **B)** comprehend
-- **C)** capture
-- **D)** arrest
+> [!question] Multiple Choice Cloze
+> The error stack trace was so convoluted that none of the junior developers could ______ its root cause.
+>
+> - **A)** apprehend
+> - **B)** comprehend
+> - **C)** capture
+> - **D)** arrest
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) comprehend**
-
+- **Enfoque:** Comprehend vs Apprehend
 - **Colocación / Regla:** Cognitive Verbs: Comprehend vs Apprehend
 - **Estructura Sintáctica:** `to comprehend = to understand thoroughly`
 - **Razón Explicativa:** Comprehend significa entender o abarcar intelectualmente algo complejo. Apprehend significa arrestar a un sospechoso o percibir con aprensión.
@@ -65,17 +71,20 @@ The error stack trace was so convoluted that none of the junior developers could
 
 ---
 
-### Test 103 — Imply vs Infer #flashcards/cambridge/part1
+### Test 103
 
-The auditor's report seemed to ______ that our cryptographic keys had been compromised, though it did not state it explicitly.
-
-- **A)** infer
-- **B)** imply
-- **C)** deduce
-- **D)** conclude
+> [!question] Multiple Choice Cloze
+> The auditor's report seemed to ______ that our cryptographic keys had been compromised, though it did not state it explicitly.
+>
+> - **A)** infer
+> - **B)** imply
+> - **C)** deduce
+> - **D)** conclude
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) imply**
-
+- **Enfoque:** Imply vs Infer
 - **Colocación / Regla:** Communication vs Deduction: Imply vs Infer
 - **Estructura Sintáctica:** `the speaker/report implies -> the listener/reader infers`
 - **Razón Explicativa:** El emisor o documento 'imply' (insinúa, da a entender de forma implícita). El receptor 'infers' (deduce o saca la conclusión). Al ser el sujeto el informe, el verbo correcto es imply.
@@ -87,17 +96,20 @@ The auditor's report seemed to ______ that our cryptographic keys had been compr
 
 ---
 
-### Test 104 — Elusive vs Illusive #flashcards/cambridge/part1
+### Test 104
 
-Isolating the intermittent race condition proved extraordinarily ______, as it only occurred under rare thread scheduling states.
-
-- **A)** illusive
-- **B)** elusive
-- **C)** delusive
-- **D)** allusive
+> [!question] Multiple Choice Cloze
+> Isolating the intermittent race condition proved extraordinarily ______, as it only occurred under rare thread scheduling states.
+>
+> - **A)** illusive
+> - **B)** elusive
+> - **C)** delusive
+> - **D)** allusive
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) elusive**
-
+- **Enfoque:** Elusive vs Illusive
 - **Colocación / Regla:** Adjectives of Evasion: Elusive vs Illusive
 - **Estructura Sintáctica:** `elusive = difficult to find, catch, or achieve`
 - **Razón Explicativa:** Elusive describe algo difícil de capturar, aislar o recordar. Illusive significa ilusorio, engañoso o basado en una ilusión óptica.
@@ -109,17 +121,20 @@ Isolating the intermittent race condition proved extraordinarily ______, as it o
 
 ---
 
-### Test 105 — Perspective vs Prospective #flashcards/cambridge/part1
+### Test 105
 
-From an architectural ______, adopting microservices requires substantial initial investment in container orchestration.
-
-- **A)** prospective
-- **B)** perspective
-- **C)** perception
-- **D)** spectacle
+> [!question] Multiple Choice Cloze
+> From an architectural ______, adopting microservices requires substantial initial investment in container orchestration.
+>
+> - **A)** prospective
+> - **B)** perspective
+> - **C)** perception
+> - **D)** spectacle
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) perspective**
-
+- **Enfoque:** Perspective vs Prospective
 - **Colocación / Regla:** Confusing Nouns: Perspective vs Prospective
 - **Estructura Sintáctica:** `from an architectural perspective (desde un punto de vista)`
 - **Razón Explicativa:** Perspective es el punto de vista o ángulo de análisis. Prospective es un adjetivo que significa 'futuro / potencial' (prospective client).
@@ -131,17 +146,20 @@ From an architectural ______, adopting microservices requires substantial initia
 
 ---
 
-### Test 106 — Principal vs Principle #flashcards/cambridge/part1
+### Test 106
 
-The ______ reason for our migration to PostgreSQL was its unmatched support for JSONB indexing.
-
-- **A)** principle
-- **B)** principal
-- **C)** principality
-- **D)** primitive
+> [!question] Multiple Choice Cloze
+> The ______ reason for our migration to PostgreSQL was its unmatched support for JSONB indexing.
+>
+> - **A)** principle
+> - **B)** principal
+> - **C)** principality
+> - **D)** primitive
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) principal**
-
+- **Enfoque:** Principal vs Principle
 - **Colocación / Regla:** Homophones: Principal vs Principle
 - **Estructura Sintáctica:** `principal (adj) = main / most important; principle (n) = fundamental rule`
 - **Razón Explicativa:** Principal como adjetivo significa 'principal / más importante'. Principle es un sustantivo que significa 'principio / valor ético o regla fundamental'.
@@ -153,17 +171,20 @@ The ______ reason for our migration to PostgreSQL was its unmatched support for 
 
 ---
 
-### Test 107 — Eminent vs Imminent #flashcards/cambridge/part1
+### Test 107
 
-The site reliability engineer warned that a critical cluster memory crash was ______ unless we throttled incoming requests.
-
-- **A)** eminent
-- **B)** imminent
-- **C)** prominent
-- **D)** immanent
+> [!question] Multiple Choice Cloze
+> The site reliability engineer warned that a critical cluster memory crash was ______ unless we throttled incoming requests.
+>
+> - **A)** eminent
+> - **B)** imminent
+> - **C)** prominent
+> - **D)** immanent
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) imminent**
-
+- **Enfoque:** Eminent vs Imminent
 - **Colocación / Regla:** Temporal vs Status Adjectives: Eminent vs Imminent
 - **Estructura Sintáctica:** `imminent = about to happen very soon`
 - **Razón Explicativa:** Imminent significa inminente, que está a punto de ocurrir de inmediato. Eminent significa eminente, ilustre o destacado en una profesión.
@@ -175,17 +196,20 @@ The site reliability engineer warned that a critical cluster memory crash was __
 
 ---
 
-### Test 108 — Discreet vs Discrete #flashcards/cambridge/part1
+### Test 108
 
-The microservice architecture divides the monolithic application into several ______ and loosely coupled bounded contexts.
-
-- **A)** discreet
-- **B)** discrete
-- **C)** concrete
-- **D)** secret
+> [!question] Multiple Choice Cloze
+> The microservice architecture divides the monolithic application into several ______ and loosely coupled bounded contexts.
+>
+> - **A)** discreet
+> - **B)** discrete
+> - **C)** concrete
+> - **D)** secret
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) discrete**
-
+- **Enfoque:** Discreet vs Discrete
 - **Colocación / Regla:** Homophones: Discreet vs Discrete
 - **Estructura Sintáctica:** `discrete = separate, distinct, individual`
 - **Razón Explicativa:** Discrete (con dos 'e' separadas por una 't') significa discreto en sentido matemático: 'separado, individual, diferenciado'. Discreet (con 'ee' juntas) significa discreto en sentido social: prudente y reservado.
@@ -197,17 +221,20 @@ The microservice architecture divides the monolithic application into several __
 
 ---
 
-### Test 109 — Compliment vs Complement #flashcards/cambridge/part1
+### Test 109
 
-The fast in-memory Redis cache serves as the perfect ______ to our durable transactional relational database.
-
-- **A)** compliment
-- **B)** complement
-- **C)** compliance
-- **D)** completion
+> [!question] Multiple Choice Cloze
+> The fast in-memory Redis cache serves as the perfect ______ to our durable transactional relational database.
+>
+> - **A)** compliment
+> - **B)** complement
+> - **C)** compliance
+> - **D)** completion
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) complement**
-
+- **Enfoque:** Compliment vs Complement
 - **Colocación / Regla:** Homophones: Compliment vs Complement
 - **Estructura Sintáctica:** `complement = something that completes or brings to perfection`
 - **Razón Explicativa:** Complement significa complemento o elemento que encaja a la perfección mejorando el conjunto. Compliment significa cumplido, piropo o elogio.
@@ -219,17 +246,20 @@ The fast in-memory Redis cache serves as the perfect ______ to our durable trans
 
 ---
 
-### Test 110 — Stationary vs Stationery #flashcards/cambridge/part1
+### Test 110
 
-Traffic through the network gateway remained virtually ______ throughout the scheduled maintenance outage.
-
-- **A)** stationery
-- **B)** stationary
-- **C)** statician
-- **D)** station
+> [!question] Multiple Choice Cloze
+> Traffic through the network gateway remained virtually ______ throughout the scheduled maintenance outage.
+>
+> - **A)** stationery
+> - **B)** stationary
+> - **C)** statician
+> - **D)** station
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) stationary**
-
+- **Enfoque:** Stationary vs Stationery
 - **Colocación / Regla:** Homophones: Stationary vs Stationery
 - **Estructura Sintáctica:** `stationary = not moving / staying in one place`
 - **Razón Explicativa:** Stationary (con 'a') significa inmóvil, estático. Stationery (con 'e', como pen/envelope) significa material de papelería.
@@ -241,17 +271,20 @@ Traffic through the network gateway remained virtually ______ throughout the sch
 
 ---
 
-### Test 111 — Affect vs Effect #flashcards/cambridge/part1
+### Test 111
 
-Uncontrolled memory leaks will negatively ______ overall throughput and increase cloud hosting costs.
-
-- **A)** effect
-- **B)** affect
-- **C)** afflict
-- **D)** infect
+> [!question] Multiple Choice Cloze
+> Uncontrolled memory leaks will negatively ______ overall throughput and increase cloud hosting costs.
+>
+> - **A)** effect
+> - **B)** affect
+> - **C)** afflict
+> - **D)** infect
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) affect**
-
+- **Enfoque:** Affect vs Effect
 - **Colocación / Regla:** Verb vs Noun: Affect vs Effect
 - **Estructura Sintáctica:** `affect (v) = influence; effect (n) = result`
 - **Razón Explicativa:** Affect es casi siempre verbo (influir, perjudicar). Effect es casi siempre sustantivo (efecto, resultado). Tras el modal will se requiere un verbo infinitivo.
@@ -263,17 +296,20 @@ Uncontrolled memory leaks will negatively ______ overall throughput and increase
 
 ---
 
-### Test 112 — Adapt vs Adopt vs Adept #flashcards/cambridge/part1
+### Test 112
 
-Our agile software engineering team was quick to ______ event-driven architecture when user volume surged.
-
-- **A)** adapt
-- **B)** adopt
-- **C)** adept
-- **D)** adeptly
+> [!question] Multiple Choice Cloze
+> Our agile software engineering team was quick to ______ event-driven architecture when user volume surged.
+>
+> - **A)** adapt
+> - **B)** adopt
+> - **C)** adept
+> - **D)** adeptly
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adopt**
-
+- **Enfoque:** Adapt vs Adopt vs Adept
 - **Colocación / Regla:** Confusing Roots: Adapt vs Adopt vs Adept
 - **Estructura Sintáctica:** `to adopt an approach / pattern = to take up and practice`
 - **Razón Explicativa:** Adopt significa adoptar una práctica, tecnología o método. Adapt significa adaptarse o amoldarse a un entorno. Adept es un adjetivo que significa experto.
@@ -285,17 +321,20 @@ Our agile software engineering team was quick to ______ event-driven architectur
 
 ---
 
-### Test 113 — Averse vs Adverse #flashcards/cambridge/part1
+### Test 113
 
-Many conservative enterprise clients remain strongly ______ to migrating mission-critical data to public clouds.
-
-- **A)** adverse
-- **B)** averse
-- **C)** reverse
-- **D)** diverse
+> [!question] Multiple Choice Cloze
+> Many conservative enterprise clients remain strongly ______ to migrating mission-critical data to public clouds.
+>
+> - **A)** adverse
+> - **B)** averse
+> - **C)** reverse
+> - **D)** diverse
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) averse**
-
+- **Enfoque:** Averse vs Adverse
 - **Colocación / Regla:** Hostile vs Reluctant: Averse vs Adverse
 - **Estructura Sintáctica:** `averse to (adj) = having a strong dislike or opposition`
 - **Razón Explicativa:** Averse describe a personas reacias o contrarias a algo (averse to doing something). Adverse describe condiciones desfavorables o dañinas (adverse conditions).
@@ -307,17 +346,20 @@ Many conservative enterprise clients remain strongly ______ to migrating mission
 
 ---
 
-### Test 114 — Historic vs Historical #flashcards/cambridge/part1
+### Test 114
 
-The signing of the international artificial intelligence safety treaty was a truly ______ milestone for the industry.
-
-- **A)** historical
-- **B)** historic
-- **C)** historian
-- **D)** historically
+> [!question] Multiple Choice Cloze
+> The signing of the international artificial intelligence safety treaty was a truly ______ milestone for the industry.
+>
+> - **A)** historical
+> - **B)** historic
+> - **C)** historian
+> - **D)** historically
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) historic**
-
+- **Enfoque:** Historic vs Historical
 - **Colocación / Regla:** Historic vs Historical
 - **Estructura Sintáctica:** `historic = famous or important in history; historical = concerning history`
 - **Razón Explicativa:** Historic califica un acontecimiento de gran trascendencia histórica trascendental. Historical califica cualquier cosa perteneciente al pasado (historical documents).
@@ -329,17 +371,20 @@ The signing of the international artificial intelligence safety treaty was a tru
 
 ---
 
-### Test 115 — Economic vs Economical #flashcards/cambridge/part1
+### Test 115
 
-Using serverless functions for sporadic background jobs is far more ______ than running an idle dedicated cluster 24/7.
-
-- **A)** economic
-- **B)** economical
-- **C)** economics
-- **D)** economy
+> [!question] Multiple Choice Cloze
+> Using serverless functions for sporadic background jobs is far more ______ than running an idle dedicated cluster 24/7.
+>
+> - **A)** economic
+> - **B)** economical
+> - **C)** economics
+> - **D)** economy
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) economical**
-
+- **Enfoque:** Economic vs Economical
 - **Colocación / Regla:** Economic vs Economical
 - **Estructura Sintáctica:** `economical = giving good value or return in relation to money, time, or effort spent`
 - **Razón Explicativa:** Economical significa económico en el sentido de que ahorra dinero y no despilfarra. Economic se refiere a la economía como ciencia o macroeconomía nacional.
@@ -351,17 +396,20 @@ Using serverless functions for sporadic background jobs is far more ______ than 
 
 ---
 
-### Test 116 — Sensitive vs Sensible #flashcards/cambridge/part1
+### Test 116
 
-Given the volatility of the staging environment, the most ______ course of action was to delay the release until Monday.
-
-- **A)** sensitive
-- **B)** sensible
-- **C)** sensory
-- **D)** sensational
+> [!question] Multiple Choice Cloze
+> Given the volatility of the staging environment, the most ______ course of action was to delay the release until Monday.
+>
+> - **A)** sensitive
+> - **B)** sensible
+> - **C)** sensory
+> - **D)** sensational
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) sensible**
-
+- **Enfoque:** Sensitive vs Sensible
 - **Colocación / Regla:** False Friends: Sensitive vs Sensible
 - **Estructura Sintáctica:** `sensible = chosen in accordance with wisdom or prudence; sensitive = easily hurt/reactive`
 - **Razón Explicativa:** Sensible en inglés significa 'sensato, prudente, razonable'. Sensitive significa 'sensible, reactivo o susceptible'. Un curso de acción prudente es sensible.
@@ -373,17 +421,20 @@ Given the volatility of the staging environment, the most ______ course of actio
 
 ---
 
-### Test 117 — Continual vs Continuous #flashcards/cambridge/part1
+### Test 117
 
-Our continuous integration server runs ______ end-to-end tests without a single interruption throughout the night.
-
-- **A)** continual
-- **B)** continuous
-- **C)** continuing
-- **D)** continuity
+> [!question] Multiple Choice Cloze
+> Our continuous integration server runs ______ end-to-end tests without a single interruption throughout the night.
+>
+> - **A)** continual
+> - **B)** continuous
+> - **C)** continuing
+> - **D)** continuity
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) continuous**
-
+- **Enfoque:** Continual vs Continuous
 - **Colocación / Regla:** Continual vs Continuous
 - **Estructura Sintáctica:** `continuous = without interruption; continual = frequently repeated with breaks`
 - **Razón Explicativa:** Continuous describe una acción ininterrumpida sin pausas en el tiempo. Continual describe algo que se repite constantemente pero con pequeñas pausas intermedias.
@@ -395,17 +446,20 @@ Our continuous integration server runs ______ end-to-end tests without a single 
 
 ---
 
-### Test 118 — Disinterested vs Uninterested #flashcards/cambridge/part1
+### Test 118
 
-Because the mediator was completely ______ in the financial outcome, both engineering teams trusted her ruling.
-
-- **A)** uninterested
-- **B)** disinterested
-- **C)** interesting
-- **D)** disinterest
+> [!question] Multiple Choice Cloze
+> Because the mediator was completely ______ in the financial outcome, both engineering teams trusted her ruling.
+>
+> - **A)** uninterested
+> - **B)** disinterested
+> - **C)** interesting
+> - **D)** disinterest
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) disinterested**
-
+- **Enfoque:** Disinterested vs Uninterested
 - **Colocación / Regla:** Disinterested vs Uninterested
 - **Estructura Sintáctica:** `disinterested = impartial, unbiased, having no personal stake`
 - **Razón Explicativa:** Disinterested significa imparcial, neutral, sin conflicto de intereses. Uninterested significa aburrido o sin interés.
@@ -417,17 +471,20 @@ Because the mediator was completely ______ in the financial outcome, both engine
 
 ---
 
-### Test 119 — Exhausted vs Exhaustive #flashcards/cambridge/part1
+### Test 119
 
-Before deploying cryptographic changes, the security team conducted an ______ review of all encryption algorithms.
-
-- **A)** exhausted
-- **B)** exhaustive
-- **C)** exhausting
-- **D)** exhaustion
+> [!question] Multiple Choice Cloze
+> Before deploying cryptographic changes, the security team conducted an ______ review of all encryption algorithms.
+>
+> - **A)** exhausted
+> - **B)** exhaustive
+> - **C)** exhausting
+> - **D)** exhaustion
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) exhaustive**
-
+- **Enfoque:** Exhausted vs Exhaustive
 - **Colocación / Regla:** Exhausted vs Exhaustive
 - **Estructura Sintáctica:** `exhaustive = including or considering all elements or aspects; thorough`
 - **Razón Explicativa:** Exhaustive significa exhaustivo, minucioso y completo. Exhausted significa físicamente agotado o gastado.
@@ -439,17 +496,20 @@ Before deploying cryptographic changes, the security team conducted an ______ re
 
 ---
 
-### Test 120 — Valuable vs Invaluable #flashcards/cambridge/part1
+### Test 120
 
-Sarah's deep expertise in Linux kernel diagnostics proved ______ during the catastrophic multi-region blackout.
-
-- **A)** worthless
-- **B)** invaluable
-- **C)** valueless
-- **D)** pricing
+> [!question] Multiple Choice Cloze
+> Sarah's deep expertise in Linux kernel diagnostics proved ______ during the catastrophic multi-region blackout.
+>
+> - **A)** worthless
+> - **B)** invaluable
+> - **C)** valueless
+> - **D)** pricing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) invaluable**
-
+- **Enfoque:** Valuable vs Invaluable
 - **Colocación / Regla:** Invaluable (Priceless)
 - **Estructura Sintáctica:** `invaluable = extremely useful; indispensable (beyond price)`
 - **Razón Explicativa:** Invaluable significa de valor incalculable, imprescindible (de tan valioso que no tiene precio). Worthless y valueless significan sin valor alguno.
@@ -461,17 +521,20 @@ Sarah's deep expertise in Linux kernel diagnostics proved ______ during the cata
 
 ---
 
-### Test 121 — Childish vs Childlike #flashcards/cambridge/part1
+### Test 121
 
-Her ______ curiosity about low-level hardware architectures enabled her to learn assembly programming effortlessly.
-
-- **A)** childish
-- **B)** childlike
-- **C)** childhood
-- **D)** childless
+> [!question] Multiple Choice Cloze
+> Her ______ curiosity about low-level hardware architectures enabled her to learn assembly programming effortlessly.
+>
+> - **A)** childish
+> - **B)** childlike
+> - **C)** childhood
+> - **D)** childless
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) childlike**
-
+- **Enfoque:** Childish vs Childlike
 - **Colocación / Regla:** Childish vs Childlike
 - **Estructura Sintáctica:** `childlike = innocent, pure, trusting (positive); childish = immature (derogatory)`
 - **Razón Explicativa:** Childlike tiene una connotación positiva y pura: curiosidad infantil fresca e inocente. Childish es despectivo y significa inmaduro o infantil en el mal sentido.
@@ -483,17 +546,20 @@ Her ______ curiosity about low-level hardware architectures enabled her to learn
 
 ---
 
-### Test 122 — Confident vs Confidential #flashcards/cambridge/part1
+### Test 122
 
-All patient medical telemetry stored in the database is strictly ______ and encrypted at rest using AES-256.
-
-- **A)** confident
-- **B)** confidential
-- **C)** confidence
-- **D)** confiding
+> [!question] Multiple Choice Cloze
+> All patient medical telemetry stored in the database is strictly ______ and encrypted at rest using AES-256.
+>
+> - **A)** confident
+> - **B)** confidential
+> - **C)** confidence
+> - **D)** confiding
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) confidential**
-
+- **Enfoque:** Confident vs Confidential
 - **Colocación / Regla:** Confident vs Confidential
 - **Estructura Sintáctica:** `confidential = intended to be kept secret`
 - **Razón Explicativa:** Confidential significa confidencial, secreto. Confident significa seguro de sí mismo o confiado.
@@ -505,17 +571,20 @@ All patient medical telemetry stored in the database is strictly ______ and encr
 
 ---
 
-### Test 123 — Alternate vs Alternative #flashcards/cambridge/part1
+### Test 123
 
-Because the primary network gateway timed out, traffic was automatically routed via an ______ transatlantic fiber line.
-
-- **A)** alternate
-- **B)** alternative
-- **C)** alternating
-- **D)** alternation
+> [!question] Multiple Choice Cloze
+> Because the primary network gateway timed out, traffic was automatically routed via an ______ transatlantic fiber line.
+>
+> - **A)** alternate
+> - **B)** alternative
+> - **C)** alternating
+> - **D)** alternation
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) alternative**
-
+- **Enfoque:** Alternate vs Alternative
 - **Colocación / Regla:** Alternate vs Alternative
 - **Estructura Sintáctica:** `alternative = available as another possibility or choice`
 - **Razón Explicativa:** Alternative significa alternativo, una segunda opción disponible. Alternate describe algo que ocurre cada dos días o por turnos sucesivos (alternate days).
@@ -527,17 +596,20 @@ Because the primary network gateway timed out, traffic was automatically routed 
 
 ---
 
-### Test 124 — Defuse vs Diffuse #flashcards/cambridge/part1
+### Test 124
 
-The engineering manager intervened swiftly to ______ growing tensions between product and QA teams.
-
-- **A)** diffuse
-- **B)** defuse
-- **C)** refuse
-- **D)** confuse
+> [!question] Multiple Choice Cloze
+> The engineering manager intervened swiftly to ______ growing tensions between product and QA teams.
+>
+> - **A)** diffuse
+> - **B)** defuse
+> - **C)** refuse
+> - **D)** confuse
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) defuse**
-
+- **Enfoque:** Defuse vs Diffuse
 - **Colocación / Regla:** Defuse vs Diffuse
 - **Estructura Sintáctica:** `defuse = deactivate a bomb / reduce tension; diffuse = spread over a wide area`
 - **Razón Explicativa:** Defuse significa desactivar una bomba o apaciguar tensiones y crisis. Diffuse significa difundir o esparcir ampliamente calor, luz o partículas.
@@ -549,17 +621,20 @@ The engineering manager intervened swiftly to ______ growing tensions between pr
 
 ---
 
-### Test 125 — Council vs Counsel #flashcards/cambridge/part1
+### Test 125
 
-Before making structural changes to our data retention policy, we sought formal legal ______ from corporate attorneys.
-
-- **A)** council
-- **B)** counsel
-- **C)** counselor
-- **D)** councilor
+> [!question] Multiple Choice Cloze
+> Before making structural changes to our data retention policy, we sought formal legal ______ from corporate attorneys.
+>
+> - **A)** council
+> - **B)** counsel
+> - **C)** counselor
+> - **D)** councilor
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) counsel**
-
+- **Enfoque:** Council vs Counsel
 - **Colocación / Regla:** Council vs Counsel
 - **Estructura Sintáctica:** `counsel = advice, especially that given formally; legal advice`
 - **Razón Explicativa:** Counsel significa asesoramiento legal formal o abogado litigante. Council es un concejo, ayuntamiento o junta administrativa.
@@ -571,17 +646,20 @@ Before making structural changes to our data retention policy, we sought formal 
 
 ---
 
-### Test 126 — Elicit vs Illicit #flashcards/cambridge/part1
+### Test 126
 
-The retrospective meeting was designed to ______ candid feedback from all developers regarding sprint pain points.
-
-- **A)** illicit
-- **B)** elicit
-- **C)** solicitous
-- **D)** explicit
+> [!question] Multiple Choice Cloze
+> The retrospective meeting was designed to ______ candid feedback from all developers regarding sprint pain points.
+>
+> - **A)** illicit
+> - **B)** elicit
+> - **C)** solicitous
+> - **D)** explicit
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) elicit**
-
+- **Enfoque:** Elicit vs Illicit
 - **Colocación / Regla:** Elicit vs Illicit
 - **Estructura Sintáctica:** `elicit = evoke or draw out a reaction/feedback; illicit = illegal`
 - **Razón Explicativa:** Elicit es un verbo que significa suscitar, sonsacar o extraer información o respuestas. Illicit es un adjetivo que significa ilegal o ilícito.
@@ -593,17 +671,20 @@ The retrospective meeting was designed to ______ candid feedback from all develo
 
 ---
 
-### Test 127 — Flair vs Flare #flashcards/cambridge/part1
+### Test 127
 
-The frontend designer had a distinctive ______ for creating clean, accessible, and intuitive user interfaces.
-
-- **A)** flare
-- **B)** flair
-- **C)** flareup
-- **D)** flaring
+> [!question] Multiple Choice Cloze
+> The frontend designer had a distinctive ______ for creating clean, accessible, and intuitive user interfaces.
+>
+> - **A)** flare
+> - **B)** flair
+> - **C)** flareup
+> - **D)** flaring
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) flair**
-
+- **Enfoque:** Flair vs Flare
 - **Colocación / Regla:** Flair vs Flare
 - **Estructura Sintáctica:** `flair = a special or instinctive aptitude or ability for doing something well`
 - **Razón Explicativa:** Flair significa talento natural, don o estilo instintivo especial. Flare significa llamarada, bengala luminosa o erupción súbita.
@@ -615,17 +696,20 @@ The frontend designer had a distinctive ______ for creating clean, accessible, a
 
 ---
 
-### Test 128 — Loose vs Lose #flashcards/cambridge/part1
+### Test 128
 
-Carelessly designed database transactions can cause your application to ______ critical financial state.
-
-- **A)** loose
-- **B)** lose
-- **C)** loosen
-- **D)** loss
+> [!question] Multiple Choice Cloze
+> Carelessly designed database transactions can cause your application to ______ critical financial state.
+>
+> - **A)** loose
+> - **B)** lose
+> - **C)** loosen
+> - **D)** loss
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) lose**
-
+- **Enfoque:** Loose vs Lose
 - **Colocación / Regla:** Loose vs Lose
 - **Estructura Sintáctica:** `lose (v) = be deprived of / cease to have; loose (adj) = not tight`
 - **Razón Explicativa:** Lose es el verbo perder. Loose es un adjetivo que significa flojo, holgado o suelto. Tras el modal cause to se exige el verbo lose.
@@ -637,17 +721,20 @@ Carelessly designed database transactions can cause your application to ______ c
 
 ---
 
-### Test 129 — Pore vs Pour #flashcards/cambridge/part1
+### Test 129
 
-Database administrators had to ______ over gigabytes of server telemetry logs to find the single corrupt transaction.
-
-- **A)** pour
-- **B)** pore
-- **C)** pure
-- **D)** peer
+> [!question] Multiple Choice Cloze
+> Database administrators had to ______ over gigabytes of server telemetry logs to find the single corrupt transaction.
+>
+> - **A)** pour
+> - **B)** pore
+> - **C)** pure
+> - **D)** peer
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) pore**
-
+- **Enfoque:** Pore vs Pour
 - **Colocación / Regla:** Pore over vs Pour
 - **Estructura Sintáctica:** `pore over = study or examine intently and carefully`
 - **Razón Explicativa:** Pore over significa escudriñar o examinar minuciosamente un documento o datos. Pour significa verter líquidos o llover a cántaros.
@@ -659,17 +746,20 @@ Database administrators had to ______ over gigabytes of server telemetry logs to
 
 ---
 
-### Test 130 — Premier vs Premiere #flashcards/cambridge/part1
+### Test 130
 
-PostgreSQL is widely regarded as the ______ relational database engine for mission-critical enterprise systems.
-
-- **A)** premiere
-- **B)** premier
-- **C)** premium
-- **D)** primacy
+> [!question] Multiple Choice Cloze
+> PostgreSQL is widely regarded as the ______ relational database engine for mission-critical enterprise systems.
+>
+> - **A)** premiere
+> - **B)** premier
+> - **C)** premium
+> - **D)** primacy
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) premier**
-
+- **Enfoque:** Premier vs Premiere
 - **Colocación / Regla:** Premier vs Premiere
 - **Estructura Sintáctica:** `premier (adj) = first in importance, order, or position; leading`
 - **Razón Explicativa:** Premier como adjetivo significa líder, principal o de primera fila. Premiere es un sustantivo o verbo que significa el estreno de una obra o película.
@@ -681,17 +771,20 @@ PostgreSQL is widely regarded as the ______ relational database engine for missi
 
 ---
 
-### Test 131 — Abide by #flashcards/cambridge/part1
+### Test 131
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -703,17 +796,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 132 — Adhere to #flashcards/cambridge/part1
+### Test 132
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -725,17 +821,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 133 — Attribute to #flashcards/cambridge/part1
+### Test 133
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -747,17 +846,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 134 — Delve into #flashcards/cambridge/part1
+### Test 134
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -769,17 +871,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 135 — Tamper with #flashcards/cambridge/part1
+### Test 135
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.
@@ -791,17 +896,20 @@ Cryptographic hashes ensure that malicious third parties cannot ______ with soft
 
 ---
 
-### Test 136 — Abide by #flashcards/cambridge/part1
+### Test 136
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -813,17 +921,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 137 — Adhere to #flashcards/cambridge/part1
+### Test 137
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -835,17 +946,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 138 — Attribute to #flashcards/cambridge/part1
+### Test 138
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -857,17 +971,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 139 — Delve into #flashcards/cambridge/part1
+### Test 139
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -879,17 +996,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 140 — Tamper with #flashcards/cambridge/part1
+### Test 140
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.
@@ -901,17 +1021,20 @@ Cryptographic hashes ensure that malicious third parties cannot ______ with soft
 
 ---
 
-### Test 141 — Abide by #flashcards/cambridge/part1
+### Test 141
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -923,17 +1046,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 142 — Adhere to #flashcards/cambridge/part1
+### Test 142
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -945,17 +1071,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 143 — Attribute to #flashcards/cambridge/part1
+### Test 143
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -967,17 +1096,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 144 — Delve into #flashcards/cambridge/part1
+### Test 144
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -989,17 +1121,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 145 — Tamper with #flashcards/cambridge/part1
+### Test 145
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.
@@ -1011,17 +1146,20 @@ Cryptographic hashes ensure that malicious third parties cannot ______ with soft
 
 ---
 
-### Test 146 — Abide by #flashcards/cambridge/part1
+### Test 146
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -1033,17 +1171,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 147 — Adhere to #flashcards/cambridge/part1
+### Test 147
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -1055,17 +1196,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 148 — Attribute to #flashcards/cambridge/part1
+### Test 148
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -1077,17 +1221,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 149 — Delve into #flashcards/cambridge/part1
+### Test 149
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -1099,17 +1246,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 150 — Tamper with #flashcards/cambridge/part1
+### Test 150
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.
@@ -1121,17 +1271,20 @@ Cryptographic hashes ensure that malicious third parties cannot ______ with soft
 
 ---
 
-### Test 151 — Abide by #flashcards/cambridge/part1
+### Test 151
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -1143,17 +1296,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 152 — Adhere to #flashcards/cambridge/part1
+### Test 152
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -1165,17 +1321,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 153 — Attribute to #flashcards/cambridge/part1
+### Test 153
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -1187,17 +1346,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 154 — Delve into #flashcards/cambridge/part1
+### Test 154
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -1209,17 +1371,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 155 — Tamper with #flashcards/cambridge/part1
+### Test 155
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.
@@ -1231,17 +1396,20 @@ Cryptographic hashes ensure that malicious third parties cannot ______ with soft
 
 ---
 
-### Test 156 — Abide by #flashcards/cambridge/part1
+### Test 156
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -1253,17 +1421,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 157 — Adhere to #flashcards/cambridge/part1
+### Test 157
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -1275,17 +1446,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 158 — Attribute to #flashcards/cambridge/part1
+### Test 158
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -1297,17 +1471,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 159 — Delve into #flashcards/cambridge/part1
+### Test 159
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -1319,17 +1496,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 160 — Tamper with #flashcards/cambridge/part1
+### Test 160
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.
@@ -1341,17 +1521,20 @@ Cryptographic hashes ensure that malicious third parties cannot ______ with soft
 
 ---
 
-### Test 161 — Abide by #flashcards/cambridge/part1
+### Test 161
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -1363,17 +1546,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 162 — Adhere to #flashcards/cambridge/part1
+### Test 162
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -1385,17 +1571,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 163 — Attribute to #flashcards/cambridge/part1
+### Test 163
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -1407,17 +1596,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 164 — Delve into #flashcards/cambridge/part1
+### Test 164
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -1429,17 +1621,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 165 — Tamper with #flashcards/cambridge/part1
+### Test 165
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.
@@ -1451,17 +1646,20 @@ Cryptographic hashes ensure that malicious third parties cannot ______ with soft
 
 ---
 
-### Test 166 — Abide by #flashcards/cambridge/part1
+### Test 166
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -1473,17 +1671,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 167 — Adhere to #flashcards/cambridge/part1
+### Test 167
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -1495,17 +1696,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 168 — Attribute to #flashcards/cambridge/part1
+### Test 168
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -1517,17 +1721,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 169 — Delve into #flashcards/cambridge/part1
+### Test 169
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -1539,17 +1746,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 170 — Tamper with #flashcards/cambridge/part1
+### Test 170
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.
@@ -1561,17 +1771,20 @@ Cryptographic hashes ensure that malicious third parties cannot ______ with soft
 
 ---
 
-### Test 171 — Abide by #flashcards/cambridge/part1
+### Test 171
 
-Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
-
-- **A)** adhere
-- **B)** abide
-- **C)** comply
-- **D)** conform
+> [!question] Multiple Choice Cloze
+> Software teams deploying healthcare apps must strictly ______ by international patient data privacy standards.
+>
+> - **A)** adhere
+> - **B)** abide
+> - **C)** comply
+> - **D)** conform
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) abide**
-
+- **Enfoque:** Abide by
 - **Colocación / Regla:** Prepositional Collocation: Abide by
 - **Estructura Sintáctica:** `to abide by = to obey a rule`
 - **Razón Explicativa:** Abide rige estrictamente la preposición by. Adhere toma to, comply toma with, y conform toma to.
@@ -1583,17 +1796,20 @@ Software teams deploying healthcare apps must strictly ______ by international p
 
 ---
 
-### Test 172 — Adhere to #flashcards/cambridge/part1
+### Test 172
 
-Senior developers are expected to rigorously ______ to established internal coding conventions.
-
-- **A)** abide
-- **B)** adhere
-- **C)** comply
-- **D)** follow
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to rigorously ______ to established internal coding conventions.
+>
+> - **A)** abide
+> - **B)** adhere
+> - **C)** comply
+> - **D)** follow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) adhere**
-
+- **Enfoque:** Adhere to
 - **Colocación / Regla:** Prepositional Collocation: Adhere to
 - **Estructura Sintáctica:** `to adhere to = to follow rules strictly`
 - **Razón Explicativa:** Adhere rige la preposición to cuando significa ceñirse o respetar normas.
@@ -1605,17 +1821,20 @@ Senior developers are expected to rigorously ______ to established internal codi
 
 ---
 
-### Test 173 — Attribute to #flashcards/cambridge/part1
+### Test 173
 
-The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
-
-- **A)** contributed
-- **B)** attributed
-- **C)** distributed
-- **D)** blamed
+> [!question] Multiple Choice Cloze
+> The site reliability squad ______ the catastrophic outage to an unindexed query flooding the database.
+>
+> - **A)** contributed
+> - **B)** attributed
+> - **C)** distributed
+> - **D)** blamed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) attributed**
-
+- **Enfoque:** Attribute to
 - **Colocación / Regla:** Prepositional Collocation: Attribute to
 - **Estructura Sintáctica:** `to attribute X to Y`
 - **Razón Explicativa:** Attribute X to Y significa atribuir un fallo o resultado a una causa concreta.
@@ -1627,17 +1846,20 @@ The site reliability squad ______ the catastrophic outage to an unindexed query 
 
 ---
 
-### Test 174 — Delve into #flashcards/cambridge/part1
+### Test 174
 
-Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
-
-- **A)** dive
-- **B)** delve
-- **C)** dig
-- **D)** drill
+> [!question] Multiple Choice Cloze
+> Security auditors had to ______ into hundreds of legacy assembly files to find the embedded backdoor.
+>
+> - **A)** dive
+> - **B)** delve
+> - **C)** dig
+> - **D)** drill
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) delve**
-
+- **Enfoque:** Delve into
 - **Colocación / Regla:** Prepositional Collocation: Delve into
 - **Estructura Sintáctica:** `to delve into = to investigate thoroughly`
 - **Razón Explicativa:** Delve into es la colocación fija que significa investigar o profundizar minuciosamente en datos o documentos.
@@ -1649,17 +1871,20 @@ Security auditors had to ______ into hundreds of legacy assembly files to find t
 
 ---
 
-### Test 175 — Tamper with #flashcards/cambridge/part1
+### Test 175
 
-Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
-
-- **A)** alter
-- **B)** tamper
-- **C)** fiddle
-- **D)** tinker
+> [!question] Multiple Choice Cloze
+> Cryptographic hashes ensure that malicious third parties cannot ______ with software binary payloads in transit.
+>
+> - **A)** alter
+> - **B)** tamper
+> - **C)** fiddle
+> - **D)** tinker
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tamper**
-
+- **Enfoque:** Tamper with
 - **Colocación / Regla:** Prepositional Collocation: Tamper with
 - **Estructura Sintáctica:** `to tamper with = to interfere with maliciously`
 - **Razón Explicativa:** Tamper with significa manipular o alterar de forma no autorizada o maliciosa un archivo o sistema.

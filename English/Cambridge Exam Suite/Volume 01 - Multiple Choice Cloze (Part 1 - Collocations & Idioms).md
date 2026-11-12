@@ -21,17 +21,20 @@ total_tests: 50
 
 ---
 
-### Test 001 — Make vs Do: High-Stakes Decision #flashcards/cambridge/part1
+### Test 001
 
-Under extreme pressure from the stakeholders, the architect had to ______ an important decision regarding system redundancy.
-
-- **A)** do
-- **B)** make
-- **C)** take
-- **D)** form
+> [!question] Multiple Choice Cloze
+> Under extreme pressure from the stakeholders, the architect had to ______ an important decision regarding system redundancy.
+>
+> - **A)** do
+> - **B)** make
+> - **C)** take
+> - **D)** form
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) make**
-
+- **Enfoque:** Make vs Do: High-Stakes Decision
 - **Colocación / Regla:** Colocación Fija Verbo + Sustantivo: *make a decision*
 - **Estructura Sintáctica:** `to make a decision (NOT *do a decision*)`
 - **Razón Explicativa:** En inglés británico formal (estándar Cambridge), el verbo canónico para tomar decisiones es *make*. *Make a decision* denota el acto deliberativo de elegir entre alternativas.
@@ -43,17 +46,20 @@ Under extreme pressure from the stakeholders, the architect had to ______ an imp
 
 ---
 
-### Test 002 — Collocations: Bearing in Mind #flashcards/cambridge/part1
+### Test 002
 
-When architecting distributed microservices, engineers must ______ in mind that network latency is never zero.
-
-- **A)** keep
-- **B)** bear
-- **C)** hold
-- **D)** carry
+> [!question] Multiple Choice Cloze
+> When architecting distributed microservices, engineers must ______ in mind that network latency is never zero.
+>
+> - **A)** keep
+> - **B)** bear
+> - **C)** hold
+> - **D)** carry
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) bear**
-
+- **Enfoque:** Collocations: Bearing in Mind
 - **Colocación / Regla:** Expresión Idiomática / Colocación Fija: *bear in mind*
 - **Estructura Sintáctica:** `to bear something in mind / bear in mind that...`
 - **Razón Explicativa:** *Bear in mind* es una fórmula idiomática formal que significa recordar o tomar en consideración un factor crucial al evaluar algo. Aunque *keep in mind* existe en el habla diaria, *bear in mind* es la colocación C1 más exigida en Cambridge.
@@ -65,17 +71,20 @@ When architecting distributed microservices, engineers must ______ in mind that 
 
 ---
 
-### Test 003 — Collocations: Taking Advantage #flashcards/cambridge/part1
+### Test 003
 
-The development team decided to ______ full advantage of the cloud provider's auto-scaling capabilities during Black Friday.
-
-- **A)** make
-- **B)** take
-- **C)** gain
-- **D)** have
+> [!question] Multiple Choice Cloze
+> The development team decided to ______ full advantage of the cloud provider's auto-scaling capabilities during Black Friday.
+>
+> - **A)** make
+> - **B)** take
+> - **C)** gain
+> - **D)** have
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) take**
-
+- **Enfoque:** Collocations: Taking Advantage
 - **Colocación / Regla:** Colocación Fija Verbo + Sustantivo: *take advantage of*
 - **Estructura Sintáctica:** `to take advantage of + noun / gerund`
 - **Razón Explicativa:** La colocación exacta e invariable para 'aprovecharse de' o 'sacar partido de' algo positivo es *take advantage of*.
@@ -87,17 +96,20 @@ The development team decided to ______ full advantage of the cloud provider's au
 
 ---
 
-### Test 004 — Collocations: Paying Attention #flashcards/cambridge/part1
+### Test 004
 
-Junior developers should ______ close attention to thread safety when writing concurrent code.
-
-- **A)** pay
-- **B)** give
-- **C)** draw
-- **D)** lend
+> [!question] Multiple Choice Cloze
+> Junior developers should ______ close attention to thread safety when writing concurrent code.
+>
+> - **A)** pay
+> - **B)** give
+> - **C)** draw
+> - **D)** lend
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: A) pay**
-
+- **Enfoque:** Collocations: Paying Attention
 - **Colocación / Regla:** Colocación Fija Verbo + Preposición: *pay attention to*
 - **Estructura Sintáctica:** `to pay (close) attention to + noun / gerund`
 - **Razón Explicativa:** *Pay attention to* es la colocación obligatoria en inglés para 'prestar atención'. La preposición dependiente *to* tras el objeto lo ratifica.
@@ -109,17 +121,20 @@ Junior developers should ______ close attention to thread safety when writing co
 
 ---
 
-### Test 005 — Collocations: Taking for Granted #flashcards/cambridge/part1
+### Test 005
 
-Many junior programmers take it for ______ that memory management is completely handled by the runtime engine.
-
-- **A)** sure
-- **B)** granted
-- **C)** certain
-- **D)** given
+> [!question] Multiple Choice Cloze
+> Many junior programmers take it for ______ that memory management is completely handled by the runtime engine.
+>
+> - **A)** sure
+> - **B)** granted
+> - **C)** certain
+> - **D)** given
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) granted**
-
+- **Enfoque:** Collocations: Taking for Granted
 - **Colocación / Regla:** Modismo Fijo B2/C1: *take something for granted*
 - **Estructura Sintáctica:** `to take it for granted that...`
 - **Razón Explicativa:** *Take for granted* significa dar algo por sentado, asumir que algo existe o funciona sin valorarlo o cuestionarlo.
@@ -131,17 +146,20 @@ Many junior programmers take it for ______ that memory management is completely 
 
 ---
 
-### Test 006 — Collocations: Drawing Attention #flashcards/cambridge/part1
+### Test 006
 
-The security audit was instrumental in ______ attention to critical vulnerabilities in the legacy authentication service.
-
-- **A)** paying
-- **B)** giving
-- **C)** drawing
-- **D)** pulling
+> [!question] Multiple Choice Cloze
+> The security audit was instrumental in ______ attention to critical vulnerabilities in the legacy authentication service.
+>
+> - **A)** paying
+> - **B)** giving
+> - **C)** drawing
+> - **D)** pulling
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) drawing**
-
+- **Enfoque:** Collocations: Drawing Attention
 - **Colocación / Regla:** Colocación Transitiva: *draw attention to*
 - **Estructura Sintáctica:** `to draw (someone's) attention to + noun`
 - **Razón Explicativa:** *Draw attention to* significa hacer que la gente se fije en algo, resaltar o señalar un hecho relevante. Es el opuesto funcional de *pay attention*.
@@ -153,17 +171,20 @@ The security audit was instrumental in ______ attention to critical vulnerabilit
 
 ---
 
-### Test 007 — Collocations: Catching Sight of #flashcards/cambridge/part1
+### Test 007
 
-The researcher finally ______ sight of the rare Siberian leopard after weeks of tracking in the sub-zero mountains.
-
-- **A)** caught
-- **B)** took
-- **C)** held
-- **D)** got
+> [!question] Multiple Choice Cloze
+> The researcher finally ______ sight of the rare Siberian leopard after weeks of tracking in the sub-zero mountains.
+>
+> - **A)** caught
+> - **B)** took
+> - **C)** held
+> - **D)** got
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: A) caught**
-
+- **Enfoque:** Collocations: Catching Sight of
 - **Colocación / Regla:** Colocación Idiomática de Percepción: *catch sight of*
 - **Estructura Sintáctica:** `to catch sight of + noun (divisar brevemente)`
 - **Razón Explicativa:** *Catch sight of* significa vislumbrar o alcanzar a ver algo repentinamente por un instante.
@@ -175,17 +196,20 @@ The researcher finally ______ sight of the rare Siberian leopard after weeks of 
 
 ---
 
-### Test 008 — Collocations: Meeting Deadlines #flashcards/cambridge/part1
+### Test 008
 
-Unless we refactor this module immediately, we run the risk of failing to ______ the delivery deadline.
-
-- **A)** reach
-- **B)** meet
-- **C)** hit
-- **D)** achieve
+> [!question] Multiple Choice Cloze
+> Unless we refactor this module immediately, we run the risk of failing to ______ the delivery deadline.
+>
+> - **A)** reach
+> - **B)** meet
+> - **C)** hit
+> - **D)** achieve
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) meet**
-
+- **Enfoque:** Collocations: Meeting Deadlines
 - **Colocación / Regla:** Colocación Profesional de Gestión: *meet a deadline*
 - **Estructura Sintáctica:** `to meet a deadline / meet expectations / meet criteria`
 - **Razón Explicativa:** *Meet a deadline* es la colocación estándar en inglés para cumplir con un plazo o fecha límite de entrega.
@@ -197,17 +221,20 @@ Unless we refactor this module immediately, we run the risk of failing to ______
 
 ---
 
-### Test 009 — Collocations: Reaching Compromises #flashcards/cambridge/part1
+### Test 009
 
-After eight hours of intense negotiation, both parties managed to ______ a compromise that satisfied the regulatory board.
-
-- **A)** make
-- **B)** do
-- **C)** reach
-- **D)** catch
+> [!question] Multiple Choice Cloze
+> After eight hours of intense negotiation, both parties managed to ______ a compromise that satisfied the regulatory board.
+>
+> - **A)** make
+> - **B)** do
+> - **C)** reach
+> - **D)** catch
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) reach**
-
+- **Enfoque:** Collocations: Reaching Compromises
 - **Colocación / Regla:** Colocación con Sustantivo Singular: *reach a compromise*
 - **Estructura Sintáctica:** `to reach a compromise / reach an agreement`
 - **Razón Explicativa:** Cuando el sustantivo *compromise* va precedido por el artículo indeterminado (*a compromise*), el verbo canónico para llegar a un punto intermedio tras deliberación es *reach*.
@@ -219,17 +246,20 @@ After eight hours of intense negotiation, both parties managed to ______ a compr
 
 ---
 
-### Test 010 — Collocations: Casting Doubt #flashcards/cambridge/part1
+### Test 010
 
-The unexpected test failures have ______ serious doubt on the reliability of the new cryptographic algorithm.
-
-- **A)** thrown
-- **B)** cast
-- **C)** put
-- **D)** shed
+> [!question] Multiple Choice Cloze
+> The unexpected test failures have ______ serious doubt on the reliability of the new cryptographic algorithm.
+>
+> - **A)** thrown
+> - **B)** cast
+> - **C)** put
+> - **D)** shed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) cast**
-
+- **Enfoque:** Collocations: Casting Doubt
 - **Colocación / Regla:** Colocación C1 Avanzada: *cast doubt on*
 - **Estructura Sintáctica:** `to cast doubt on + noun / belief`
 - **Razón Explicativa:** *Cast doubt on* es la colocación fija que significa sembrar o suscitar dudas sobre la veracidad o solidez de algo.
@@ -241,17 +271,20 @@ The unexpected test failures have ______ serious doubt on the reliability of the
 
 ---
 
-### Test 011 — Collocations: Shedding Light #flashcards/cambridge/part1
+### Test 011
 
-Recent distributed tracing logs have ______ valuable light on the root cause of the memory spike.
-
-- **A)** cast
-- **B)** shed
-- **C)** spread
-- **D)** given
+> [!question] Multiple Choice Cloze
+> Recent distributed tracing logs have ______ valuable light on the root cause of the memory spike.
+>
+> - **A)** cast
+> - **B)** shed
+> - **C)** spread
+> - **D)** given
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) shed**
-
+- **Enfoque:** Collocations: Shedding Light
 - **Colocación / Regla:** Colocación C1 Avanzada: *shed light on*
 - **Estructura Sintáctica:** `to shed (fresh/valuable) light on + problem/mystery`
 - **Razón Explicativa:** *Shed light on* es la locución idiomática obligatoria para expresar que una nueva información esclarece o clarifica un problema complejo.
@@ -263,17 +296,20 @@ Recent distributed tracing logs have ______ valuable light on the root cause of 
 
 ---
 
-### Test 012 — Collocations: Coming to Terms with #flashcards/cambridge/part1
+### Test 012
 
-It took the startup founders several painful months to ______ to terms with the reality of market saturation.
-
-- **A)** get
-- **B)** come
-- **C)** go
-- **D)** reach
+> [!question] Multiple Choice Cloze
+> It took the startup founders several painful months to ______ to terms with the reality of market saturation.
+>
+> - **A)** get
+> - **B)** come
+> - **C)** go
+> - **D)** reach
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) come**
-
+- **Enfoque:** Collocations: Coming to Terms with
 - **Colocación / Regla:** Locución Idiomática Psicológica: *come to terms with*
 - **Estructura Sintáctica:** `to come to terms with + noun / gerund`
 - **Razón Explicativa:** *Come to terms with* significa asumir, asimilar o aceptar una realidad dura o difícil tras un periodo de resistencia.
@@ -285,17 +321,20 @@ It took the startup founders several painful months to ______ to terms with the 
 
 ---
 
-### Test 013 — Collocations: Running the Risk #flashcards/cambridge/part1
+### Test 013
 
-By failing to enforce two-factor authentication, companies ______ the grave risk of credential stuffing attacks.
-
-- **A)** face
-- **B)** bear
-- **C)** run
-- **D)** suffer
+> [!question] Multiple Choice Cloze
+> By failing to enforce two-factor authentication, companies ______ the grave risk of credential stuffing attacks.
+>
+> - **A)** face
+> - **B)** bear
+> - **C)** run
+> - **D)** suffer
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) run**
-
+- **Enfoque:** Collocations: Running the Risk
 - **Colocación / Regla:** Colocación Clásica B2: *run the risk of*
 - **Estructura Sintáctica:** `to run the risk of + noun / gerund`
 - **Razón Explicativa:** *Run the risk of* es la colocación fija que describe exponerse voluntaria o negligentemente a un peligro potencial.
@@ -307,17 +346,20 @@ By failing to enforce two-factor authentication, companies ______ the grave risk
 
 ---
 
-### Test 014 — Collocations: Jumping to Conclusions #flashcards/cambridge/part1
+### Test 014
 
-Before reviewing the error stack traces, the lead engineer warned against ______ to hasty conclusions.
-
-- **A)** running
-- **B)** jumping
-- **C)** flying
-- **D)** leaping
+> [!question] Multiple Choice Cloze
+> Before reviewing the error stack traces, the lead engineer warned against ______ to hasty conclusions.
+>
+> - **A)** running
+> - **B)** jumping
+> - **C)** flying
+> - **D)** leaping
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) jumping**
-
+- **Enfoque:** Collocations: Jumping to Conclusions
 - **Colocación / Regla:** Colocación Idiomática Crítica: *jump to conclusions*
 - **Estructura Sintáctica:** `to jump to conclusions / jump to the conclusion that...`
 - **Razón Explicativa:** *Jump to conclusions* significa precipitarse a juzgar o deducir algo sin evidencias suficientes.
@@ -329,17 +371,20 @@ Before reviewing the error stack traces, the lead engineer warned against ______
 
 ---
 
-### Test 015 — Collocations: Setting an Example #flashcards/cambridge/part1
+### Test 015
 
-Senior developers are expected to ______ an example by adhering rigorously to the team's coding conventions.
-
-- **A)** make
-- **B)** set
-- **C)** put
-- **D)** place
+> [!question] Multiple Choice Cloze
+> Senior developers are expected to ______ an example by adhering rigorously to the team's coding conventions.
+>
+> - **A)** make
+> - **B)** set
+> - **C)** put
+> - **D)** place
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) set**
-
+- **Enfoque:** Collocations: Setting an Example
 - **Colocación / Regla:** Colocación de Liderazgo: *set an example*
 - **Estructura Sintáctica:** `to set an example (to/for someone)`
 - **Razón Explicativa:** *Set an example* es la fórmula canónica para predicar con el ejemplo o ser un modelo de conducta a seguir.
@@ -351,17 +396,20 @@ Senior developers are expected to ______ an example by adhering rigorously to th
 
 ---
 
-### Test 016 — Collocations: Playing a Part/Role #flashcards/cambridge/part1
+### Test 016
 
-Automated regression testing ______ a crucial part in maintaining continuous integration velocity.
-
-- **A)** makes
-- **B)** does
-- **C)** plays
-- **D)** acts
+> [!question] Multiple Choice Cloze
+> Automated regression testing ______ a crucial part in maintaining continuous integration velocity.
+>
+> - **A)** makes
+> - **B)** does
+> - **C)** plays
+> - **D)** acts
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) plays**
-
+- **Enfoque:** Collocations: Playing a Part/Role
 - **Colocación / Regla:** Colocación Fija de Impacto: *play a part / role in*
 - **Estructura Sintáctica:** `to play a part/role in + gerund / noun`
 - **Razón Explicativa:** La expresión estándar para 'desempeñar un papel fundamental' es *play a part in* o *play a role in*.
@@ -373,17 +421,20 @@ Automated regression testing ______ a crucial part in maintaining continuous int
 
 ---
 
-### Test 017 — Prepositional Phrases: At Fault #flashcards/cambridge/part1
+### Test 017
 
-Following the network outage, an independent investigation concluded that the ISP was ______ fault.
-
-- **A)** in
-- **B)** at
-- **C)** on
-- **D)** by
+> [!question] Multiple Choice Cloze
+> Following the network outage, an independent investigation concluded that the ISP was ______ fault.
+>
+> - **A)** in
+> - **B)** at
+> - **C)** on
+> - **D)** by
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) at**
-
+- **Enfoque:** Prepositional Phrases: At Fault
 - **Colocación / Regla:** Frase Preposicional Fija: *at fault*
 - **Estructura Sintáctica:** `to be at fault (ser culpable / responsable de un error)`
 - **Razón Explicativa:** *At fault* es la locución preposicional invariable que significa tener la culpa o ser el responsable directo de un fallo o percance.
@@ -395,17 +446,20 @@ Following the network outage, an independent investigation concluded that the IS
 
 ---
 
-### Test 018 — Prepositional Phrases: In Advance #flashcards/cambridge/part1
+### Test 018
 
-Engineers were asked to submit their technical architecture proposals two weeks ______ advance.
-
-- **A)** on
-- **B)** at
-- **C)** in
-- **D)** by
+> [!question] Multiple Choice Cloze
+> Engineers were asked to submit their technical architecture proposals two weeks ______ advance.
+>
+> - **A)** on
+> - **B)** at
+> - **C)** in
+> - **D)** by
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) in**
-
+- **Enfoque:** Prepositional Phrases: In Advance
 - **Colocación / Regla:** Frase Preposicional Temporal: *in advance*
 - **Estructura Sintáctica:** `in advance (con antelación / por adelantado)`
 - **Razón Explicativa:** La expresión fija de antelación temporal en inglés formal es *in advance* o *in advance of something*.
@@ -417,17 +471,20 @@ Engineers were asked to submit their technical architecture proposals two weeks 
 
 ---
 
-### Test 019 — Prepositional Phrases: On Purpose #flashcards/cambridge/part1
+### Test 019
 
-The security engineer assured the executive committee that the data leak had not been caused ______ purpose.
-
-- **A)** by
-- **B)** with
-- **C)** in
-- **D)** on
+> [!question] Multiple Choice Cloze
+> The security engineer assured the executive committee that the data leak had not been caused ______ purpose.
+>
+> - **A)** by
+> - **B)** with
+> - **C)** in
+> - **D)** on
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: D) on**
-
+- **Enfoque:** Prepositional Phrases: On Purpose
 - **Colocación / Regla:** Frase Preposicional de Intencionalidad: *on purpose*
 - **Estructura Sintáctica:** `on purpose (a propósito / deliberadamente)`
 - **Razón Explicativa:** *On purpose* es la locución adverbial obligatoria para indicar intencionalidad deliberada. Su contraparte accidental es *by mistake* / *by accident*.
@@ -439,17 +496,20 @@ The security engineer assured the executive committee that the data leak had not
 
 ---
 
-### Test 020 — Prepositional Phrases: By Mistake #flashcards/cambridge/part1
+### Test 020
 
-The production database was accidentally wiped because a junior administrator ran the migration script ______ mistake.
-
-- **A)** in
-- **B)** on
-- **C)** by
-- **D)** with
+> [!question] Multiple Choice Cloze
+> The production database was accidentally wiped because a junior administrator ran the migration script ______ mistake.
+>
+> - **A)** in
+> - **B)** on
+> - **C)** by
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) by**
-
+- **Enfoque:** Prepositional Phrases: By Mistake
 - **Colocación / Regla:** Frase Preposicional Fija: *by mistake*
 - **Estructura Sintáctica:** `by mistake (por error / por equivocación)`
 - **Razón Explicativa:** En inglés, la locución preposicional fija que denota una acción no intencionada es *by mistake*.
@@ -461,17 +521,20 @@ The production database was accidentally wiped because a junior administrator ra
 
 ---
 
-### Test 021 — Prepositional Phrases: At Risk #flashcards/cambridge/part1
+### Test 021
 
-By delaying the critical security patch, the organization is putting millions of user records ______ risk.
-
-- **A)** in
-- **B)** under
-- **C)** at
-- **D)** with
+> [!question] Multiple Choice Cloze
+> By delaying the critical security patch, the organization is putting millions of user records ______ risk.
+>
+> - **A)** in
+> - **B)** under
+> - **C)** at
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) at**
-
+- **Enfoque:** Prepositional Phrases: At Risk
 - **Colocación / Regla:** Frase Preposicional de Peligro: *at risk*
 - **Estructura Sintáctica:** `to be at risk / put something at risk`
 - **Razón Explicativa:** La locución preposicional exacta en inglés para denotar estar en peligro o exponer a peligro es *at risk*.
@@ -483,17 +546,20 @@ By delaying the critical security patch, the organization is putting millions of
 
 ---
 
-### Test 022 — Prepositional Phrases: In Charge of #flashcards/cambridge/part1
+### Test 022
 
-Who is currently ______ charge of coordinating the zero-downtime database failover?
-
-- **A)** at
-- **B)** on
-- **C)** in
-- **D)** under
+> [!question] Multiple Choice Cloze
+> Who is currently ______ charge of coordinating the zero-downtime database failover?
+>
+> - **A)** at
+> - **B)** on
+> - **C)** in
+> - **D)** under
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) in**
-
+- **Enfoque:** Prepositional Phrases: In Charge of
 - **Colocación / Regla:** Frase Preposicional de Autoridad: *in charge of*
 - **Estructura Sintáctica:** `to be in charge of + noun / gerund`
 - **Razón Explicativa:** *In charge of* es la construcción establecida para designar a la persona responsable de una tarea o equipo.
@@ -505,17 +571,20 @@ Who is currently ______ charge of coordinating the zero-downtime database failov
 
 ---
 
-### Test 023 — Prepositional Phrases: On Behalf of #flashcards/cambridge/part1
+### Test 023
 
-The lead developer spoke ______ behalf of the entire engineering department at the shareholder meeting.
-
-- **A)** in
-- **B)** on
-- **C)** at
-- **D)** for
+> [!question] Multiple Choice Cloze
+> The lead developer spoke ______ behalf of the entire engineering department at the shareholder meeting.
+>
+> - **A)** in
+> - **B)** on
+> - **C)** at
+> - **D)** for
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) on**
-
+- **Enfoque:** Prepositional Phrases: On Behalf of
 - **Colocación / Regla:** Locución de Representación: *on behalf of*
 - **Estructura Sintáctica:** `on behalf of someone (en nombre / en representación de alguien)`
 - **Razón Explicativa:** *On behalf of* es la expresión canónica que significa representar o actuar en nombre de otra persona o colectivo.
@@ -527,17 +596,20 @@ The lead developer spoke ______ behalf of the entire engineering department at t
 
 ---
 
-### Test 024 — Prepositional Phrases: Under Pressure #flashcards/cambridge/part1
+### Test 024
 
-Modern software engineers often have to write clean code while working ______ intense deadline pressure.
-
-- **A)** in
-- **B)** under
-- **C)** at
-- **D)** below
+> [!question] Multiple Choice Cloze
+> Modern software engineers often have to write clean code while working ______ intense deadline pressure.
+>
+> - **A)** in
+> - **B)** under
+> - **C)** at
+> - **D)** below
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) under**
-
+- **Enfoque:** Prepositional Phrases: Under Pressure
 - **Colocación / Regla:** Frase Preposicional Ambiental: *under pressure*
 - **Estructura Sintáctica:** `under pressure (bajo presión)`
 - **Razón Explicativa:** La preposición obligatoria que rige el sustantivo *pressure* tanto en sentido físico como psicológico es *under*.
@@ -549,17 +621,20 @@ Modern software engineers often have to write clean code while working ______ in
 
 ---
 
-### Test 025 — Prepositional Phrases: Out of Order #flashcards/cambridge/part1
+### Test 025
 
-We had to route traffic through the secondary gateway because the primary load balancer was ______ of order.
-
-- **A)** off
-- **B)** away
-- **C)** out
-- **D)** down
+> [!question] Multiple Choice Cloze
+> We had to route traffic through the secondary gateway because the primary load balancer was ______ of order.
+>
+> - **A)** off
+> - **B)** away
+> - **C)** out
+> - **D)** down
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) out**
-
+- **Enfoque:** Prepositional Phrases: Out of Order
 - **Colocación / Regla:** Locución de Funcionamiento: *out of order*
 - **Estructura Sintáctica:** `to be out of order (averiado / fuera de servicio)`
 - **Razón Explicativa:** *Out of order* es la expresión fija para indicar que una máquina o sistema no está funcionando correctamente.
@@ -571,17 +646,20 @@ We had to route traffic through the secondary gateway because the primary load b
 
 ---
 
-### Test 026 — Prepositional Phrases: Out of the Question #flashcards/cambridge/part1
+### Test 026
 
-Rewriting the entire core platform in a new programming language in just two weeks is completely ______ of the question.
-
-- **A)** off
-- **B)** out
-- **C)** beyond
-- **D)** away
+> [!question] Multiple Choice Cloze
+> Rewriting the entire core platform in a new programming language in just two weeks is completely ______ of the question.
+>
+> - **A)** off
+> - **B)** out
+> - **C)** beyond
+> - **D)** away
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) out**
-
+- **Enfoque:** Prepositional Phrases: Out of the Question
 - **Colocación / Regla:** Modismo de Imposibilidad Absoluta: *out of the question*
 - **Estructura Sintáctica:** `to be out of the question (ser totalmente descabellado / imposible)`
 - **Razón Explicativa:** *Out of the question* es el modismo formal invariable para denotar que una propuesta es completamente inaceptable o inviable.
@@ -593,17 +671,20 @@ Rewriting the entire core platform in a new programming language in just two wee
 
 ---
 
-### Test 027 — Prepositional Phrases: In Vain #flashcards/cambridge/part1
+### Test 027
 
-The DevOps team worked through the night, but their efforts to recover the corrupted disk partition were ______ vain.
-
-- **A)** at
-- **B)** on
-- **C)** in
-- **D)** by
+> [!question] Multiple Choice Cloze
+> The DevOps team worked through the night, but their efforts to recover the corrupted disk partition were ______ vain.
+>
+> - **A)** at
+> - **B)** on
+> - **C)** in
+> - **D)** by
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) in**
-
+- **Enfoque:** Prepositional Phrases: In Vain
 - **Colocación / Regla:** Locución de Ineficacia: *in vain*
 - **Estructura Sintáctica:** `to be in vain (ser en vano / infructuoso)`
 - **Razón Explicativa:** *In vain* es la expresión clásica invariable para indicar que un esfuerzo no produjo ningún resultado positivo.
@@ -615,17 +696,20 @@ The DevOps team worked through the night, but their efforts to recover the corru
 
 ---
 
-### Test 028 — Prepositional Phrases: At All Costs #flashcards/cambridge/part1
+### Test 028
 
-When implementing payment processing flows, financial data corruption must be prevented ______ all costs.
-
-- **A)** with
-- **B)** at
-- **C)** by
-- **D)** for
+> [!question] Multiple Choice Cloze
+> When implementing payment processing flows, financial data corruption must be prevented ______ all costs.
+>
+> - **A)** with
+> - **B)** at
+> - **C)** by
+> - **D)** for
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) at**
-
+- **Enfoque:** Prepositional Phrases: At All Costs
 - **Colocación / Regla:** Locución de Prioridad Absoluta: *at all costs*
 - **Estructura Sintáctica:** `at all costs (a toda costa / cueste lo que cueste)`
 - **Razón Explicativa:** La expresión fija de determinación innegociable en inglés es *at all costs* (o *at any cost*).
@@ -637,17 +721,20 @@ When implementing payment processing flows, financial data corruption must be pr
 
 ---
 
-### Test 029 — Prepositional Phrases: At Ease #flashcards/cambridge/part1
+### Test 029
 
-The engineering manager did everything possible to put the anxious candidates ______ ease during the technical interview.
-
-- **A)** in
-- **B)** at
-- **C)** with
-- **D)** on
+> [!question] Multiple Choice Cloze
+> The engineering manager did everything possible to put the anxious candidates ______ ease during the technical interview.
+>
+> - **A)** in
+> - **B)** at
+> - **C)** with
+> - **D)** on
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) at**
-
+- **Enfoque:** Prepositional Phrases: At Ease
 - **Colocación / Regla:** Locución Emocional: *at ease*
 - **Estructura Sintáctica:** `to put someone at ease / feel at ease (tranquilizar / sentirse cómodo)`
 - **Razón Explicativa:** *At ease* describe un estado de serenidad y relajación libre de ansiedad.
@@ -659,17 +746,20 @@ The engineering manager did everything possible to put the anxious candidates __
 
 ---
 
-### Test 030 — Prepositional Phrases: By Heart #flashcards/cambridge/part1
+### Test 030
 
-Experienced system administrators often know the primary Linux diagnostic commands ______ heart.
-
-- **A)** in
-- **B)** with
-- **C)** by
-- **D)** from
+> [!question] Multiple Choice Cloze
+> Experienced system administrators often know the primary Linux diagnostic commands ______ heart.
+>
+> - **A)** in
+> - **B)** with
+> - **C)** by
+> - **D)** from
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) by**
-
+- **Enfoque:** Prepositional Phrases: By Heart
 - **Colocación / Regla:** Locución de Memoria: *by heart*
 - **Estructura Sintáctica:** `to learn / know something by heart (de memoria)`
 - **Razón Explicativa:** *By heart* es el modismo fijo para indicar memorización exacta palabra por palabra.
@@ -681,17 +771,20 @@ Experienced system administrators often know the primary Linux diagnostic comman
 
 ---
 
-### Test 031 — Prepositional Phrases: By Means of #flashcards/cambridge/part1
+### Test 031
 
-The API authenticates client requests ______ means of cryptographic bearer tokens passed in the authorization header.
-
-- **A)** in
-- **B)** by
-- **C)** through
-- **D)** with
+> [!question] Multiple Choice Cloze
+> The API authenticates client requests ______ means of cryptographic bearer tokens passed in the authorization header.
+>
+> - **A)** in
+> - **B)** by
+> - **C)** through
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) by**
-
+- **Enfoque:** Prepositional Phrases: By Means of
 - **Colocación / Regla:** Locución Instrumental Formal: *by means of*
 - **Estructura Sintáctica:** `by means of + noun / gerund (por medio de / mediante)`
 - **Razón Explicativa:** *By means of* es la construcción formal de registro C1 para describir el método o mecanismo instrumental utilizado.
@@ -703,17 +796,20 @@ The API authenticates client requests ______ means of cryptographic bearer token
 
 ---
 
-### Test 032 — Prepositional Phrases: On Second Thoughts #flashcards/cambridge/part1
+### Test 032
 
-We were planning to deploy the release on Friday afternoon, but ______ second thoughts, we postponed it to Monday.
-
-- **A)** in
-- **B)** at
-- **C)** on
-- **D)** with
+> [!question] Multiple Choice Cloze
+> We were planning to deploy the release on Friday afternoon, but ______ second thoughts, we postponed it to Monday.
+>
+> - **A)** in
+> - **B)** at
+> - **C)** on
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) on**
-
+- **Enfoque:** Prepositional Phrases: On Second Thoughts
 - **Colocación / Regla:** Locución de Rectificación: *on second thoughts*
 - **Estructura Sintáctica:** `on second thoughts (pensándolo mejor / tras una segunda reflexión)`
 - **Razón Explicativa:** *On second thoughts* es la locución invariable utilizada para reconsiderar una decisión previa y elegir una alternativa más prudente.
@@ -725,17 +821,20 @@ We were planning to deploy the release on Friday afternoon, but ______ second th
 
 ---
 
-### Test 033 — Prepositional Phrases: On Account of #flashcards/cambridge/part1
+### Test 033
 
-The flight was severely delayed ______ account of dense fog blanketing the international runway.
-
-- **A)** by
-- **B)** in
-- **C)** on
-- **D)** with
+> [!question] Multiple Choice Cloze
+> The flight was severely delayed ______ account of dense fog blanketing the international runway.
+>
+> - **A)** by
+> - **B)** in
+> - **C)** on
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) on**
-
+- **Enfoque:** Prepositional Phrases: On Account of
 - **Colocación / Regla:** Conector Causal Formal: *on account of*
 - **Estructura Sintáctica:** `on account of + noun / noun phrase (a causa de / debido a)`
 - **Razón Explicativa:** *On account of* es el conector formal equivalente a *because of* o *due to* comúnmente evaluado en Cambridge Use of English.
@@ -747,17 +846,20 @@ The flight was severely delayed ______ account of dense fog blanketing the inter
 
 ---
 
-### Test 034 — Prepositional Phrases: Under the Impression #flashcards/cambridge/part1
+### Test 034
 
-I was ______ the impression that the code review had already been approved by both senior engineers.
-
-- **A)** in
-- **B)** with
-- **C)** under
-- **D)** on
+> [!question] Multiple Choice Cloze
+> I was ______ the impression that the code review had already been approved by both senior engineers.
+>
+> - **A)** in
+> - **B)** with
+> - **C)** under
+> - **D)** on
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) under**
-
+- **Enfoque:** Prepositional Phrases: Under the Impression
 - **Colocación / Regla:** Locución Cognitiva: *under the impression*
 - **Estructura Sintáctica:** `to be under the impression that... (tener la impresión de que)`
 - **Razón Explicativa:** En inglés, la percepción o creencia provisional de que algo es cierto se formula con la preposición *under* (*under the impression*).
@@ -769,17 +871,20 @@ I was ______ the impression that the code review had already been approved by bo
 
 ---
 
-### Test 035 — Prepositional Phrases: With a View to #flashcards/cambridge/part1
+### Test 035
 
-The tech firm acquired the robotics startup with a ______ to expanding into automated manufacturing.
-
-- **A)** sight
-- **B)** view
-- **C)** mind
-- **D)** purpose
+> [!question] Multiple Choice Cloze
+> The tech firm acquired the robotics startup with a ______ to expanding into automated manufacturing.
+>
+> - **A)** sight
+> - **B)** view
+> - **C)** mind
+> - **D)** purpose
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) view**
-
+- **Enfoque:** Prepositional Phrases: With a View to
 - **Colocación / Regla:** Conector Teleológico C1: *with a view to + -ing*
 - **Estructura Sintáctica:** `with a view to + gerund / noun (con miras a / con el propósito de)`
 - **Razón Explicativa:** *With a view to* es una estructura de nivel avanzado C1 que exige invariablemente la palabra *view* seguida de gerundio (-ing).
@@ -791,17 +896,20 @@ The tech firm acquired the robotics startup with a ______ to expanding into auto
 
 ---
 
-### Test 036 — Prepositional Phrases: With Regard to #flashcards/cambridge/part1
+### Test 036
 
-The documentation is comprehensive ______ regard to installation, but lacks detailed troubleshooting guidance.
-
-- **A)** in
-- **B)** with
-- **C)** at
-- **D)** on
+> [!question] Multiple Choice Cloze
+> The documentation is comprehensive ______ regard to installation, but lacks detailed troubleshooting guidance.
+>
+> - **A)** in
+> - **B)** with
+> - **C)** at
+> - **D)** on
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) with**
-
+- **Enfoque:** Prepositional Phrases: With Regard to
 - **Colocación / Regla:** Conector Temático Formal: *with regard to*
 - **Estructura Sintáctica:** `with regard to / in regard to + noun (con respecto a / en lo que respecta a)`
 - **Razón Explicativa:** *With regard to* es una de las fórmulas más frecuentes en textos formales británicos para introducir un ámbito temático específico.
@@ -813,17 +921,20 @@ The documentation is comprehensive ______ regard to installation, but lacks deta
 
 ---
 
-### Test 037 — Collocations: Making Excuses #flashcards/cambridge/part1
+### Test 037
 
-Rather than ______ excuses for the system outage, the infrastructure team provided a transparent post-mortem.
-
-- **A)** doing
-- **B)** making
-- **C)** giving
-- **D)** creating
+> [!question] Multiple Choice Cloze
+> Rather than ______ excuses for the system outage, the infrastructure team provided a transparent post-mortem.
+>
+> - **A)** doing
+> - **B)** making
+> - **C)** giving
+> - **D)** creating
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) making**
-
+- **Enfoque:** Collocations: Making Excuses
 - **Colocación / Regla:** Colocación de Justificación: *make excuses*
 - **Estructura Sintáctica:** `to make an excuse / make excuses for something`
 - **Razón Explicativa:** La colocación invariable para 'poner excusas' o 'inventar disculpas' en inglés es *make excuses*.
@@ -835,17 +946,20 @@ Rather than ______ excuses for the system outage, the infrastructure team provid
 
 ---
 
-### Test 038 — Collocations: Doing Business #flashcards/cambridge/part1
+### Test 038
 
-Enterprise clients are reluctant to ______ business with software vendors that do not comply with ISO 27001.
-
-- **A)** make
-- **B)** do
-- **C)** run
-- **D)** conduct
+> [!question] Multiple Choice Cloze
+> Enterprise clients are reluctant to ______ business with software vendors that do not comply with ISO 27001.
+>
+> - **A)** make
+> - **B)** do
+> - **C)** run
+> - **D)** conduct
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) do**
-
+- **Enfoque:** Collocations: Doing Business
 - **Colocación / Regla:** Colocación Comercial Clave: *do business with*
 - **Estructura Sintáctica:** `to do business with someone (hacer negocios con)`
 - **Razón Explicativa:** En inglés, el verbo universal que se combina con *business* en el sentido de comerciar o colaborar comercialmente es *do*.
@@ -857,17 +971,20 @@ Enterprise clients are reluctant to ______ business with software vendors that d
 
 ---
 
-### Test 039 — Collocations: Doing a Favor #flashcards/cambridge/part1
+### Test 039
 
-Could you please ______ me a favor and review this pull request before the end of the sprint?
-
-- **A)** make
-- **B)** give
-- **C)** do
-- **D)** lend
+> [!question] Multiple Choice Cloze
+> Could you please ______ me a favor and review this pull request before the end of the sprint?
+>
+> - **A)** make
+> - **B)** give
+> - **C)** do
+> - **D)** lend
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) do**
-
+- **Enfoque:** Collocations: Doing a Favor
 - **Colocación / Regla:** Colocación Social Fija: *do someone a favor*
 - **Estructura Sintáctica:** `to do someone a favor (hacer un favor a alguien)`
 - **Razón Explicativa:** La única colocación permitida con *favor* en inglés es con el verbo *do*. *Do me a favor* es invariable.
@@ -879,17 +996,20 @@ Could you please ______ me a favor and review this pull request before the end o
 
 ---
 
-### Test 040 — Collocations: Taking Part in #flashcards/cambridge/part1
+### Test 040
 
-Every member of the agile engineering squad was expected to ______ part in the sprint retrospective.
-
-- **A)** play
-- **B)** make
-- **C)** take
-- **D)** have
+> [!question] Multiple Choice Cloze
+> Every member of the agile engineering squad was expected to ______ part in the sprint retrospective.
+>
+> - **A)** play
+> - **B)** make
+> - **C)** take
+> - **D)** have
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) take**
-
+- **Enfoque:** Collocations: Taking Part in
 - **Colocación / Regla:** Colocación de Participación: *take part in*
 - **Estructura Sintáctica:** `to take part in + event / discussion (participar en)`
 - **Razón Explicativa:** *Take part in* es el sinónimo idiomático estándar de *participate in*.
@@ -901,17 +1021,20 @@ Every member of the agile engineering squad was expected to ______ part in the s
 
 ---
 
-### Test 041 — Collocations: Taking Pride in #flashcards/cambridge/part1
+### Test 041
 
-Craftsmen and senior engineers alike ______ immense pride in writing elegant, maintainable code.
-
-- **A)** make
-- **B)** take
-- **C)** feel
-- **D)** hold
+> [!question] Multiple Choice Cloze
+> Craftsmen and senior engineers alike ______ immense pride in writing elegant, maintainable code.
+>
+> - **A)** make
+> - **B)** take
+> - **C)** feel
+> - **D)** hold
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) take**
-
+- **Enfoque:** Collocations: Taking Pride in
 - **Colocación / Regla:** Colocación Emocional Fija: *take pride in*
 - **Estructura Sintáctica:** `to take pride in + noun / gerund (enorgullecerse de)`
 - **Razón Explicativa:** La colocación verbal canónica con el sustantivo *pride* y la preposición *in* es el verbo *take*.
@@ -923,17 +1046,20 @@ Craftsmen and senior engineers alike ______ immense pride in writing elegant, ma
 
 ---
 
-### Test 042 — Collocations: Keeping an Eye on #flashcards/cambridge/part1
+### Test 042
 
-Please ______ a close eye on the telemetry dashboards while we migrate the active user sessions.
-
-- **A)** hold
-- **B)** keep
-- **C)** stay
-- **D)** watch
+> [!question] Multiple Choice Cloze
+> Please ______ a close eye on the telemetry dashboards while we migrate the active user sessions.
+>
+> - **A)** hold
+> - **B)** keep
+> - **C)** stay
+> - **D)** watch
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) keep**
-
+- **Enfoque:** Collocations: Keeping an Eye on
 - **Colocación / Regla:** Modismo de Monitorización: *keep an eye on*
 - **Estructura Sintáctica:** `to keep an eye on + noun / person (vigilar / monitorizar de cerca)`
 - **Razón Explicativa:** *Keep an eye on* es la locución idiomática obligatoria para vigilar o mantener la atención sobre algo que podría cambiar o fallar.
@@ -945,17 +1071,20 @@ Please ______ a close eye on the telemetry dashboards while we migrate the activ
 
 ---
 
-### Test 043 — Collocations: Keeping in Touch #flashcards/cambridge/part1
+### Test 043
 
-Despite moving to rival tech companies across Silicon Valley, the two former co-founders managed to ______ in touch.
-
-- **A)** keep
-- **B)** hold
-- **C)** make
-- **D)** reach
+> [!question] Multiple Choice Cloze
+> Despite moving to rival tech companies across Silicon Valley, the two former co-founders managed to ______ in touch.
+>
+> - **A)** keep
+> - **B)** hold
+> - **C)** make
+> - **D)** reach
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: A) keep**
-
+- **Enfoque:** Collocations: Keeping in Touch
 - **Colocación / Regla:** Locución de Comunicación: *keep in touch*
 - **Estructura Sintáctica:** `to keep in touch (with someone) / stay in touch`
 - **Razón Explicativa:** *Keep in touch* es la fórmula canónica para mantener el contacto y la comunicación a lo largo del tiempo.
@@ -967,17 +1096,20 @@ Despite moving to rival tech companies across Silicon Valley, the two former co-
 
 ---
 
-### Test 044 — Collocations: Keeping a Secret #flashcards/cambridge/part1
+### Test 044
 
-Security credentials and private API keys must be ______ secret and never committed to public repositories.
-
-- **A)** held
-- **B)** kept
-- **C)** made
-- **D)** done
+> [!question] Multiple Choice Cloze
+> Security credentials and private API keys must be ______ secret and never committed to public repositories.
+>
+> - **A)** held
+> - **B)** kept
+> - **C)** made
+> - **D)** done
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) kept**
-
+- **Enfoque:** Collocations: Keeping a Secret
 - **Colocación / Regla:** Colocación de Confidencialidad: *keep a secret / keep secret*
 - **Estructura Sintáctica:** `to keep something secret / keep a secret`
 - **Razón Explicativa:** La colocación invariable para mantener algo en secreto o guardar confidencialidad es con el verbo *keep*.
@@ -989,17 +1121,20 @@ Security credentials and private API keys must be ______ secret and never commit
 
 ---
 
-### Test 045 — Collocations: Paying a Compliment #flashcards/cambridge/part1
+### Test 045
 
-The chief architect ______ the junior developer a genuine compliment on the elegance of her recursive parsing algorithm.
-
-- **A)** gave
-- **B)** made
-- **C)** paid
-- **D)** said
+> [!question] Multiple Choice Cloze
+> The chief architect ______ the junior developer a genuine compliment on the elegance of her recursive parsing algorithm.
+>
+> - **A)** gave
+> - **B)** made
+> - **C)** paid
+> - **D)** said
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) paid**
-
+- **Enfoque:** Collocations: Paying a Compliment
 - **Colocación / Regla:** Colocación Social Formal: *pay a compliment*
 - **Estructura Sintáctica:** `to pay someone a compliment (hacer un cumplido / elogiar)`
 - **Razón Explicativa:** *Pay a compliment* es la colocación formal refinada evaluada en Cambridge B2/C1.
@@ -1011,17 +1146,20 @@ The chief architect ______ the junior developer a genuine compliment on the eleg
 
 ---
 
-### Test 046 — Collocations: Striking a Balance #flashcards/cambridge/part1
+### Test 046
 
-Product managers must ______ a delicate balance between shipping rapid feature updates and technical debt.
-
-- **A)** make
-- **B)** hit
-- **C)** strike
-- **D)** keep
+> [!question] Multiple Choice Cloze
+> Product managers must ______ a delicate balance between shipping rapid feature updates and technical debt.
+>
+> - **A)** make
+> - **B)** hit
+> - **C)** strike
+> - **D)** keep
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) strike**
-
+- **Enfoque:** Collocations: Striking a Balance
 - **Colocación / Regla:** Colocación C1 de Equilibrio: *strike a balance*
 - **Estructura Sintáctica:** `to strike a balance between X and Y (encontrar un equilibrio / balancear)`
 - **Razón Explicativa:** *Strike a balance* es la colocación idiomática consagrada para describir el acto de encontrar el punto medio armónico entre dos fuerzas opuestas.
@@ -1033,17 +1171,20 @@ Product managers must ______ a delicate balance between shipping rapid feature u
 
 ---
 
-### Test 047 — Collocations: Raising Awareness #flashcards/cambridge/part1
+### Test 047
 
-The internal seminar aimed to ______ awareness among employees regarding social engineering and phishing tactics.
-
-- **A)** lift
-- **B)** raise
-- **C)** rise
-- **D)** grow
+> [!question] Multiple Choice Cloze
+> The internal seminar aimed to ______ awareness among employees regarding social engineering and phishing tactics.
+>
+> - **A)** lift
+> - **B)** raise
+> - **C)** rise
+> - **D)** grow
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) raise**
-
+- **Enfoque:** Collocations: Raising Awareness
 - **Colocación / Regla:** Colocación de Sensibilización: *raise awareness*
 - **Estructura Sintáctica:** `to raise awareness (about/of something)`
 - **Razón Explicativa:** *Raise awareness* es la colocación fija obligatoria para indicar el incremento de concienciación o conocimiento sobre una problemática.
@@ -1055,17 +1196,20 @@ The internal seminar aimed to ______ awareness among employees regarding social 
 
 ---
 
-### Test 048 — Collocations: Taking Effect #flashcards/cambridge/part1
+### Test 048
 
-The updated privacy and data retention policy will ______ effect as soon as the maintenance window concludes at midnight.
-
-- **A)** come
-- **B)** have
-- **C)** take
-- **D)** make
+> [!question] Multiple Choice Cloze
+> The updated privacy and data retention policy will ______ effect as soon as the maintenance window concludes at midnight.
+>
+> - **A)** come
+> - **B)** have
+> - **C)** take
+> - **D)** make
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) take**
-
+- **Enfoque:** Collocations: Taking Effect
 - **Colocación / Regla:** Colocación Legal / Reglamentaria: *take effect*
 - **Estructura Sintáctica:** `to take effect / come into effect (entrar en vigor)`
 - **Razón Explicativa:** La expresión fija para indicar que una norma o ley entra en vigor es *take effect* (o con preposición: *come into effect*). Al no estar la preposición *into*, solo *take* encaja.
@@ -1077,17 +1221,20 @@ The updated privacy and data retention policy will ______ effect as soon as the 
 
 ---
 
-### Test 049 — Collocations: Giving Rise to #flashcards/cambridge/part1
+### Test 049
 
-Unhandled concurrent database writes can easily ______ rise to catastrophic race conditions.
-
-- **A)** bring
-- **B)** give
-- **C)** set
-- **D)** lead
+> [!question] Multiple Choice Cloze
+> Unhandled concurrent database writes can easily ______ rise to catastrophic race conditions.
+>
+> - **A)** bring
+> - **B)** give
+> - **C)** set
+> - **D)** lead
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) give**
-
+- **Enfoque:** Collocations: Giving Rise to
 - **Colocación / Regla:** Colocación Causal Avanzada C1: *give rise to*
 - **Estructura Sintáctica:** `to give rise to + noun / problem (dar lugar a / suscitar)`
 - **Razón Explicativa:** *Give rise to* es la locución formal clásica que significa originar o provocar la aparición de una situación o conflicto.
@@ -1099,17 +1246,20 @@ Unhandled concurrent database writes can easily ______ rise to catastrophic race
 
 ---
 
-### Test 050 — Collocations: Drawing Conclusions #flashcards/cambridge/part1
+### Test 050
 
-It is far too early in the performance benchmarking cycle to ______ any definitive conclusions about throughput.
-
-- **A)** make
-- **B)** draw
-- **C)** take
-- **D)** reach
+> [!question] Multiple Choice Cloze
+> It is far too early in the performance benchmarking cycle to ______ any definitive conclusions about throughput.
+>
+> - **A)** make
+> - **B)** draw
+> - **C)** take
+> - **D)** reach
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) draw**
-
+- **Enfoque:** Collocations: Drawing Conclusions
 - **Colocación / Regla:** Colocación Científico-Analítica: *draw a conclusion*
 - **Estructura Sintáctica:** `to draw a conclusion / draw conclusions from something`
 - **Razón Explicativa:** *Draw a conclusion* es la colocación académica formal de referencia para extraer o deducir conclusiones a partir de datos empíricos.

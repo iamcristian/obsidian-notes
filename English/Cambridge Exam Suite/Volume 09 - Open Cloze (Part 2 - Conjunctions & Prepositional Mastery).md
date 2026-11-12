@@ -21,15 +21,15 @@ total_tests: 75
 
 ---
 
-### Test 301 — Rather Than #flashcards/cambridge/part2
+### Test 301
 
-She preferred to resign _______ accept the unethical directives from the executive board.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> She preferred to resign _______ accept the unethical directives from the executive board.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `rather`
-
+- **Enfoque:** Rather Than
 - **Categoría Gramatical:** Conjunción comparativa / de preferencia
 - **Estructura Sintáctica:** `prefer + to-inf ... rather than + bare inf`
 - **Razón Explicativa:** Se requiere 'rather' junto a 'than' para indicar preferencia o exclusión ('más bien que' / 'en vez de').
@@ -38,15 +38,15 @@ She preferred to resign _______ accept the unethical directives from the executi
 
 ---
 
-### Test 302 — In Spite Of #flashcards/cambridge/part2
+### Test 302
 
-_______ of all the rigorous warnings issued by meteorologists, dozens of hikers ventured up the mountain.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ of all the rigorous warnings issued by meteorologists, dozens of hikers ventured up the mountain.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `In`
-
+- **Enfoque:** In Spite Of
 - **Categoría Gramatical:** Locución preposicional concesiva
 - **Estructura Sintáctica:** `in spite of + noun phrase`
 - **Razón Explicativa:** 'In' es la única palabra que encabeza la locución fija de tres palabras 'in spite of'.
@@ -55,15 +55,15 @@ _______ of all the rigorous warnings issued by meteorologists, dozens of hikers 
 
 ---
 
-### Test 303 — So As To #flashcards/cambridge/part2
+### Test 303
 
-The delegates arrived early so _______ to secure front-row seats for the keynote symposium.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The delegates arrived early so _______ to secure front-row seats for the keynote symposium.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `as`
-
+- **Enfoque:** So As To
 - **Categoría Gramatical:** Locución de finalidad formal
 - **Estructura Sintáctica:** `so as to + bare infinitive`
 - **Razón Explicativa:** 'As' forma la estructura infinitiva 'so as to' ('con el fin de').
@@ -72,15 +72,14 @@ The delegates arrived early so _______ to secure front-row seats for the keynote
 
 ---
 
-### Test 304 — Lest #flashcards/cambridge/part2
+### Test 304
 
-The documents were encrypted _______ they should fall into the hands of unauthorized competitors.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The documents were encrypted _______ they should fall into the hands of unauthorized competitors.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `lest`
-
 - **Categoría Gramatical:** Conjunción arcaica / formal de propósito negativo
 - **Estructura Sintáctica:** `clause + lest + S + (should) bare infinitive`
 - **Razón Explicativa:** 'Lest' expresa 'para que no' o 'por miedo a que', frecuentemente acompañado por 'should'.
@@ -89,15 +88,15 @@ The documents were encrypted _______ they should fall into the hands of unauthor
 
 ---
 
-### Test 305 — Provided That #flashcards/cambridge/part2
+### Test 305
 
-You are permitted to inspect the archive, _______ that you handle the original manuscripts with white gloves.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> You are permitted to inspect the archive, _______ that you handle the original manuscripts with white gloves.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `provided`
-
+- **Enfoque:** Provided That
 - **Categoría Gramatical:** Conjunción condicional formal
 - **Estructura Sintáctica:** `provided (that) + clause`
 - **Razón Explicativa:** 'Provided' (o 'providing') introduce una condición estricta equivalente a 'siempre y cuando'.
@@ -106,15 +105,14 @@ You are permitted to inspect the archive, _______ that you handle the original m
 
 ---
 
-### Test 306 — Unless #flashcards/cambridge/part2
+### Test 306
 
-The merger cannot proceed _______ approved unanimously by the antitrust regulatory commission.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The merger cannot proceed _______ approved unanimously by the antitrust regulatory commission.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `unless`
-
 - **Categoría Gramatical:** Conjunción condicional negativa
 - **Estructura Sintáctica:** `unless + past participle / clause`
 - **Razón Explicativa:** 'Unless' significa 'a menos que / a no ser que'.
@@ -123,15 +121,15 @@ The merger cannot proceed _______ approved unanimously by the antitrust regulato
 
 ---
 
-### Test 307 — Whether Or #flashcards/cambridge/part2
+### Test 307
 
-It remains uncertain _______ the economic recovery will be rapid or prolonged over several quarters.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> It remains uncertain _______ the economic recovery will be rapid or prolonged over several quarters.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `whether`
-
+- **Enfoque:** Whether Or
 - **Categoría Gramatical:** Conjunción disyuntiva indirecta
 - **Estructura Sintáctica:** `whether ... or`
 - **Razón Explicativa:** 'Whether' se exige cuando hay una alternativa explícita introducida por 'or'.
@@ -140,15 +138,15 @@ It remains uncertain _______ the economic recovery will be rapid or prolonged ov
 
 ---
 
-### Test 308 — As Long As #flashcards/cambridge/part2
+### Test 308
 
-We can finalize the contract, as _______ as both parties agree on the arbitration clause.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> We can finalize the contract, as _______ as both parties agree on the arbitration clause.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `long`
-
+- **Enfoque:** As Long As
 - **Categoría Gramatical:** Locución conjuntiva condicional
 - **Estructura Sintáctica:** `as long as + clause`
 - **Razón Explicativa:** 'Long' completa la locución condicional fija 'as long as' ('siempre que').
@@ -157,15 +155,15 @@ We can finalize the contract, as _______ as both parties agree on the arbitratio
 
 ---
 
-### Test 309 — On Condition That #flashcards/cambridge/part2
+### Test 309
 
-He surrendered his passport _______ condition that he be granted provisional bail until the hearing.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> He surrendered his passport _______ condition that he be granted provisional bail until the hearing.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `on`
-
+- **Enfoque:** On Condition That
 - **Categoría Gramatical:** Preposición de frase adverbial fija
 - **Estructura Sintáctica:** `on condition that + clause`
 - **Razón Explicativa:** 'On' rige la expresión formal de condición 'on condition that'.
@@ -174,15 +172,15 @@ He surrendered his passport _______ condition that he be granted provisional bai
 
 ---
 
-### Test 310 — In Case Of #flashcards/cambridge/part2
+### Test 310
 
-Keep the emergency fire blanket accessible _______ case of an unexpected chemical flare-up.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Keep the emergency fire blanket accessible _______ case of an unexpected chemical flare-up.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `in`
-
+- **Enfoque:** In Case Of
 - **Categoría Gramatical:** Preposición de frase de precaución
 - **Estructura Sintáctica:** `in case of + noun`
 - **Razón Explicativa:** 'In' encabeza la locución fija 'in case of' ('en caso de').
@@ -191,15 +189,15 @@ Keep the emergency fire blanket accessible _______ case of an unexpected chemica
 
 ---
 
-### Test 311 — With A View To #flashcards/cambridge/part2
+### Test 311
 
-The research lab upgraded its spectrometry hardware with a _______ to accelerating vaccine synthesis.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The research lab upgraded its spectrometry hardware with a _______ to accelerating vaccine synthesis.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `view`
-
+- **Enfoque:** With A View To
 - **Categoría Gramatical:** Sustantivo de locución preposicional fija
 - **Estructura Sintáctica:** `with a view to + -ing`
 - **Razón Explicativa:** 'View' es la única palabra que forma la locución C1 'with a view to' ('con miras a').
@@ -208,15 +206,15 @@ The research lab upgraded its spectrometry hardware with a _______ to accelerati
 
 ---
 
-### Test 312 — On Account Of #flashcards/cambridge/part2
+### Test 312
 
-The intercity train services were abruptly suspended on _______ of heavy blizzard conditions.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The intercity train services were abruptly suspended on _______ of heavy blizzard conditions.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `account`
-
+- **Enfoque:** On Account Of
 - **Categoría Gramatical:** Sustantivo de locución causal fija
 - **Estructura Sintáctica:** `on account of + noun phrase`
 - **Razón Explicativa:** 'Account' completa la expresión formal 'on account of' ('a causa de').
@@ -225,15 +223,15 @@ The intercity train services were abruptly suspended on _______ of heavy blizzar
 
 ---
 
-### Test 313 — Owing To #flashcards/cambridge/part2
+### Test 313
 
-The festival was called off, _______ to the sudden torrential flooding across the entire valley.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The festival was called off, _______ to the sudden torrential flooding across the entire valley.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `owing`
-
+- **Enfoque:** Owing To
 - **Categoría Gramatical:** Participio preposicional causal
 - **Estructura Sintáctica:** `owing to + noun`
 - **Razón Explicativa:** 'Owing' forma 'owing to' ('debido a'), colocándose al inicio de una cláusula adverbial.
@@ -242,15 +240,15 @@ The festival was called off, _______ to the sudden torrential flooding across th
 
 ---
 
-### Test 314 — Due To #flashcards/cambridge/part2
+### Test 314
 
-The dramatic drop in sales was predominantly _______ to supply chain bottlenecks in East Asia.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The dramatic drop in sales was predominantly _______ to supply chain bottlenecks in East Asia.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `due`
-
+- **Enfoque:** Due To
 - **Categoría Gramatical:** Adjetivo predicativo causal
 - **Estructura Sintáctica:** `be + due to + noun`
 - **Razón Explicativa:** 'Due' se combina con el verbo copulativo 'was' ('was due to').
@@ -259,15 +257,15 @@ The dramatic drop in sales was predominantly _______ to supply chain bottlenecks
 
 ---
 
-### Test 315 — In Terms Of #flashcards/cambridge/part2
+### Test 315
 
-_______ terms of sheer computational performance, the newly released neural chip surpasses all benchmarks.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ terms of sheer computational performance, the newly released neural chip surpasses all benchmarks.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `In`
-
+- **Enfoque:** In Terms Of
 - **Categoría Gramatical:** Preposición inicial de marco temático
 - **Estructura Sintáctica:** `in terms of + noun`
 - **Razón Explicativa:** 'In' es la preposición obligatoria en la frase 'in terms of' ('en términos de / en lo que respecta a').
@@ -276,15 +274,15 @@ _______ terms of sheer computational performance, the newly released neural chip
 
 ---
 
-### Test 316 — In Contrast With #flashcards/cambridge/part2
+### Test 316
 
-In _______ to the arid southern plateau, the northern valley receives substantial annual rainfall.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> In _______ to the arid southern plateau, the northern valley receives substantial annual rainfall.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `contrast`
-
+- **Enfoque:** In Contrast With
 - **Categoría Gramatical:** Sustantivo de locución comparativa
 - **Estructura Sintáctica:** `in contrast to / with + noun`
 - **Razón Explicativa:** 'Contrast' forma la expresión fija de contraste directo 'in contrast to/with'.
@@ -293,15 +291,15 @@ In _______ to the arid southern plateau, the northern valley receives substantia
 
 ---
 
-### Test 317 — In Addition To #flashcards/cambridge/part2
+### Test 317
 
-In _______ to winning the prestigious Booker Prize, the author was awarded an honorary doctorate.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> In _______ to winning the prestigious Booker Prize, the author was awarded an honorary doctorate.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `addition`
-
+- **Enfoque:** In Addition To
 - **Categoría Gramatical:** Sustantivo de locución aditiva
 - **Estructura Sintáctica:** `in addition to + -ing / noun`
 - **Razón Explicativa:** 'Addition' completa la colocación de suma 'in addition to' ('además de').
@@ -310,15 +308,15 @@ In _______ to winning the prestigious Booker Prize, the author was awarded an ho
 
 ---
 
-### Test 318 — On Behalf Of #flashcards/cambridge/part2
+### Test 318
 
-I would like to extend our deepest gratitude on _______ of the entire humanitarian expedition.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> I would like to extend our deepest gratitude on _______ of the entire humanitarian expedition.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `behalf`
-
+- **Enfoque:** On Behalf Of
 - **Categoría Gramatical:** Sustantivo de locución representativa
 - **Estructura Sintáctica:** `on behalf of + noun`
 - **Razón Explicativa:** 'Behalf' significa 'en nombre de / de parte de'.
@@ -327,15 +325,15 @@ I would like to extend our deepest gratitude on _______ of the entire humanitari
 
 ---
 
-### Test 319 — In Light Of #flashcards/cambridge/part2
+### Test 319
 
-The municipal council decided to revise the budget in _______ of the soaring energy tariffs.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The municipal council decided to revise the budget in _______ of the soaring energy tariffs.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `light`
-
+- **Enfoque:** In Light Of
 - **Categoría Gramatical:** Sustantivo en colocación metafórica formal
 - **Estructura Sintáctica:** `in light of + noun`
 - **Razón Explicativa:** 'Light' ('a la luz de / en vista de') denota consideración reflexiva de nuevos datos.
@@ -344,15 +342,15 @@ The municipal council decided to revise the budget in _______ of the soaring ene
 
 ---
 
-### Test 320 — With Regard To #flashcards/cambridge/part2
+### Test 320
 
-With _______ to your inquiry dated October 14th, we are pleased to offer you the internship position.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> With _______ to your inquiry dated October 14th, we are pleased to offer you the internship position.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `regard`
-
+- **Enfoque:** With Regard To
 - **Categoría Gramatical:** Sustantivo en locución preposicional
 - **Estructura Sintáctica:** `with regard to + noun`
 - **Razón Explicativa:** 'Regard' forma la fórmula epistolar formal 'with regard to' ('con respecto a').
@@ -361,15 +359,15 @@ With _______ to your inquiry dated October 14th, we are pleased to offer you the
 
 ---
 
-### Test 321 — With Respect To #flashcards/cambridge/part2
+### Test 321
 
-The policy remains completely neutral with _______ to private domestic investments.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The policy remains completely neutral with _______ to private domestic investments.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `respect`
-
+- **Enfoque:** With Respect To
 - **Categoría Gramatical:** Sustantivo en colocación formal
 - **Estructura Sintáctica:** `with respect to + noun`
 - **Razón Explicativa:** 'Respect' completa 'with respect to' ('con respecto a').
@@ -378,15 +376,15 @@ The policy remains completely neutral with _______ to private domestic investmen
 
 ---
 
-### Test 322 — In Favor Of #flashcards/cambridge/part2
+### Test 322
 
-An overwhelming majority voted in _______ of adopting the comprehensive environmental charter.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> An overwhelming majority voted in _______ of adopting the comprehensive environmental charter.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `favor`
-
+- **Enfoque:** In Favor Of
 - **Categoría Gramatical:** Sustantivo en locución de apoyo
 - **Estructura Sintáctica:** `in favor of + noun`
 - **Razón Explicativa:** 'Favor' forma la expresión 'in favor of' ('a favor de').
@@ -395,15 +393,15 @@ An overwhelming majority voted in _______ of adopting the comprehensive environm
 
 ---
 
-### Test 323 — In Charge Of #flashcards/cambridge/part2
+### Test 323
 
-Who will be in _______ of coordinating logistics during the international conference?
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Who will be in _______ of coordinating logistics during the international conference?
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `charge`
-
+- **Enfoque:** In Charge Of
 - **Categoría Gramatical:** Sustantivo en locución de responsabilidad
 - **Estructura Sintáctica:** `in charge of + -ing / noun`
 - **Razón Explicativa:** 'Charge' completa 'in charge of' ('a cargo de / responsable de').
@@ -412,15 +410,15 @@ Who will be in _______ of coordinating logistics during the international confer
 
 ---
 
-### Test 324 — In Danger Of #flashcards/cambridge/part2
+### Test 324
 
-Several endemic amphibian species are currently in _______ of extinction due to habitat loss.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Several endemic amphibian species are currently in _______ of extinction due to habitat loss.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `danger`
-
+- **Enfoque:** In Danger Of
 - **Categoría Gramatical:** Sustantivo en frase de riesgo
 - **Estructura Sintáctica:** `in danger of + noun`
 - **Razón Explicativa:** 'Danger' forma la frase fija 'in danger of extinction' ('en peligro de extinción').
@@ -429,15 +427,15 @@ Several endemic amphibian species are currently in _______ of extinction due to 
 
 ---
 
-### Test 325 — On The Verge Of #flashcards/cambridge/part2
+### Test 325
 
-Astronomers believe we are on the _______ of discovering signatures of extraterrestrial life.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Astronomers believe we are on the _______ of discovering signatures of extraterrestrial life.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `verge`
-
+- **Enfoque:** On The Verge Of
 - **Categoría Gramatical:** Sustantivo en modismo temporal inminente
 - **Estructura Sintáctica:** `on the verge of + -ing / noun`
 - **Razón Explicativa:** 'Verge' forma 'on the verge of' ('a punto de / al borde de').
@@ -446,15 +444,15 @@ Astronomers believe we are on the _______ of discovering signatures of extraterr
 
 ---
 
-### Test 326 — On The Brink Of #flashcards/cambridge/part2
+### Test 326
 
-The two neighboring states seemed on the _______ of war before diplomatic mediators intervened.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The two neighboring states seemed on the _______ of war before diplomatic mediators intervened.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `brink`
-
+- **Enfoque:** On The Brink Of
 - **Categoría Gramatical:** Sustantivo en modismo de inminencia crítica
 - **Estructura Sintáctica:** `on the brink of + noun`
 - **Razón Explicativa:** 'Brink' se usa característicamente con sustantivos dramáticos (war, collapse, disaster).
@@ -463,15 +461,15 @@ The two neighboring states seemed on the _______ of war before diplomatic mediat
 
 ---
 
-### Test 327 — On The Point Of #flashcards/cambridge/part2
+### Test 327
 
-She was on the _______ of resigning when the managing director offered her a substantial promotion.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> She was on the _______ of resigning when the managing director offered her a substantial promotion.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `point`
-
+- **Enfoque:** On The Point Of
 - **Categoría Gramatical:** Sustantivo de inminencia de acción
 - **Estructura Sintáctica:** `on the point of + -ing`
 - **Razón Explicativa:** 'Point' es la palabra canónica en la estructura 'on the point of doing sth'.
@@ -480,15 +478,15 @@ She was on the _______ of resigning when the managing director offered her a sub
 
 ---
 
-### Test 328 — At The Cost Of #flashcards/cambridge/part2
+### Test 328
 
-Economic expansion cannot be pursued at the _______ of environmental degradation.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Economic expansion cannot be pursued at the _______ of environmental degradation.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `cost`
-
+- **Enfoque:** At The Cost Of
 - **Categoría Gramatical:** Sustantivo en locución de sacrificio
 - **Estructura Sintáctica:** `at the cost of + noun`
 - **Razón Explicativa:** 'Cost' completa la locución 'at the cost of' ('a costa de').
@@ -497,15 +495,15 @@ Economic expansion cannot be pursued at the _______ of environmental degradation
 
 ---
 
-### Test 329 — At The Expense Of #flashcards/cambridge/part2
+### Test 329
 
-He achieved dazzling corporate success at the _______ of his physical health and family life.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> He achieved dazzling corporate success at the _______ of his physical health and family life.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `expense`
-
+- **Enfoque:** At The Expense Of
 - **Categoría Gramatical:** Sustantivo en locución de perjuicio
 - **Estructura Sintáctica:** `at the expense of + noun`
 - **Razón Explicativa:** 'Expense' forma la clásica locución 'at the expense of' ('a expensas de').
@@ -514,15 +512,15 @@ He achieved dazzling corporate success at the _______ of his physical health and
 
 ---
 
-### Test 330 — At The Risk Of #flashcards/cambridge/part2
+### Test 330
 
-At the _______ of sounding repetitive, let me emphasize once again the necessity of daily discipline.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> At the _______ of sounding repetitive, let me emphasize once again the necessity of daily discipline.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `risk`
-
+- **Enfoque:** At The Risk Of
 - **Categoría Gramatical:** Sustantivo en marcador discursivo de cautela
 - **Estructura Sintáctica:** `at the risk of + -ing`
 - **Razón Explicativa:** 'Risk' encabeza fórmulas de cortesía retórica ('a riesgo de parecer...').
@@ -531,15 +529,15 @@ At the _______ of sounding repetitive, let me emphasize once again the necessity
 
 ---
 
-### Test 331 — At The Mercy Of #flashcards/cambridge/part2
+### Test 331
 
-The stranded vessel was completely at the _______ of the violent offshore gale.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The stranded vessel was completely at the _______ of the violent offshore gale.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `mercy`
-
+- **Enfoque:** At The Mercy Of
 - **Categoría Gramatical:** Sustantivo en locución idiomática de vulnerabilidad
 - **Estructura Sintáctica:** `at the mercy of + noun`
 - **Razón Explicativa:** 'Mercy' forma la colocación fija 'at the mercy of' ('a merced de').
@@ -548,15 +546,15 @@ The stranded vessel was completely at the _______ of the violent offshore gale.
 
 ---
 
-### Test 332 — By Means Of #flashcards/cambridge/part2
+### Test 332
 
-The ancient pyramid stones were hauled to the summit by _______ of counterweighted timber sleds.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The ancient pyramid stones were hauled to the summit by _______ of counterweighted timber sleds.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `means`
-
+- **Enfoque:** By Means Of
 - **Categoría Gramatical:** Sustantivo en locución instrumental
 - **Estructura Sintáctica:** `by means of + noun`
 - **Razón Explicativa:** 'Means' completa 'by means of' ('por medio de / mediante').
@@ -565,15 +563,15 @@ The ancient pyramid stones were hauled to the summit by _______ of counterweight
 
 ---
 
-### Test 333 — By Virtue Of #flashcards/cambridge/part2
+### Test 333
 
-She qualified for the advanced scholarship by _______ of her groundbreaking work in astrophysics.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> She qualified for the advanced scholarship by _______ of her groundbreaking work in astrophysics.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `virtue`
-
+- **Enfoque:** By Virtue Of
 - **Categoría Gramatical:** Sustantivo en locución de mérito formal
 - **Estructura Sintáctica:** `by virtue of + noun / -ing`
 - **Razón Explicativa:** 'Virtue' significa 'en virtud de / gracias a'.
@@ -582,15 +580,15 @@ She qualified for the advanced scholarship by _______ of her groundbreaking work
 
 ---
 
-### Test 334 — By Way Of #flashcards/cambridge/part2
+### Test 334
 
-He offered a sincere apology by _______ of an explanation for his uncharacteristic tardiness.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> He offered a sincere apology by _______ of an explanation for his uncharacteristic tardiness.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `way`
-
+- **Enfoque:** By Way Of
 - **Categoría Gramatical:** Sustantivo en locución de modalidad funcional
 - **Estructura Sintáctica:** `by way of + noun`
 - **Razón Explicativa:** 'Way' forma 'by way of' ('a modo de / a guisa de').
@@ -599,15 +597,15 @@ He offered a sincere apology by _______ of an explanation for his uncharacterist
 
 ---
 
-### Test 335 — By No Means #flashcards/cambridge/part2
+### Test 335
 
-The proposed tax reform is by _______ means guaranteed to pass through the senate this term.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The proposed tax reform is by _______ means guaranteed to pass through the senate this term.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `no`
-
+- **Enfoque:** By No Means
 - **Categoría Gramatical:** Determinante negativo en locución enfática
 - **Estructura Sintáctica:** `by no means + adj / passive`
 - **Razón Explicativa:** 'No' completa el modismo enfático 'by no means' ('de ninguna manera / en absoluto').
@@ -616,15 +614,15 @@ The proposed tax reform is by _______ means guaranteed to pass through the senat
 
 ---
 
-### Test 336 — In Comparison With #flashcards/cambridge/part2
+### Test 336
 
-In _______ with previous fiscal years, operational overheads decreased by twelve percent.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> In _______ with previous fiscal years, operational overheads decreased by twelve percent.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `comparison`
-
+- **Enfoque:** In Comparison With
 - **Categoría Gramatical:** Sustantivo en locución comparativa
 - **Estructura Sintáctica:** `in comparison with / to + noun`
 - **Razón Explicativa:** 'Comparison' completa la frase estándar de comparación analítica 'in comparison with'.
@@ -633,15 +631,15 @@ In _______ with previous fiscal years, operational overheads decreased by twelve
 
 ---
 
-### Test 337 — In Accordance With #flashcards/cambridge/part2
+### Test 337
 
-All laboratory safety procedures must strictly be carried out in _______ with international protocols.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> All laboratory safety procedures must strictly be carried out in _______ with international protocols.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `accordance`
-
+- **Enfoque:** In Accordance With
 - **Categoría Gramatical:** Sustantivo en locución de conformidad
 - **Estructura Sintáctica:** `in accordance with + noun`
 - **Razón Explicativa:** 'Accordance' forma la fórmula legal y técnica 'in accordance with' ('de conformidad con').
@@ -650,15 +648,15 @@ All laboratory safety procedures must strictly be carried out in _______ with in
 
 ---
 
-### Test 338 — In Compliance With #flashcards/cambridge/part2
+### Test 338
 
-The company modified its privacy terms in _______ with the new European data protection directive.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The company modified its privacy terms in _______ with the new European data protection directive.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `compliance`
-
+- **Enfoque:** In Compliance With
 - **Categoría Gramatical:** Sustantivo en locución regulatoria
 - **Estructura Sintáctica:** `in compliance with + noun`
 - **Razón Explicativa:** 'Compliance' completa la locución institucional 'in compliance with' ('en cumplimiento de').
@@ -667,15 +665,15 @@ The company modified its privacy terms in _______ with the new European data pro
 
 ---
 
-### Test 339 — In Common With #flashcards/cambridge/part2
+### Test 339
 
-In _______ with many Nordic economies, Norway invests heavily in sovereign welfare capital.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> In _______ with many Nordic economies, Norway invests heavily in sovereign welfare capital.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `common`
-
+- **Enfoque:** In Common With
 - **Categoría Gramatical:** Adjetivo/sustantivo en frase compartida
 - **Estructura Sintáctica:** `in common with + noun`
 - **Razón Explicativa:** 'Common' forma la expresión 'in common with' ('al igual que / en común con').
@@ -684,15 +682,15 @@ In _______ with many Nordic economies, Norway invests heavily in sovereign welfa
 
 ---
 
-### Test 340 — In Response To #flashcards/cambridge/part2
+### Test 340
 
-The government deployed emergency medical units in _______ to the outbreak of the epidemic.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The government deployed emergency medical units in _______ to the outbreak of the epidemic.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `response`
-
+- **Enfoque:** In Response To
 - **Categoría Gramatical:** Sustantivo de reacción
 - **Estructura Sintáctica:** `in response to + noun`
 - **Razón Explicativa:** 'Response' completa 'in response to' ('en respuesta a').
@@ -701,15 +699,15 @@ The government deployed emergency medical units in _______ to the outbreak of th
 
 ---
 
-### Test 341 — With Reference To #flashcards/cambridge/part2
+### Test 341
 
-I am writing with _______ to your recent article concerning urban renewable infrastructure.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> I am writing with _______ to your recent article concerning urban renewable infrastructure.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `reference`
-
+- **Enfoque:** With Reference To
 - **Categoría Gramatical:** Sustantivo en fórmula epistolar formal
 - **Estructura Sintáctica:** `with reference to + noun`
 - **Razón Explicativa:** 'Reference' forma la fórmula comercial 'with reference to' ('en relación con / con referencia a').
@@ -718,15 +716,15 @@ I am writing with _______ to your recent article concerning urban renewable infr
 
 ---
 
-### Test 342 — In Aid Of #flashcards/cambridge/part2
+### Test 342
 
-The charity concert raised over fifty thousand pounds in _______ of cancer research charities.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The charity concert raised over fifty thousand pounds in _______ of cancer research charities.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `aid`
-
+- **Enfoque:** In Aid Of
 - **Categoría Gramatical:** Sustantivo en frase benéfica
 - **Estructura Sintáctica:** `in aid of + noun`
 - **Razón Explicativa:** 'Aid' completa la expresión caritativa 'in aid of' ('a beneficio de').
@@ -735,15 +733,15 @@ The charity concert raised over fifty thousand pounds in _______ of cancer resea
 
 ---
 
-### Test 343 — In Search Of #flashcards/cambridge/part2
+### Test 343
 
-The intrepid biologists trekked into the rainforest in _______ of undiscovered orchid species.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The intrepid biologists trekked into the rainforest in _______ of undiscovered orchid species.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `search`
-
+- **Enfoque:** In Search Of
 - **Categoría Gramatical:** Sustantivo en locución de búsqueda
 - **Estructura Sintáctica:** `in search of + noun`
 - **Razón Explicativa:** 'Search' forma 'in search of' ('en busca de').
@@ -752,15 +750,15 @@ The intrepid biologists trekked into the rainforest in _______ of undiscovered o
 
 ---
 
-### Test 344 — In Pursuit Of #flashcards/cambridge/part2
+### Test 344
 
-She relocated across the continent in _______ of superior professional opportunities.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> She relocated across the continent in _______ of superior professional opportunities.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `pursuit`
-
+- **Enfoque:** In Pursuit Of
 - **Categoría Gramatical:** Sustantivo en locución de ambición
 - **Estructura Sintáctica:** `in pursuit of + noun`
 - **Razón Explicativa:** 'Pursuit' completa la expresión formal 'in pursuit of' ('en pos de / en búsqueda de').
@@ -769,15 +767,15 @@ She relocated across the continent in _______ of superior professional opportuni
 
 ---
 
-### Test 345 — In Need Of #flashcards/cambridge/part2
+### Test 345
 
-The historic cathedral's masonry is severely weathered and urgently in _______ of comprehensive restoration.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The historic cathedral's masonry is severely weathered and urgently in _______ of comprehensive restoration.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `need`
-
+- **Enfoque:** In Need Of
 - **Categoría Gramatical:** Sustantivo en locución de carencia
 - **Estructura Sintáctica:** `in need of + noun`
 - **Razón Explicativa:** 'Need' forma la estructura fija 'in need of' ('con necesidad de / que necesita').
@@ -786,15 +784,15 @@ The historic cathedral's masonry is severely weathered and urgently in _______ o
 
 ---
 
-### Test 346 — For Lack Of #flashcards/cambridge/part2
+### Test 346
 
-The expedition ultimately foundered for _______ of adequate potable water reserves.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The expedition ultimately foundered for _______ of adequate potable water reserves.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `lack`
-
+- **Enfoque:** For Lack Of
 - **Categoría Gramatical:** Sustantivo en locución de carencia causal
 - **Estructura Sintáctica:** `for lack of + noun`
 - **Razón Explicativa:** 'Lack' completa la expresión causal 'for lack of' ('por falta de').
@@ -803,15 +801,15 @@ The expedition ultimately foundered for _______ of adequate potable water reserv
 
 ---
 
-### Test 347 — For Want Of #flashcards/cambridge/part2
+### Test 347
 
-For _______ of a simple ten-cent fuse, the entire multimillion-dollar assembly line ground to a halt.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> For _______ of a simple ten-cent fuse, the entire multimillion-dollar assembly line ground to a halt.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `want`
-
+- **Enfoque:** For Want Of
 - **Categoría Gramatical:** Sustantivo en modismo literario clásico
 - **Estructura Sintáctica:** `for want of + noun`
 - **Razón Explicativa:** 'Want' en sentido arcaico formal significa 'carencia/falta' ('for want of a nail...').
@@ -820,15 +818,15 @@ For _______ of a simple ten-cent fuse, the entire multimillion-dollar assembly l
 
 ---
 
-### Test 348 — Capable Of #flashcards/cambridge/part2
+### Test 348
 
-Autonomous AI agents are increasingly capable _______ synthesizing complex analytical reports.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Autonomous AI agents are increasingly capable _______ synthesizing complex analytical reports.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Capable Of
 - **Categoría Gramatical:** Preposición dependiente de adjetivo
 - **Estructura Sintáctica:** `capable + of + -ing`
 - **Razón Explicativa:** 'Capable' rige invariablemente la preposición 'of' seguida de gerundio.
@@ -837,15 +835,15 @@ Autonomous AI agents are increasingly capable _______ synthesizing complex analy
 
 ---
 
-### Test 349 — Aware Of #flashcards/cambridge/part2
+### Test 349
 
-Citizens must become acutely aware _______ the consequences of digital privacy concessions.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Citizens must become acutely aware _______ the consequences of digital privacy concessions.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Aware Of
 - **Categoría Gramatical:** Preposición dependiente de adjetivo
 - **Estructura Sintáctica:** `aware + of + noun`
 - **Razón Explicativa:** 'Aware' se combina con la preposición 'of'.
@@ -854,15 +852,15 @@ Citizens must become acutely aware _______ the consequences of digital privacy c
 
 ---
 
-### Test 350 — Conscious Of #flashcards/cambridge/part2
+### Test 350
 
-The surgeon was fully conscious _______ the grave risks involved in the unprecedented transplant.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The surgeon was fully conscious _______ the grave risks involved in the unprecedented transplant.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Conscious Of
 - **Categoría Gramatical:** Preposición dependiente
 - **Estructura Sintáctica:** `conscious + of + noun`
 - **Razón Explicativa:** 'Conscious' rige 'of' al denotar percatación o discernimiento.
@@ -871,15 +869,15 @@ The surgeon was fully conscious _______ the grave risks involved in the unpreced
 
 ---
 
-### Test 351 — Jealous Of #flashcards/cambridge/part2
+### Test 351
 
-He was secretly jealous _______ his colleague's rapid promotion within the department.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> He was secretly jealous _______ his colleague's rapid promotion within the department.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Jealous Of
 - **Categoría Gramatical:** Preposición dependiente de sentimiento
 - **Estructura Sintáctica:** `jealous + of + noun`
 - **Razón Explicativa:** 'Jealous' rige la preposición 'of'.
@@ -888,15 +886,15 @@ He was secretly jealous _______ his colleague's rapid promotion within the depar
 
 ---
 
-### Test 352 — Envious Of #flashcards/cambridge/part2
+### Test 352
 
-Rather than being envious _______ her peers, she celebrated their academic triumphs.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Rather than being envious _______ her peers, she celebrated their academic triumphs.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Envious Of
 - **Categoría Gramatical:** Preposición dependiente
 - **Estructura Sintáctica:** `envious + of + noun`
 - **Razón Explicativa:** 'Envious' rige la preposición 'of'.
@@ -905,15 +903,15 @@ Rather than being envious _______ her peers, she celebrated their academic trium
 
 ---
 
-### Test 353 — Typical Of #flashcards/cambridge/part2
+### Test 353
 
-Such impulsive decision-making is entirely typical _______ inexperienced venture capitalists.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Such impulsive decision-making is entirely typical _______ inexperienced venture capitalists.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Typical Of
 - **Categoría Gramatical:** Preposición de adjetivo característico
 - **Estructura Sintáctica:** `typical + of + noun`
 - **Razón Explicativa:** 'Typical' rige siempre la preposición 'of' ('típico de / propio de').
@@ -922,15 +920,15 @@ Such impulsive decision-making is entirely typical _______ inexperienced venture
 
 ---
 
-### Test 354 — Characteristic Of #flashcards/cambridge/part2
+### Test 354
 
-A rigorous empirical approach is characteristic _______ modern biochemical research.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> A rigorous empirical approach is characteristic _______ modern biochemical research.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Characteristic Of
 - **Categoría Gramatical:** Preposición dependiente
 - **Estructura Sintáctica:** `characteristic + of + noun`
 - **Razón Explicativa:** 'Characteristic' se construye con 'of' para denotar rasgo distintivo.
@@ -939,15 +937,15 @@ A rigorous empirical approach is characteristic _______ modern biochemical resea
 
 ---
 
-### Test 355 — Critical Of #flashcards/cambridge/part2
+### Test 355
 
-The editorial was fiercely critical _______ the minister's handling of the monetary crisis.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The editorial was fiercely critical _______ the minister's handling of the monetary crisis.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Critical Of
 - **Categoría Gramatical:** Preposición de evaluación
 - **Estructura Sintáctica:** `critical + of + noun`
 - **Razón Explicativa:** 'Critical' rige 'of' cuando significa reprobatorio o censor.
@@ -956,15 +954,15 @@ The editorial was fiercely critical _______ the minister's handling of the monet
 
 ---
 
-### Test 356 — Fond Of #flashcards/cambridge/part2
+### Test 356
 
-Throughout his childhood in rural Yorkshire, he was remarkably fond _______ collecting rare beetles.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Throughout his childhood in rural Yorkshire, he was remarkably fond _______ collecting rare beetles.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Fond Of
 - **Categoría Gramatical:** Preposición de apego afectivo
 - **Estructura Sintáctica:** `fond + of + -ing`
 - **Razón Explicativa:** 'Fond' rige invariablemente la preposición 'of'.
@@ -973,15 +971,15 @@ Throughout his childhood in rural Yorkshire, he was remarkably fond _______ coll
 
 ---
 
-### Test 357 — Proud Of #flashcards/cambridge/part2
+### Test 357
 
-The academy had every reason to be proud _______ its students' stellar test performances.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The academy had every reason to be proud _______ its students' stellar test performances.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Proud Of
 - **Categoría Gramatical:** Preposición de orgullo
 - **Estructura Sintáctica:** `proud + of + noun`
 - **Razón Explicativa:** 'Proud' rige 'of' ('orgulloso de').
@@ -990,15 +988,15 @@ The academy had every reason to be proud _______ its students' stellar test perf
 
 ---
 
-### Test 358 — Ashamed Of #flashcards/cambridge/part2
+### Test 358
 
-He felt deeply ashamed _______ having misrepresented the financial statistics to the board.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> He felt deeply ashamed _______ having misrepresented the financial statistics to the board.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Ashamed Of
 - **Categoría Gramatical:** Preposición de vergüenza moral
 - **Estructura Sintáctica:** `ashamed + of + -ing / noun`
 - **Razón Explicativa:** 'Ashamed' rige 'of' ante la causa de la vergüenza.
@@ -1007,15 +1005,15 @@ He felt deeply ashamed _______ having misrepresented the financial statistics to
 
 ---
 
-### Test 359 — Guilty Of #flashcards/cambridge/part2
+### Test 359
 
-The defendant was formally found guilty _______ insider trading and fraudulent accounting.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The defendant was formally found guilty _______ insider trading and fraudulent accounting.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Guilty Of
 - **Categoría Gramatical:** Preposición jurídica de culpabilidad
 - **Estructura Sintáctica:** `guilty + of + noun`
 - **Razón Explicativa:** 'Guilty' rige 'of' para el delito cometido.
@@ -1024,15 +1022,15 @@ The defendant was formally found guilty _______ insider trading and fraudulent a
 
 ---
 
-### Test 360 — Innocent Of #flashcards/cambridge/part2
+### Test 360
 
-She maintained steadfastly that she was innocent _______ any intentional wrongdoing.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> She maintained steadfastly that she was innocent _______ any intentional wrongdoing.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Innocent Of
 - **Categoría Gramatical:** Preposición de inocencia
 - **Estructura Sintáctica:** `innocent + of + noun`
 - **Razón Explicativa:** 'Innocent' rige 'of' ('inocente de').
@@ -1041,15 +1039,15 @@ She maintained steadfastly that she was innocent _______ any intentional wrongdo
 
 ---
 
-### Test 361 — Devoid Of #flashcards/cambridge/part2
+### Test 361
 
-The desert wasteland was desolate and seemingly devoid _______ any observable animal life.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The desert wasteland was desolate and seemingly devoid _______ any observable animal life.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Devoid Of
 - **Categoría Gramatical:** Preposición de carencia absoluta
 - **Estructura Sintáctica:** `devoid + of + noun`
 - **Razón Explicativa:** 'Devoid' requiere obligatoriamente 'of' ('desprovisto de').
@@ -1058,15 +1056,15 @@ The desert wasteland was desolate and seemingly devoid _______ any observable an
 
 ---
 
-### Test 362 — Irrespective Of #flashcards/cambridge/part2
+### Test 362
 
-All candidates will be judged strictly on merit, irrespective _______ their socioeconomic background.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> All candidates will be judged strictly on merit, irrespective _______ their socioeconomic background.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Irrespective Of
 - **Categoría Gramatical:** Preposición compuesta
 - **Estructura Sintáctica:** `irrespective + of + noun`
 - **Razón Explicativa:** 'Irrespective' se combina fijamente con 'of' ('independientemente de').
@@ -1075,15 +1073,15 @@ All candidates will be judged strictly on merit, irrespective _______ their soci
 
 ---
 
-### Test 363 — Regardless Of #flashcards/cambridge/part2
+### Test 363
 
-The outdoor expedition will proceed tomorrow, regardless _______ the weather conditions.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The outdoor expedition will proceed tomorrow, regardless _______ the weather conditions.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Regardless Of
 - **Categoría Gramatical:** Locución preposicional concesiva
 - **Estructura Sintáctica:** `regardless + of + noun`
 - **Razón Explicativa:** 'Regardless' exige la preposición 'of' ('a pesar de / sin importar').
@@ -1092,15 +1090,15 @@ The outdoor expedition will proceed tomorrow, regardless _______ the weather con
 
 ---
 
-### Test 364 — Susceptible To #flashcards/cambridge/part2
+### Test 364
 
-Premature infants are exceptionally susceptible _______ respiratory infections during the winter.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Premature infants are exceptionally susceptible _______ respiratory infections during the winter.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Susceptible To
 - **Categoría Gramatical:** Preposición dependiente de vulnerabilidad médica
 - **Estructura Sintáctica:** `susceptible + to + noun`
 - **Razón Explicativa:** 'Susceptible' rige 'to' ('susceptible a / propenso a').
@@ -1109,15 +1107,15 @@ Premature infants are exceptionally susceptible _______ respiratory infections d
 
 ---
 
-### Test 365 — Prone To #flashcards/cambridge/part2
+### Test 365
 
-Elderly patients with osteoporosis are notoriously prone _______ bone fractures after minor falls.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Elderly patients with osteoporosis are notoriously prone _______ bone fractures after minor falls.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Prone To
 - **Categoría Gramatical:** Preposición dependiente de tendencia
 - **Estructura Sintáctica:** `prone + to + noun / -ing`
 - **Razón Explicativa:** 'Prone' rige la preposición 'to' ('propenso a').
@@ -1126,15 +1124,15 @@ Elderly patients with osteoporosis are notoriously prone _______ bone fractures 
 
 ---
 
-### Test 366 — Vulnerable To #flashcards/cambridge/part2
+### Test 366
 
-Coastal metropolitan areas are becoming increasingly vulnerable _______ sea-level surges.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Coastal metropolitan areas are becoming increasingly vulnerable _______ sea-level surges.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Vulnerable To
 - **Categoría Gramatical:** Preposición de exposición al riesgo
 - **Estructura Sintáctica:** `vulnerable + to + noun`
 - **Razón Explicativa:** 'Vulnerable' rige 'to' ('vulnerable ante / a').
@@ -1143,15 +1141,15 @@ Coastal metropolitan areas are becoming increasingly vulnerable _______ sea-leve
 
 ---
 
-### Test 367 — Indifferent To #flashcards/cambridge/part2
+### Test 367
 
-The authoritarian regime remained callous and indifferent _______ public outcry and international sanctions.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The authoritarian regime remained callous and indifferent _______ public outcry and international sanctions.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Indifferent To
 - **Categoría Gramatical:** Preposición de actitud distante
 - **Estructura Sintáctica:** `indifferent + to + noun`
 - **Razón Explicativa:** 'Indifferent' rige la preposición 'to' ('indiferente a').
@@ -1160,15 +1158,15 @@ The authoritarian regime remained callous and indifferent _______ public outcry 
 
 ---
 
-### Test 368 — Superior To #flashcards/cambridge/part2
+### Test 368
 
-This new carbon-composite fuselage is vastly superior _______ traditional aluminum airframes.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> This new carbon-composite fuselage is vastly superior _______ traditional aluminum airframes.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Superior To
 - **Categoría Gramatical:** Preposición con comparativos de origen latino
 - **Estructura Sintáctica:** `superior + to + noun`
 - **Razón Explicativa:** Los adjetivos comparativos latinos (superior, inferior, senior, junior) rigen 'to', nunca 'than'.
@@ -1177,15 +1175,15 @@ This new carbon-composite fuselage is vastly superior _______ traditional alumin
 
 ---
 
-### Test 369 — Inferior To #flashcards/cambridge/part2
+### Test 369
 
-Second-tier replica components are invariably inferior _______ certified original manufacturer parts.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Second-tier replica components are invariably inferior _______ certified original manufacturer parts.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Inferior To
 - **Categoría Gramatical:** Preposición con adjetivo comparativo latino
 - **Estructura Sintáctica:** `inferior + to + noun`
 - **Razón Explicativa:** 'Inferior' se construye con 'to', excluyendo 'than'.
@@ -1194,15 +1192,15 @@ Second-tier replica components are invariably inferior _______ certified origina
 
 ---
 
-### Test 370 — Prior To #flashcards/cambridge/part2
+### Test 370
 
-All passengers must complete digital customs clearance prior _______ boarding the intercontinental flight.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> All passengers must complete digital customs clearance prior _______ boarding the intercontinental flight.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Prior To
 - **Categoría Gramatical:** Locución preposicional temporal formal
 - **Estructura Sintáctica:** `prior + to + -ing / noun`
 - **Razón Explicativa:** 'Prior to' es la forma formal estándar de 'before'.
@@ -1211,15 +1209,15 @@ All passengers must complete digital customs clearance prior _______ boarding th
 
 ---
 
-### Test 371 — Contrary To #flashcards/cambridge/part2
+### Test 371
 
-_______ to popular belief, bats are not blind and rely on sophisticated eyesight alongside echolocation.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ to popular belief, bats are not blind and rely on sophisticated eyesight alongside echolocation.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Contrary`
-
+- **Enfoque:** Contrary To
 - **Categoría Gramatical:** Adjetivo/locución preposicional adversativa
 - **Estructura Sintáctica:** `contrary to + noun`
 - **Razón Explicativa:** 'Contrary' forma 'contrary to' ('al contrario de / en contra de').
@@ -1228,15 +1226,15 @@ _______ to popular belief, bats are not blind and rely on sophisticated eyesight
 
 ---
 
-### Test 372 — Opposed To #flashcards/cambridge/part2
+### Test 372
 
-Many conservationists remain vehemently opposed _______ the construction of the highway through the reserve.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Many conservationists remain vehemently opposed _______ the construction of the highway through the reserve.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Opposed To
 - **Categoría Gramatical:** Preposición dependiente de oposición
 - **Estructura Sintáctica:** `opposed + to + -ing / noun`
 - **Razón Explicativa:** 'Opposed' rige la preposición 'to' ('opuesto a').
@@ -1245,15 +1243,15 @@ Many conservationists remain vehemently opposed _______ the construction of the 
 
 ---
 
-### Test 373 — Similar To #flashcards/cambridge/part2
+### Test 373
 
-The genetic sequence of the isolated pathogen is strikingly similar _______ that of avian influenza.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The genetic sequence of the isolated pathogen is strikingly similar _______ that of avian influenza.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Similar To
 - **Categoría Gramatical:** Preposición dependiente de similitud
 - **Estructura Sintáctica:** `similar + to + noun`
 - **Razón Explicativa:** 'Similar' rige siempre 'to' en inglés.
@@ -1262,15 +1260,15 @@ The genetic sequence of the isolated pathogen is strikingly similar _______ that
 
 ---
 
-### Test 374 — Identical To #flashcards/cambridge/part2
+### Test 374
 
-His architectural blueprints were virtually identical _______ the original plans drafted in 1920.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> His architectural blueprints were virtually identical _______ the original plans drafted in 1920.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Identical To
 - **Categoría Gramatical:** Preposición dependiente
 - **Estructura Sintáctica:** `identical + to / with + noun`
 - **Razón Explicativa:** 'To' es la preposición preferida para correspondencia exacta en inglés británico.
@@ -1279,15 +1277,15 @@ His architectural blueprints were virtually identical _______ the original plans
 
 ---
 
-### Test 375 — Equivalent To #flashcards/cambridge/part2
+### Test 375
 
-Completing this postgraduate diploma is considered equivalent _______ two full years of industry experience.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Completing this postgraduate diploma is considered equivalent _______ two full years of industry experience.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `to`
-
+- **Enfoque:** Equivalent To
 - **Categoría Gramatical:** Preposición dependiente de equivalencia
 - **Estructura Sintáctica:** `equivalent + to + noun`
 - **Razón Explicativa:** 'Equivalent' rige obligatoriamente 'to'.

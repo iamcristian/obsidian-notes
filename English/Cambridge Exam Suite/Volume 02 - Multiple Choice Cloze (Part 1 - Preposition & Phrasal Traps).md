@@ -21,17 +21,20 @@ total_tests: 50
 
 ---
 
-### Test 051 — Dependent Prepositions: Insist on #flashcards/cambridge/part1
+### Test 051
 
-Despite fierce objections from the client, the technical lead insisted ______ auditing the legacy encryption module.
-
-- **A)** in
-- **B)** on
-- **C)** at
-- **D)** for
+> [!question] Multiple Choice Cloze
+> Despite fierce objections from the client, the technical lead insisted ______ auditing the legacy encryption module.
+>
+> - **A)** in
+> - **B)** on
+> - **C)** at
+> - **D)** for
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) on**
-
+- **Enfoque:** Dependent Prepositions: Insist on
 - **Colocación / Regla:** Preposición Dependiente: *insist on + gerund / noun*
 - **Estructura Sintáctica:** `to insist on + -ing (insistir en hacer algo)`
 - **Razón Explicativa:** En inglés, el verbo *insist* rige invariablemente la preposición *on* cuando va seguido de sustantivo o gerundio. El español 'insistir en' induce al error común de elegir *in*.
@@ -43,17 +46,20 @@ Despite fierce objections from the client, the technical lead insisted ______ au
 
 ---
 
-### Test 052 — Dependent Prepositions: Succeed in #flashcards/cambridge/part1
+### Test 052
 
-After three weeks of rigorous debugging, the team finally succeeded ______ isolating the elusive race condition.
-
-- **A)** to
-- **B)** in
-- **C)** at
-- **D)** on
+> [!question] Multiple Choice Cloze
+> After three weeks of rigorous debugging, the team finally succeeded ______ isolating the elusive race condition.
+>
+> - **A)** to
+> - **B)** in
+> - **C)** at
+> - **D)** on
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) in**
-
+- **Enfoque:** Dependent Prepositions: Succeed in
 - **Colocación / Regla:** Preposición Dependiente: *succeed in + gerund*
 - **Estructura Sintáctica:** `to succeed in + -ing (tener éxito en / lograr)`
 - **Razón Explicativa:** *Succeed* exige la preposición *in* seguida obligatoriamente de la forma gerundio (-ing). Se contrapone a *manage to + infinitive*.
@@ -65,17 +71,20 @@ After three weeks of rigorous debugging, the team finally succeeded ______ isola
 
 ---
 
-### Test 053 — Dependent Prepositions: Persist in #flashcards/cambridge/part1
+### Test 053
 
-The junior developer persisted ______ using deprecated synchronous API calls despite multiple code review warnings.
-
-- **A)** with
-- **B)** on
-- **C)** in
-- **D)** at
+> [!question] Multiple Choice Cloze
+> The junior developer persisted ______ using deprecated synchronous API calls despite multiple code review warnings.
+>
+> - **A)** with
+> - **B)** on
+> - **C)** in
+> - **D)** at
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) in**
-
+- **Enfoque:** Dependent Prepositions: Persist in
 - **Colocación / Regla:** Preposición Dependiente: *persist in + gerund*
 - **Estructura Sintáctica:** `to persist in + -ing (persistir en hacer algo)`
 - **Razón Explicativa:** *Persist* rige la preposición *in* para acciones continuadas. Cuando va con objetos físicos se puede usar *persist with*, pero con acciones (-ing) la forma obligatoria es *persist in*.
@@ -87,17 +96,20 @@ The junior developer persisted ______ using deprecated synchronous API calls des
 
 ---
 
-### Test 054 — Dependent Prepositions: Result in #flashcards/cambridge/part1
+### Test 054
 
-The unhandled null reference exception resulted ______ an immediate crash of the background worker thread.
-
-- **A)** from
-- **B)** in
-- **C)** to
-- **D)** into
+> [!question] Multiple Choice Cloze
+> The unhandled null reference exception resulted ______ an immediate crash of the background worker thread.
+>
+> - **A)** from
+> - **B)** in
+> - **C)** to
+> - **D)** into
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) in**
-
+- **Enfoque:** Dependent Prepositions: Result in
 - **Colocación / Regla:** Preposición Causal / Consecutiva: *result in*
 - **Estructura Sintáctica:** `to result in + noun / -ing (dar lugar a / resultar en)`
 - **Razón Explicativa:** *Result in* introduce la consecuencia o el efecto final. Su opuesto es *result from*, que introduce el origen o la causa.
@@ -109,17 +121,20 @@ The unhandled null reference exception resulted ______ an immediate crash of the
 
 ---
 
-### Test 055 — Dependent Prepositions: Result from #flashcards/cambridge/part1
+### Test 055
 
-The critical security vulnerability resulted ______ an outdated third-party JSON parser bundled with the application.
-
-- **A)** in
-- **B)** from
-- **C)** by
-- **D)** of
+> [!question] Multiple Choice Cloze
+> The critical security vulnerability resulted ______ an outdated third-party JSON parser bundled with the application.
+>
+> - **A)** in
+> - **B)** from
+> - **C)** by
+> - **D)** of
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) from**
-
+- **Enfoque:** Dependent Prepositions: Result from
 - **Colocación / Regla:** Preposición Causal de Origen: *result from*
 - **Estructura Sintáctica:** `to result from + noun (ser consecuencia de / derivar de)`
 - **Razón Explicativa:** *Result from* indica que el sujeto (la vulnerabilidad) fue provocado por el objeto (el analizador desactualizado).
@@ -131,17 +146,20 @@ The critical security vulnerability resulted ______ an outdated third-party JSON
 
 ---
 
-### Test 056 — Dependent Prepositions: Approve of #flashcards/cambridge/part1
+### Test 056
 
-The principal architect does not approve ______ committing compiled binary artifacts into the version control repository.
-
-- **A)** to
-- **B)** of
-- **C)** for
-- **D)** with
+> [!question] Multiple Choice Cloze
+> The principal architect does not approve ______ committing compiled binary artifacts into the version control repository.
+>
+> - **A)** to
+> - **B)** of
+> - **C)** for
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) of**
-
+- **Enfoque:** Dependent Prepositions: Approve of
 - **Colocación / Regla:** Preposición Dependiente de Opinión: *approve of*
 - **Estructura Sintáctica:** `to approve of + noun / -ing (dar el visto bueno moral / aprobar)`
 - **Razón Explicativa:** Cuando *approve* significa considerar algo éticamente o profesionalmente adecuado, rige estrictamente la preposición *of*.
@@ -153,17 +171,20 @@ The principal architect does not approve ______ committing compiled binary artif
 
 ---
 
-### Test 057 — Dependent Prepositions: Rely on #flashcards/cambridge/part1
+### Test 057
 
-Distributed event-driven architectures rely heavily ______ message brokers maintaining durable queues.
-
-- **A)** in
-- **B)** on
-- **C)** at
-- **D)** with
+> [!question] Multiple Choice Cloze
+> Distributed event-driven architectures rely heavily ______ message brokers maintaining durable queues.
+>
+> - **A)** in
+> - **B)** on
+> - **C)** at
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) on**
-
+- **Enfoque:** Dependent Prepositions: Rely on
 - **Colocación / Regla:** Preposición Dependiente: *rely on / upon*
 - **Estructura Sintáctica:** `to rely on + noun / person (depender de / confiar en)`
 - **Razón Explicativa:** *Rely* requiere invariablemente *on* (o su variante más formal *upon*).
@@ -175,17 +196,20 @@ Distributed event-driven architectures rely heavily ______ message brokers maint
 
 ---
 
-### Test 058 — Dependent Prepositions: Object to #flashcards/cambridge/part1
+### Test 058
 
-Several senior developers strongly objected ______ migrating the core database without comprehensive staging benchmarks.
-
-- **A)** to
-- **B)** against
-- **C)** for
-- **D)** with
+> [!question] Multiple Choice Cloze
+> Several senior developers strongly objected ______ migrating the core database without comprehensive staging benchmarks.
+>
+> - **A)** to
+> - **B)** against
+> - **C)** for
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: A) to**
-
+- **Enfoque:** Dependent Prepositions: Object to
 - **Colocación / Regla:** Preposición Dependiente: *object to + gerund*
 - **Estructura Sintáctica:** `to object to + -ing / noun (oponerse a)`
 - **Razón Explicativa:** *Object* exige la preposición *to*. Es fundamental recordar que este *to* es una preposición (no parte de un infinitivo), por lo que va seguido de gerundio (-ing).
@@ -197,17 +221,20 @@ Several senior developers strongly objected ______ migrating the core database w
 
 ---
 
-### Test 059 — Dependent Prepositions: Look Forward to #flashcards/cambridge/part1
+### Test 059
 
-We all look forward ______ deploying the new zero-trust authentication framework next quarter.
-
-- **A)** at
-- **B)** to
-- **C)** for
-- **D)** towards
+> [!question] Multiple Choice Cloze
+> We all look forward ______ deploying the new zero-trust authentication framework next quarter.
+>
+> - **A)** at
+> - **B)** to
+> - **C)** for
+> - **D)** towards
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) to**
-
+- **Enfoque:** Dependent Prepositions: Look Forward to
 - **Colocación / Regla:** Frase Verbal Preposicional C1: *look forward to + -ing*
 - **Estructura Sintáctica:** `to look forward to + -ing / noun (esperar con ilusión / entusiasmo)`
 - **Razón Explicativa:** *Look forward to* exige la preposición *to*, la cual introduce obligatoriamente un gerundio (*deploying*).
@@ -219,17 +246,20 @@ We all look forward ______ deploying the new zero-trust authentication framework
 
 ---
 
-### Test 060 — Dependent Prepositions: Apologize for #flashcards/cambridge/part1
+### Test 060
 
-The cloud provider issued a formal press statement to apologize ______ the catastrophic outage affecting European regions.
-
-- **A)** about
-- **B)** for
-- **C)** of
-- **D)** to
+> [!question] Multiple Choice Cloze
+> The cloud provider issued a formal press statement to apologize ______ the catastrophic outage affecting European regions.
+>
+> - **A)** about
+> - **B)** for
+> - **C)** of
+> - **D)** to
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) for**
-
+- **Enfoque:** Dependent Prepositions: Apologize for
 - **Colocación / Regla:** Preposición Dependiente de Disculpa: *apologize for*
 - **Estructura Sintáctica:** `to apologize to someone FOR something`
 - **Razón Explicativa:** Se pide disculpas A una persona (*to someone*) POR un motivo o falta (*for something*). Al tratarse del motivo del fallo, la preposición correcta es *for*.
@@ -241,17 +271,20 @@ The cloud provider issued a formal press statement to apologize ______ the catas
 
 ---
 
-### Test 061 — Dependent Prepositions: Blame for #flashcards/cambridge/part1
+### Test 061
 
-Management was quick to blame the incident ______ an unvetted configuration change made by an external contractor.
-
-- **A)** for
-- **B)** on
-- **C)** at
-- **D)** with
+> [!question] Multiple Choice Cloze
+> Management was quick to blame the incident ______ an unvetted configuration change made by an external contractor.
+>
+> - **A)** for
+> - **B)** on
+> - **C)** at
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) on**
-
+- **Enfoque:** Dependent Prepositions: Blame for
 - **Colocación / Regla:** Preposición Dependiente de Imputación: *blame something on*
 - **Estructura Sintáctica:** `to blame something ON someone / blame someone FOR something`
 - **Razón Explicativa:** Atención a la estructura sintáctica: cuando el objeto directo es el fallo (*the incident*), la preposición que introduce al culpable es *on* (*blame X on Y*). Si el objeto fuera la persona, sería *blame Y for X*.
@@ -263,17 +296,20 @@ Management was quick to blame the incident ______ an unvetted configuration chan
 
 ---
 
-### Test 062 — Dependent Prepositions: Accuse of #flashcards/cambridge/part1
+### Test 062
 
-The former employee was formally accused ______ exfiltrating proprietary machine learning weights to a foreign competitor.
-
-- **A)** for
-- **B)** of
-- **C)** with
-- **D)** in
+> [!question] Multiple Choice Cloze
+> The former employee was formally accused ______ exfiltrating proprietary machine learning weights to a foreign competitor.
+>
+> - **A)** for
+> - **B)** of
+> - **C)** with
+> - **D)** in
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) of**
-
+- **Enfoque:** Dependent Prepositions: Accuse of
 - **Colocación / Regla:** Preposición Dependiente Judicial: *accuse of*
 - **Estructura Sintáctica:** `to accuse someone of + noun / -ing (acusar de)`
 - **Razón Explicativa:** El verbo *accuse* rige estrictamente la preposición *of*. Se contrapone a *blame for* y *charge with*.
@@ -285,17 +321,20 @@ The former employee was formally accused ______ exfiltrating proprietary machine
 
 ---
 
-### Test 063 — Dependent Prepositions: Prevent from #flashcards/cambridge/part1
+### Test 063
 
-Robust perimeter firewalls prevent unauthorized external traffic ______ accessing the internal microservice network.
-
-- **A)** to
-- **B)** from
-- **C)** against
-- **D)** for
+> [!question] Multiple Choice Cloze
+> Robust perimeter firewalls prevent unauthorized external traffic ______ accessing the internal microservice network.
+>
+> - **A)** to
+> - **B)** from
+> - **C)** against
+> - **D)** for
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) from**
-
+- **Enfoque:** Dependent Prepositions: Prevent from
 - **Colocación / Regla:** Preposición Dependiente de Impedimento: *prevent from*
 - **Estructura Sintáctica:** `to prevent someone/something from + -ing (impedir que alguien haga algo)`
 - **Razón Explicativa:** *Prevent* requiere la preposición *from* seguida de gerundio (-ing) para denotar la acción que se bloquea o evita.
@@ -307,17 +346,20 @@ Robust perimeter firewalls prevent unauthorized external traffic ______ accessin
 
 ---
 
-### Test 064 — Dependent Prepositions: Capable of #flashcards/cambridge/part1
+### Test 064
 
-The newly provisioned compute cluster is fully capable ______ processing half a million transactions per second.
-
-- **A)** to
-- **B)** of
-- **C)** for
-- **D)** in
+> [!question] Multiple Choice Cloze
+> The newly provisioned compute cluster is fully capable ______ processing half a million transactions per second.
+>
+> - **A)** to
+> - **B)** of
+> - **C)** for
+> - **D)** in
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) of**
-
+- **Enfoque:** Dependent Prepositions: Capable of
 - **Colocación / Regla:** Preposición Dependiente con Adjetivo: *capable of*
 - **Estructura Sintáctica:** `capable of + noun / -ing (capaz de)`
 - **Razón Explicativa:** El adjetivo *capable* exige invariablemente la preposición *of* seguida de gerundio. Se contrapone a *able to + infinitive*.
@@ -329,17 +371,20 @@ The newly provisioned compute cluster is fully capable ______ processing half a 
 
 ---
 
-### Test 065 — Dependent Prepositions: Aware of #flashcards/cambridge/part1
+### Test 065
 
-Software architects must remain keenly aware ______ the potential bottlenecks introduced by heavy ORM abstractions.
-
-- **A)** about
-- **B)** of
-- **C)** with
-- **D)** in
+> [!question] Multiple Choice Cloze
+> Software architects must remain keenly aware ______ the potential bottlenecks introduced by heavy ORM abstractions.
+>
+> - **A)** about
+> - **B)** of
+> - **C)** with
+> - **D)** in
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) of**
-
+- **Enfoque:** Dependent Prepositions: Aware of
 - **Colocación / Regla:** Preposición Dependiente Cognitiva: *aware of*
 - **Estructura Sintáctica:** `to be aware of + noun / fact (ser consciente de)`
 - **Razón Explicativa:** La preposición obligatoria que acompaña al adjetivo *aware* es *of*.
@@ -351,17 +396,20 @@ Software architects must remain keenly aware ______ the potential bottlenecks in
 
 ---
 
-### Test 066 — Dependent Prepositions: Keen on #flashcards/cambridge/part1
+### Test 066
 
-The technical director was exceptionally keen ______ adopting Kubernetes for container orchestration.
-
-- **A)** in
-- **B)** on
-- **C)** at
-- **D)** to
+> [!question] Multiple Choice Cloze
+> The technical director was exceptionally keen ______ adopting Kubernetes for container orchestration.
+>
+> - **A)** in
+> - **B)** on
+> - **C)** at
+> - **D)** to
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) on**
-
+- **Enfoque:** Dependent Prepositions: Keen on
 - **Colocación / Regla:** Preposición Dependiente de Afición / Interés: *keen on*
 - **Estructura Sintáctica:** `to be keen on + noun / -ing (estar entusiasmado con / tener gran interés en)`
 - **Razón Explicativa:** *Keen on* es una colocación típica británica muy evaluada en Cambridge. Se diferencia de *interested in* y *good at*.
@@ -373,17 +421,20 @@ The technical director was exceptionally keen ______ adopting Kubernetes for con
 
 ---
 
-### Test 067 — Dependent Prepositions: Addicted to #flashcards/cambridge/part1
+### Test 067
 
-Many professionals find themselves unconsciously addicted ______ constantly checking work communication notifications.
-
-- **A)** with
-- **B)** to
-- **C)** at
-- **D)** on
+> [!question] Multiple Choice Cloze
+> Many professionals find themselves unconsciously addicted ______ constantly checking work communication notifications.
+>
+> - **A)** with
+> - **B)** to
+> - **C)** at
+> - **D)** on
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) to**
-
+- **Enfoque:** Dependent Prepositions: Addicted to
 - **Colocación / Regla:** Preposición Dependiente: *addicted to + noun / -ing*
 - **Estructura Sintáctica:** `to be addicted to + -ing (adicto a)`
 - **Razón Explicativa:** *Addicted* exige la preposición *to*, la cual introduce un gerundio (*checking*).
@@ -395,17 +446,20 @@ Many professionals find themselves unconsciously addicted ______ constantly chec
 
 ---
 
-### Test 068 — Dependent Prepositions: Famous for #flashcards/cambridge/part1
+### Test 068
 
-PostgreSQL is renowned across the software industry and famous ______ its rock-solid ACID reliability.
-
-- **A)** by
-- **B)** of
-- **C)** for
-- **D)** with
+> [!question] Multiple Choice Cloze
+> PostgreSQL is renowned across the software industry and famous ______ its rock-solid ACID reliability.
+>
+> - **A)** by
+> - **B)** of
+> - **C)** for
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) for**
-
+- **Enfoque:** Dependent Prepositions: Famous for
 - **Colocación / Regla:** Preposición Dependiente de Reputación: *famous for*
 - **Estructura Sintáctica:** `to be famous / renowned for + noun / trait (famoso por)`
 - **Razón Explicativa:** La preposición requerida por los adjetivos de celebridad y reputación (*famous, well-known, notorious*) es *for*.
@@ -417,17 +471,20 @@ PostgreSQL is renowned across the software industry and famous ______ its rock-s
 
 ---
 
-### Test 069 — Dependent Prepositions: Responsible for #flashcards/cambridge/part1
+### Test 069
 
-The site reliability engineering squad is exclusively responsible ______ maintaining 99.99% service availability.
-
-- **A)** to
-- **B)** for
-- **C)** with
-- **D)** of
+> [!question] Multiple Choice Cloze
+> The site reliability engineering squad is exclusively responsible ______ maintaining 99.99% service availability.
+>
+> - **A)** to
+> - **B)** for
+> - **C)** with
+> - **D)** of
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) for**
-
+- **Enfoque:** Dependent Prepositions: Responsible for
 - **Colocación / Regla:** Preposición Dependiente de Responsabilidad: *responsible for*
 - **Estructura Sintáctica:** `to be responsible for + noun / -ing (responsable de)`
 - **Razón Explicativa:** *Responsible for* es la construcción establecida para designar la tarea o deber asignado a una persona o equipo.
@@ -439,17 +496,20 @@ The site reliability engineering squad is exclusively responsible ______ maintai
 
 ---
 
-### Test 070 — Dependent Prepositions: Proud of #flashcards/cambridge/part1
+### Test 070
 
-The open-source maintainers were extraordinarily proud ______ reaching ten thousand GitHub stars within two months.
-
-- **A)** for
-- **B)** about
-- **C)** of
-- **D)** with
+> [!question] Multiple Choice Cloze
+> The open-source maintainers were extraordinarily proud ______ reaching ten thousand GitHub stars within two months.
+>
+> - **A)** for
+> - **B)** about
+> - **C)** of
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) of**
-
+- **Enfoque:** Dependent Prepositions: Proud of
 - **Colocación / Regla:** Preposición Dependiente Emocional: *proud of*
 - **Estructura Sintáctica:** `to be proud of + noun / -ing (orgulloso de)`
 - **Razón Explicativa:** El adjetivo *proud* requiere obligatoriamente la preposición *of*.
@@ -461,17 +521,20 @@ The open-source maintainers were extraordinarily proud ______ reaching ten thous
 
 ---
 
-### Test 071 — Dependent Prepositions: Ashamed of #flashcards/cambridge/part1
+### Test 071
 
-Great engineering cultures encourage developers never to feel ashamed ______ admitting when they don't know an answer.
-
-- **A)** for
-- **B)** of
-- **C)** about
-- **D)** with
+> [!question] Multiple Choice Cloze
+> Great engineering cultures encourage developers never to feel ashamed ______ admitting when they don't know an answer.
+>
+> - **A)** for
+> - **B)** of
+> - **C)** about
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) of**
-
+- **Enfoque:** Dependent Prepositions: Ashamed of
 - **Colocación / Regla:** Preposición Dependiente: *ashamed of*
 - **Estructura Sintáctica:** `to be / feel ashamed of + -ing (avergonzado de)`
 - **Razón Explicativa:** *Ashamed* se construye con la preposición *of*.
@@ -483,17 +546,20 @@ Great engineering cultures encourage developers never to feel ashamed ______ adm
 
 ---
 
-### Test 072 — Dependent Prepositions: Satisfied with #flashcards/cambridge/part1
+### Test 072
 
-The principal auditor was entirely satisfied ______ the automated end-to-end audit trails.
-
-- **A)** of
-- **B)** with
-- **C)** about
-- **D)** for
+> [!question] Multiple Choice Cloze
+> The principal auditor was entirely satisfied ______ the automated end-to-end audit trails.
+>
+> - **A)** of
+> - **B)** with
+> - **C)** about
+> - **D)** for
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) with**
-
+- **Enfoque:** Dependent Prepositions: Satisfied with
 - **Colocación / Regla:** Preposición Dependiente de Satisfacción: *satisfied with*
 - **Estructura Sintáctica:** `to be satisfied with + noun (satisfecho con)`
 - **Razón Explicativa:** Tanto *satisfied* como *content* y *pleased* rigen la preposición *with*.
@@ -505,17 +571,20 @@ The principal auditor was entirely satisfied ______ the automated end-to-end aud
 
 ---
 
-### Test 073 — Dependent Prepositions: Familiar with #flashcards/cambridge/part1
+### Test 073
 
-Candidates interviewing for the senior backend role must be intimately familiar ______ concurrency primitives.
-
-- **A)** to
-- **B)** with
-- **C)** about
-- **D)** in
+> [!question] Multiple Choice Cloze
+> Candidates interviewing for the senior backend role must be intimately familiar ______ concurrency primitives.
+>
+> - **A)** to
+> - **B)** with
+> - **C)** about
+> - **D)** in
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) with**
-
+- **Enfoque:** Dependent Prepositions: Familiar with
 - **Colocación / Regla:** Preposición Dependiente de Conocimiento: *familiar with*
 - **Estructura Sintáctica:** `to be familiar with something (estar familiarizado con algo)`
 - **Razón Explicativa:** Cuando el sujeto es una persona con conocimiento de algo, la preposición es *with*. Si el sujeto fuera el objeto conocido ante una persona, sería *familiar to someone* (*this code looks familiar to me*).
@@ -527,17 +596,20 @@ Candidates interviewing for the senior backend role must be intimately familiar 
 
 ---
 
-### Test 074 — Dependent Prepositions: Involved in #flashcards/cambridge/part1
+### Test 074
 
-Only engineers who were directly involved ______ the architectural redesign were permitted to vote.
-
-- **A)** with
-- **B)** in
-- **C)** at
-- **D)** for
+> [!question] Multiple Choice Cloze
+> Only engineers who were directly involved ______ the architectural redesign were permitted to vote.
+>
+> - **A)** with
+> - **B)** in
+> - **C)** at
+> - **D)** for
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) in**
-
+- **Enfoque:** Dependent Prepositions: Involved in
 - **Colocación / Regla:** Preposición Dependiente de Participación: *involved in*
 - **Estructura Sintáctica:** `to be involved in + noun / -ing (estar involucrado / implicado en)`
 - **Razón Explicativa:** *Involved in* es la construcción fija para indicar implicación en una actividad, proceso o proyecto.
@@ -549,17 +621,20 @@ Only engineers who were directly involved ______ the architectural redesign were
 
 ---
 
-### Test 075 — Dependent Prepositions: Dependent on #flashcards/cambridge/part1
+### Test 075
 
-Our single-page frontend application is heavily dependent ______ the availability of third-party GraphQL APIs.
-
-- **A)** of
-- **B)** on
-- **C)** from
-- **D)** in
+> [!question] Multiple Choice Cloze
+> Our single-page frontend application is heavily dependent ______ the availability of third-party GraphQL APIs.
+>
+> - **A)** of
+> - **B)** on
+> - **C)** from
+> - **D)** in
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) on**
-
+- **Enfoque:** Dependent Prepositions: Dependent on
 - **Colocación / Regla:** Preposición Dependiente: *dependent on / upon*
 - **Estructura Sintáctica:** `to be dependent on + noun (dependiente de)`
 - **Razón Explicativa:** Al igual que el verbo *depend*, el adjetivo *dependent* requiere invariablemente la preposición *on* (o *upon*).
@@ -571,17 +646,20 @@ Our single-page frontend application is heavily dependent ______ the availabilit
 
 ---
 
-### Test 076 — Dependent Prepositions: Derived from #flashcards/cambridge/part1
+### Test 076
 
-Modern functional programming paradigms are fundamentally derived ______ mathematical lambda calculus.
-
-- **A)** of
-- **B)** out
-- **C)** from
-- **D)** by
+> [!question] Multiple Choice Cloze
+> Modern functional programming paradigms are fundamentally derived ______ mathematical lambda calculus.
+>
+> - **A)** of
+> - **B)** out
+> - **C)** from
+> - **D)** by
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) from**
-
+- **Enfoque:** Dependent Prepositions: Derived from
 - **Colocación / Regla:** Preposición de Procedencia / Origen: *derived from*
 - **Estructura Sintáctica:** `to be derived from + noun (derivado de / emanar de)`
 - **Razón Explicativa:** *Derived* requiere estrictamente la preposición *from* para denotar la fuente original de la que procede un concepto.
@@ -593,17 +671,20 @@ Modern functional programming paradigms are fundamentally derived ______ mathema
 
 ---
 
-### Test 077 — Dependent Prepositions: Suitable for #flashcards/cambridge/part1
+### Test 077
 
-Because of its high computational complexity, this algorithm is simply not suitable ______ real-time audio synthesis.
-
-- **A)** to
-- **B)** for
-- **C)** at
-- **D)** with
+> [!question] Multiple Choice Cloze
+> Because of its high computational complexity, this algorithm is simply not suitable ______ real-time audio synthesis.
+>
+> - **A)** to
+> - **B)** for
+> - **C)** at
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) for**
-
+- **Enfoque:** Dependent Prepositions: Suitable for
 - **Colocación / Regla:** Preposición Dependiente de Adecuación: *suitable for*
 - **Estructura Sintáctica:** `suitable for + noun / -ing (adecuado / idóneo para)`
 - **Razón Explicativa:** El adjetivo *suitable* rige la preposición *for* cuando describe la idoneidad para un fin o propósito determinado.
@@ -615,17 +696,20 @@ Because of its high computational complexity, this algorithm is simply not suita
 
 ---
 
-### Test 078 — Dependent Prepositions: Superior to #flashcards/cambridge/part1
+### Test 078
 
-In benchmarks measuring raw memory throughput, modern NVMe SSDs are far superior ______ traditional spinning hard drives.
-
-- **A)** than
-- **B)** to
-- **C)** over
-- **D)** against
+> [!question] Multiple Choice Cloze
+> In benchmarks measuring raw memory throughput, modern NVMe SSDs are far superior ______ traditional spinning hard drives.
+>
+> - **A)** than
+> - **B)** to
+> - **C)** over
+> - **D)** against
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) to**
-
+- **Enfoque:** Dependent Prepositions: Superior to
 - **Colocación / Regla:** Comparativo Latino con Preposición: *superior to*
 - **Estructura Sintáctica:** `superior / inferior to (superior a / inferior a)`
 - **Razón Explicativa:** Los comparativos de origen latino terminados en -ior (*superior, inferior, prior, senior, junior*) se comparan obligatoriamente con la preposición *to*, NUNCA con *than*.
@@ -637,17 +721,20 @@ In benchmarks measuring raw memory throughput, modern NVMe SSDs are far superior
 
 ---
 
-### Test 079 — Dependent Prepositions: Inferior to #flashcards/cambridge/part1
+### Test 079
 
-The security team warned that basic symmetric hashing without salting is markedly inferior ______ modern bcrypt stretching.
-
-- **A)** than
-- **B)** to
-- **C)** from
-- **D)** with
+> [!question] Multiple Choice Cloze
+> The security team warned that basic symmetric hashing without salting is markedly inferior ______ modern bcrypt stretching.
+>
+> - **A)** than
+> - **B)** to
+> - **C)** from
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) to**
-
+- **Enfoque:** Dependent Prepositions: Inferior to
 - **Colocación / Regla:** Comparativo Latino con Preposición: *inferior to*
 - **Estructura Sintáctica:** `inferior to (inferior a)`
 - **Razón Explicativa:** Al igual que *superior*, el comparativo *inferior* exige invariablemente la preposición *to*.
@@ -659,17 +746,20 @@ The security team warned that basic symmetric hashing without salting is markedl
 
 ---
 
-### Test 080 — Dependent Prepositions: Opposed to #flashcards/cambridge/part1
+### Test 080
 
-The principal architects were resolutely opposed ______ introducing yet another messaging layer into the stack.
-
-- **A)** against
-- **B)** to
-- **C)** with
-- **D)** for
+> [!question] Multiple Choice Cloze
+> The principal architects were resolutely opposed ______ introducing yet another messaging layer into the stack.
+>
+> - **A)** against
+> - **B)** to
+> - **C)** with
+> - **D)** for
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) to**
-
+- **Enfoque:** Dependent Prepositions: Opposed to
 - **Colocación / Regla:** Preposición Dependiente: *opposed to + -ing*
 - **Estructura Sintáctica:** `to be opposed to + noun / -ing (oponerse a)`
 - **Razón Explicativa:** *Opposed* rige la preposición *to*, la cual introduce un gerundio (*introducing*).
@@ -681,17 +771,20 @@ The principal architects were resolutely opposed ______ introducing yet another 
 
 ---
 
-### Test 081 — Dependent Prepositions: Dedicated to #flashcards/cambridge/part1
+### Test 081
 
-We configured a separate Kubernetes worker pool dedicated entirely ______ running asynchronous background reporting jobs.
-
-- **A)** for
-- **B)** to
-- **C)** in
-- **D)** at
+> [!question] Multiple Choice Cloze
+> We configured a separate Kubernetes worker pool dedicated entirely ______ running asynchronous background reporting jobs.
+>
+> - **A)** for
+> - **B)** to
+> - **C)** in
+> - **D)** at
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) to**
-
+- **Enfoque:** Dependent Prepositions: Dedicated to
 - **Colocación / Regla:** Preposición Dependiente de Asignación: *dedicated to + -ing*
 - **Estructura Sintáctica:** `dedicated to + noun / -ing (dedicado a)`
 - **Razón Explicativa:** El adjetivo o participio *dedicated* rige la preposición *to*, seguida obligatoriamente de gerundio (-ing).
@@ -703,17 +796,20 @@ We configured a separate Kubernetes worker pool dedicated entirely ______ runnin
 
 ---
 
-### Test 082 — Dependent Prepositions: Accustomed to #flashcards/cambridge/part1
+### Test 082
 
-Software developers who are accustomed ______ automated continuous delivery find manual deployments unbearable.
-
-- **A)** with
-- **B)** to
-- **C)** at
-- **D)** for
+> [!question] Multiple Choice Cloze
+> Software developers who are accustomed ______ automated continuous delivery find manual deployments unbearable.
+>
+> - **A)** with
+> - **B)** to
+> - **C)** at
+> - **D)** for
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) to**
-
+- **Enfoque:** Dependent Prepositions: Accustomed to
 - **Colocación / Regla:** Preposición Dependiente de Hábito: *accustomed to + noun / -ing*
 - **Estructura Sintáctica:** `to be accustomed to + -ing / noun (acostumbrado a)`
 - **Razón Explicativa:** *Accustomed* exige la preposición *to*. Es sinónimo formal de *used to*.
@@ -725,17 +821,20 @@ Software developers who are accustomed ______ automated continuous delivery find
 
 ---
 
-### Test 083 — Dependent Prepositions: Prone to #flashcards/cambridge/part1
+### Test 083
 
-Monolithic codebases with excessive global mutable state are notoriously prone ______ unexpected regression bugs.
-
-- **A)** for
-- **B)** with
-- **C)** to
-- **D)** at
+> [!question] Multiple Choice Cloze
+> Monolithic codebases with excessive global mutable state are notoriously prone ______ unexpected regression bugs.
+>
+> - **A)** for
+> - **B)** with
+> - **C)** to
+> - **D)** at
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) to**
-
+- **Enfoque:** Dependent Prepositions: Prone to
 - **Colocación / Regla:** Preposición Dependiente de Propensión Negativa: *prone to*
 - **Estructura Sintáctica:** `prone to + noun / -ing (propenso a / susceptible de sufrir algo malo)`
 - **Razón Explicativa:** El adjetivo *prone* se combina obligatoriamente con la preposición *to* para indicar susceptibilidad a un resultado perjudicial.
@@ -747,17 +846,20 @@ Monolithic codebases with excessive global mutable state are notoriously prone _
 
 ---
 
-### Test 084 — Dependent Prepositions: Susceptible to #flashcards/cambridge/part1
+### Test 084
 
-Applications communicating over unencrypted HTTP channels remain highly susceptible ______ man-in-the-middle attacks.
-
-- **A)** to
-- **B)** against
-- **C)** from
-- **D)** of
+> [!question] Multiple Choice Cloze
+> Applications communicating over unencrypted HTTP channels remain highly susceptible ______ man-in-the-middle attacks.
+>
+> - **A)** to
+> - **B)** against
+> - **C)** from
+> - **D)** of
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: A) to**
-
+- **Enfoque:** Dependent Prepositions: Susceptible to
 - **Colocación / Regla:** Preposición Dependiente de Vulnerabilidad: *susceptible to*
 - **Estructura Sintáctica:** `susceptible to + noun (susceptible a / vulnerable a)`
 - **Razón Explicativa:** *Susceptible* rige invariablemente la preposición *to*.
@@ -769,17 +871,20 @@ Applications communicating over unencrypted HTTP channels remain highly suscepti
 
 ---
 
-### Test 085 — Dependent Prepositions: Eligible for #flashcards/cambridge/part1
+### Test 085
 
-Only developers who contributed verified fixes during the bug bounty window were eligible ______ cash rewards.
-
-- **A)** to
-- **B)** for
-- **C)** of
-- **D)** with
+> [!question] Multiple Choice Cloze
+> Only developers who contributed verified fixes during the bug bounty window were eligible ______ cash rewards.
+>
+> - **A)** to
+> - **B)** for
+> - **C)** of
+> - **D)** with
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) for**
-
+- **Enfoque:** Dependent Prepositions: Eligible for
 - **Colocación / Regla:** Preposición Dependiente de Cualificación: *eligible for*
 - **Estructura Sintáctica:** `eligible for + noun (elegible para / con derecho a)`
 - **Razón Explicativa:** El adjetivo *eligible* rige la preposición *for* cuando va seguido del beneficio al que se tiene derecho. Si fuera seguido de verbo, usaría infinitivo (*eligible to receive*).
@@ -791,17 +896,20 @@ Only developers who contributed verified fixes during the bug bounty window were
 
 ---
 
-### Test 086 — Dependent Prepositions: Exempt from #flashcards/cambridge/part1
+### Test 086
 
-Emergency hotfixes addressing critical zero-day vulnerabilities are exempt ______ the standard 48-hour QA staging delay.
-
-- **A)** of
-- **B)** from
-- **C)** to
-- **D)** off
+> [!question] Multiple Choice Cloze
+> Emergency hotfixes addressing critical zero-day vulnerabilities are exempt ______ the standard 48-hour QA staging delay.
+>
+> - **A)** of
+> - **B)** from
+> - **C)** to
+> - **D)** off
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) from**
-
+- **Enfoque:** Dependent Prepositions: Exempt from
 - **Colocación / Regla:** Preposición Dependiente de Exención: *exempt from*
 - **Estructura Sintáctica:** `to be exempt from + noun / -ing (estar exento de)`
 - **Razón Explicativa:** *Exempt* exige estrictamente la preposición *from*.
@@ -813,17 +921,20 @@ Emergency hotfixes addressing critical zero-day vulnerabilities are exempt _____
 
 ---
 
-### Test 087 — Phrasal Verbs: Put Up With #flashcards/cambridge/part1
+### Test 087
 
-The engineering team could no longer ______ up with the frequent intermittent failures of the staging environment.
-
-- **A)** stand
-- **B)** put
-- **C)** keep
-- **D)** hold
+> [!question] Multiple Choice Cloze
+> The engineering team could no longer ______ up with the frequent intermittent failures of the staging environment.
+>
+> - **A)** stand
+> - **B)** put
+> - **C)** keep
+> - **D)** hold
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) put**
-
+- **Enfoque:** Phrasal Verbs: Put Up With
 - **Colocación / Regla:** Three-Part Phrasal Verb: *put up with*
 - **Estructura Sintáctica:** `to put up with + noun / person (tolerar / aguantar)`
 - **Razón Explicativa:** *Put up with* es el phrasal verb de tres partes consagrado que significa tolerar una situación desagradable sin quejarse.
@@ -835,17 +946,20 @@ The engineering team could no longer ______ up with the frequent intermittent fa
 
 ---
 
-### Test 088 — Phrasal Verbs: Look Up To #flashcards/cambridge/part1
+### Test 088
 
-Junior engineers naturally ______ up to principal architects who demonstrate both deep technical competence and empathy.
-
-- **A)** see
-- **B)** look
-- **C)** watch
-- **D)** gaze
+> [!question] Multiple Choice Cloze
+> Junior engineers naturally ______ up to principal architects who demonstrate both deep technical competence and empathy.
+>
+> - **A)** see
+> - **B)** look
+> - **C)** watch
+> - **D)** gaze
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) look**
-
+- **Enfoque:** Phrasal Verbs: Look Up To
 - **Colocación / Regla:** Three-Part Phrasal Verb: *look up to*
 - **Estructura Sintáctica:** `to look up to someone (admirar / respetar profundamente)`
 - **Razón Explicativa:** *Look up to* es la locución verbal que expresa admiración y respeto hacia alguien con más experiencia o jerarquía.
@@ -857,17 +971,20 @@ Junior engineers naturally ______ up to principal architects who demonstrate bot
 
 ---
 
-### Test 089 — Phrasal Verbs: Run Out Of #flashcards/cambridge/part1
+### Test 089
 
-The persistent logging service crashed unexpectedly when the physical disk partition ______ out of free inodes.
-
-- **A)** ran
-- **B)** went
-- **C)** fell
-- **D)** turned
+> [!question] Multiple Choice Cloze
+> The persistent logging service crashed unexpectedly when the physical disk partition ______ out of free inodes.
+>
+> - **A)** ran
+> - **B)** went
+> - **C)** fell
+> - **D)** turned
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: A) ran**
-
+- **Enfoque:** Phrasal Verbs: Run Out Of
 - **Colocación / Regla:** Three-Part Phrasal Verb: *run out of*
 - **Estructura Sintáctica:** `to run out of + resource (quedarse sin / agotar)`
 - **Razón Explicativa:** *Run out of* es la expresión canónica para indicar el agotamiento completo de un recurso disponible.
@@ -879,17 +996,20 @@ The persistent logging service crashed unexpectedly when the physical disk parti
 
 ---
 
-### Test 090 — Phrasal Verbs: Get Rid Of #flashcards/cambridge/part1
+### Test 090
 
-Before deploying the application to production, developers must ______ rid of all hardcoded test credentials.
-
-- **A)** make
-- **B)** take
-- **C)** get
-- **D)** do
+> [!question] Multiple Choice Cloze
+> Before deploying the application to production, developers must ______ rid of all hardcoded test credentials.
+>
+> - **A)** make
+> - **B)** take
+> - **C)** get
+> - **D)** do
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) get**
-
+- **Enfoque:** Phrasal Verbs: Get Rid Of
 - **Colocación / Regla:** Locución Idiomática: *get rid of*
 - **Estructura Sintáctica:** `to get rid of + noun (deshacerse de / eliminar)`
 - **Razón Explicativa:** *Get rid of* es la fórmula invariable para desechar, suprimir o eliminar por completo algo no deseado.
@@ -901,17 +1021,20 @@ Before deploying the application to production, developers must ______ rid of al
 
 ---
 
-### Test 091 — Phrasal Verbs: Come Up With #flashcards/cambridge/part1
+### Test 091
 
-During the architecture hackathon, our team managed to ______ up with an ingenious distributed caching algorithm.
-
-- **A)** catch
-- **B)** come
-- **C)** bring
-- **D)** make
+> [!question] Multiple Choice Cloze
+> During the architecture hackathon, our team managed to ______ up with an ingenious distributed caching algorithm.
+>
+> - **A)** catch
+> - **B)** come
+> - **C)** bring
+> - **D)** make
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) come**
-
+- **Enfoque:** Phrasal Verbs: Come Up With
 - **Colocación / Regla:** Three-Part Phrasal Verb: *come up with*
 - **Estructura Sintáctica:** `to come up with + idea / solution (idear / ocurrírsele a uno / concebir)`
 - **Razón Explicativa:** *Come up with* es la locución obligatoria para expresar la invención, hallazgo o concepción de una idea o solución innovadora.
@@ -923,17 +1046,20 @@ During the architecture hackathon, our team managed to ______ up with an ingenio
 
 ---
 
-### Test 092 — Phrasal Verbs: Face Up To #flashcards/cambridge/part1
+### Test 092
 
-Senior leadership finally had to ______ up to the painful reality that their monolith could no longer scale horizontally.
-
-- **A)** look
-- **B)** stand
-- **C)** face
-- **D)** meet
+> [!question] Multiple Choice Cloze
+> Senior leadership finally had to ______ up to the painful reality that their monolith could no longer scale horizontally.
+>
+> - **A)** look
+> - **B)** stand
+> - **C)** face
+> - **D)** meet
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) face**
-
+- **Enfoque:** Phrasal Verbs: Face Up To
 - **Colocación / Regla:** Three-Part Phrasal Verb: *face up to*
 - **Estructura Sintáctica:** `to face up to + unpleasant fact / reality (afrontar con valentía una verdad difícil)`
 - **Razón Explicativa:** *Face up to* denota el acto maduro de encarar y aceptar una verdad incómoda o un problema inevitable.
@@ -945,17 +1071,20 @@ Senior leadership finally had to ______ up to the painful reality that their mon
 
 ---
 
-### Test 093 — Phrasal Verbs: Cut Down On #flashcards/cambridge/part1
+### Test 093
 
-To optimize operational cloud expenditures, the CTO instructed teams to ______ down on underutilized virtual machines.
-
-- **A)** break
-- **B)** cut
-- **C)** run
-- **D)** shut
+> [!question] Multiple Choice Cloze
+> To optimize operational cloud expenditures, the CTO instructed teams to ______ down on underutilized virtual machines.
+>
+> - **A)** break
+> - **B)** cut
+> - **C)** run
+> - **D)** shut
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) cut**
-
+- **Enfoque:** Phrasal Verbs: Cut Down On
 - **Colocación / Regla:** Three-Part Phrasal Verb: *cut down on*
 - **Estructura Sintáctica:** `to cut down on + consumption / expenses (reducir el consumo / recortar gastos)`
 - **Razón Explicativa:** *Cut down on* es el phrasal verb estándar para expresar la reducción cuantitativa en el uso o gasto de algo.
@@ -967,17 +1096,20 @@ To optimize operational cloud expenditures, the CTO instructed teams to ______ d
 
 ---
 
-### Test 094 — Phrasal Verbs: Call Off #flashcards/cambridge/part1
+### Test 094
 
-The critical release was officially ______ off at the eleventh hour due to an unaddressed security vulnerability.
-
-- **A)** put
-- **B)** called
-- **C)** set
-- **D)** taken
+> [!question] Multiple Choice Cloze
+> The critical release was officially ______ off at the eleventh hour due to an unaddressed security vulnerability.
+>
+> - **A)** put
+> - **B)** called
+> - **C)** set
+> - **D)** taken
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) called**
-
+- **Enfoque:** Phrasal Verbs: Call Off
 - **Colocación / Regla:** Phrasal Verb de Cancelación: *call off*
 - **Estructura Sintáctica:** `to call off = to cancel (cancelar definitivamente)`
 - **Razón Explicativa:** *Call off* es el equivalente exacto de *cancel*. Se diferencia de *put off*, que significa posponer temporalmente.
@@ -989,17 +1121,20 @@ The critical release was officially ______ off at the eleventh hour due to an un
 
 ---
 
-### Test 095 — Phrasal Verbs: Carry Out #flashcards/cambridge/part1
+### Test 095
 
-Before merging pull requests into production, developers must ______ out comprehensive automated regression tests.
-
-- **A)** make
-- **B)** carry
-- **C)** bring
-- **D)** do
+> [!question] Multiple Choice Cloze
+> Before merging pull requests into production, developers must ______ out comprehensive automated regression tests.
+>
+> - **A)** make
+> - **B)** carry
+> - **C)** bring
+> - **D)** do
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) carry**
-
+- **Enfoque:** Phrasal Verbs: Carry Out
 - **Colocación / Regla:** Phrasal Verb de Ejecución: *carry out*
 - **Estructura Sintáctica:** `to carry out + research / tests / tasks (llevar a cabo / ejecutar)`
 - **Razón Explicativa:** *Carry out* es la locución formal de referencia para realizar investigaciones, experimentos o pruebas técnicas.
@@ -1011,17 +1146,20 @@ Before merging pull requests into production, developers must ______ out compreh
 
 ---
 
-### Test 096 — Phrasal Verbs: Bring About #flashcards/cambridge/part1
+### Test 096
 
-The adoption of serverless computing has ______ about massive improvements in deployment agility.
-
-- **A)** brought
-- **B)** taken
-- **C)** carried
-- **D)** made
+> [!question] Multiple Choice Cloze
+> The adoption of serverless computing has ______ about massive improvements in deployment agility.
+>
+> - **A)** brought
+> - **B)** taken
+> - **C)** carried
+> - **D)** made
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: A) brought**
-
+- **Enfoque:** Phrasal Verbs: Bring About
 - **Colocación / Regla:** Phrasal Verb Causal: *bring about*
 - **Estructura Sintáctica:** `to bring about = to cause / create change (provocar / dar lugar a cambios)`
 - **Razón Explicativa:** *Bring about* es el phrasal verb por excelencia para expresar la causalidad de transformaciones o mejoras profundas.
@@ -1033,17 +1171,20 @@ The adoption of serverless computing has ______ about massive improvements in de
 
 ---
 
-### Test 097 — Phrasal Verbs: Figure Out #flashcards/cambridge/part1
+### Test 097
 
-It took the senior engineering team nearly six hours to ______ out why the TCP connections were silently resetting.
-
-- **A)** see
-- **B)** look
-- **C)** figure
-- **D)** watch
+> [!question] Multiple Choice Cloze
+> It took the senior engineering team nearly six hours to ______ out why the TCP connections were silently resetting.
+>
+> - **A)** see
+> - **B)** look
+> - **C)** figure
+> - **D)** watch
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) figure**
-
+- **Enfoque:** Phrasal Verbs: Figure Out
 - **Colocación / Regla:** Phrasal Verb de Resolución Intelectual: *figure out*
 - **Estructura Sintáctica:** `to figure out + why/how/what (descifrar / comprender tras análisis)`
 - **Razón Explicativa:** *Figure out* significa deducir, entender o resolver un enigma o problema complejo mediante la reflexión y el análisis.
@@ -1055,17 +1196,20 @@ It took the senior engineering team nearly six hours to ______ out why the TCP c
 
 ---
 
-### Test 098 — Phrasal Verbs: Put Off #flashcards/cambridge/part1
+### Test 098
 
-Engineering leads must never ______ off writing documentation until the very end of the product lifecycle.
-
-- **A)** call
-- **B)** set
-- **C)** put
-- **D)** take
+> [!question] Multiple Choice Cloze
+> Engineering leads must never ______ off writing documentation until the very end of the product lifecycle.
+>
+> - **A)** call
+> - **B)** set
+> - **C)** put
+> - **D)** take
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) put**
-
+- **Enfoque:** Phrasal Verbs: Put Off
 - **Colocación / Regla:** Phrasal Verb de Postergación: *put off*
 - **Estructura Sintáctica:** `to put off + noun / -ing = to postpone (posponer / aplazar)`
 - **Razón Explicativa:** *Put off* es el equivalente idiomático de *postpone* o *delay*.
@@ -1077,17 +1221,20 @@ Engineering leads must never ______ off writing documentation until the very end
 
 ---
 
-### Test 099 — Phrasal Verbs: Rule Out #flashcards/cambridge/part1
+### Test 099
 
-Until the hardware memory diagnostic finishes running, we cannot completely ______ out the possibility of bit-flip corruption.
-
-- **A)** rule
-- **B)** strike
-- **C)** cross
-- **D)** leave
+> [!question] Multiple Choice Cloze
+> Until the hardware memory diagnostic finishes running, we cannot completely ______ out the possibility of bit-flip corruption.
+>
+> - **A)** rule
+> - **B)** strike
+> - **C)** cross
+> - **D)** leave
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: A) rule**
-
+- **Enfoque:** Phrasal Verbs: Rule Out
 - **Colocación / Regla:** Phrasal Verb de Exclusión: *rule out*
 - **Estructura Sintáctica:** `to rule out = to exclude (descartar / excluir una hipótesis)`
 - **Razón Explicativa:** *Rule out* es la locución formal de referencia para descartar una posibilidad, causa o candidato.
@@ -1099,17 +1246,20 @@ Until the hardware memory diagnostic finishes running, we cannot completely ____
 
 ---
 
-### Test 100 — Phrasal Verbs: Turn Down #flashcards/cambridge/part1
+### Test 100
 
-The principal architect decided to ______ down the executive management role in order to remain hands-on with system code.
-
-- **A)** let
-- **B)** put
-- **C)** turn
-- **D)** bring
+> [!question] Multiple Choice Cloze
+> The principal architect decided to ______ down the executive management role in order to remain hands-on with system code.
+>
+> - **A)** let
+> - **B)** put
+> - **C)** turn
+> - **D)** bring
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: C) turn**
-
+- **Enfoque:** Phrasal Verbs: Turn Down
 - **Colocación / Regla:** Phrasal Verb de Rechazo Formal: *turn down*
 - **Estructura Sintáctica:** `to turn down + offer / invitation / job = to reject (rechazar una oferta)`
 - **Razón Explicativa:** *Turn down* es el phrasal verb canónico para rechazar amablemente una oferta laboral, propuesta o ascenso.

@@ -24,16 +24,16 @@ total_tests: 50
 
 ---
 
-### Test 701 — Strength #flashcards/cambridge/part3
+### Test 701
 
-The structural integrity and sheer compressive _______ of the reinforced concrete were tested rigorously.
-**Root Word:** `[STRONG]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The structural integrity and sheer compressive _______ of the reinforced concrete were tested rigorously.
+>
+> - **Root Word:** `[STRONG]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `strength`
-
 - **Categoría Requerida:** Sustantivo abstracto de cualidad física (de `STRONG`)
 - **Morfología Aplicada:** Mutación vocálica interna (o -> e) + sufijo dental '-th'
 - **Regla y Justificación:** Coordinado con 'integrity' tras 'compressive'; denota capacidad mecánica de carga.
@@ -42,16 +42,16 @@ The structural integrity and sheer compressive _______ of the reinforced concret
 
 ---
 
-### Test 702 — Length #flashcards/cambridge/part3
+### Test 702
 
-The suspension bridge spans a staggering _______ of over two thousand meters across the strait.
-**Root Word:** `[LONG]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The suspension bridge spans a staggering _______ of over two thousand meters across the strait.
+>
+> - **Root Word:** `[LONG]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `length`
-
 - **Categoría Requerida:** Sustantivo singular contable de dimensión longitudinal (de `LONG`)
 - **Morfología Aplicada:** Mutación vocálica interna (o -> e) + sufijo dental '-th'
 - **Regla y Justificación:** Objeto de 'spans' precedido por 'a staggering'; denota extensión métrica de un extremo a otro.
@@ -60,16 +60,16 @@ The suspension bridge spans a staggering _______ of over two thousand meters acr
 
 ---
 
-### Test 703 — Width #flashcards/cambridge/part3
+### Test 703
 
-The narrow canyon tapers to a precarious _______ of barely two meters at its choke point.
-**Root Word:** `[WIDE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The narrow canyon tapers to a precarious _______ of barely two meters at its choke point.
+>
+> - **Root Word:** `[WIDE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `width`
-
 - **Categoría Requerida:** Sustantivo singular contable de dimensión transversal (de `WIDE`)
 - **Morfología Aplicada:** Mutación vocálica de diptongo a vocal corta (ai -> i) + sufijo dental '-th'
 - **Regla y Justificación:** Precedido por 'a precarious'; denota la distancia transversal de separación entre paredes rocosas.
@@ -78,16 +78,16 @@ The narrow canyon tapers to a precarious _______ of barely two meters at its cho
 
 ---
 
-### Test 704 — Breadth #flashcards/cambridge/part3
+### Test 704
 
-The committee was astonished by the sheer intellectual _______ and scope of her interdisciplinary thesis.
-**Root Word:** `[BROAD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The committee was astonished by the sheer intellectual _______ and scope of her interdisciplinary thesis.
+>
+> - **Root Word:** `[BROAD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `breadth`
-
 - **Categoría Requerida:** Sustantivo abstracto de amplitud cognitiva (de `BROAD`)
 - **Morfología Aplicada:** Mutación de grafía vocálica (oa -> ea) + sufijo dental '-th'
 - **Regla y Justificación:** Sigue a 'sheer intellectual'; denota amplitud o vastedad de conocimientos.
@@ -96,16 +96,16 @@ The committee was astonished by the sheer intellectual _______ and scope of her 
 
 ---
 
-### Test 705 — Depth #flashcards/cambridge/part3
+### Test 705
 
-Submersible exploration drones plumbed an abyssal _______ of eleven thousand meters in the Mariana Trench.
-**Root Word:** `[DEEP]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Submersible exploration drones plumbed an abyssal _______ of eleven thousand meters in the Mariana Trench.
+>
+> - **Root Word:** `[DEEP]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `depth`
-
 - **Categoría Requerida:** Sustantivo singular de dimensión vertical descendente (de `DEEP`)
 - **Morfología Aplicada:** Mutación vocálica de vocal larga a corta (ee -> e) + sufijo dental '-th'
 - **Regla y Justificación:** Precedido de 'an abyssal'; denota la distancia vertical bajo el agua.
@@ -114,16 +114,16 @@ Submersible exploration drones plumbed an abyssal _______ of eleven thousand met
 
 ---
 
-### Test 706 — Height #flashcards/cambridge/part3
+### Test 706
 
-Commercial airliners cruise at a cruising _______ of approximately thirty-five thousand feet.
-**Root Word:** `[HIGH]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Commercial airliners cruise at a cruising _______ of approximately thirty-five thousand feet.
+>
+> - **Root Word:** `[HIGH]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `height`
-
 - **Categoría Requerida:** Sustantivo singular de elevación vertical (de `HIGH`)
 - **Morfología Aplicada:** Mutación vocálica histórica + terminación dental '-t'
 - **Regla y Justificación:** Precedido de 'a cruising'; denota la altitud vertical sobre el nivel del mar.
@@ -132,16 +132,16 @@ Commercial airliners cruise at a cruising _______ of approximately thirty-five t
 
 ---
 
-### Test 707 — Heat #flashcards/cambridge/part3
+### Test 707
 
-The geothermal turbine converts subterranean volcanic _______ directly into clean electrical grid power.
-**Root Word:** `[HOT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The geothermal turbine converts subterranean volcanic _______ directly into clean electrical grid power.
+>
+> - **Root Word:** `[HOT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `heat`
-
 - **Categoría Requerida:** Sustantivo incontable de energía térmica (de `HOT`)
 - **Morfología Aplicada:** Mutación vocálica interna (o -> ea)
 - **Regla y Justificación:** Objeto directo de 'converts' calificado por 'subterranean volcanic'; denota energía calorífica.
@@ -150,16 +150,16 @@ The geothermal turbine converts subterranean volcanic _______ directly into clea
 
 ---
 
-### Test 708 — Choice #flashcards/cambridge/part3
+### Test 708
 
-In a truly liberal democracy, citizens must enjoy complete freedom of political _______ at the ballot box.
-**Root Word:** `[CHOOSE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> In a truly liberal democracy, citizens must enjoy complete freedom of political _______ at the ballot box.
+>
+> - **Root Word:** `[CHOOSE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `choice`
-
 - **Categoría Requerida:** Sustantivo abstracto de capacidad optativa (de `CHOOSE`)
 - **Morfología Aplicada:** Mutación vocálica interna (oo -> oi) + terminación sibilante '-ce'
 - **Regla y Justificación:** Término de la colocación constitucional 'freedom of political choice'.
@@ -168,16 +168,16 @@ In a truly liberal democracy, citizens must enjoy complete freedom of political 
 
 ---
 
-### Test 709 — Loss #flashcards/cambridge/part3
+### Test 709
 
-The insurance policy fully covers catastrophic cargo _______ resulting from maritime piracy or storms.
-**Root Word:** `[LOSE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The insurance policy fully covers catastrophic cargo _______ resulting from maritime piracy or storms.
+>
+> - **Root Word:** `[LOSE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `loss`
-
 - **Categoría Requerida:** Sustantivo abstracto/económico de extravío o merma (de `LOSE`)
 - **Morfología Aplicada:** Mutación vocálica y consonántica (o -> o / se -> ss)
 - **Regla y Justificación:** Forma el sintagma nominal 'cargo loss' ('pérdida de carga').
@@ -186,16 +186,16 @@ The insurance policy fully covers catastrophic cargo _______ resulting from mari
 
 ---
 
-### Test 710 — Proof #flashcards/cambridge/part3
+### Test 710
 
-Cryptographers provided mathematical _______ that the hashing protocol is theoretically unbreakable.
-**Root Word:** `[PROVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Cryptographers provided mathematical _______ that the hashing protocol is theoretically unbreakable.
+>
+> - **Root Word:** `[PROVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `proof`
-
 - **Categoría Requerida:** Sustantivo abstracto/epistémico de evidencia concluyente (de `PROVE`)
 - **Morfología Aplicada:** Mutación consonántica sorda (v -> f) y vocal corta a larga (o -> oo)
 - **Regla y Justificación:** Objeto directo de 'provided' calificado por 'mathematical'; denota demostración irrefutable.
@@ -204,16 +204,16 @@ Cryptographers provided mathematical _______ that the hashing protocol is theore
 
 ---
 
-### Test 711 — Belief #flashcards/cambridge/part3
+### Test 711
 
-The ancient monument stands as enduring testimony to spiritual _______ in eternal afterlife rebirth.
-**Root Word:** `[BELIEVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The ancient monument stands as enduring testimony to spiritual _______ in eternal afterlife rebirth.
+>
+> - **Root Word:** `[BELIEVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `belief`
-
 - **Categoría Requerida:** Sustantivo abstracto de fe o convicción (de `BELIEVE`)
 - **Morfología Aplicada:** Mutación consonántica (v -> f)
 - **Regla y Justificación:** Término de 'spiritual ... in'; denota dogma, convicción religiosa o credo filosófico.
@@ -222,16 +222,16 @@ The ancient monument stands as enduring testimony to spiritual _______ in eterna
 
 ---
 
-### Test 712 — Relief #flashcards/cambridge/part3
+### Test 712
 
-Emergency airdrops of dry rations brought immediate _______ to the earthquake-stricken mountain village.
-**Root Word:** `[RELIEVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Emergency airdrops of dry rations brought immediate _______ to the earthquake-stricken mountain village.
+>
+> - **Root Word:** `[RELIEVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `relief`
-
 - **Categoría Requerida:** Sustantivo incontable de socorro o desahogo (de `RELIEVE`)
 - **Morfología Aplicada:** Mutación consonántica (v -> f)
 - **Regla y Justificación:** Objeto directo de 'brought' calificado por 'immediate'; denota socorro alimentario o mitigación del dolor.
@@ -240,16 +240,16 @@ Emergency airdrops of dry rations brought immediate _______ to the earthquake-st
 
 ---
 
-### Test 713 — Grieve #flashcards/cambridge/part3
+### Test 713
 
-Families gathered in solemn unity at the national memorial to _______ for the fallen soldiers.
-**Root Word:** `[GRIEF]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Families gathered in solemn unity at the national memorial to _______ for the fallen soldiers.
+>
+> - **Root Word:** `[GRIEF]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `grieve`
-
 - **Categoría Requerida:** Verbo intransitivo de duelo (de `GRIEF`)
 - **Morfología Aplicada:** Mutación consonántica sorda a sonora (f -> v) + 'e' muda
 - **Regla y Justificación:** Infinitivo con 'to' ('to grieve for'); denota guardar luto o manifestar aflicción profunda.
@@ -258,16 +258,16 @@ Families gathered in solemn unity at the national memorial to _______ for the fa
 
 ---
 
-### Test 714 — Halve #flashcards/cambridge/part3
+### Test 714
 
-The new aerodynamic fairing is projected to _______ drag and double fuel efficiency.
-**Root Word:** `[HALF]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The new aerodynamic fairing is projected to _______ drag and double fuel efficiency.
+>
+> - **Root Word:** `[HALF]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `halve`
-
 - **Categoría Requerida:** Verbo transitivo de reducción a la mitad (de `HALF`)
 - **Morfología Aplicada:** Mutación consonántica sorda a sonora (f -> v) + 'e' muda
 - **Regla y Justificación:** Infinitivo tras 'is projected to'; significa reducir en un cincuenta por ciento.
@@ -276,16 +276,16 @@ The new aerodynamic fairing is projected to _______ drag and double fuel efficie
 
 ---
 
-### Test 715 — Enliven #flashcards/cambridge/part3
+### Test 715
 
-The charismatic comedian was invited to _______ the dull corporate awards ceremony with witty anecdotes.
-**Root Word:** `[LIFE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The charismatic comedian was invited to _______ the dull corporate awards ceremony with witty anecdotes.
+>
+> - **Root Word:** `[LIFE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `enliven`
-
 - **Categoría Requerida:** Verbo causativo de vivificar (de `LIFE`)
 - **Morfología Aplicada:** Prefijo causativo 'en-' + mutación de raíz 'live' + sufijo verbal '-en'
 - **Regla y Justificación:** Infinitivo con 'to'; significa insuflar vitalidad o dinamismo a un evento monótono.
@@ -294,16 +294,16 @@ The charismatic comedian was invited to _______ the dull corporate awards ceremo
 
 ---
 
-### Test 716 — Breathe #flashcards/cambridge/part3
+### Test 716
 
-At altitudes above five thousand meters, mountaineers struggle to _______ without bottled supplementary oxygen.
-**Root Word:** `[BREATH]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> At altitudes above five thousand meters, mountaineers struggle to _______ without bottled supplementary oxygen.
+>
+> - **Root Word:** `[BREATH]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `breathe`
-
 - **Categoría Requerida:** Verbo intransitivo de respiración (de `BREATH`)
 - **Morfología Aplicada:** Mutación fonética a dental sonora /ð/ + adición de 'e' final
 - **Regla y Justificación:** Infinitivo con 'to struggle to'; denota la acción fisiológica de inhalar y exhalar aire.
@@ -312,16 +312,16 @@ At altitudes above five thousand meters, mountaineers struggle to _______ withou
 
 ---
 
-### Test 717 — Clothing #flashcards/cambridge/part3
+### Test 717
 
-The arctic explorer wore three insulated thermal layers of protective _______ against frostbite.
-**Root Word:** `[CLOTH]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The arctic explorer wore three insulated thermal layers of protective _______ against frostbite.
+>
+> - **Root Word:** `[CLOTH]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `clothing`
-
 - **Categoría Requerida:** Sustantivo colectivo incontable de indumentaria (de `CLOTH`)
 - **Morfología Aplicada:** Raíz 'cloth' + derivación verbal/nominal '-ing'
 - **Regla y Justificación:** Término de 'protective ... against frostbite'; denota prendas de vestir especializadas.
@@ -330,16 +330,16 @@ The arctic explorer wore three insulated thermal layers of protective _______ ag
 
 ---
 
-### Test 718 — Bathe #flashcards/cambridge/part3
+### Test 718
 
-After the grueling dusty safari, the travelers longed to _______ in the crystalline lodge pool.
-**Root Word:** `[BATH]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> After the grueling dusty safari, the travelers longed to _______ in the crystalline lodge pool.
+>
+> - **Root Word:** `[BATH]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `bathe`
-
 - **Categoría Requerida:** Verbo intransitivo de inmersión en agua (de `BATH`)
 - **Morfología Aplicada:** Mutación fonética a dental sonora + 'e' final
 - **Regla y Justificación:** Infinitivo tras 'longed to'; denota bañarse o sumergirse placenteramente.
@@ -348,16 +348,16 @@ After the grueling dusty safari, the travelers longed to _______ in the crystall
 
 ---
 
-### Test 719 — Bleed #flashcards/cambridge/part3
+### Test 719
 
-The emergency tourniquet was applied swiftly to prevent the severed arterial vessel from continuing to _______.
-**Root Word:** `[BLOOD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The emergency tourniquet was applied swiftly to prevent the severed arterial vessel from continuing to _______.
+>
+> - **Root Word:** `[BLOOD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `bleed`
-
 - **Categoría Requerida:** Verbo intransitivo de hemorragia (de `BLOOD`)
 - **Morfología Aplicada:** Mutación vocálica interna (oo -> ee)
 - **Regla y Justificación:** Infinitivo tras 'continuing to'; significa sangrar o perder sangre profusamente.
@@ -366,16 +366,16 @@ The emergency tourniquet was applied swiftly to prevent the severed arterial ves
 
 ---
 
-### Test 720 — Feed #flashcards/cambridge/part3
+### Test 720
 
-Subsidized food banks across the metropolis struggle daily to _______ thousands of destitute families.
-**Root Word:** `[FOOD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Subsidized food banks across the metropolis struggle daily to _______ thousands of destitute families.
+>
+> - **Root Word:** `[FOOD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `feed`
-
 - **Categoría Requerida:** Verbo transitivo de provisión nutricional (de `FOOD`)
 - **Morfología Aplicada:** Mutación vocálica interna (oo -> ee)
 - **Regla y Justificación:** Infinitivo tras 'struggle daily to'; significa alimentar o suministrar comida.
@@ -384,16 +384,16 @@ Subsidized food banks across the metropolis struggle daily to _______ thousands 
 
 ---
 
-### Test 721 — Sharpen #flashcards/cambridge/part3
+### Test 721
 
-Before carving the turkey, the chef used a whetstone to _______ the carving knives.
-**Root Word:** `[SHARP]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Before carving the turkey, the chef used a whetstone to _______ the carving knives.
+>
+> - **Root Word:** `[SHARP]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `sharpen`
-
 - **Categoría Requerida:** Verbo transitivo de aguzar filo (de `SHARP`)
 - **Morfología Aplicada:** Adjetivo 'sharp' + sufijo verbal causativo '-en'
 - **Regla y Justificación:** Infinitivo con 'to'; significa sacar filo o aguzar un instrumento cortante.
@@ -402,16 +402,16 @@ Before carving the turkey, the chef used a whetstone to _______ the carving kniv
 
 ---
 
-### Test 722 — Shorten #flashcards/cambridge/part3
+### Test 722
 
-The film director was pressured by studio executives to _______ the runtime by twenty minutes.
-**Root Word:** `[SHORT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The film director was pressured by studio executives to _______ the runtime by twenty minutes.
+>
+> - **Root Word:** `[SHORT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `shorten`
-
 - **Categoría Requerida:** Verbo transitivo de reducción métrica/temporal (de `SHORT`)
 - **Morfología Aplicada:** Adjetivo 'short' + sufijo verbal causativo '-en'
 - **Regla y Justificación:** Infinitivo con 'to'; significa abreviar o reducir la duración de una obra.
@@ -420,16 +420,16 @@ The film director was pressured by studio executives to _______ the runtime by t
 
 ---
 
-### Test 723 — Threaten #flashcards/cambridge/part3
+### Test 723
 
-Rising sea levels directly _______ millions of residents dwelling in low-lying coastal estuaries.
-**Root Word:** `[THREAT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Rising sea levels directly _______ millions of residents dwelling in low-lying coastal estuaries.
+>
+> - **Root Word:** `[THREAT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `threaten`
-
 - **Categoría Requerida:** Verbo transitivo de poner en peligro (de `THREAT`)
 - **Morfología Aplicada:** Sustantivo 'threat' + sufijo verbal causativo '-en'
 - **Regla y Justificación:** Verbo transitivo en presente con sujeto plural 'sea levels'; denota constituir un peligro inminente.
@@ -438,16 +438,16 @@ Rising sea levels directly _______ millions of residents dwelling in low-lying c
 
 ---
 
-### Test 724 — Frighten #flashcards/cambridge/part3
+### Test 724
 
-The thunderous sonic boom was loud enough to _______ nesting colonies of seabirds into chaotic flight.
-**Root Word:** `[FRIGHT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The thunderous sonic boom was loud enough to _______ nesting colonies of seabirds into chaotic flight.
+>
+> - **Root Word:** `[FRIGHT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `frighten`
-
 - **Categoría Requerida:** Verbo causativo de asustar (de `FRIGHT`)
 - **Morfología Aplicada:** Sustantivo 'fright' + sufijo verbal '-en'
 - **Regla y Justificación:** Infinitivo tras 'loud enough to'; significa aterrorizar o espantar súbitamente.
@@ -456,16 +456,16 @@ The thunderous sonic boom was loud enough to _______ nesting colonies of seabird
 
 ---
 
-### Test 725 — Harden #flashcards/cambridge/part3
+### Test 725
 
-Certain polymers require exposure to ultraviolet rays to _______ into durable structural resins.
-**Root Word:** `[HARD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Certain polymers require exposure to ultraviolet rays to _______ into durable structural resins.
+>
+> - **Root Word:** `[HARD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `harden`
-
 - **Categoría Requerida:** Verbo intransitivo de solidificación (de `HARD`)
 - **Morfología Aplicada:** Adjetivo 'hard' + sufijo verbal causativo '-en'
 - **Regla y Justificación:** Infinitivo tras 'to'; denota pasar a un estado rígido o compacto.
@@ -474,16 +474,16 @@ Certain polymers require exposure to ultraviolet rays to _______ into durable st
 
 ---
 
-### Test 726 — Soften #flashcards/cambridge/part3
+### Test 726
 
-Leave the salted butter at room temperature for an hour to _______ before creaming it with sugar.
-**Root Word:** `[SOFT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Leave the salted butter at room temperature for an hour to _______ before creaming it with sugar.
+>
+> - **Root Word:** `[SOFT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `soften`
-
 - **Categoría Requerida:** Verbo intransitivo de ablandamiento (de `SOFT`)
 - **Morfología Aplicada:** Adjetivo 'soft' + sufijo verbal '-en'
 - **Regla y Justificación:** Infinitivo tras 'to'; significa volverse blando o maleable.
@@ -492,16 +492,16 @@ Leave the salted butter at room temperature for an hour to _______ before creami
 
 ---
 
-### Test 727 — Loosen #flashcards/cambridge/part3
+### Test 727
 
-The mechanic tapped the rusted exhaust bolt with a mallet to _______ its mechanical grip.
-**Root Word:** `[LOOSE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The mechanic tapped the rusted exhaust bolt with a mallet to _______ its mechanical grip.
+>
+> - **Root Word:** `[LOOSE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `loosen`
-
 - **Categoría Requerida:** Verbo causativo de aflojar (de `LOOSE`)
 - **Morfología Aplicada:** Adjetivo 'loose' + sufijo verbal '-en'
 - **Regla y Justificación:** Infinitivo con 'to'; significa destensar o reducir la firmeza de sujeción.
@@ -510,16 +510,16 @@ The mechanic tapped the rusted exhaust bolt with a mallet to _______ its mechani
 
 ---
 
-### Test 728 — Tighten #flashcards/cambridge/part3
+### Test 728
 
-In response to soaring inflationary pressures, the central bank voted to _______ monetary policy.
-**Root Word:** `[TIGHT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> In response to soaring inflationary pressures, the central bank voted to _______ monetary policy.
+>
+> - **Root Word:** `[TIGHT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `tighten`
-
 - **Categoría Requerida:** Verbo causativo de endurecer condiciones (de `TIGHT`)
 - **Morfología Aplicada:** Adjetivo 'tight' + sufijo verbal '-en'
 - **Regla y Justificación:** Forma la colocación económica clásica 'tighten monetary policy' ('endurecer la política monetaria').
@@ -528,16 +528,16 @@ In response to soaring inflationary pressures, the central bank voted to _______
 
 ---
 
-### Test 729 — Widen #flashcards/cambridge/part3
+### Test 729
 
-The highway authority decided to _______ the congested bypass from two lanes to four.
-**Root Word:** `[WIDE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The highway authority decided to _______ the congested bypass from two lanes to four.
+>
+> - **Root Word:** `[WIDE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `widen`
-
 - **Categoría Requerida:** Verbo transitivo de ampliación espacial (de `WIDE`)
 - **Morfología Aplicada:** Adjetivo 'wide' + sufijo verbal '-en'
 - **Regla y Justificación:** Infinitivo tras 'decided to'; significa hacer más ancho o expandir el trazado.
@@ -546,16 +546,16 @@ The highway authority decided to _______ the congested bypass from two lanes to 
 
 ---
 
-### Test 730 — Broaden #flashcards/cambridge/part3
+### Test 730
 
-Studying abroad provides undergraduates with a splendid opportunity to _______ their cultural horizons.
-**Root Word:** `[BROAD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Studying abroad provides undergraduates with a splendid opportunity to _______ their cultural horizons.
+>
+> - **Root Word:** `[BROAD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `broaden`
-
 - **Categoría Requerida:** Verbo transitivo de expansión cognitiva (de `BROAD`)
 - **Morfología Aplicada:** Adjetivo 'broad' + sufijo verbal '-en'
 - **Regla y Justificación:** Colocación consagrada en C1: 'broaden horizons' ('ampliar horizontes').
@@ -564,16 +564,16 @@ Studying abroad provides undergraduates with a splendid opportunity to _______ t
 
 ---
 
-### Test 731 — Deepen #flashcards/cambridge/part3
+### Test 731
 
-The continuing currency depreciation will inevitably _______ the country's sovereign debt crisis.
-**Root Word:** `[DEEP]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The continuing currency depreciation will inevitably _______ the country's sovereign debt crisis.
+>
+> - **Root Word:** `[DEEP]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `deepen`
-
 - **Categoría Requerida:** Verbo transitivo de agravamiento (de `DEEP`)
 - **Morfología Aplicada:** Adjetivo 'deep' + sufijo verbal '-en'
 - **Regla y Justificación:** Tras el modal 'will inevitably'; significa hacer más profunda o agravar una crisis.
@@ -582,16 +582,16 @@ The continuing currency depreciation will inevitably _______ the country's sover
 
 ---
 
-### Test 732 — Flatten #flashcards/cambridge/part3
+### Test 732
 
-The cataclysmic shockwave of the meteor impact was powerful enough to _______ ancient pine forests.
-**Root Word:** `[FLAT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The cataclysmic shockwave of the meteor impact was powerful enough to _______ ancient pine forests.
+>
+> - **Root Word:** `[FLAT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `flatten`
-
 - **Categoría Requerida:** Verbo causativo de allanar o derribar (de `FLAT`)
 - **Morfología Aplicada:** Adjetivo 'flat' (duplicación de 't') + sufijo '-en'
 - **Regla y Justificación:** Infinitivo con 'to'; denota derribar y nivelar estructuras con el suelo.
@@ -600,16 +600,16 @@ The cataclysmic shockwave of the meteor impact was powerful enough to _______ an
 
 ---
 
-### Test 733 — Straighten #flashcards/cambridge/part3
+### Test 733
 
-The orthodontist fitted titanium braces to _______ the patient's misaligned incisors.
-**Root Word:** `[STRAIGHT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The orthodontist fitted titanium braces to _______ the patient's misaligned incisors.
+>
+> - **Root Word:** `[STRAIGHT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `straighten`
-
 - **Categoría Requerida:** Verbo causativo de enderezar (de `STRAIGHT`)
 - **Morfología Aplicada:** Adjetivo 'straight' + sufijo verbal '-en'
 - **Regla y Justificación:** Infinitivo con 'to'; significa corregir la inclinación para poner recto algo.
@@ -618,16 +618,16 @@ The orthodontist fitted titanium braces to _______ the patient's misaligned inci
 
 ---
 
-### Test 734 — Brighten #flashcards/cambridge/part3
+### Test 734
 
-Opening the eastern skylights in the morning will instantly _______ the shadowed living room.
-**Root Word:** `[BRIGHT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Opening the eastern skylights in the morning will instantly _______ the shadowed living room.
+>
+> - **Root Word:** `[BRIGHT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `brighten`
-
 - **Categoría Requerida:** Verbo transitivo de iluminar (de `BRIGHT`)
 - **Morfología Aplicada:** Adjetivo 'bright' + sufijo verbal '-en'
 - **Regla y Justificación:** Tras el modal 'will instantly'; significa dotar de mayor luminosidad o resplandor.
@@ -636,16 +636,16 @@ Opening the eastern skylights in the morning will instantly _______ the shadowed
 
 ---
 
-### Test 735 — Darken #flashcards/cambridge/part3
+### Test 735
 
-As storm clouds accumulated along the horizon, the afternoon skies began to _______ ominously.
-**Root Word:** `[DARK]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> As storm clouds accumulated along the horizon, the afternoon skies began to _______ ominously.
+>
+> - **Root Word:** `[DARK]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `darken`
-
 - **Categoría Requerida:** Verbo intransitivo de oscurecerse (de `DARK`)
 - **Morfología Aplicada:** Adjetivo 'dark' + sufijo verbal '-en'
 - **Regla y Justificación:** Infinitivo tras 'began to'; denota disminución de la luz natural ambiental.
@@ -654,16 +654,16 @@ As storm clouds accumulated along the horizon, the afternoon skies began to ____
 
 ---
 
-### Test 736 — Weaken #flashcards/cambridge/part3
+### Test 736
 
-Protracted nutritional deprivation will severely _______ the physiological immune system.
-**Root Word:** `[WEAK]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Protracted nutritional deprivation will severely _______ the physiological immune system.
+>
+> - **Root Word:** `[WEAK]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `weaken`
-
 - **Categoría Requerida:** Verbo transitivo de menoscabar fuerza (de `WEAK`)
 - **Morfología Aplicada:** Adjetivo 'weak' + sufijo verbal '-en'
 - **Regla y Justificación:** Tras el modal 'will severely'; significa mermar la fortaleza biológica o estructural.
@@ -672,16 +672,16 @@ Protracted nutritional deprivation will severely _______ the physiological immun
 
 ---
 
-### Test 737 — Strengthen #flashcards/cambridge/part3
+### Test 737
 
-The geopolitical treaty was designed to _______ diplomatic and commercial ties between the nations.
-**Root Word:** `[STRONG]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The geopolitical treaty was designed to _______ diplomatic and commercial ties between the nations.
+>
+> - **Root Word:** `[STRONG]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `strengthen`
-
 - **Categoría Requerida:** Verbo transitivo de afianzar (de `STRONG`)
 - **Morfología Aplicada:** Sustantivo 'strength' (derivado de strong) + sufijo verbal '-en'
 - **Regla y Justificación:** Infinitivo con 'to'; significa vigorizar o hacer más fuertes los lazos.
@@ -690,16 +690,16 @@ The geopolitical treaty was designed to _______ diplomatic and commercial ties b
 
 ---
 
-### Test 738 — Lengthen #flashcards/cambridge/part3
+### Test 738
 
-As the winter solstice approaches, shadows cast by city skyscrapers noticeably _______.
-**Root Word:** `[LONG]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> As the winter solstice approaches, shadows cast by city skyscrapers noticeably _______.
+>
+> - **Root Word:** `[LONG]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `lengthen`
-
 - **Categoría Requerida:** Verbo intransitivo de alargarse (de `LONG`)
 - **Morfología Aplicada:** Sustantivo 'length' (derivado de long) + sufijo verbal '-en'
 - **Regla y Justificación:** Verbo en presente con sujeto plural 'shadows'; significa hacerse más largo en dimensión temporal o espacial.
@@ -708,16 +708,16 @@ As the winter solstice approaches, shadows cast by city skyscrapers noticeably _
 
 ---
 
-### Test 739 — Encourage #flashcards/cambridge/part3
+### Test 739
 
-Modern pedagogy emphasizes that educators should actively _______ creative questioning in class.
-**Root Word:** `[COURAGE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Modern pedagogy emphasizes that educators should actively _______ creative questioning in class.
+>
+> - **Root Word:** `[COURAGE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `encourage`
-
 - **Categoría Requerida:** Verbo transitivo causativo de alentar (de `COURAGE`)
 - **Morfología Aplicada:** Prefijo causativo verbal 'en-' + sustantivo 'courage'
 - **Regla y Justificación:** Tras el modal 'should actively'; significa infundir ánimo o estimular una conducta.
@@ -726,16 +726,16 @@ Modern pedagogy emphasizes that educators should actively _______ creative quest
 
 ---
 
-### Test 740 — Endanger #flashcards/cambridge/part3
+### Test 740
 
-Discharging untreated chemical effluent into the delta will directly _______ freshwater river dolphins.
-**Root Word:** `[DANGER]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Discharging untreated chemical effluent into the delta will directly _______ freshwater river dolphins.
+>
+> - **Root Word:** `[DANGER]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `endanger`
-
 - **Categoría Requerida:** Verbo transitivo de poner en riesgo (de `DANGER`)
 - **Morfología Aplicada:** Prefijo causativo verbal 'en-' + sustantivo 'danger'
 - **Regla y Justificación:** Tras el modal 'will directly'; significa poner en peligro de extinción o daño grave.
@@ -744,16 +744,16 @@ Discharging untreated chemical effluent into the delta will directly _______ fre
 
 ---
 
-### Test 741 — Enable #flashcards/cambridge/part3
+### Test 741
 
-Technological advancements in microprocessors will _______ quantum computers to solve cryptographic puzzles.
-**Root Word:** `[ABLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Technological advancements in microprocessors will _______ quantum computers to solve cryptographic puzzles.
+>
+> - **Root Word:** `[ABLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `enable`
-
 - **Categoría Requerida:** Verbo transitivo causativo de facultar (de `ABLE`)
 - **Morfología Aplicada:** Prefijo causativo verbal 'en-' + adjetivo 'able'
 - **Regla y Justificación:** Tras 'will' que rige 'object + to-infinitive'; significa capacitar o hacer posible.
@@ -762,16 +762,16 @@ Technological advancements in microprocessors will _______ quantum computers to 
 
 ---
 
-### Test 742 — Ensure #flashcards/cambridge/part3
+### Test 742
 
-The airport security director instituted two-factor biometric scans to _______ absolute passenger safety.
-**Root Word:** `[SURE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The airport security director instituted two-factor biometric scans to _______ absolute passenger safety.
+>
+> - **Root Word:** `[SURE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `ensure`
-
 - **Categoría Requerida:** Verbo transitivo de garantizar (de `SURE`)
 - **Morfología Aplicada:** Prefijo verbal 'en-' + adjetivo 'sure'
 - **Regla y Justificación:** Infinitivo con 'to'; significa asegurar o dar certeza fehaciente de algo.
@@ -780,16 +780,16 @@ The airport security director instituted two-factor biometric scans to _______ a
 
 ---
 
-### Test 743 — Enrich #flashcards/cambridge/part3
+### Test 743
 
-Extensive international travel and cultural immersion will profoundly _______ a scholar's worldview.
-**Root Word:** `[RICH]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Extensive international travel and cultural immersion will profoundly _______ a scholar's worldview.
+>
+> - **Root Word:** `[RICH]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `enrich`
-
 - **Categoría Requerida:** Verbo transitivo de enriquecer espiritualmente (de `RICH`)
 - **Morfología Aplicada:** Prefijo verbal causativo 'en-' + adjetivo 'rich'
 - **Regla y Justificación:** Tras 'will profoundly'; significa hacer más rico, fértil o complejo.
@@ -798,16 +798,16 @@ Extensive international travel and cultural immersion will profoundly _______ a 
 
 ---
 
-### Test 744 — Enlarge #flashcards/cambridge/part3
+### Test 744
 
-The art gallery decided to _______ the digital photograph for the retrospective exhibition.
-**Root Word:** `[LARGE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The art gallery decided to _______ the digital photograph for the retrospective exhibition.
+>
+> - **Root Word:** `[LARGE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `enlarge`
-
 - **Categoría Requerida:** Verbo transitivo de ampliación gráfica (de `LARGE`)
 - **Morfología Aplicada:** Prefijo causativo verbal 'en-' + adjetivo 'large'
 - **Regla y Justificación:** Infinitivo tras 'decided to'; significa hacer más grande una copia o imagen fotográfica.
@@ -816,16 +816,16 @@ The art gallery decided to _______ the digital photograph for the retrospective 
 
 ---
 
-### Test 745 — Ennoble #flashcards/cambridge/part3
+### Test 745
 
-Generations of heroic public service served to _______ the dynasty's historical legacy.
-**Root Word:** `[NOBLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Generations of heroic public service served to _______ the dynasty's historical legacy.
+>
+> - **Root Word:** `[NOBLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `ennoble`
-
 - **Categoría Requerida:** Verbo transitivo de dignificar moralmente (de `NOBLE`)
 - **Morfología Aplicada:** Prefijo causativo 'en-' (con duplicación de 'n') + 'noble'
 - **Regla y Justificación:** Infinitivo con 'to'; significa conferir dignidad moral o nobleza a algo.
@@ -834,16 +834,16 @@ Generations of heroic public service served to _______ the dynasty's historical 
 
 ---
 
-### Test 746 — Entitled #flashcards/cambridge/part3
+### Test 746
 
-Holding a verified press pass _______ accredited journalists to enter the parliamentary press gallery.
-**Root Word:** `[TITLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Holding a verified press pass _______ accredited journalists to enter the parliamentary press gallery.
+>
+> - **Root Word:** `[TITLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `entitled`
-
 - **Categoría Requerida:** Verbo en pasado simple de otorgar derecho reglamentario (de `TITLE`)
 - **Morfología Aplicada:** Prefijo verbal causativo 'en-' + raíz 'title' + desinencia de pasado '-d'
 - **Regla y Justificación:** Verbo transitivo en pasado que rige 'object + to-infinitive'; significa conceder el derecho legal a hacer algo.
@@ -852,16 +852,16 @@ Holding a verified press pass _______ accredited journalists to enter the parlia
 
 ---
 
-### Test 747 — Enforce #flashcards/cambridge/part3
+### Test 747
 
-Municipal traffic police were authorized to strictly _______ the new suburban speed limits.
-**Root Word:** `[FORCE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Municipal traffic police were authorized to strictly _______ the new suburban speed limits.
+>
+> - **Root Word:** `[FORCE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `enforce`
-
 - **Categoría Requerida:** Verbo transitivo de hacer cumplir la ley (de `FORCE`)
 - **Morfología Aplicada:** Prefijo causativo verbal 'en-' + sustantivo 'force'
 - **Regla y Justificación:** Infinitivo con 'to'; significa hacer cumplir coactivamente una normativa o ley.
@@ -870,16 +870,16 @@ Municipal traffic police were authorized to strictly _______ the new suburban sp
 
 ---
 
-### Test 748 — Belie #flashcards/cambridge/part3
+### Test 748
 
-Her cheerful, animated outward appearance seemed to _______ the deep sorrow she was harboring inside.
-**Root Word:** `[LIE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Her cheerful, animated outward appearance seemed to _______ the deep sorrow she was harboring inside.
+>
+> - **Root Word:** `[LIE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `belie`
-
 - **Categoría Requerida:** Verbo transitivo formal de desmentir (de `LIE`)
 - **Morfología Aplicada:** Prefijo intensivo 'be-' + raíz 'lie'
 - **Regla y Justificación:** Infinitivo tras 'seemed to'; significa desmentir o dar una imagen falsa contradictoria con la realidad.
@@ -888,16 +888,16 @@ Her cheerful, animated outward appearance seemed to _______ the deep sorrow she 
 
 ---
 
-### Test 749 — Befriend #flashcards/cambridge/part3
+### Test 749
 
-The social worker made deliberate efforts to _______ the lonely, isolated immigrant family.
-**Root Word:** `[FRIEND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The social worker made deliberate efforts to _______ the lonely, isolated immigrant family.
+>
+> - **Root Word:** `[FRIEND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `befriend`
-
 - **Categoría Requerida:** Verbo transitivo de entablar amistad (de `FRIEND`)
 - **Morfología Aplicada:** Prefijo transitivador 'be-' + sustantivo 'friend'
 - **Regla y Justificación:** Infinitivo con 'to'; significa actuar como amigo o acoger benevolentemente a alguien.
@@ -906,16 +906,16 @@ The social worker made deliberate efforts to _______ the lonely, isolated immigr
 
 ---
 
-### Test 750 — Bewildered #flashcards/cambridge/part3
+### Test 750
 
-The complicated transit map utterly _______ the disoriented tourist arriving late at night.
-**Root Word:** `[WILD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The complicated transit map utterly _______ the disoriented tourist arriving late at night.
+>
+> - **Root Word:** `[WILD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `bewildered`
-
 - **Categoría Requerida:** Verbo transitivo en pasado de desconcertar (de `WILD`)
 - **Morfología Aplicada:** Prefijo 'be-' + raíz 'wilder' + desinencia de pasado '-ed'
 - **Regla y Justificación:** Verbo transitivo en pasado que rige 'the disoriented tourist'; significa confundir o aturdir por completo.

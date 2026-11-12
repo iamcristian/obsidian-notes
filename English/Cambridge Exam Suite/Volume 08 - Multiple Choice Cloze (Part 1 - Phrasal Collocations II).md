@@ -21,17 +21,20 @@ total_tests: 75
 
 ---
 
-### Test 176 — Dawn on (Part 1 #176) #flashcards/cambridge/part1
+### Test 176
 
-It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
-
-- **A)** occurred
-- **B)** dawned
-- **C)** struck
-- **D)** flashed
+> [!question] Multiple Choice Cloze
+> It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
+>
+> - **A)** occurred
+> - **B)** dawned
+> - **C)** struck
+> - **D)** flashed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) dawned**
-
+- **Enfoque:** Dawn on (Part 1 #176)
 - **Colocación / Regla:** Idiomatic Perception: Dawn on
 - **Estructura Sintáctica:** `to dawn on someone = to become suddenly clear`
 - **Razón Explicativa:** Dawn on someone significa hacérsele la luz o darse cuenta por fin tras mucho pensar.
@@ -43,17 +46,20 @@ It finally ______ on the developers that the deadlock was caused by a cyclical m
 
 ---
 
-### Test 177 — Impinge on (Part 1 #177) #flashcards/cambridge/part1
+### Test 177
 
-Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
-
-- **A)** intrude
-- **B)** impinge
-- **C)** infringe
-- **D)** impact
+> [!question] Multiple Choice Cloze
+> Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
+>
+> - **A)** intrude
+> - **B)** impinge
+> - **C)** infringe
+> - **D)** impact
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) impinge**
-
+- **Enfoque:** Impinge on (Part 1 #177)
 - **Colocación / Regla:** Prepositional Verb: Impinge on
 - **Estructura Sintáctica:** `to impinge on = to encroach or have a negative impact`
 - **Razón Explicativa:** Impinge on significa incidir negativamente o coartar un derecho o libertad.
@@ -65,17 +71,20 @@ Strict enterprise firewall rules must not unduly ______ on developer productivit
 
 ---
 
-### Test 178 — Vouch for (Part 1 #178) #flashcards/cambridge/part1
+### Test 178
 
-The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
-
-- **A)** swear
-- **B)** vouch
-- **C)** witness
-- **D)** guarantee
+> [!question] Multiple Choice Cloze
+> The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
+>
+> - **A)** swear
+> - **B)** vouch
+> - **C)** witness
+> - **D)** guarantee
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) vouch**
-
+- **Enfoque:** Vouch for (Part 1 #178)
 - **Colocación / Regla:** Prepositional Verb: Vouch for
 - **Estructura Sintáctica:** `to vouch for = to attest to the authenticity or competence`
 - **Razón Explicativa:** Vouch for significa dar fe de la competencia, honradez o veracidad de alguien.
@@ -87,17 +96,20 @@ The principal software engineer was willing to ______ for Sarah's deep expertise
 
 ---
 
-### Test 179 — Make allowances for (Part 1 #179) #flashcards/cambridge/part1
+### Test 179
 
-When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
-
-- **A)** discounts
-- **B)** allowances
-- **C)** exemptions
-- **D)** concessions
+> [!question] Multiple Choice Cloze
+> When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
+>
+> - **A)** discounts
+> - **B)** allowances
+> - **C)** exemptions
+> - **D)** concessions
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) allowances**
-
+- **Enfoque:** Make allowances for (Part 1 #179)
 - **Colocación / Regla:** Idiomatic Collocation: Make allowances for
 - **Estructura Sintáctica:** `to make allowances for = to take into consideration mitigating factors`
 - **Razón Explicativa:** Make allowances for es la locución invariable para tener en cuenta circunstancias imprevistas o margen de error.
@@ -109,17 +121,20 @@ When estimating sprint capacity, agile project managers must make ______ for une
 
 ---
 
-### Test 180 — Make headway (Part 1 #180) #flashcards/cambridge/part1
+### Test 180
 
-After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
-
-- **A)** headroom
-- **B)** headway
-- **C)** advance
-- **D)** footing
+> [!question] Multiple Choice Cloze
+> After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
+>
+> - **A)** headroom
+> - **B)** headway
+> - **C)** advance
+> - **D)** footing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) headway**
-
+- **Enfoque:** Make headway (Part 1 #180)
 - **Colocación / Regla:** Idiomatic Collocation: Make headway
 - **Estructura Sintáctica:** `to make headway = to make progress, especially in difficult circumstances`
 - **Razón Explicativa:** Make headway significa avanzar o progresar con éxito ante una dificultad persistente.
@@ -131,17 +146,20 @@ After hours of systematic debugging, the systems squad finally began to make sig
 
 ---
 
-### Test 181 — Do justice to (Part 1 #181) #flashcards/cambridge/part1
+### Test 181
 
-A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
-
-- **A)** fairness
-- **B)** justice
-- **C)** honor
-- **D)** merit
+> [!question] Multiple Choice Cloze
+> A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
+>
+> - **A)** fairness
+> - **B)** justice
+> - **C)** honor
+> - **D)** merit
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) justice**
-
+- **Enfoque:** Do justice to (Part 1 #181)
 - **Colocación / Regla:** Collocation: Do justice to
 - **Estructura Sintáctica:** `to do justice to = to represent or show the full worth of something`
 - **Razón Explicativa:** Do justice to es la colocación estándar para hacer honor o reflejar adecuadamente la grandeza de una obra.
@@ -153,17 +171,20 @@ A brief presentation slides deck simply cannot do ______ to the intricate mathem
 
 ---
 
-### Test 182 — Take toll on (Part 1 #182) #flashcards/cambridge/part1
+### Test 182
 
-Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
-
-- **A)** price
-- **B)** toll
-- **C)** cost
-- **D)** penalty
+> [!question] Multiple Choice Cloze
+> Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
+>
+> - **A)** price
+> - **B)** toll
+> - **C)** cost
+> - **D)** penalty
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) toll**
-
+- **Enfoque:** Take toll on (Part 1 #182)
 - **Colocación / Regla:** Idiomatic Collocation: Take a toll on
 - **Estructura Sintáctica:** `to take a toll on = to have a serious, bad effect on someone or something over a long period`
 - **Razón Explicativa:** Take a toll on significa pasar factura o causar un daño acumulativo paulatino.
@@ -175,17 +196,20 @@ Months of continuous on-call firefighting took a heavy ______ on the team's mora
 
 ---
 
-### Test 183 — Take issue with (Part 1 #183) #flashcards/cambridge/part1
+### Test 183
 
-Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
-
-- **A)** matter
-- **B)** issue
-- **C)** objection
-- **D)** exception
+> [!question] Multiple Choice Cloze
+> Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
+>
+> - **A)** matter
+> - **B)** issue
+> - **C)** objection
+> - **D)** exception
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) issue**
-
+- **Enfoque:** Take issue with (Part 1 #183)
 - **Colocación / Regla:** Collocation: Take issue with
 - **Estructura Sintáctica:** `to take issue with = to disagree strongly with someone or something`
 - **Razón Explicativa:** Take issue with significa discrepar firmemente o cuestionar una postura.
@@ -197,17 +221,20 @@ Several senior developers took ______ with the architectural decision to introdu
 
 ---
 
-### Test 184 — Take umbrage at (Part 1 #184) #flashcards/cambridge/part1
+### Test 184
 
-The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
-
-- **A)** offense
-- **B)** umbrage
-- **C)** anger
-- **D)** dislike
+> [!question] Multiple Choice Cloze
+> The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
+>
+> - **A)** offense
+> - **B)** umbrage
+> - **C)** anger
+> - **D)** dislike
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) umbrage**
-
+- **Enfoque:** Take umbrage at (Part 1 #184)
 - **Colocación / Regla:** Idiomatic Collocation: Take umbrage at
 - **Estructura Sintáctica:** `to take umbrage at = to feel upset or offended by something`
 - **Razón Explicativa:** Take umbrage at es la expresión formal de registro C1/C2 para ofenderse o sentirse agraviado por un comentario.
@@ -219,17 +246,20 @@ The lead programmer took ______ at the suggestion that his code lacked sufficien
 
 ---
 
-### Test 185 — Pay tribute to (Part 1 #185) #flashcards/cambridge/part1
+### Test 185
 
-During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
-
-- **A)** respect
-- **B)** tribute
-- **C)** homage
-- **D)** regard
+> [!question] Multiple Choice Cloze
+> During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
+>
+> - **A)** respect
+> - **B)** tribute
+> - **C)** homage
+> - **D)** regard
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tribute**
-
+- **Enfoque:** Pay tribute to (Part 1 #185)
 - **Colocación / Regla:** Collocation: Pay tribute to
 - **Estructura Sintáctica:** `to pay tribute to = to praise someone publicly to show gratitude`
 - **Razón Explicativa:** Pay tribute to es la colocación formal para rendir homenaje o agradecer públicamente la labor de un equipo.
@@ -241,17 +271,20 @@ During the annual tech keynote, executive leadership paid glowing ______ to the 
 
 ---
 
-### Test 186 — Dawn on (Part 1 #186) #flashcards/cambridge/part1
+### Test 186
 
-It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
-
-- **A)** occurred
-- **B)** dawned
-- **C)** struck
-- **D)** flashed
+> [!question] Multiple Choice Cloze
+> It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
+>
+> - **A)** occurred
+> - **B)** dawned
+> - **C)** struck
+> - **D)** flashed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) dawned**
-
+- **Enfoque:** Dawn on (Part 1 #186)
 - **Colocación / Regla:** Idiomatic Perception: Dawn on
 - **Estructura Sintáctica:** `to dawn on someone = to become suddenly clear`
 - **Razón Explicativa:** Dawn on someone significa hacérsele la luz o darse cuenta por fin tras mucho pensar.
@@ -263,17 +296,20 @@ It finally ______ on the developers that the deadlock was caused by a cyclical m
 
 ---
 
-### Test 187 — Impinge on (Part 1 #187) #flashcards/cambridge/part1
+### Test 187
 
-Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
-
-- **A)** intrude
-- **B)** impinge
-- **C)** infringe
-- **D)** impact
+> [!question] Multiple Choice Cloze
+> Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
+>
+> - **A)** intrude
+> - **B)** impinge
+> - **C)** infringe
+> - **D)** impact
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) impinge**
-
+- **Enfoque:** Impinge on (Part 1 #187)
 - **Colocación / Regla:** Prepositional Verb: Impinge on
 - **Estructura Sintáctica:** `to impinge on = to encroach or have a negative impact`
 - **Razón Explicativa:** Impinge on significa incidir negativamente o coartar un derecho o libertad.
@@ -285,17 +321,20 @@ Strict enterprise firewall rules must not unduly ______ on developer productivit
 
 ---
 
-### Test 188 — Vouch for (Part 1 #188) #flashcards/cambridge/part1
+### Test 188
 
-The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
-
-- **A)** swear
-- **B)** vouch
-- **C)** witness
-- **D)** guarantee
+> [!question] Multiple Choice Cloze
+> The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
+>
+> - **A)** swear
+> - **B)** vouch
+> - **C)** witness
+> - **D)** guarantee
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) vouch**
-
+- **Enfoque:** Vouch for (Part 1 #188)
 - **Colocación / Regla:** Prepositional Verb: Vouch for
 - **Estructura Sintáctica:** `to vouch for = to attest to the authenticity or competence`
 - **Razón Explicativa:** Vouch for significa dar fe de la competencia, honradez o veracidad de alguien.
@@ -307,17 +346,20 @@ The principal software engineer was willing to ______ for Sarah's deep expertise
 
 ---
 
-### Test 189 — Make allowances for (Part 1 #189) #flashcards/cambridge/part1
+### Test 189
 
-When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
-
-- **A)** discounts
-- **B)** allowances
-- **C)** exemptions
-- **D)** concessions
+> [!question] Multiple Choice Cloze
+> When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
+>
+> - **A)** discounts
+> - **B)** allowances
+> - **C)** exemptions
+> - **D)** concessions
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) allowances**
-
+- **Enfoque:** Make allowances for (Part 1 #189)
 - **Colocación / Regla:** Idiomatic Collocation: Make allowances for
 - **Estructura Sintáctica:** `to make allowances for = to take into consideration mitigating factors`
 - **Razón Explicativa:** Make allowances for es la locución invariable para tener en cuenta circunstancias imprevistas o margen de error.
@@ -329,17 +371,20 @@ When estimating sprint capacity, agile project managers must make ______ for une
 
 ---
 
-### Test 190 — Make headway (Part 1 #190) #flashcards/cambridge/part1
+### Test 190
 
-After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
-
-- **A)** headroom
-- **B)** headway
-- **C)** advance
-- **D)** footing
+> [!question] Multiple Choice Cloze
+> After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
+>
+> - **A)** headroom
+> - **B)** headway
+> - **C)** advance
+> - **D)** footing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) headway**
-
+- **Enfoque:** Make headway (Part 1 #190)
 - **Colocación / Regla:** Idiomatic Collocation: Make headway
 - **Estructura Sintáctica:** `to make headway = to make progress, especially in difficult circumstances`
 - **Razón Explicativa:** Make headway significa avanzar o progresar con éxito ante una dificultad persistente.
@@ -351,17 +396,20 @@ After hours of systematic debugging, the systems squad finally began to make sig
 
 ---
 
-### Test 191 — Do justice to (Part 1 #191) #flashcards/cambridge/part1
+### Test 191
 
-A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
-
-- **A)** fairness
-- **B)** justice
-- **C)** honor
-- **D)** merit
+> [!question] Multiple Choice Cloze
+> A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
+>
+> - **A)** fairness
+> - **B)** justice
+> - **C)** honor
+> - **D)** merit
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) justice**
-
+- **Enfoque:** Do justice to (Part 1 #191)
 - **Colocación / Regla:** Collocation: Do justice to
 - **Estructura Sintáctica:** `to do justice to = to represent or show the full worth of something`
 - **Razón Explicativa:** Do justice to es la colocación estándar para hacer honor o reflejar adecuadamente la grandeza de una obra.
@@ -373,17 +421,20 @@ A brief presentation slides deck simply cannot do ______ to the intricate mathem
 
 ---
 
-### Test 192 — Take toll on (Part 1 #192) #flashcards/cambridge/part1
+### Test 192
 
-Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
-
-- **A)** price
-- **B)** toll
-- **C)** cost
-- **D)** penalty
+> [!question] Multiple Choice Cloze
+> Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
+>
+> - **A)** price
+> - **B)** toll
+> - **C)** cost
+> - **D)** penalty
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) toll**
-
+- **Enfoque:** Take toll on (Part 1 #192)
 - **Colocación / Regla:** Idiomatic Collocation: Take a toll on
 - **Estructura Sintáctica:** `to take a toll on = to have a serious, bad effect on someone or something over a long period`
 - **Razón Explicativa:** Take a toll on significa pasar factura o causar un daño acumulativo paulatino.
@@ -395,17 +446,20 @@ Months of continuous on-call firefighting took a heavy ______ on the team's mora
 
 ---
 
-### Test 193 — Take issue with (Part 1 #193) #flashcards/cambridge/part1
+### Test 193
 
-Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
-
-- **A)** matter
-- **B)** issue
-- **C)** objection
-- **D)** exception
+> [!question] Multiple Choice Cloze
+> Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
+>
+> - **A)** matter
+> - **B)** issue
+> - **C)** objection
+> - **D)** exception
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) issue**
-
+- **Enfoque:** Take issue with (Part 1 #193)
 - **Colocación / Regla:** Collocation: Take issue with
 - **Estructura Sintáctica:** `to take issue with = to disagree strongly with someone or something`
 - **Razón Explicativa:** Take issue with significa discrepar firmemente o cuestionar una postura.
@@ -417,17 +471,20 @@ Several senior developers took ______ with the architectural decision to introdu
 
 ---
 
-### Test 194 — Take umbrage at (Part 1 #194) #flashcards/cambridge/part1
+### Test 194
 
-The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
-
-- **A)** offense
-- **B)** umbrage
-- **C)** anger
-- **D)** dislike
+> [!question] Multiple Choice Cloze
+> The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
+>
+> - **A)** offense
+> - **B)** umbrage
+> - **C)** anger
+> - **D)** dislike
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) umbrage**
-
+- **Enfoque:** Take umbrage at (Part 1 #194)
 - **Colocación / Regla:** Idiomatic Collocation: Take umbrage at
 - **Estructura Sintáctica:** `to take umbrage at = to feel upset or offended by something`
 - **Razón Explicativa:** Take umbrage at es la expresión formal de registro C1/C2 para ofenderse o sentirse agraviado por un comentario.
@@ -439,17 +496,20 @@ The lead programmer took ______ at the suggestion that his code lacked sufficien
 
 ---
 
-### Test 195 — Pay tribute to (Part 1 #195) #flashcards/cambridge/part1
+### Test 195
 
-During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
-
-- **A)** respect
-- **B)** tribute
-- **C)** homage
-- **D)** regard
+> [!question] Multiple Choice Cloze
+> During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
+>
+> - **A)** respect
+> - **B)** tribute
+> - **C)** homage
+> - **D)** regard
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tribute**
-
+- **Enfoque:** Pay tribute to (Part 1 #195)
 - **Colocación / Regla:** Collocation: Pay tribute to
 - **Estructura Sintáctica:** `to pay tribute to = to praise someone publicly to show gratitude`
 - **Razón Explicativa:** Pay tribute to es la colocación formal para rendir homenaje o agradecer públicamente la labor de un equipo.
@@ -461,17 +521,20 @@ During the annual tech keynote, executive leadership paid glowing ______ to the 
 
 ---
 
-### Test 196 — Dawn on (Part 1 #196) #flashcards/cambridge/part1
+### Test 196
 
-It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
-
-- **A)** occurred
-- **B)** dawned
-- **C)** struck
-- **D)** flashed
+> [!question] Multiple Choice Cloze
+> It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
+>
+> - **A)** occurred
+> - **B)** dawned
+> - **C)** struck
+> - **D)** flashed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) dawned**
-
+- **Enfoque:** Dawn on (Part 1 #196)
 - **Colocación / Regla:** Idiomatic Perception: Dawn on
 - **Estructura Sintáctica:** `to dawn on someone = to become suddenly clear`
 - **Razón Explicativa:** Dawn on someone significa hacérsele la luz o darse cuenta por fin tras mucho pensar.
@@ -483,17 +546,20 @@ It finally ______ on the developers that the deadlock was caused by a cyclical m
 
 ---
 
-### Test 197 — Impinge on (Part 1 #197) #flashcards/cambridge/part1
+### Test 197
 
-Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
-
-- **A)** intrude
-- **B)** impinge
-- **C)** infringe
-- **D)** impact
+> [!question] Multiple Choice Cloze
+> Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
+>
+> - **A)** intrude
+> - **B)** impinge
+> - **C)** infringe
+> - **D)** impact
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) impinge**
-
+- **Enfoque:** Impinge on (Part 1 #197)
 - **Colocación / Regla:** Prepositional Verb: Impinge on
 - **Estructura Sintáctica:** `to impinge on = to encroach or have a negative impact`
 - **Razón Explicativa:** Impinge on significa incidir negativamente o coartar un derecho o libertad.
@@ -505,17 +571,20 @@ Strict enterprise firewall rules must not unduly ______ on developer productivit
 
 ---
 
-### Test 198 — Vouch for (Part 1 #198) #flashcards/cambridge/part1
+### Test 198
 
-The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
-
-- **A)** swear
-- **B)** vouch
-- **C)** witness
-- **D)** guarantee
+> [!question] Multiple Choice Cloze
+> The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
+>
+> - **A)** swear
+> - **B)** vouch
+> - **C)** witness
+> - **D)** guarantee
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) vouch**
-
+- **Enfoque:** Vouch for (Part 1 #198)
 - **Colocación / Regla:** Prepositional Verb: Vouch for
 - **Estructura Sintáctica:** `to vouch for = to attest to the authenticity or competence`
 - **Razón Explicativa:** Vouch for significa dar fe de la competencia, honradez o veracidad de alguien.
@@ -527,17 +596,20 @@ The principal software engineer was willing to ______ for Sarah's deep expertise
 
 ---
 
-### Test 199 — Make allowances for (Part 1 #199) #flashcards/cambridge/part1
+### Test 199
 
-When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
-
-- **A)** discounts
-- **B)** allowances
-- **C)** exemptions
-- **D)** concessions
+> [!question] Multiple Choice Cloze
+> When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
+>
+> - **A)** discounts
+> - **B)** allowances
+> - **C)** exemptions
+> - **D)** concessions
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) allowances**
-
+- **Enfoque:** Make allowances for (Part 1 #199)
 - **Colocación / Regla:** Idiomatic Collocation: Make allowances for
 - **Estructura Sintáctica:** `to make allowances for = to take into consideration mitigating factors`
 - **Razón Explicativa:** Make allowances for es la locución invariable para tener en cuenta circunstancias imprevistas o margen de error.
@@ -549,17 +621,20 @@ When estimating sprint capacity, agile project managers must make ______ for une
 
 ---
 
-### Test 200 — Make headway (Part 1 #200) #flashcards/cambridge/part1
+### Test 200
 
-After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
-
-- **A)** headroom
-- **B)** headway
-- **C)** advance
-- **D)** footing
+> [!question] Multiple Choice Cloze
+> After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
+>
+> - **A)** headroom
+> - **B)** headway
+> - **C)** advance
+> - **D)** footing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) headway**
-
+- **Enfoque:** Make headway (Part 1 #200)
 - **Colocación / Regla:** Idiomatic Collocation: Make headway
 - **Estructura Sintáctica:** `to make headway = to make progress, especially in difficult circumstances`
 - **Razón Explicativa:** Make headway significa avanzar o progresar con éxito ante una dificultad persistente.
@@ -571,17 +646,20 @@ After hours of systematic debugging, the systems squad finally began to make sig
 
 ---
 
-### Test 201 — Do justice to (Part 1 #201) #flashcards/cambridge/part1
+### Test 201
 
-A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
-
-- **A)** fairness
-- **B)** justice
-- **C)** honor
-- **D)** merit
+> [!question] Multiple Choice Cloze
+> A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
+>
+> - **A)** fairness
+> - **B)** justice
+> - **C)** honor
+> - **D)** merit
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) justice**
-
+- **Enfoque:** Do justice to (Part 1 #201)
 - **Colocación / Regla:** Collocation: Do justice to
 - **Estructura Sintáctica:** `to do justice to = to represent or show the full worth of something`
 - **Razón Explicativa:** Do justice to es la colocación estándar para hacer honor o reflejar adecuadamente la grandeza de una obra.
@@ -593,17 +671,20 @@ A brief presentation slides deck simply cannot do ______ to the intricate mathem
 
 ---
 
-### Test 202 — Take toll on (Part 1 #202) #flashcards/cambridge/part1
+### Test 202
 
-Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
-
-- **A)** price
-- **B)** toll
-- **C)** cost
-- **D)** penalty
+> [!question] Multiple Choice Cloze
+> Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
+>
+> - **A)** price
+> - **B)** toll
+> - **C)** cost
+> - **D)** penalty
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) toll**
-
+- **Enfoque:** Take toll on (Part 1 #202)
 - **Colocación / Regla:** Idiomatic Collocation: Take a toll on
 - **Estructura Sintáctica:** `to take a toll on = to have a serious, bad effect on someone or something over a long period`
 - **Razón Explicativa:** Take a toll on significa pasar factura o causar un daño acumulativo paulatino.
@@ -615,17 +696,20 @@ Months of continuous on-call firefighting took a heavy ______ on the team's mora
 
 ---
 
-### Test 203 — Take issue with (Part 1 #203) #flashcards/cambridge/part1
+### Test 203
 
-Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
-
-- **A)** matter
-- **B)** issue
-- **C)** objection
-- **D)** exception
+> [!question] Multiple Choice Cloze
+> Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
+>
+> - **A)** matter
+> - **B)** issue
+> - **C)** objection
+> - **D)** exception
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) issue**
-
+- **Enfoque:** Take issue with (Part 1 #203)
 - **Colocación / Regla:** Collocation: Take issue with
 - **Estructura Sintáctica:** `to take issue with = to disagree strongly with someone or something`
 - **Razón Explicativa:** Take issue with significa discrepar firmemente o cuestionar una postura.
@@ -637,17 +721,20 @@ Several senior developers took ______ with the architectural decision to introdu
 
 ---
 
-### Test 204 — Take umbrage at (Part 1 #204) #flashcards/cambridge/part1
+### Test 204
 
-The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
-
-- **A)** offense
-- **B)** umbrage
-- **C)** anger
-- **D)** dislike
+> [!question] Multiple Choice Cloze
+> The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
+>
+> - **A)** offense
+> - **B)** umbrage
+> - **C)** anger
+> - **D)** dislike
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) umbrage**
-
+- **Enfoque:** Take umbrage at (Part 1 #204)
 - **Colocación / Regla:** Idiomatic Collocation: Take umbrage at
 - **Estructura Sintáctica:** `to take umbrage at = to feel upset or offended by something`
 - **Razón Explicativa:** Take umbrage at es la expresión formal de registro C1/C2 para ofenderse o sentirse agraviado por un comentario.
@@ -659,17 +746,20 @@ The lead programmer took ______ at the suggestion that his code lacked sufficien
 
 ---
 
-### Test 205 — Pay tribute to (Part 1 #205) #flashcards/cambridge/part1
+### Test 205
 
-During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
-
-- **A)** respect
-- **B)** tribute
-- **C)** homage
-- **D)** regard
+> [!question] Multiple Choice Cloze
+> During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
+>
+> - **A)** respect
+> - **B)** tribute
+> - **C)** homage
+> - **D)** regard
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tribute**
-
+- **Enfoque:** Pay tribute to (Part 1 #205)
 - **Colocación / Regla:** Collocation: Pay tribute to
 - **Estructura Sintáctica:** `to pay tribute to = to praise someone publicly to show gratitude`
 - **Razón Explicativa:** Pay tribute to es la colocación formal para rendir homenaje o agradecer públicamente la labor de un equipo.
@@ -681,17 +771,20 @@ During the annual tech keynote, executive leadership paid glowing ______ to the 
 
 ---
 
-### Test 206 — Dawn on (Part 1 #206) #flashcards/cambridge/part1
+### Test 206
 
-It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
-
-- **A)** occurred
-- **B)** dawned
-- **C)** struck
-- **D)** flashed
+> [!question] Multiple Choice Cloze
+> It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
+>
+> - **A)** occurred
+> - **B)** dawned
+> - **C)** struck
+> - **D)** flashed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) dawned**
-
+- **Enfoque:** Dawn on (Part 1 #206)
 - **Colocación / Regla:** Idiomatic Perception: Dawn on
 - **Estructura Sintáctica:** `to dawn on someone = to become suddenly clear`
 - **Razón Explicativa:** Dawn on someone significa hacérsele la luz o darse cuenta por fin tras mucho pensar.
@@ -703,17 +796,20 @@ It finally ______ on the developers that the deadlock was caused by a cyclical m
 
 ---
 
-### Test 207 — Impinge on (Part 1 #207) #flashcards/cambridge/part1
+### Test 207
 
-Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
-
-- **A)** intrude
-- **B)** impinge
-- **C)** infringe
-- **D)** impact
+> [!question] Multiple Choice Cloze
+> Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
+>
+> - **A)** intrude
+> - **B)** impinge
+> - **C)** infringe
+> - **D)** impact
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) impinge**
-
+- **Enfoque:** Impinge on (Part 1 #207)
 - **Colocación / Regla:** Prepositional Verb: Impinge on
 - **Estructura Sintáctica:** `to impinge on = to encroach or have a negative impact`
 - **Razón Explicativa:** Impinge on significa incidir negativamente o coartar un derecho o libertad.
@@ -725,17 +821,20 @@ Strict enterprise firewall rules must not unduly ______ on developer productivit
 
 ---
 
-### Test 208 — Vouch for (Part 1 #208) #flashcards/cambridge/part1
+### Test 208
 
-The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
-
-- **A)** swear
-- **B)** vouch
-- **C)** witness
-- **D)** guarantee
+> [!question] Multiple Choice Cloze
+> The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
+>
+> - **A)** swear
+> - **B)** vouch
+> - **C)** witness
+> - **D)** guarantee
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) vouch**
-
+- **Enfoque:** Vouch for (Part 1 #208)
 - **Colocación / Regla:** Prepositional Verb: Vouch for
 - **Estructura Sintáctica:** `to vouch for = to attest to the authenticity or competence`
 - **Razón Explicativa:** Vouch for significa dar fe de la competencia, honradez o veracidad de alguien.
@@ -747,17 +846,20 @@ The principal software engineer was willing to ______ for Sarah's deep expertise
 
 ---
 
-### Test 209 — Make allowances for (Part 1 #209) #flashcards/cambridge/part1
+### Test 209
 
-When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
-
-- **A)** discounts
-- **B)** allowances
-- **C)** exemptions
-- **D)** concessions
+> [!question] Multiple Choice Cloze
+> When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
+>
+> - **A)** discounts
+> - **B)** allowances
+> - **C)** exemptions
+> - **D)** concessions
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) allowances**
-
+- **Enfoque:** Make allowances for (Part 1 #209)
 - **Colocación / Regla:** Idiomatic Collocation: Make allowances for
 - **Estructura Sintáctica:** `to make allowances for = to take into consideration mitigating factors`
 - **Razón Explicativa:** Make allowances for es la locución invariable para tener en cuenta circunstancias imprevistas o margen de error.
@@ -769,17 +871,20 @@ When estimating sprint capacity, agile project managers must make ______ for une
 
 ---
 
-### Test 210 — Make headway (Part 1 #210) #flashcards/cambridge/part1
+### Test 210
 
-After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
-
-- **A)** headroom
-- **B)** headway
-- **C)** advance
-- **D)** footing
+> [!question] Multiple Choice Cloze
+> After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
+>
+> - **A)** headroom
+> - **B)** headway
+> - **C)** advance
+> - **D)** footing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) headway**
-
+- **Enfoque:** Make headway (Part 1 #210)
 - **Colocación / Regla:** Idiomatic Collocation: Make headway
 - **Estructura Sintáctica:** `to make headway = to make progress, especially in difficult circumstances`
 - **Razón Explicativa:** Make headway significa avanzar o progresar con éxito ante una dificultad persistente.
@@ -791,17 +896,20 @@ After hours of systematic debugging, the systems squad finally began to make sig
 
 ---
 
-### Test 211 — Do justice to (Part 1 #211) #flashcards/cambridge/part1
+### Test 211
 
-A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
-
-- **A)** fairness
-- **B)** justice
-- **C)** honor
-- **D)** merit
+> [!question] Multiple Choice Cloze
+> A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
+>
+> - **A)** fairness
+> - **B)** justice
+> - **C)** honor
+> - **D)** merit
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) justice**
-
+- **Enfoque:** Do justice to (Part 1 #211)
 - **Colocación / Regla:** Collocation: Do justice to
 - **Estructura Sintáctica:** `to do justice to = to represent or show the full worth of something`
 - **Razón Explicativa:** Do justice to es la colocación estándar para hacer honor o reflejar adecuadamente la grandeza de una obra.
@@ -813,17 +921,20 @@ A brief presentation slides deck simply cannot do ______ to the intricate mathem
 
 ---
 
-### Test 212 — Take toll on (Part 1 #212) #flashcards/cambridge/part1
+### Test 212
 
-Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
-
-- **A)** price
-- **B)** toll
-- **C)** cost
-- **D)** penalty
+> [!question] Multiple Choice Cloze
+> Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
+>
+> - **A)** price
+> - **B)** toll
+> - **C)** cost
+> - **D)** penalty
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) toll**
-
+- **Enfoque:** Take toll on (Part 1 #212)
 - **Colocación / Regla:** Idiomatic Collocation: Take a toll on
 - **Estructura Sintáctica:** `to take a toll on = to have a serious, bad effect on someone or something over a long period`
 - **Razón Explicativa:** Take a toll on significa pasar factura o causar un daño acumulativo paulatino.
@@ -835,17 +946,20 @@ Months of continuous on-call firefighting took a heavy ______ on the team's mora
 
 ---
 
-### Test 213 — Take issue with (Part 1 #213) #flashcards/cambridge/part1
+### Test 213
 
-Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
-
-- **A)** matter
-- **B)** issue
-- **C)** objection
-- **D)** exception
+> [!question] Multiple Choice Cloze
+> Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
+>
+> - **A)** matter
+> - **B)** issue
+> - **C)** objection
+> - **D)** exception
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) issue**
-
+- **Enfoque:** Take issue with (Part 1 #213)
 - **Colocación / Regla:** Collocation: Take issue with
 - **Estructura Sintáctica:** `to take issue with = to disagree strongly with someone or something`
 - **Razón Explicativa:** Take issue with significa discrepar firmemente o cuestionar una postura.
@@ -857,17 +971,20 @@ Several senior developers took ______ with the architectural decision to introdu
 
 ---
 
-### Test 214 — Take umbrage at (Part 1 #214) #flashcards/cambridge/part1
+### Test 214
 
-The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
-
-- **A)** offense
-- **B)** umbrage
-- **C)** anger
-- **D)** dislike
+> [!question] Multiple Choice Cloze
+> The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
+>
+> - **A)** offense
+> - **B)** umbrage
+> - **C)** anger
+> - **D)** dislike
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) umbrage**
-
+- **Enfoque:** Take umbrage at (Part 1 #214)
 - **Colocación / Regla:** Idiomatic Collocation: Take umbrage at
 - **Estructura Sintáctica:** `to take umbrage at = to feel upset or offended by something`
 - **Razón Explicativa:** Take umbrage at es la expresión formal de registro C1/C2 para ofenderse o sentirse agraviado por un comentario.
@@ -879,17 +996,20 @@ The lead programmer took ______ at the suggestion that his code lacked sufficien
 
 ---
 
-### Test 215 — Pay tribute to (Part 1 #215) #flashcards/cambridge/part1
+### Test 215
 
-During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
-
-- **A)** respect
-- **B)** tribute
-- **C)** homage
-- **D)** regard
+> [!question] Multiple Choice Cloze
+> During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
+>
+> - **A)** respect
+> - **B)** tribute
+> - **C)** homage
+> - **D)** regard
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tribute**
-
+- **Enfoque:** Pay tribute to (Part 1 #215)
 - **Colocación / Regla:** Collocation: Pay tribute to
 - **Estructura Sintáctica:** `to pay tribute to = to praise someone publicly to show gratitude`
 - **Razón Explicativa:** Pay tribute to es la colocación formal para rendir homenaje o agradecer públicamente la labor de un equipo.
@@ -901,17 +1021,20 @@ During the annual tech keynote, executive leadership paid glowing ______ to the 
 
 ---
 
-### Test 216 — Dawn on (Part 1 #216) #flashcards/cambridge/part1
+### Test 216
 
-It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
-
-- **A)** occurred
-- **B)** dawned
-- **C)** struck
-- **D)** flashed
+> [!question] Multiple Choice Cloze
+> It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
+>
+> - **A)** occurred
+> - **B)** dawned
+> - **C)** struck
+> - **D)** flashed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) dawned**
-
+- **Enfoque:** Dawn on (Part 1 #216)
 - **Colocación / Regla:** Idiomatic Perception: Dawn on
 - **Estructura Sintáctica:** `to dawn on someone = to become suddenly clear`
 - **Razón Explicativa:** Dawn on someone significa hacérsele la luz o darse cuenta por fin tras mucho pensar.
@@ -923,17 +1046,20 @@ It finally ______ on the developers that the deadlock was caused by a cyclical m
 
 ---
 
-### Test 217 — Impinge on (Part 1 #217) #flashcards/cambridge/part1
+### Test 217
 
-Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
-
-- **A)** intrude
-- **B)** impinge
-- **C)** infringe
-- **D)** impact
+> [!question] Multiple Choice Cloze
+> Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
+>
+> - **A)** intrude
+> - **B)** impinge
+> - **C)** infringe
+> - **D)** impact
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) impinge**
-
+- **Enfoque:** Impinge on (Part 1 #217)
 - **Colocación / Regla:** Prepositional Verb: Impinge on
 - **Estructura Sintáctica:** `to impinge on = to encroach or have a negative impact`
 - **Razón Explicativa:** Impinge on significa incidir negativamente o coartar un derecho o libertad.
@@ -945,17 +1071,20 @@ Strict enterprise firewall rules must not unduly ______ on developer productivit
 
 ---
 
-### Test 218 — Vouch for (Part 1 #218) #flashcards/cambridge/part1
+### Test 218
 
-The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
-
-- **A)** swear
-- **B)** vouch
-- **C)** witness
-- **D)** guarantee
+> [!question] Multiple Choice Cloze
+> The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
+>
+> - **A)** swear
+> - **B)** vouch
+> - **C)** witness
+> - **D)** guarantee
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) vouch**
-
+- **Enfoque:** Vouch for (Part 1 #218)
 - **Colocación / Regla:** Prepositional Verb: Vouch for
 - **Estructura Sintáctica:** `to vouch for = to attest to the authenticity or competence`
 - **Razón Explicativa:** Vouch for significa dar fe de la competencia, honradez o veracidad de alguien.
@@ -967,17 +1096,20 @@ The principal software engineer was willing to ______ for Sarah's deep expertise
 
 ---
 
-### Test 219 — Make allowances for (Part 1 #219) #flashcards/cambridge/part1
+### Test 219
 
-When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
-
-- **A)** discounts
-- **B)** allowances
-- **C)** exemptions
-- **D)** concessions
+> [!question] Multiple Choice Cloze
+> When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
+>
+> - **A)** discounts
+> - **B)** allowances
+> - **C)** exemptions
+> - **D)** concessions
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) allowances**
-
+- **Enfoque:** Make allowances for (Part 1 #219)
 - **Colocación / Regla:** Idiomatic Collocation: Make allowances for
 - **Estructura Sintáctica:** `to make allowances for = to take into consideration mitigating factors`
 - **Razón Explicativa:** Make allowances for es la locución invariable para tener en cuenta circunstancias imprevistas o margen de error.
@@ -989,17 +1121,20 @@ When estimating sprint capacity, agile project managers must make ______ for une
 
 ---
 
-### Test 220 — Make headway (Part 1 #220) #flashcards/cambridge/part1
+### Test 220
 
-After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
-
-- **A)** headroom
-- **B)** headway
-- **C)** advance
-- **D)** footing
+> [!question] Multiple Choice Cloze
+> After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
+>
+> - **A)** headroom
+> - **B)** headway
+> - **C)** advance
+> - **D)** footing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) headway**
-
+- **Enfoque:** Make headway (Part 1 #220)
 - **Colocación / Regla:** Idiomatic Collocation: Make headway
 - **Estructura Sintáctica:** `to make headway = to make progress, especially in difficult circumstances`
 - **Razón Explicativa:** Make headway significa avanzar o progresar con éxito ante una dificultad persistente.
@@ -1011,17 +1146,20 @@ After hours of systematic debugging, the systems squad finally began to make sig
 
 ---
 
-### Test 221 — Do justice to (Part 1 #221) #flashcards/cambridge/part1
+### Test 221
 
-A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
-
-- **A)** fairness
-- **B)** justice
-- **C)** honor
-- **D)** merit
+> [!question] Multiple Choice Cloze
+> A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
+>
+> - **A)** fairness
+> - **B)** justice
+> - **C)** honor
+> - **D)** merit
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) justice**
-
+- **Enfoque:** Do justice to (Part 1 #221)
 - **Colocación / Regla:** Collocation: Do justice to
 - **Estructura Sintáctica:** `to do justice to = to represent or show the full worth of something`
 - **Razón Explicativa:** Do justice to es la colocación estándar para hacer honor o reflejar adecuadamente la grandeza de una obra.
@@ -1033,17 +1171,20 @@ A brief presentation slides deck simply cannot do ______ to the intricate mathem
 
 ---
 
-### Test 222 — Take toll on (Part 1 #222) #flashcards/cambridge/part1
+### Test 222
 
-Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
-
-- **A)** price
-- **B)** toll
-- **C)** cost
-- **D)** penalty
+> [!question] Multiple Choice Cloze
+> Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
+>
+> - **A)** price
+> - **B)** toll
+> - **C)** cost
+> - **D)** penalty
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) toll**
-
+- **Enfoque:** Take toll on (Part 1 #222)
 - **Colocación / Regla:** Idiomatic Collocation: Take a toll on
 - **Estructura Sintáctica:** `to take a toll on = to have a serious, bad effect on someone or something over a long period`
 - **Razón Explicativa:** Take a toll on significa pasar factura o causar un daño acumulativo paulatino.
@@ -1055,17 +1196,20 @@ Months of continuous on-call firefighting took a heavy ______ on the team's mora
 
 ---
 
-### Test 223 — Take issue with (Part 1 #223) #flashcards/cambridge/part1
+### Test 223
 
-Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
-
-- **A)** matter
-- **B)** issue
-- **C)** objection
-- **D)** exception
+> [!question] Multiple Choice Cloze
+> Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
+>
+> - **A)** matter
+> - **B)** issue
+> - **C)** objection
+> - **D)** exception
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) issue**
-
+- **Enfoque:** Take issue with (Part 1 #223)
 - **Colocación / Regla:** Collocation: Take issue with
 - **Estructura Sintáctica:** `to take issue with = to disagree strongly with someone or something`
 - **Razón Explicativa:** Take issue with significa discrepar firmemente o cuestionar una postura.
@@ -1077,17 +1221,20 @@ Several senior developers took ______ with the architectural decision to introdu
 
 ---
 
-### Test 224 — Take umbrage at (Part 1 #224) #flashcards/cambridge/part1
+### Test 224
 
-The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
-
-- **A)** offense
-- **B)** umbrage
-- **C)** anger
-- **D)** dislike
+> [!question] Multiple Choice Cloze
+> The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
+>
+> - **A)** offense
+> - **B)** umbrage
+> - **C)** anger
+> - **D)** dislike
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) umbrage**
-
+- **Enfoque:** Take umbrage at (Part 1 #224)
 - **Colocación / Regla:** Idiomatic Collocation: Take umbrage at
 - **Estructura Sintáctica:** `to take umbrage at = to feel upset or offended by something`
 - **Razón Explicativa:** Take umbrage at es la expresión formal de registro C1/C2 para ofenderse o sentirse agraviado por un comentario.
@@ -1099,17 +1246,20 @@ The lead programmer took ______ at the suggestion that his code lacked sufficien
 
 ---
 
-### Test 225 — Pay tribute to (Part 1 #225) #flashcards/cambridge/part1
+### Test 225
 
-During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
-
-- **A)** respect
-- **B)** tribute
-- **C)** homage
-- **D)** regard
+> [!question] Multiple Choice Cloze
+> During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
+>
+> - **A)** respect
+> - **B)** tribute
+> - **C)** homage
+> - **D)** regard
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tribute**
-
+- **Enfoque:** Pay tribute to (Part 1 #225)
 - **Colocación / Regla:** Collocation: Pay tribute to
 - **Estructura Sintáctica:** `to pay tribute to = to praise someone publicly to show gratitude`
 - **Razón Explicativa:** Pay tribute to es la colocación formal para rendir homenaje o agradecer públicamente la labor de un equipo.
@@ -1121,17 +1271,20 @@ During the annual tech keynote, executive leadership paid glowing ______ to the 
 
 ---
 
-### Test 226 — Dawn on (Part 1 #226) #flashcards/cambridge/part1
+### Test 226
 
-It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
-
-- **A)** occurred
-- **B)** dawned
-- **C)** struck
-- **D)** flashed
+> [!question] Multiple Choice Cloze
+> It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
+>
+> - **A)** occurred
+> - **B)** dawned
+> - **C)** struck
+> - **D)** flashed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) dawned**
-
+- **Enfoque:** Dawn on (Part 1 #226)
 - **Colocación / Regla:** Idiomatic Perception: Dawn on
 - **Estructura Sintáctica:** `to dawn on someone = to become suddenly clear`
 - **Razón Explicativa:** Dawn on someone significa hacérsele la luz o darse cuenta por fin tras mucho pensar.
@@ -1143,17 +1296,20 @@ It finally ______ on the developers that the deadlock was caused by a cyclical m
 
 ---
 
-### Test 227 — Impinge on (Part 1 #227) #flashcards/cambridge/part1
+### Test 227
 
-Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
-
-- **A)** intrude
-- **B)** impinge
-- **C)** infringe
-- **D)** impact
+> [!question] Multiple Choice Cloze
+> Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
+>
+> - **A)** intrude
+> - **B)** impinge
+> - **C)** infringe
+> - **D)** impact
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) impinge**
-
+- **Enfoque:** Impinge on (Part 1 #227)
 - **Colocación / Regla:** Prepositional Verb: Impinge on
 - **Estructura Sintáctica:** `to impinge on = to encroach or have a negative impact`
 - **Razón Explicativa:** Impinge on significa incidir negativamente o coartar un derecho o libertad.
@@ -1165,17 +1321,20 @@ Strict enterprise firewall rules must not unduly ______ on developer productivit
 
 ---
 
-### Test 228 — Vouch for (Part 1 #228) #flashcards/cambridge/part1
+### Test 228
 
-The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
-
-- **A)** swear
-- **B)** vouch
-- **C)** witness
-- **D)** guarantee
+> [!question] Multiple Choice Cloze
+> The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
+>
+> - **A)** swear
+> - **B)** vouch
+> - **C)** witness
+> - **D)** guarantee
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) vouch**
-
+- **Enfoque:** Vouch for (Part 1 #228)
 - **Colocación / Regla:** Prepositional Verb: Vouch for
 - **Estructura Sintáctica:** `to vouch for = to attest to the authenticity or competence`
 - **Razón Explicativa:** Vouch for significa dar fe de la competencia, honradez o veracidad de alguien.
@@ -1187,17 +1346,20 @@ The principal software engineer was willing to ______ for Sarah's deep expertise
 
 ---
 
-### Test 229 — Make allowances for (Part 1 #229) #flashcards/cambridge/part1
+### Test 229
 
-When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
-
-- **A)** discounts
-- **B)** allowances
-- **C)** exemptions
-- **D)** concessions
+> [!question] Multiple Choice Cloze
+> When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
+>
+> - **A)** discounts
+> - **B)** allowances
+> - **C)** exemptions
+> - **D)** concessions
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) allowances**
-
+- **Enfoque:** Make allowances for (Part 1 #229)
 - **Colocación / Regla:** Idiomatic Collocation: Make allowances for
 - **Estructura Sintáctica:** `to make allowances for = to take into consideration mitigating factors`
 - **Razón Explicativa:** Make allowances for es la locución invariable para tener en cuenta circunstancias imprevistas o margen de error.
@@ -1209,17 +1371,20 @@ When estimating sprint capacity, agile project managers must make ______ for une
 
 ---
 
-### Test 230 — Make headway (Part 1 #230) #flashcards/cambridge/part1
+### Test 230
 
-After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
-
-- **A)** headroom
-- **B)** headway
-- **C)** advance
-- **D)** footing
+> [!question] Multiple Choice Cloze
+> After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
+>
+> - **A)** headroom
+> - **B)** headway
+> - **C)** advance
+> - **D)** footing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) headway**
-
+- **Enfoque:** Make headway (Part 1 #230)
 - **Colocación / Regla:** Idiomatic Collocation: Make headway
 - **Estructura Sintáctica:** `to make headway = to make progress, especially in difficult circumstances`
 - **Razón Explicativa:** Make headway significa avanzar o progresar con éxito ante una dificultad persistente.
@@ -1231,17 +1396,20 @@ After hours of systematic debugging, the systems squad finally began to make sig
 
 ---
 
-### Test 231 — Do justice to (Part 1 #231) #flashcards/cambridge/part1
+### Test 231
 
-A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
-
-- **A)** fairness
-- **B)** justice
-- **C)** honor
-- **D)** merit
+> [!question] Multiple Choice Cloze
+> A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
+>
+> - **A)** fairness
+> - **B)** justice
+> - **C)** honor
+> - **D)** merit
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) justice**
-
+- **Enfoque:** Do justice to (Part 1 #231)
 - **Colocación / Regla:** Collocation: Do justice to
 - **Estructura Sintáctica:** `to do justice to = to represent or show the full worth of something`
 - **Razón Explicativa:** Do justice to es la colocación estándar para hacer honor o reflejar adecuadamente la grandeza de una obra.
@@ -1253,17 +1421,20 @@ A brief presentation slides deck simply cannot do ______ to the intricate mathem
 
 ---
 
-### Test 232 — Take toll on (Part 1 #232) #flashcards/cambridge/part1
+### Test 232
 
-Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
-
-- **A)** price
-- **B)** toll
-- **C)** cost
-- **D)** penalty
+> [!question] Multiple Choice Cloze
+> Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
+>
+> - **A)** price
+> - **B)** toll
+> - **C)** cost
+> - **D)** penalty
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) toll**
-
+- **Enfoque:** Take toll on (Part 1 #232)
 - **Colocación / Regla:** Idiomatic Collocation: Take a toll on
 - **Estructura Sintáctica:** `to take a toll on = to have a serious, bad effect on someone or something over a long period`
 - **Razón Explicativa:** Take a toll on significa pasar factura o causar un daño acumulativo paulatino.
@@ -1275,17 +1446,20 @@ Months of continuous on-call firefighting took a heavy ______ on the team's mora
 
 ---
 
-### Test 233 — Take issue with (Part 1 #233) #flashcards/cambridge/part1
+### Test 233
 
-Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
-
-- **A)** matter
-- **B)** issue
-- **C)** objection
-- **D)** exception
+> [!question] Multiple Choice Cloze
+> Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
+>
+> - **A)** matter
+> - **B)** issue
+> - **C)** objection
+> - **D)** exception
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) issue**
-
+- **Enfoque:** Take issue with (Part 1 #233)
 - **Colocación / Regla:** Collocation: Take issue with
 - **Estructura Sintáctica:** `to take issue with = to disagree strongly with someone or something`
 - **Razón Explicativa:** Take issue with significa discrepar firmemente o cuestionar una postura.
@@ -1297,17 +1471,20 @@ Several senior developers took ______ with the architectural decision to introdu
 
 ---
 
-### Test 234 — Take umbrage at (Part 1 #234) #flashcards/cambridge/part1
+### Test 234
 
-The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
-
-- **A)** offense
-- **B)** umbrage
-- **C)** anger
-- **D)** dislike
+> [!question] Multiple Choice Cloze
+> The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
+>
+> - **A)** offense
+> - **B)** umbrage
+> - **C)** anger
+> - **D)** dislike
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) umbrage**
-
+- **Enfoque:** Take umbrage at (Part 1 #234)
 - **Colocación / Regla:** Idiomatic Collocation: Take umbrage at
 - **Estructura Sintáctica:** `to take umbrage at = to feel upset or offended by something`
 - **Razón Explicativa:** Take umbrage at es la expresión formal de registro C1/C2 para ofenderse o sentirse agraviado por un comentario.
@@ -1319,17 +1496,20 @@ The lead programmer took ______ at the suggestion that his code lacked sufficien
 
 ---
 
-### Test 235 — Pay tribute to (Part 1 #235) #flashcards/cambridge/part1
+### Test 235
 
-During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
-
-- **A)** respect
-- **B)** tribute
-- **C)** homage
-- **D)** regard
+> [!question] Multiple Choice Cloze
+> During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
+>
+> - **A)** respect
+> - **B)** tribute
+> - **C)** homage
+> - **D)** regard
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tribute**
-
+- **Enfoque:** Pay tribute to (Part 1 #235)
 - **Colocación / Regla:** Collocation: Pay tribute to
 - **Estructura Sintáctica:** `to pay tribute to = to praise someone publicly to show gratitude`
 - **Razón Explicativa:** Pay tribute to es la colocación formal para rendir homenaje o agradecer públicamente la labor de un equipo.
@@ -1341,17 +1521,20 @@ During the annual tech keynote, executive leadership paid glowing ______ to the 
 
 ---
 
-### Test 236 — Dawn on (Part 1 #236) #flashcards/cambridge/part1
+### Test 236
 
-It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
-
-- **A)** occurred
-- **B)** dawned
-- **C)** struck
-- **D)** flashed
+> [!question] Multiple Choice Cloze
+> It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
+>
+> - **A)** occurred
+> - **B)** dawned
+> - **C)** struck
+> - **D)** flashed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) dawned**
-
+- **Enfoque:** Dawn on (Part 1 #236)
 - **Colocación / Regla:** Idiomatic Perception: Dawn on
 - **Estructura Sintáctica:** `to dawn on someone = to become suddenly clear`
 - **Razón Explicativa:** Dawn on someone significa hacérsele la luz o darse cuenta por fin tras mucho pensar.
@@ -1363,17 +1546,20 @@ It finally ______ on the developers that the deadlock was caused by a cyclical m
 
 ---
 
-### Test 237 — Impinge on (Part 1 #237) #flashcards/cambridge/part1
+### Test 237
 
-Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
-
-- **A)** intrude
-- **B)** impinge
-- **C)** infringe
-- **D)** impact
+> [!question] Multiple Choice Cloze
+> Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
+>
+> - **A)** intrude
+> - **B)** impinge
+> - **C)** infringe
+> - **D)** impact
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) impinge**
-
+- **Enfoque:** Impinge on (Part 1 #237)
 - **Colocación / Regla:** Prepositional Verb: Impinge on
 - **Estructura Sintáctica:** `to impinge on = to encroach or have a negative impact`
 - **Razón Explicativa:** Impinge on significa incidir negativamente o coartar un derecho o libertad.
@@ -1385,17 +1571,20 @@ Strict enterprise firewall rules must not unduly ______ on developer productivit
 
 ---
 
-### Test 238 — Vouch for (Part 1 #238) #flashcards/cambridge/part1
+### Test 238
 
-The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
-
-- **A)** swear
-- **B)** vouch
-- **C)** witness
-- **D)** guarantee
+> [!question] Multiple Choice Cloze
+> The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
+>
+> - **A)** swear
+> - **B)** vouch
+> - **C)** witness
+> - **D)** guarantee
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) vouch**
-
+- **Enfoque:** Vouch for (Part 1 #238)
 - **Colocación / Regla:** Prepositional Verb: Vouch for
 - **Estructura Sintáctica:** `to vouch for = to attest to the authenticity or competence`
 - **Razón Explicativa:** Vouch for significa dar fe de la competencia, honradez o veracidad de alguien.
@@ -1407,17 +1596,20 @@ The principal software engineer was willing to ______ for Sarah's deep expertise
 
 ---
 
-### Test 239 — Make allowances for (Part 1 #239) #flashcards/cambridge/part1
+### Test 239
 
-When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
-
-- **A)** discounts
-- **B)** allowances
-- **C)** exemptions
-- **D)** concessions
+> [!question] Multiple Choice Cloze
+> When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
+>
+> - **A)** discounts
+> - **B)** allowances
+> - **C)** exemptions
+> - **D)** concessions
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) allowances**
-
+- **Enfoque:** Make allowances for (Part 1 #239)
 - **Colocación / Regla:** Idiomatic Collocation: Make allowances for
 - **Estructura Sintáctica:** `to make allowances for = to take into consideration mitigating factors`
 - **Razón Explicativa:** Make allowances for es la locución invariable para tener en cuenta circunstancias imprevistas o margen de error.
@@ -1429,17 +1621,20 @@ When estimating sprint capacity, agile project managers must make ______ for une
 
 ---
 
-### Test 240 — Make headway (Part 1 #240) #flashcards/cambridge/part1
+### Test 240
 
-After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
-
-- **A)** headroom
-- **B)** headway
-- **C)** advance
-- **D)** footing
+> [!question] Multiple Choice Cloze
+> After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
+>
+> - **A)** headroom
+> - **B)** headway
+> - **C)** advance
+> - **D)** footing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) headway**
-
+- **Enfoque:** Make headway (Part 1 #240)
 - **Colocación / Regla:** Idiomatic Collocation: Make headway
 - **Estructura Sintáctica:** `to make headway = to make progress, especially in difficult circumstances`
 - **Razón Explicativa:** Make headway significa avanzar o progresar con éxito ante una dificultad persistente.
@@ -1451,17 +1646,20 @@ After hours of systematic debugging, the systems squad finally began to make sig
 
 ---
 
-### Test 241 — Do justice to (Part 1 #241) #flashcards/cambridge/part1
+### Test 241
 
-A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
-
-- **A)** fairness
-- **B)** justice
-- **C)** honor
-- **D)** merit
+> [!question] Multiple Choice Cloze
+> A brief presentation slides deck simply cannot do ______ to the intricate mathematical elegance of this consensus algorithm.
+>
+> - **A)** fairness
+> - **B)** justice
+> - **C)** honor
+> - **D)** merit
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) justice**
-
+- **Enfoque:** Do justice to (Part 1 #241)
 - **Colocación / Regla:** Collocation: Do justice to
 - **Estructura Sintáctica:** `to do justice to = to represent or show the full worth of something`
 - **Razón Explicativa:** Do justice to es la colocación estándar para hacer honor o reflejar adecuadamente la grandeza de una obra.
@@ -1473,17 +1671,20 @@ A brief presentation slides deck simply cannot do ______ to the intricate mathem
 
 ---
 
-### Test 242 — Take toll on (Part 1 #242) #flashcards/cambridge/part1
+### Test 242
 
-Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
-
-- **A)** price
-- **B)** toll
-- **C)** cost
-- **D)** penalty
+> [!question] Multiple Choice Cloze
+> Months of continuous on-call firefighting took a heavy ______ on the team's morale and engineering velocity.
+>
+> - **A)** price
+> - **B)** toll
+> - **C)** cost
+> - **D)** penalty
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) toll**
-
+- **Enfoque:** Take toll on (Part 1 #242)
 - **Colocación / Regla:** Idiomatic Collocation: Take a toll on
 - **Estructura Sintáctica:** `to take a toll on = to have a serious, bad effect on someone or something over a long period`
 - **Razón Explicativa:** Take a toll on significa pasar factura o causar un daño acumulativo paulatino.
@@ -1495,17 +1696,20 @@ Months of continuous on-call firefighting took a heavy ______ on the team's mora
 
 ---
 
-### Test 243 — Take issue with (Part 1 #243) #flashcards/cambridge/part1
+### Test 243
 
-Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
-
-- **A)** matter
-- **B)** issue
-- **C)** objection
-- **D)** exception
+> [!question] Multiple Choice Cloze
+> Several senior developers took ______ with the architectural decision to introduce yet another messaging broker.
+>
+> - **A)** matter
+> - **B)** issue
+> - **C)** objection
+> - **D)** exception
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) issue**
-
+- **Enfoque:** Take issue with (Part 1 #243)
 - **Colocación / Regla:** Collocation: Take issue with
 - **Estructura Sintáctica:** `to take issue with = to disagree strongly with someone or something`
 - **Razón Explicativa:** Take issue with significa discrepar firmemente o cuestionar una postura.
@@ -1517,17 +1721,20 @@ Several senior developers took ______ with the architectural decision to introdu
 
 ---
 
-### Test 244 — Take umbrage at (Part 1 #244) #flashcards/cambridge/part1
+### Test 244
 
-The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
-
-- **A)** offense
-- **B)** umbrage
-- **C)** anger
-- **D)** dislike
+> [!question] Multiple Choice Cloze
+> The lead programmer took ______ at the suggestion that his code lacked sufficient automated unit test coverage.
+>
+> - **A)** offense
+> - **B)** umbrage
+> - **C)** anger
+> - **D)** dislike
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) umbrage**
-
+- **Enfoque:** Take umbrage at (Part 1 #244)
 - **Colocación / Regla:** Idiomatic Collocation: Take umbrage at
 - **Estructura Sintáctica:** `to take umbrage at = to feel upset or offended by something`
 - **Razón Explicativa:** Take umbrage at es la expresión formal de registro C1/C2 para ofenderse o sentirse agraviado por un comentario.
@@ -1539,17 +1746,20 @@ The lead programmer took ______ at the suggestion that his code lacked sufficien
 
 ---
 
-### Test 245 — Pay tribute to (Part 1 #245) #flashcards/cambridge/part1
+### Test 245
 
-During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
-
-- **A)** respect
-- **B)** tribute
-- **C)** homage
-- **D)** regard
+> [!question] Multiple Choice Cloze
+> During the annual tech keynote, executive leadership paid glowing ______ to the team that built the internal platform.
+>
+> - **A)** respect
+> - **B)** tribute
+> - **C)** homage
+> - **D)** regard
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) tribute**
-
+- **Enfoque:** Pay tribute to (Part 1 #245)
 - **Colocación / Regla:** Collocation: Pay tribute to
 - **Estructura Sintáctica:** `to pay tribute to = to praise someone publicly to show gratitude`
 - **Razón Explicativa:** Pay tribute to es la colocación formal para rendir homenaje o agradecer públicamente la labor de un equipo.
@@ -1561,17 +1771,20 @@ During the annual tech keynote, executive leadership paid glowing ______ to the 
 
 ---
 
-### Test 246 — Dawn on (Part 1 #246) #flashcards/cambridge/part1
+### Test 246
 
-It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
-
-- **A)** occurred
-- **B)** dawned
-- **C)** struck
-- **D)** flashed
+> [!question] Multiple Choice Cloze
+> It finally ______ on the developers that the deadlock was caused by a cyclical mutex acquisition order.
+>
+> - **A)** occurred
+> - **B)** dawned
+> - **C)** struck
+> - **D)** flashed
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) dawned**
-
+- **Enfoque:** Dawn on (Part 1 #246)
 - **Colocación / Regla:** Idiomatic Perception: Dawn on
 - **Estructura Sintáctica:** `to dawn on someone = to become suddenly clear`
 - **Razón Explicativa:** Dawn on someone significa hacérsele la luz o darse cuenta por fin tras mucho pensar.
@@ -1583,17 +1796,20 @@ It finally ______ on the developers that the deadlock was caused by a cyclical m
 
 ---
 
-### Test 247 — Impinge on (Part 1 #247) #flashcards/cambridge/part1
+### Test 247
 
-Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
-
-- **A)** intrude
-- **B)** impinge
-- **C)** infringe
-- **D)** impact
+> [!question] Multiple Choice Cloze
+> Strict enterprise firewall rules must not unduly ______ on developer productivity during daily releases.
+>
+> - **A)** intrude
+> - **B)** impinge
+> - **C)** infringe
+> - **D)** impact
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) impinge**
-
+- **Enfoque:** Impinge on (Part 1 #247)
 - **Colocación / Regla:** Prepositional Verb: Impinge on
 - **Estructura Sintáctica:** `to impinge on = to encroach or have a negative impact`
 - **Razón Explicativa:** Impinge on significa incidir negativamente o coartar un derecho o libertad.
@@ -1605,17 +1821,20 @@ Strict enterprise firewall rules must not unduly ______ on developer productivit
 
 ---
 
-### Test 248 — Vouch for (Part 1 #248) #flashcards/cambridge/part1
+### Test 248
 
-The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
-
-- **A)** swear
-- **B)** vouch
-- **C)** witness
-- **D)** guarantee
+> [!question] Multiple Choice Cloze
+> The principal software engineer was willing to ______ for Sarah's deep expertise in concurrent memory management.
+>
+> - **A)** swear
+> - **B)** vouch
+> - **C)** witness
+> - **D)** guarantee
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) vouch**
-
+- **Enfoque:** Vouch for (Part 1 #248)
 - **Colocación / Regla:** Prepositional Verb: Vouch for
 - **Estructura Sintáctica:** `to vouch for = to attest to the authenticity or competence`
 - **Razón Explicativa:** Vouch for significa dar fe de la competencia, honradez o veracidad de alguien.
@@ -1627,17 +1846,20 @@ The principal software engineer was willing to ______ for Sarah's deep expertise
 
 ---
 
-### Test 249 — Make allowances for (Part 1 #249) #flashcards/cambridge/part1
+### Test 249
 
-When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
-
-- **A)** discounts
-- **B)** allowances
-- **C)** exemptions
-- **D)** concessions
+> [!question] Multiple Choice Cloze
+> When estimating sprint capacity, agile project managers must make ______ for unexpected production emergency hotfixes.
+>
+> - **A)** discounts
+> - **B)** allowances
+> - **C)** exemptions
+> - **D)** concessions
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) allowances**
-
+- **Enfoque:** Make allowances for (Part 1 #249)
 - **Colocación / Regla:** Idiomatic Collocation: Make allowances for
 - **Estructura Sintáctica:** `to make allowances for = to take into consideration mitigating factors`
 - **Razón Explicativa:** Make allowances for es la locución invariable para tener en cuenta circunstancias imprevistas o margen de error.
@@ -1649,17 +1871,20 @@ When estimating sprint capacity, agile project managers must make ______ for une
 
 ---
 
-### Test 250 — Make headway (Part 1 #250) #flashcards/cambridge/part1
+### Test 250
 
-After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
-
-- **A)** headroom
-- **B)** headway
-- **C)** advance
-- **D)** footing
+> [!question] Multiple Choice Cloze
+> After hours of systematic debugging, the systems squad finally began to make significant ______ on the networking glitch.
+>
+> - **A)** headroom
+> - **B)** headway
+> - **C)** advance
+> - **D)** footing
+>
+> *Elige la opción correcta (A, B, C o D).*
 ?
 **Respuesta Correcta: B) headway**
-
+- **Enfoque:** Make headway (Part 1 #250)
 - **Colocación / Regla:** Idiomatic Collocation: Make headway
 - **Estructura Sintáctica:** `to make headway = to make progress, especially in difficult circumstances`
 - **Razón Explicativa:** Make headway significa avanzar o progresar con éxito ante una dificultad persistente.

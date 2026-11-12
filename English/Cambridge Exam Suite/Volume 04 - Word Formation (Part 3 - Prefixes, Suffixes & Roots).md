@@ -24,16 +24,17 @@ total_tests: 50
 
 ---
 
-### Test 501 — Word Formation: MAINTAIN -> Maintainability #flashcards/cambridge/part3
+### Test 501
 
-Writing decoupled modular components significantly enhances the long-term ______ of large enterprise applications.
-**Root Word:** `[MAINTAIN]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Writing decoupled modular components significantly enhances the long-term ______ of large enterprise applications.
+>
+> - **Root Word:** `[MAINTAIN]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `maintainability`
-
+- **Enfoque:** Word Formation: MAINTAIN -> Maintainability
 - **Categoría Requerida:** Abstract Noun (de `MAINTAIN`)
 - **Morfología Aplicada:** Root `maintain` + adjectival suffix `-able` + nominal suffix `-ity`
 - **Regla y Justificación:** La posición sintáctica tras el artículo *the* y el modificador compuesto *long-term* exige un sustantivo abstracto incontable que exprese la cualidad de ser fácil de mantener.
@@ -42,16 +43,17 @@ Writing decoupled modular components significantly enhances the long-term ______
 
 ---
 
-### Test 502 — Word Formation: RELY -> Unreliable (Negative Polarity) #flashcards/cambridge/part3
+### Test 502
 
-The legacy wireless sensor was notoriously ______ and frequently dropped telemetry packets during heavy storms.
-**Root Word:** `[RELY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The legacy wireless sensor was notoriously ______ and frequently dropped telemetry packets during heavy storms.
+>
+> - **Root Word:** `[RELY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `unreliable`
-
+- **Enfoque:** Word Formation: RELY -> Unreliable (Negative Polarity)
 - **Categoría Requerida:** Negative Adjective (de `RELY`)
 - **Morfología Aplicada:** Negative prefix `un-` + root `rely` (y -> i) + suffix `-able`
 - **Regla y Justificación:** El contexto sintáctico tras el adverbio *notoriously* ('notoriamente') y la mención de que perdía paquetes describe una cualidad negativa: 'poco fiable / no fiable'.
@@ -60,16 +62,17 @@ The legacy wireless sensor was notoriously ______ and frequently dropped telemet
 
 ---
 
-### Test 503 — Word Formation: PREDICT -> Unpredictable #flashcards/cambridge/part3
+### Test 503
 
-Without proper index optimization, the database query response times became erratic and completely ______.
-**Root Word:** `[PREDICT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Without proper index optimization, the database query response times became erratic and completely ______.
+>
+> - **Root Word:** `[PREDICT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `unpredictable`
-
+- **Enfoque:** Word Formation: PREDICT -> Unpredictable
 - **Categoría Requerida:** Negative Adjective (de `PREDICT`)
 - **Morfología Aplicada:** Negative prefix `un-` + root `predict` + suffix `-able`
 - **Regla y Justificación:** La coordinación con *erratic* ('errático') y la presencia del intensificador *completely* exige un adjetivo con polaridad negativa que exprese imposibilidad de anticipar.
@@ -78,16 +81,17 @@ Without proper index optimization, the database query response times became erra
 
 ---
 
-### Test 504 — Word Formation: SIGNIFY -> Significantly (Adverbial Suffix) #flashcards/cambridge/part3
+### Test 504
 
-Migrating our workloads from bare metal to Kubernetes ______ reduced our monthly infrastructure costs.
-**Root Word:** `[SIGNIFY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Migrating our workloads from bare metal to Kubernetes ______ reduced our monthly infrastructure costs.
+>
+> - **Root Word:** `[SIGNIFY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `significantly`
-
+- **Enfoque:** Word Formation: SIGNIFY -> Significantly (Adverbial Suffix)
 - **Categoría Requerida:** Adverb (de `SIGNIFY`)
 - **Morfología Aplicada:** Root `signify` -> adjective `significant` + adverbial suffix `-ly`
 - **Regla y Justificación:** Modifica directamente al verbo principal en pasado *reduced*, por lo que la función sintáctica obligatoria es la de adverbio de grado.
@@ -96,16 +100,17 @@ Migrating our workloads from bare metal to Kubernetes ______ reduced our monthly
 
 ---
 
-### Test 505 — Word Formation: ACCURATE -> Inaccuracies (Plural Negative Noun) #flashcards/cambridge/part3
+### Test 505
 
-An automated audit of the legacy database revealed numerous data ______ in financial transaction records.
-**Root Word:** `[ACCURATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> An automated audit of the legacy database revealed numerous data ______ in financial transaction records.
+>
+> - **Root Word:** `[ACCURATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inaccuracies`
-
+- **Enfoque:** Word Formation: ACCURATE -> Inaccuracies (Plural Negative Noun)
 - **Categoría Requerida:** Plural Negative Noun (de `ACCURATE`)
 - **Morfología Aplicada:** Negative prefix `in-` + root `accurate` -> noun suffix `-cy` -> plural `-cies`
 - **Regla y Justificación:** El cuantificador *numerous* ('numerosos') exige un sustantivo plural. Además, la auditoría descubrió errores, por lo que requiere el prefijo negativo *in-*.
@@ -114,16 +119,17 @@ An automated audit of the legacy database revealed numerous data ______ in finan
 
 ---
 
-### Test 506 — Word Formation: EXCEPTION -> Exceptionally #flashcards/cambridge/part3
+### Test 506
 
-The newly hired distributed systems specialist performed ______ well during the high-stress production outage.
-**Root Word:** `[EXCEPTION]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The newly hired distributed systems specialist performed ______ well during the high-stress production outage.
+>
+> - **Root Word:** `[EXCEPTION]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `exceptionally`
-
+- **Enfoque:** Word Formation: EXCEPTION -> Exceptionally
 - **Categoría Requerida:** Adverb of Degree (de `EXCEPTION`)
 - **Morfología Aplicada:** Root `exception` + adjectival suffix `-al` + adverbial suffix `-ly`
 - **Regla y Justificación:** Modifica al adverbio de modo *well* ('excepcionalmente bien'), requiriendo un adverbio de grado intensificador.
@@ -132,16 +138,17 @@ The newly hired distributed systems specialist performed ______ well during the 
 
 ---
 
-### Test 507 — Word Formation: INTEND -> Unintentionally #flashcards/cambridge/part3
+### Test 507
 
-The junior developer ______ leaked confidential staging credentials by committing them to a public repository.
-**Root Word:** `[INTEND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The junior developer ______ leaked confidential staging credentials by committing them to a public repository.
+>
+> - **Root Word:** `[INTEND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `unintentionally`
-
+- **Enfoque:** Word Formation: INTEND -> Unintentionally
 - **Categoría Requerida:** Negative Adverb (de `INTEND`)
 - **Morfología Aplicada:** Negative prefix `un-` + root `intend` + noun `-tion` + adj `-al` + adv `-ly`
 - **Regla y Justificación:** Modifica al verbo *leaked*. El contexto indica un accidente involuntario, por lo que exige el prefijo negativo *un-* y la terminación adverbial *-ly*.
@@ -150,16 +157,17 @@ The junior developer ______ leaked confidential staging credentials by committin
 
 ---
 
-### Test 508 — Word Formation: BROAD -> Broaden #flashcards/cambridge/part3
+### Test 508
 
-Attending international tech conferences is an excellent way for engineers to ______ their professional horizons.
-**Root Word:** `[BROAD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Attending international tech conferences is an excellent way for engineers to ______ their professional horizons.
+>
+> - **Root Word:** `[BROAD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `broaden`
-
+- **Enfoque:** Word Formation: BROAD -> Broaden
 - **Categoría Requerida:** Verb (Infinitive) (de `BROAD`)
 - **Morfología Aplicada:** Adjective root `broad` + verbal suffix `-en`
 - **Regla y Justificación:** El infinitivo con *to* (*way to ______*) exige un verbo transitivo que signifique 'ampliar'. En inglés, el sufijo verbal causal para *broad* es *-en*.
@@ -168,16 +176,17 @@ Attending international tech conferences is an excellent way for engineers to __
 
 ---
 
-### Test 509 — Word Formation: STRONG -> Strengthen #flashcards/cambridge/part3
+### Test 509
 
-To prevent unauthorized lateral movement, companies must ______ their internal network perimeter security.
-**Root Word:** `[STRONG]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> To prevent unauthorized lateral movement, companies must ______ their internal network perimeter security.
+>
+> - **Root Word:** `[STRONG]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `strengthen`
-
+- **Enfoque:** Word Formation: STRONG -> Strengthen
 - **Categoría Requerida:** Verb (Infinitive) (de `STRONG`)
 - **Morfología Aplicada:** Adjective `strong` -> noun `strength` + verbal suffix `-en`
 - **Regla y Justificación:** Tras el modal *must* se requiere un infinitivo sin *to*. El verbo derivado de *strong* requiere cambio vocálico interno (o -> e) más el sufijo *-en*.
@@ -186,16 +195,17 @@ To prevent unauthorized lateral movement, companies must ______ their internal n
 
 ---
 
-### Test 510 — Word Formation: RESIST -> Irresistible #flashcards/cambridge/part3
+### Test 510
 
-The startup's equity offer and flexible remote culture proved completely ______ to the senior staff engineer.
-**Root Word:** `[RESIST]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The startup's equity offer and flexible remote culture proved completely ______ to the senior staff engineer.
+>
+> - **Root Word:** `[RESIST]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irresistible`
-
+- **Enfoque:** Word Formation: RESIST -> Irresistible
 - **Categoría Requerida:** Negative Adjective (de `RESIST`)
 - **Morfología Aplicada:** Negative prefix `ir-` (ante 'r') + root `resist` + suffix `-ible`
 - **Regla y Justificación:** Tras el verbo de ligadura *proved* y el adverbio *completely*, se requiere un adjetivo que signifique que no se pudo rechazar.
@@ -204,16 +214,17 @@ The startup's equity offer and flexible remote culture proved completely ______ 
 
 ---
 
-### Test 511 — Word Formation: THREAT -> Threatening #flashcards/cambridge/part3
+### Test 511
 
-The security operations center detected several ______ cyber espionage patterns originating from foreign IPs.
-**Root Word:** `[THREAT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The security operations center detected several ______ cyber espionage patterns originating from foreign IPs.
+>
+> - **Root Word:** `[THREAT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `threatening`
-
+- **Enfoque:** Word Formation: THREAT -> Threatening
 - **Categoría Requerida:** Adjective / Participle (de `THREAT`)
 - **Morfología Aplicada:** Noun root `threat` + verbal suffix `-en` + participial adjective `-ing`
 - **Regla y Justificación:** Modifica al sintagma nominal *cyber espionage patterns*, requiriendo un adjetivo que denote cualidad amenazante.
@@ -222,16 +233,17 @@ The security operations center detected several ______ cyber espionage patterns 
 
 ---
 
-### Test 512 — Word Formation: DOUBT -> Undoubtedly #flashcards/cambridge/part3
+### Test 512
 
-The new distributed file system is ______ the fastest storage engine our benchmark team has ever evaluated.
-**Root Word:** `[DOUBT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The new distributed file system is ______ the fastest storage engine our benchmark team has ever evaluated.
+>
+> - **Root Word:** `[DOUBT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `undoubtedly`
-
+- **Enfoque:** Word Formation: DOUBT -> Undoubtedly
 - **Categoría Requerida:** Negative Adverb (de `DOUBT`)
 - **Morfología Aplicada:** Negative prefix `un-` + root `doubt` + suffix `-ed` + adverbial `-ly`
 - **Regla y Justificación:** Funciona como adverbio oracional modificador que expresa certeza rotunda ('indudablemente').
@@ -240,16 +252,17 @@ The new distributed file system is ______ the fastest storage engine our benchma
 
 ---
 
-### Test 513 — Word Formation: VARY -> Invariably #flashcards/cambridge/part3
+### Test 513
 
-Skipping unit tests in pull requests ______ leads to preventable bugs surfacing in the production environment.
-**Root Word:** `[VARY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Skipping unit tests in pull requests ______ leads to preventable bugs surfacing in the production environment.
+>
+> - **Root Word:** `[VARY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `invariably`
-
+- **Enfoque:** Word Formation: VARY -> Invariably
 - **Categoría Requerida:** Adverb (de `VARY`)
 - **Morfología Aplicada:** Negative prefix `in-` + root `vary` (y -> i) + suffix `-able` + `-ly`
 - **Regla y Justificación:** Modifica al verbo *leads* para denotar una consecuencia inevitable constante ('invariablemente / siempre').
@@ -258,16 +271,17 @@ Skipping unit tests in pull requests ______ leads to preventable bugs surfacing 
 
 ---
 
-### Test 514 — Word Formation: STABLE -> Destabilize #flashcards/cambridge/part3
+### Test 514
 
-Introducing untracked concurrent writes into the database could severely ______ the active cluster.
-**Root Word:** `[STABLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Introducing untracked concurrent writes into the database could severely ______ the active cluster.
+>
+> - **Root Word:** `[STABLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `destabilize`
-
+- **Enfoque:** Word Formation: STABLE -> Destabilize
 - **Categoría Requerida:** Negative / Reversal Verb (de `STABLE`)
 - **Morfología Aplicada:** Reversal prefix `de-` + root `stable` (e -> i) + suffix `-ize`
 - **Regla y Justificación:** Tras el modal *could* y el adverbio *severely*, se exige un verbo transitivo que signifique 'hacer perder la estabilidad'.
@@ -276,16 +290,17 @@ Introducing untracked concurrent writes into the database could severely ______ 
 
 ---
 
-### Test 515 — Word Formation: SURE -> Ensure #flashcards/cambridge/part3
+### Test 515
 
-Rigorous code reviews help to ______ that our code adheres strictly to industry security standards.
-**Root Word:** `[SURE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Rigorous code reviews help to ______ that our code adheres strictly to industry security standards.
+>
+> - **Root Word:** `[SURE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `ensure`
-
+- **Enfoque:** Word Formation: SURE -> Ensure
 - **Categoría Requerida:** Verb (Infinitive) (de `SURE`)
 - **Morfología Aplicada:** Prefix `en-` + root `sure`
 - **Regla y Justificación:** Infinitivo con *to* (*help to ______*) que signifique 'garantizar / cerciorarse de'.
@@ -294,16 +309,17 @@ Rigorous code reviews help to ______ that our code adheres strictly to industry 
 
 ---
 
-### Test 516 — Word Formation: ABLE -> Disable #flashcards/cambridge/part3
+### Test 516
 
-In the event of a suspected credential breach, administrators must immediately ______ the compromised user account.
-**Root Word:** `[ABLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> In the event of a suspected credential breach, administrators must immediately ______ the compromised user account.
+>
+> - **Root Word:** `[ABLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `disable`
-
+- **Enfoque:** Word Formation: ABLE -> Disable
 - **Categoría Requerida:** Reversal Verb (de `ABLE`)
 - **Morfología Aplicada:** Negative/reversal prefix `dis-` + root `able`
 - **Regla y Justificación:** Tras el modal *must* y el adverbio *immediately*, se exige un verbo infinitivo que signifique 'inhabilitar / desactivar'.
@@ -312,16 +328,17 @@ In the event of a suspected credential breach, administrators must immediately _
 
 ---
 
-### Test 517 — Word Formation: EXTEND -> Extensive #flashcards/cambridge/part3
+### Test 517
 
-Before launching the payment gateway, the engineering department conducted ______ automated regression testing.
-**Root Word:** `[EXTEND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Before launching the payment gateway, the engineering department conducted ______ automated regression testing.
+>
+> - **Root Word:** `[EXTEND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `extensive`
-
+- **Enfoque:** Word Formation: EXTEND -> Extensive
 - **Categoría Requerida:** Adjective (de `EXTEND`)
 - **Morfología Aplicada:** Root `extend` (d -> s) + adjectival suffix `-ive`
 - **Regla y Justificación:** Modifica al sintagma sustantivo *automated regression testing*, requiriendo un adjetivo que signifique 'exhaustivo / amplio'.
@@ -330,16 +347,17 @@ Before launching the payment gateway, the engineering department conducted _____
 
 ---
 
-### Test 518 — Word Formation: DEEP -> Depth #flashcards/cambridge/part3
+### Test 518
 
-The technical interview assessed both the candidate's breadth of knowledge and the ______ of their systems expertise.
-**Root Word:** `[DEEP]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The technical interview assessed both the candidate's breadth of knowledge and the ______ of their systems expertise.
+>
+> - **Root Word:** `[DEEP]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `depth`
-
+- **Enfoque:** Word Formation: DEEP -> Depth
 - **Categoría Requerida:** Abstract Noun (de `DEEP`)
 - **Morfología Aplicada:** Adjective `deep` -> internal vowel change (ee -> e) + nominal suffix `-th`
 - **Regla y Justificación:** El artículo determinado *the* y la correlación con *breadth* ('amplitud') exige el sustantivo abstracto 'profundidad'.
@@ -348,16 +366,17 @@ The technical interview assessed both the candidate's breadth of knowledge and t
 
 ---
 
-### Test 519 — Word Formation: GROW -> Growth #flashcards/cambridge/part3
+### Test 519
 
-The unprecedented rapid ______ in mobile user traffic overwhelmed our legacy single-threaded API servers.
-**Root Word:** `[GROW]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The unprecedented rapid ______ in mobile user traffic overwhelmed our legacy single-threaded API servers.
+>
+> - **Root Word:** `[GROW]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `growth`
-
+- **Enfoque:** Word Formation: GROW -> Growth
 - **Categoría Requerida:** Noun (de `GROW`)
 - **Morfología Aplicada:** Verb `grow` + nominal suffix `-th`
 - **Regla y Justificación:** Precedido por los adjetivos *unprecedented* y *rapid*, se exige el sustantivo abstracto 'crecimiento'.
@@ -366,16 +385,17 @@ The unprecedented rapid ______ in mobile user traffic overwhelmed our legacy sin
 
 ---
 
-### Test 520 — Word Formation: SUCCEED -> Succession #flashcards/cambridge/part3
+### Test 520
 
-A rapid ______ of unexpected hardware timeouts led to the total failure of the high-availability cluster.
-**Root Word:** `[SUCCEED]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A rapid ______ of unexpected hardware timeouts led to the total failure of the high-availability cluster.
+>
+> - **Root Word:** `[SUCCEED]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `succession`
-
+- **Enfoque:** Word Formation: SUCCEED -> Succession
 - **Categoría Requerida:** Noun in Idiomatic Phrase (de `SUCCEED`)
 - **Morfología Aplicada:** Root `succeed` + suffix `-ion` (significado: secuencia / serie continuada)
 - **Regla y Justificación:** La expresión fija *a succession of + plural noun* significa 'una serie sucesiva o encadenamiento de hechos'.
@@ -384,16 +404,17 @@ A rapid ______ of unexpected hardware timeouts led to the total failure of the h
 
 ---
 
-### Test 521 — Word Formation: APPEAR -> Disappearance #flashcards/cambridge/part3
+### Test 521
 
-The mysterious ______ of critical audit log entries triggered an immediate internal fraud investigation.
-**Root Word:** `[APPEAR]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The mysterious ______ of critical audit log entries triggered an immediate internal fraud investigation.
+>
+> - **Root Word:** `[APPEAR]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `disappearance`
-
+- **Enfoque:** Word Formation: APPEAR -> Disappearance
 - **Categoría Requerida:** Negative Abstract Noun (de `APPEAR`)
 - **Morfología Aplicada:** Negative prefix `dis-` + root `appear` + nominal suffix `-ance`
 - **Regla y Justificación:** El artículo *the* y el adjetivo *mysterious* exigen un sustantivo. El contexto de fraude indica que los registros se borraron o esfumaron ('desaparición').
@@ -402,16 +423,17 @@ The mysterious ______ of critical audit log entries triggered an immediate inter
 
 ---
 
-### Test 522 — Word Formation: NUMBER -> Outnumbered #flashcards/cambridge/part3
+### Test 522
 
-During the DDoS mitigation sprint, our small on-call team was vastly ______ by the volume of inbound attack requests.
-**Root Word:** `[NUMBER]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> During the DDoS mitigation sprint, our small on-call team was vastly ______ by the volume of inbound attack requests.
+>
+> - **Root Word:** `[NUMBER]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `outnumbered`
-
+- **Enfoque:** Word Formation: NUMBER -> Outnumbered
 - **Categoría Requerida:** Past Participle / Passive Verb (de `NUMBER`)
 - **Morfología Aplicada:** Comparative prefix `out-` + root `number` + regular suffix `-ed`
 - **Regla y Justificación:** *Be outnumbered by* es la locución pasiva que significa 'ser superado en número ampliamente por algo'.
@@ -420,16 +442,17 @@ During the DDoS mitigation sprint, our small on-call team was vastly ______ by t
 
 ---
 
-### Test 523 — Word Formation: ESTIMATE -> Underestimated #flashcards/cambridge/part3
+### Test 523
 
-The engineering team gravely ______ the time required to complete the legacy database schema migration.
-**Root Word:** `[ESTIMATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The engineering team gravely ______ the time required to complete the legacy database schema migration.
+>
+> - **Root Word:** `[ESTIMATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `underestimated`
-
+- **Enfoque:** Word Formation: ESTIMATE -> Underestimated
 - **Categoría Requerida:** Past Verb with Negative/Deficit Prefix (de `ESTIMATE`)
 - **Morfología Aplicada:** Deficit prefix `under-` + root `estimate` + past suffix `-d`
 - **Regla y Justificación:** Modifica al sintagma temporal con el adverbio *gravely* ('gravemente'). El contexto indica que calcularon por debajo de lo real el tiempo necesario ('subestimaron').
@@ -438,16 +461,17 @@ The engineering team gravely ______ the time required to complete the legacy dat
 
 ---
 
-### Test 524 — Word Formation: CAUTION -> Precautionary #flashcards/cambridge/part3
+### Test 524
 
-As a ______ measure, administrators temporarily revoked all remote SSH access until the audit was complete.
-**Root Word:** `[CAUTION]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> As a ______ measure, administrators temporarily revoked all remote SSH access until the audit was complete.
+>
+> - **Root Word:** `[CAUTION]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `precautionary`
-
+- **Enfoque:** Word Formation: CAUTION -> Precautionary
 - **Categoría Requerida:** Adjective (de `CAUTION`)
 - **Morfología Aplicada:** Prefix `pre-` + root `caution` + suffix `-ary`
 - **Regla y Justificación:** Modifica al sustantivo *measure* ('medida preventiva / de precaución'). La colocación idiomática formal es *precautionary measure*.
@@ -456,16 +480,17 @@ As a ______ measure, administrators temporarily revoked all remote SSH access un
 
 ---
 
-### Test 525 — Word Formation: FORM -> Transformation #flashcards/cambridge/part3
+### Test 525
 
-The complete ______ of our legacy monolithic service into cloud microservices took eighteen months.
-**Root Word:** `[FORM]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The complete ______ of our legacy monolithic service into cloud microservices took eighteen months.
+>
+> - **Root Word:** `[FORM]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `transformation`
-
+- **Enfoque:** Word Formation: FORM -> Transformation
 - **Categoría Requerida:** Noun (de `FORM`)
 - **Morfología Aplicada:** Prefix `trans-` + root `form` + nominal suffix `-ation`
 - **Regla y Justificación:** Precedido por el artículo *the* y el adjetivo *complete*, se requiere un sustantivo derivado con prefijo *trans-* que exprese cambio estructural profundo.
@@ -474,16 +499,17 @@ The complete ______ of our legacy monolithic service into cloud microservices to
 
 ---
 
-### Test 526 — Word Formation: APPLY -> Applicable #flashcards/cambridge/part3
+### Test 526
 
-These strict financial security compliance standards are only ______ to enterprise-tier organizations.
-**Root Word:** `[APPLY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> These strict financial security compliance standards are only ______ to enterprise-tier organizations.
+>
+> - **Root Word:** `[APPLY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `applicable`
-
+- **Enfoque:** Word Formation: APPLY -> Applicable
 - **Categoría Requerida:** Adjective (de `APPLY`)
 - **Morfología Aplicada:** Root `apply` (y -> ic) + suffix `-able`
 - **Regla y Justificación:** Tras el verbo *are* y el adverbio *only*, seguido de la preposición *to*, se requiere el adjetivo de adecuación 'aplicable'.
@@ -492,16 +518,17 @@ These strict financial security compliance standards are only ______ to enterpri
 
 ---
 
-### Test 527 — Word Formation: COME -> Outcome #flashcards/cambridge/part3
+### Test 527
 
-The positive ______ of the stress testing benchmark confirmed that the new distributed lock was robust.
-**Root Word:** `[COME]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The positive ______ of the stress testing benchmark confirmed that the new distributed lock was robust.
+>
+> - **Root Word:** `[COME]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `outcome`
-
+- **Enfoque:** Word Formation: COME -> Outcome
 - **Categoría Requerida:** Compound Noun (de `COME`)
 - **Morfología Aplicada:** Prefix `out-` + root `come`
 - **Regla y Justificación:** Sustantivo compuesto precedido por *The positive* que significa 'resultado / desenlace final'.
@@ -510,16 +537,17 @@ The positive ______ of the stress testing benchmark confirmed that the new distr
 
 ---
 
-### Test 528 — Word Formation: BREAK -> Breakthrough #flashcards/cambridge/part3
+### Test 528
 
-The invention of transformer architecture represented a revolutionary ______ in natural language processing.
-**Root Word:** `[BREAK]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The invention of transformer architecture represented a revolutionary ______ in natural language processing.
+>
+> - **Root Word:** `[BREAK]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `breakthrough`
-
+- **Enfoque:** Word Formation: BREAK -> Breakthrough
 - **Categoría Requerida:** Compound Noun (de `BREAK`)
 - **Morfología Aplicada:** Root `break` + preposition `through`
 - **Regla y Justificación:** Sustantivo compuesto tras *a revolutionary* que significa 'gran avance / hito innovador'.
@@ -528,16 +556,17 @@ The invention of transformer architecture represented a revolutionary ______ in 
 
 ---
 
-### Test 529 — Word Formation: SIGN -> Significant #flashcards/cambridge/part3
+### Test 529
 
-There has been a ______ decrease in production error rates since the continuous integration pipeline was revamped.
-**Root Word:** `[SIGN]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> There has been a ______ decrease in production error rates since the continuous integration pipeline was revamped.
+>
+> - **Root Word:** `[SIGN]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `significant`
-
+- **Enfoque:** Word Formation: SIGN -> Significant
 - **Categoría Requerida:** Adjective (de `SIGN`)
 - **Morfología Aplicada:** Root `sign` + suffix `-ificant`
 - **Regla y Justificación:** Modifica al sustantivo *decrease* tras el artículo *a*, requiriendo un adjetivo que denote magnitud apreciable.
@@ -546,16 +575,17 @@ There has been a ______ decrease in production error rates since the continuous 
 
 ---
 
-### Test 530 — Word Formation: ALTER -> Unaltered #flashcards/cambridge/part3
+### Test 530
 
-Despite numerous refactoring passes over the core codebase, the cryptographic hashing routine remained entirely ______.
-**Root Word:** `[ALTER]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Despite numerous refactoring passes over the core codebase, the cryptographic hashing routine remained entirely ______.
+>
+> - **Root Word:** `[ALTER]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `unaltered`
-
+- **Enfoque:** Word Formation: ALTER -> Unaltered
 - **Categoría Requerida:** Negative Participle / Adjective (de `ALTER`)
 - **Morfología Aplicada:** Negative prefix `un-` + root `alter` + participial `-ed`
 - **Regla y Justificación:** El verbo de estado *remained* y el adverbio *entirely* exigen un adjetivo que indique que no sufrió modificaciones ('inalterado').
@@ -564,16 +594,17 @@ Despite numerous refactoring passes over the core codebase, the cryptographic ha
 
 ---
 
-### Test 531 — Word Formation: FIT -> Benefit #flashcards/cambridge/part3
+### Test 531
 
-A major ______ of adopting microservices is the ability to scale individual components independently.
-**Root Word:** `[FIT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A major ______ of adopting microservices is the ability to scale individual components independently.
+>
+> - **Root Word:** `[FIT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `benefit`
-
+- **Enfoque:** Word Formation: FIT -> Benefit
 - **Categoría Requerida:** Noun (de `FIT`)
 - **Morfología Aplicada:** Prefix `bene-` + root `fit`
 - **Regla y Justificación:** Sustantivo singular tras *A major* que describe una ventaja o provecho derivado de una tecnología.
@@ -582,16 +613,17 @@ A major ______ of adopting microservices is the ability to scale individual comp
 
 ---
 
-### Test 532 — Word Formation: SOLVE -> Resolution #flashcards/cambridge/part3
+### Test 532
 
-The lead engineer worked throughout the entire night to reach a prompt ______ of the blocking production bug.
-**Root Word:** `[SOLVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The lead engineer worked throughout the entire night to reach a prompt ______ of the blocking production bug.
+>
+> - **Root Word:** `[SOLVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `resolution`
-
+- **Enfoque:** Word Formation: SOLVE -> Resolution
 - **Categoría Requerida:** Noun (de `SOLVE`)
 - **Morfología Aplicada:** Prefix `re-` + root `solve` (v -> t) + suffix `-ion`
 - **Regla y Justificación:** Sustantivo singular tras *a prompt* que significa 'solución / resolución definitiva de un incidente'.
@@ -600,16 +632,17 @@ The lead engineer worked throughout the entire night to reach a prompt ______ of
 
 ---
 
-### Test 533 — Word Formation: CLEAR -> Clarify #flashcards/cambridge/part3
+### Test 533
 
-The architect added explanatory sequence diagrams to ______ the message exchange protocol between microservices.
-**Root Word:** `[CLEAR]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The architect added explanatory sequence diagrams to ______ the message exchange protocol between microservices.
+>
+> - **Root Word:** `[CLEAR]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `clarify`
-
+- **Enfoque:** Word Formation: CLEAR -> Clarify
 - **Categoría Requerida:** Verb (Infinitive) (de `CLEAR`)
 - **Morfología Aplicada:** Root `clear` (ear -> ar) + verbal suffix `-ify`
 - **Regla y Justificación:** Infinitivo con *to* (*to ______*) con significado de 'hacer comprensible / clarificar'.
@@ -618,16 +651,17 @@ The architect added explanatory sequence diagrams to ______ the message exchange
 
 ---
 
-### Test 534 — Word Formation: KNOW -> Acknowledge #flashcards/cambridge/part3
+### Test 534
 
-The engineering department was quick to ______ that the initial capacity estimates had been overly optimistic.
-**Root Word:** `[KNOW]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The engineering department was quick to ______ that the initial capacity estimates had been overly optimistic.
+>
+> - **Root Word:** `[KNOW]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `acknowledge`
-
+- **Enfoque:** Word Formation: KNOW -> Acknowledge
 - **Categoría Requerida:** Verb (Infinitive) (de `KNOW`)
 - **Morfología Aplicada:** Prefix `ac-` + root `knowledge`
 - **Regla y Justificación:** Infinitivo con *to* tras *was quick to* que signifique 'reconocer / admitir la verdad de un hecho'.
@@ -636,16 +670,17 @@ The engineering department was quick to ______ that the initial capacity estimat
 
 ---
 
-### Test 535 — Word Formation: LEAD -> Misleading #flashcards/cambridge/part3
+### Test 535
 
-The documentation contained several ambiguous examples that proved highly ______ for novice developers.
-**Root Word:** `[LEAD]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The documentation contained several ambiguous examples that proved highly ______ for novice developers.
+>
+> - **Root Word:** `[LEAD]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `misleading`
-
+- **Enfoque:** Word Formation: LEAD -> Misleading
 - **Categoría Requerida:** Negative Adjective (de `LEAD`)
 - **Morfología Aplicada:** Negative prefix `mis-` + root `lead` + participial suffix `-ing`
 - **Regla y Justificación:** Modifica a los ejemplos tras *proved highly*, requiriendo un adjetivo que signifique 'engañoso / que induce a confusión'.
@@ -654,16 +689,17 @@ The documentation contained several ambiguous examples that proved highly ______
 
 ---
 
-### Test 536 — Word Formation: REGULAR -> Irregularities #flashcards/cambridge/part3
+### Test 536
 
-An automated deep audit revealed numerous configuration ______ across the secondary Kubernetes nodes.
-**Root Word:** `[REGULAR]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> An automated deep audit revealed numerous configuration ______ across the secondary Kubernetes nodes.
+>
+> - **Root Word:** `[REGULAR]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `irregularities`
-
+- **Enfoque:** Word Formation: REGULAR -> Irregularities
 - **Categoría Requerida:** Plural Negative Noun (de `REGULAR`)
 - **Morfología Aplicada:** Negative prefix `ir-` + root `regular` + noun suffix `-ity` + plural `-ies`
 - **Regla y Justificación:** El cuantificador *numerous* exige un sustantivo plural, y la auditoría detectó fallos anómalos ('irregularidades').
@@ -672,16 +708,17 @@ An automated deep audit revealed numerous configuration ______ across the second
 
 ---
 
-### Test 537 — Word Formation: ACCESS -> Inaccessible #flashcards/cambridge/part3
+### Test 537
 
-Due to a catastrophic fiber cut, the company's European regional datacenter became totally ______ for several hours.
-**Root Word:** `[ACCESS]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Due to a catastrophic fiber cut, the company's European regional datacenter became totally ______ for several hours.
+>
+> - **Root Word:** `[ACCESS]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inaccessible`
-
+- **Enfoque:** Word Formation: ACCESS -> Inaccessible
 - **Categoría Requerida:** Negative Adjective (de `ACCESS`)
 - **Morfología Aplicada:** Negative prefix `in-` + root `access` + suffix `-ible`
 - **Regla y Justificación:** Tras *became totally*, el contexto del corte físico de fibra óptica exige un adjetivo negativo que denote imposibilidad de acceso.
@@ -690,16 +727,17 @@ Due to a catastrophic fiber cut, the company's European regional datacenter beca
 
 ---
 
-### Test 538 — Word Formation: SATISFY -> Dissatisfaction #flashcards/cambridge/part3
+### Test 538
 
-Persistent latency spikes in the checkout application caused growing customer ______ across global markets.
-**Root Word:** `[SATISFY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Persistent latency spikes in the checkout application caused growing customer ______ across global markets.
+>
+> - **Root Word:** `[SATISFY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `dissatisfaction`
-
+- **Enfoque:** Word Formation: SATISFY -> Dissatisfaction
 - **Categoría Requerida:** Negative Abstract Noun (de `SATISFY`)
 - **Morfología Aplicada:** Negative prefix `dis-` + root `satisfy` + nominal suffix `-action`
 - **Regla y Justificación:** Sustantivo abstracto incontable tras el adjetivo *growing* que exprese el descontento de los clientes.
@@ -708,16 +746,17 @@ Persistent latency spikes in the checkout application caused growing customer __
 
 ---
 
-### Test 539 — Word Formation: PURE -> Impurities #flashcards/cambridge/part3
+### Test 539
 
-The chemical filtering process was designed to extract all microscopic ______ from the silicon wafer wash.
-**Root Word:** `[PURE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The chemical filtering process was designed to extract all microscopic ______ from the silicon wafer wash.
+>
+> - **Root Word:** `[PURE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `impurities`
-
+- **Enfoque:** Word Formation: PURE -> Impurities
 - **Categoría Requerida:** Plural Negative Noun (de `PURE`)
 - **Morfología Aplicada:** Negative prefix `im-` (ante 'p') + root `pure` + suffix `-ity` + plural `-ies`
 - **Regla y Justificación:** Modificado por *all microscopic*, exige un sustantivo contable plural con polaridad negativa que designe sustancias contaminantes extraídas.
@@ -726,16 +765,17 @@ The chemical filtering process was designed to extract all microscopic ______ fr
 
 ---
 
-### Test 540 — Word Formation: SENSE -> Insensitive #flashcards/cambridge/part3
+### Test 540
 
-The automated load-balancing algorithm proved completely ______ to subtle network jitter fluctuations.
-**Root Word:** `[SENSE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The automated load-balancing algorithm proved completely ______ to subtle network jitter fluctuations.
+>
+> - **Root Word:** `[SENSE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `insensitive`
-
+- **Enfoque:** Word Formation: SENSE -> Insensitive
 - **Categoría Requerida:** Negative Adjective (de `SENSE`)
 - **Morfología Aplicada:** Negative prefix `in-` + root `sense` + suffix `-itive`
 - **Regla y Justificación:** Tras *proved completely* y seguido de la preposición *to*, se requiere el adjetivo que denota incapacidad de detectar o reaccionar ante estímulos ('insensible').
@@ -744,16 +784,17 @@ The automated load-balancing algorithm proved completely ______ to subtle networ
 
 ---
 
-### Test 541 — Word Formation: SURE -> Reassure #flashcards/cambridge/part3
+### Test 541
 
-The VP of Engineering held an emergency town hall to ______ anxious staff members after the acquisition announcement.
-**Root Word:** `[SURE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The VP of Engineering held an emergency town hall to ______ anxious staff members after the acquisition announcement.
+>
+> - **Root Word:** `[SURE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `reassure`
-
+- **Enfoque:** Word Formation: SURE -> Reassure
 - **Categoría Requerida:** Verb (Infinitive) (de `SURE`)
 - **Morfología Aplicada:** Prefix `re-` + `as-` + root `sure`
 - **Regla y Justificación:** Infinitivo con *to* (*to ______ staff*) que signifique 'tranquilizar / infundir calma a personas preocupadas'.
@@ -762,16 +803,17 @@ The VP of Engineering held an emergency town hall to ______ anxious staff member
 
 ---
 
-### Test 542 — Word Formation: FAME -> Infamous #flashcards/cambridge/part3
+### Test 542
 
-The company became ______ for its chaotic deployment practices and frequent multi-hour server outages.
-**Root Word:** `[FAME]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The company became ______ for its chaotic deployment practices and frequent multi-hour server outages.
+>
+> - **Root Word:** `[FAME]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `infamous`
-
+- **Enfoque:** Word Formation: FAME -> Infamous
 - **Categoría Requerida:** Negative Adjective (de `FAME`)
 - **Morfología Aplicada:** Negative prefix `in-` + root `fame` + suffix `-ous`
 - **Regla y Justificación:** Adjetivo predicativo tras *became* seguido de *for*. Describe notoriedad por motivos vergonzosos o pésimos ('infame / tristemente célebre').
@@ -780,16 +822,17 @@ The company became ______ for its chaotic deployment practices and frequent mult
 
 ---
 
-### Test 543 — Word Formation: DEFEND -> Indefensible #flashcards/cambridge/part3
+### Test 543
 
-Committing unencrypted production encryption keys into a public GitHub repository is professionally ______.
-**Root Word:** `[DEFEND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Committing unencrypted production encryption keys into a public GitHub repository is professionally ______.
+>
+> - **Root Word:** `[DEFEND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `indefensible`
-
+- **Enfoque:** Word Formation: DEFEND -> Indefensible
 - **Categoría Requerida:** Negative Adjective (de `DEFEND`)
 - **Morfología Aplicada:** Negative prefix `in-` + root `defend` + suffix `-ible`
 - **Regla y Justificación:** Adjetivo predicativo tras *is professionally* que denota una conducta que no se puede justificar ni amparar de ningún modo ('indefendible').
@@ -798,16 +841,17 @@ Committing unencrypted production encryption keys into a public GitHub repositor
 
 ---
 
-### Test 544 — Word Formation: PAY -> Repay #flashcards/cambridge/part3
+### Test 544
 
-Disciplined software engineering teams prioritize paying down technical debt before it becomes impossible to ______.
-**Root Word:** `[PAY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Disciplined software engineering teams prioritize paying down technical debt before it becomes impossible to ______.
+>
+> - **Root Word:** `[PAY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `repay`
-
+- **Enfoque:** Word Formation: PAY -> Repay
 - **Categoría Requerida:** Verb (Infinitive) (de `PAY`)
 - **Morfología Aplicada:** Iterative prefix `re-` + root `pay`
 - **Regla y Justificación:** Infinitivo con *to* (*impossible to ______*) que signifique 'saldar o amortizar una deuda'.
@@ -816,16 +860,17 @@ Disciplined software engineering teams prioritize paying down technical debt bef
 
 ---
 
-### Test 545 — Word Formation: COUNT -> Countless #flashcards/cambridge/part3
+### Test 545
 
-Senior developers have spent ______ hours debugging race conditions that never manifest in local staging environments.
-**Root Word:** `[COUNT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Senior developers have spent ______ hours debugging race conditions that never manifest in local staging environments.
+>
+> - **Root Word:** `[COUNT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `countless`
-
+- **Enfoque:** Word Formation: COUNT -> Countless
 - **Categoría Requerida:** Negative/Indefinite Adjective (de `COUNT`)
 - **Morfología Aplicada:** Root `count` + privative suffix `-less`
 - **Regla y Justificación:** Modifica al sustantivo plural *hours* para denotar una cantidad incalculable ('innumerables horas').
@@ -834,16 +879,17 @@ Senior developers have spent ______ hours debugging race conditions that never m
 
 ---
 
-### Test 546 — Word Formation: SIMPLE -> Simplify #flashcards/cambridge/part3
+### Test 546
 
-Refactoring monolithic codebases into smaller discrete services helps to ______ system deployment pipelines.
-**Root Word:** `[SIMPLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Refactoring monolithic codebases into smaller discrete services helps to ______ system deployment pipelines.
+>
+> - **Root Word:** `[SIMPLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `simplify`
-
+- **Enfoque:** Word Formation: SIMPLE -> Simplify
 - **Categoría Requerida:** Verb (Infinitive) (de `SIMPLE`)
 - **Morfología Aplicada:** Root `simple` (le -> ify)
 - **Regla y Justificación:** Infinitivo con *to* (*helps to ______*) con significado de 'hacer más simple / simplificar'.
@@ -852,16 +898,17 @@ Refactoring monolithic codebases into smaller discrete services helps to ______ 
 
 ---
 
-### Test 547 — Word Formation: EXPECT -> Unexpectedly #flashcards/cambridge/part3
+### Test 547
 
-The primary database worker node restarted ______ during the peak hours of the Black Friday flash sale.
-**Root Word:** `[EXPECT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The primary database worker node restarted ______ during the peak hours of the Black Friday flash sale.
+>
+> - **Root Word:** `[EXPECT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `unexpectedly`
-
+- **Enfoque:** Word Formation: EXPECT -> Unexpectedly
 - **Categoría Requerida:** Negative Adverb (de `EXPECT`)
 - **Morfología Aplicada:** Negative prefix `un-` + root `expect` + participial `-ed` + adverbial `-ly`
 - **Regla y Justificación:** Modifica al verbo intransitivo *restarted* para indicar que el reinicio ocurrió de forma imprevista y sin previo aviso ('inesperadamente').
@@ -870,16 +917,17 @@ The primary database worker node restarted ______ during the peak hours of the B
 
 ---
 
-### Test 548 — Word Formation: RESIST -> Resistance #flashcards/cambridge/part3
+### Test 548
 
-The technical director encountered fierce ______ from the team when proposing a complete rewrite in Rust.
-**Root Word:** `[RESIST]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The technical director encountered fierce ______ from the team when proposing a complete rewrite in Rust.
+>
+> - **Root Word:** `[RESIST]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `resistance`
-
+- **Enfoque:** Word Formation: RESIST -> Resistance
 - **Categoría Requerida:** Abstract Noun (de `RESIST`)
 - **Morfología Aplicada:** Root `resist` + nominal suffix `-ance`
 - **Regla y Justificación:** Sustantivo modificado por el adjetivo *fierce* ('feroz resistencia') que actúa como objeto directo de *encountered*.
@@ -888,16 +936,17 @@ The technical director encountered fierce ______ from the team when proposing a 
 
 ---
 
-### Test 549 — Word Formation: LIVE -> Livelihood #flashcards/cambridge/part3
+### Test 549
 
-Thousands of freelance software contractors depend on reliable cloud infrastructure for their ______.
-**Root Word:** `[LIVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Thousands of freelance software contractors depend on reliable cloud infrastructure for their ______.
+>
+> - **Root Word:** `[LIVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `livelihood`
-
+- **Enfoque:** Word Formation: LIVE -> Livelihood
 - **Categoría Requerida:** Noun (de `LIVE`)
 - **Morfología Aplicada:** Root `live` + suffix `-lihood`
 - **Regla y Justificación:** Sustantivo formal tras el posesivo *their* que significa 'sustento / medio de vida'.
@@ -906,16 +955,17 @@ Thousands of freelance software contractors depend on reliable cloud infrastruct
 
 ---
 
-### Test 550 — Word Formation: SHORT -> Shortage #flashcards/cambridge/part3
+### Test 550
 
-An acute ______ of senior site reliability engineers has driven up salaries across the European tech sector.
-**Root Word:** `[SHORT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> An acute ______ of senior site reliability engineers has driven up salaries across the European tech sector.
+>
+> - **Root Word:** `[SHORT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `shortage`
-
+- **Enfoque:** Word Formation: SHORT -> Shortage
 - **Categoría Requerida:** Noun (de `SHORT`)
 - **Morfología Aplicada:** Adjective root `short` + nominal suffix `-age`
 - **Regla y Justificación:** Sustantivo singular precedido por *An acute* y seguido de *of* que denota escasez o déficit grave de recursos.

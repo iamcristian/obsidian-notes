@@ -24,16 +24,16 @@ total_tests: 75
 
 ---
 
-### Test 626 — Commercialization #flashcards/cambridge/part3
+### Test 626
 
-Critics argued that the excessive _______ of Christmas diminishes its spiritual significance.
-**Root Word:** `[COMMERCE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Critics argued that the excessive _______ of Christmas diminishes its spiritual significance.
+>
+> - **Root Word:** `[COMMERCE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `commercialization`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `COMMERCE`)
 - **Morfología Aplicada:** Raíz 'commerce' + sufijo adjetival 'commercial' + nominalización '-ization'
 - **Regla y Justificación:** Sujeto calificado por 'excessive'; denota la explotación mercantilista de una tradición.
@@ -42,16 +42,16 @@ Critics argued that the excessive _______ of Christmas diminishes its spiritual 
 
 ---
 
-### Test 627 — Industrialization #flashcards/cambridge/part3
+### Test 627
 
-Rapid _______ during the nineteenth century transformed agrarian Britain into an urban society.
-**Root Word:** `[INDUSTRY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Rapid _______ during the nineteenth century transformed agrarian Britain into an urban society.
+>
+> - **Root Word:** `[INDUSTRY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `industrialization`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `INDUSTRY`)
 - **Morfología Aplicada:** Raíz 'industry' + adjetivo 'industrial' + nominalización '-ization'
 - **Regla y Justificación:** Sujeto de la cláusula; describe el proceso histórico de implantación fabril masiva.
@@ -60,16 +60,16 @@ Rapid _______ during the nineteenth century transformed agrarian Britain into an
 
 ---
 
-### Test 628 — Familiarity #flashcards/cambridge/part3
+### Test 628
 
-His complete _______ with international maritime law made him an invaluable arbiter.
-**Root Word:** `[FAMILIAR]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> His complete _______ with international maritime law made him an invaluable arbiter.
+>
+> - **Root Word:** `[FAMILIAR]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `familiarity`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `FAMILIAR`)
 - **Morfología Aplicada:** Raíz 'familiar' + sufijo nominal '-ity'
 - **Regla y Justificación:** Sujeto calificado por 'complete' que rige 'with'; significa conocimiento íntimo de una materia.
@@ -78,16 +78,16 @@ His complete _______ with international maritime law made him an invaluable arbi
 
 ---
 
-### Test 629 — Curiosity #flashcards/cambridge/part3
+### Test 629
 
-A child's innate _______ should be actively fostered through exploratory scientific play.
-**Root Word:** `[CURIOUS]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A child's innate _______ should be actively fostered through exploratory scientific play.
+>
+> - **Root Word:** `[CURIOUS]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `curiosity`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `CURIOUS`)
 - **Morfología Aplicada:** Raíz 'curious' (eliminación del diptongo 'ou' a 'o') + sufijo '-ity'
 - **Regla y Justificación:** Sujeto tras el genitivo sajón 'child's innate'; denota el deseo de averiguar y aprender.
@@ -96,16 +96,16 @@ A child's innate _______ should be actively fostered through exploratory scienti
 
 ---
 
-### Test 630 — Generosity #flashcards/cambridge/part3
+### Test 630
 
-The philanthropic tycoon was universally renowned for his extraordinary _______ to medical research.
-**Root Word:** `[GENEROUS]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The philanthropic tycoon was universally renowned for his extraordinary _______ to medical research.
+>
+> - **Root Word:** `[GENEROUS]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `generosity`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `GENEROUS`)
 - **Morfología Aplicada:** Raíz 'generous' (pérdida de 'u') + sufijo '-ity'
 - **Regla y Justificación:** Sigue a 'his extraordinary'; denota la disposición dadivosa o altruista.
@@ -114,16 +114,16 @@ The philanthropic tycoon was universally renowned for his extraordinary _______ 
 
 ---
 
-### Test 631 — Scarcity #flashcards/cambridge/part3
+### Test 631
 
-The severe _______ of potable drinking water sparked communal tensions across the drought-stricken valley.
-**Root Word:** `[SCARCE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The severe _______ of potable drinking water sparked communal tensions across the drought-stricken valley.
+>
+> - **Root Word:** `[SCARCE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `scarcity`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `SCARCE`)
 - **Morfología Aplicada:** Raíz 'scarce' (eliminación de 'e') + sufijo '-ity'
 - **Regla y Justificación:** Sujeto de la oración tras 'The severe'; denota insuficiencia o penuria extrema de recursos.
@@ -132,16 +132,16 @@ The severe _______ of potable drinking water sparked communal tensions across th
 
 ---
 
-### Test 632 — Prosperity #flashcards/cambridge/part3
+### Test 632
 
-Sustainable economic _______ depends on equitable wealth distribution and transparent governance.
-**Root Word:** `[PROSPER]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Sustainable economic _______ depends on equitable wealth distribution and transparent governance.
+>
+> - **Root Word:** `[PROSPER]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `prosperity`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `PROSPER`)
 - **Morfología Aplicada:** Raíz verbal 'prosper' + sufijo nominal '-ity'
 - **Regla y Justificación:** Núcleo del sujeto calificado por 'Sustainable economic'; denota bienestar y auge material.
@@ -150,16 +150,16 @@ Sustainable economic _______ depends on equitable wealth distribution and transp
 
 ---
 
-### Test 633 — Insecurity #flashcards/cambridge/part3
+### Test 633
 
-Financial _______ during early adulthood can deter young professionals from starting families.
-**Root Word:** `[SECURE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Financial _______ during early adulthood can deter young professionals from starting families.
+>
+> - **Root Word:** `[SECURE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `insecurity`
-
 - **Categoría Requerida:** Sustantivo abstracto negativo incontable (de `SECURE`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'secure' + sufijo nominal '-ity'
 - **Regla y Justificación:** Sujeto compuesto calificado por 'Financial'; describe falta de estabilidad económica.
@@ -168,16 +168,16 @@ Financial _______ during early adulthood can deter young professionals from star
 
 ---
 
-### Test 634 — Authenticity #flashcards/cambridge/part3
+### Test 634
 
-The museum curator expressed doubts regarding the historical _______ of the purported Renaissance canvas.
-**Root Word:** `[AUTHENTIC]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The museum curator expressed doubts regarding the historical _______ of the purported Renaissance canvas.
+>
+> - **Root Word:** `[AUTHENTIC]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `authenticity`
-
 - **Categoría Requerida:** Sustantivo abstracto de genuinidad (de `AUTHENTIC`)
 - **Morfología Aplicada:** Raíz 'authentic' + sufijo nominal '-ity'
 - **Regla y Justificación:** Término de 'regarding the historical'; denota la condición de ser genuino u original.
@@ -186,16 +186,16 @@ The museum curator expressed doubts regarding the historical _______ of the purp
 
 ---
 
-### Test 635 — Diversity #flashcards/cambridge/part3
+### Test 635
 
-Biological _______ in virgin rainforests is essential for discovering novel pharmacopeia.
-**Root Word:** `[DIVERSE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Biological _______ in virgin rainforests is essential for discovering novel pharmacopeia.
+>
+> - **Root Word:** `[DIVERSE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `diversity`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `DIVERSE`)
 - **Morfología Aplicada:** Raíz 'diverse' (eliminación de 'e') + sufijo nominal '-ity'
 - **Regla y Justificación:** Sujeto calificado por 'Biological'; denota variedad o multiplicidad ecológica.
@@ -204,16 +204,16 @@ Biological _______ in virgin rainforests is essential for discovering novel phar
 
 ---
 
-### Test 636 — Ambiguity #flashcards/cambridge/part3
+### Test 636
 
-The legal contract was rewritten to eliminate any lingering semantic _______.
-**Root Word:** `[AMBIGUOUS]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The legal contract was rewritten to eliminate any lingering semantic _______.
+>
+> - **Root Word:** `[AMBIGUOUS]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `ambiguity`
-
 - **Categoría Requerida:** Sustantivo abstracto de doble sentido (de `AMBIGUOUS`)
 - **Morfología Aplicada:** Raíz 'ambiguous' (eliminación de 'uous' a 'u') + sufijo '-ity'
 - **Regla y Justificación:** Objeto de 'eliminate'; significa cualidad de ser ambiguo o tener múltiples interpretaciones.
@@ -222,16 +222,16 @@ The legal contract was rewritten to eliminate any lingering semantic _______.
 
 ---
 
-### Test 637 — Anonymity #flashcards/cambridge/part3
+### Test 637
 
-The whistleblower agreed to testify on condition of absolute personal _______.
-**Root Word:** `[ANONYMOUS]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The whistleblower agreed to testify on condition of absolute personal _______.
+>
+> - **Root Word:** `[ANONYMOUS]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `anonymity`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `ANONYMOUS`)
 - **Morfología Aplicada:** Raíz 'anonymous' (pérdida de 'ous') + sufijo '-ity'
 - **Regla y Justificación:** Término de la frase 'on condition of absolute personal'; denota mantener oculta la identidad.
@@ -240,16 +240,16 @@ The whistleblower agreed to testify on condition of absolute personal _______.
 
 ---
 
-### Test 638 — Immunity #flashcards/cambridge/part3
+### Test 638
 
-Vaccination confers herd _______ upon a population, shielding vulnerable individuals from infection.
-**Root Word:** `[IMMUNE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Vaccination confers herd _______ upon a population, shielding vulnerable individuals from infection.
+>
+> - **Root Word:** `[IMMUNE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `immunity`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `IMMUNE`)
 - **Morfología Aplicada:** Raíz 'immune' + sufijo nominal '-ity'
 - **Regla y Justificación:** Forma la colocación médica 'herd immunity' ('inmunidad de rebaño').
@@ -258,16 +258,16 @@ Vaccination confers herd _______ upon a population, shielding vulnerable individ
 
 ---
 
-### Test 639 — Solitude #flashcards/cambridge/part3
+### Test 639
 
-The hermit cherished the tranquil _______ of his remote mountain hermitage.
-**Root Word:** `[SOLITARY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The hermit cherished the tranquil _______ of his remote mountain hermitage.
+>
+> - **Root Word:** `[SOLITARY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `solitude`
-
 - **Categoría Requerida:** Sustantivo abstracto de aislamiento voluntario (de `SOLITARY`)
 - **Morfología Aplicada:** Raíz 'solitary' mutada a la base latina 'solitude'
 - **Regla y Justificación:** Objeto de 'cherished' calificado por 'tranquil'; denota soledad serena y voluntaria.
@@ -276,16 +276,16 @@ The hermit cherished the tranquil _______ of his remote mountain hermitage.
 
 ---
 
-### Test 640 — Aptitude #flashcards/cambridge/part3
+### Test 640
 
-From an early age, Mozart displayed an astonishing _______ for musical composition and improvisation.
-**Root Word:** `[APT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> From an early age, Mozart displayed an astonishing _______ for musical composition and improvisation.
+>
+> - **Root Word:** `[APT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `aptitude`
-
 - **Categoría Requerida:** Sustantivo abstracto de talento innato (de `APT`)
 - **Morfología Aplicada:** Raíz 'apt' + sufijo nominal '-itude'
 - **Regla y Justificación:** Objeto de 'displayed' modificado por 'astonishing'; denota talento o predisposición natural.
@@ -294,16 +294,16 @@ From an early age, Mozart displayed an astonishing _______ for musical compositi
 
 ---
 
-### Test 641 — Certainty #flashcards/cambridge/part3
+### Test 641
 
-In theoretical quantum physics, absolute empirical _______ remains mathematically elusive.
-**Root Word:** `[CERTAIN]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> In theoretical quantum physics, absolute empirical _______ remains mathematically elusive.
+>
+> - **Root Word:** `[CERTAIN]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `certainty`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `CERTAIN`)
 - **Morfología Aplicada:** Raíz 'certain' + sufijo nominal '-ty'
 - **Regla y Justificación:** Sujeto calificado por 'absolute empirical'; significa seguridad indiscutible o certeza.
@@ -312,16 +312,16 @@ In theoretical quantum physics, absolute empirical _______ remains mathematicall
 
 ---
 
-### Test 642 — Loyalty #flashcards/cambridge/part3
+### Test 642
 
-The monarch rewarded the knights for their steadfast _______ during the rebellion.
-**Root Word:** `[LOYAL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The monarch rewarded the knights for their steadfast _______ during the rebellion.
+>
+> - **Root Word:** `[LOYAL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `loyalty`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `LOYAL`)
 - **Morfología Aplicada:** Raíz 'loyal' + sufijo nominal '-ty'
 - **Regla y Justificación:** Término de 'for their steadfast'; denota fidelidad o lealtad inquebrantable.
@@ -330,16 +330,16 @@ The monarch rewarded the knights for their steadfast _______ during the rebellio
 
 ---
 
-### Test 643 — Cruelty #flashcards/cambridge/part3
+### Test 643
 
-Strict legislation was enacted to prevent _______ to animals in industrial abattoirs.
-**Root Word:** `[CRUEL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Strict legislation was enacted to prevent _______ to animals in industrial abattoirs.
+>
+> - **Root Word:** `[CRUEL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `cruelty`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `CRUEL`)
 - **Morfología Aplicada:** Raíz 'cruel' + sufijo nominal '-ty'
 - **Regla y Justificación:** Objeto de 'prevent' que rige 'to animals'; significa ensañamiento o maltrato deliberado.
@@ -348,16 +348,16 @@ Strict legislation was enacted to prevent _______ to animals in industrial abatt
 
 ---
 
-### Test 644 — Novelty #flashcards/cambridge/part3
+### Test 644
 
-Once the initial _______ of the gadget wore off, sales plummeted rapidly.
-**Root Word:** `[NOVEL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Once the initial _______ of the gadget wore off, sales plummeted rapidly.
+>
+> - **Root Word:** `[NOVEL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `novelty`
-
 - **Categoría Requerida:** Sustantivo abstracto singular de innovación efímera (de `NOVEL`)
 - **Morfología Aplicada:** Raíz 'novel' + sufijo nominal '-ty'
 - **Regla y Justificación:** Sujeto de 'wore off' precedido por 'the initial'; denota la cualidad de ser novedoso o curioso.
@@ -366,16 +366,16 @@ Once the initial _______ of the gadget wore off, sales plummeted rapidly.
 
 ---
 
-### Test 645 — Subtlety #flashcards/cambridge/part3
+### Test 645
 
-The literary critic praised the emotional _______ and nuanced dialogue of the chamber play.
-**Root Word:** `[SUBTLE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The literary critic praised the emotional _______ and nuanced dialogue of the chamber play.
+>
+> - **Root Word:** `[SUBTLE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `subtlety`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `SUBTLE`)
 - **Morfología Aplicada:** Raíz 'subtle' (eliminación de 'le') + sufijo '-lety'
 - **Regla y Justificación:** Objeto de 'praised' calificado por 'emotional'; denota delicadeza o finura de matices.
@@ -384,16 +384,16 @@ The literary critic praised the emotional _______ and nuanced dialogue of the ch
 
 ---
 
-### Test 646 — Adolescence #flashcards/cambridge/part3
+### Test 646
 
-Turbulent physiological and emotional transformations are characteristic of human _______.
-**Root Word:** `[ADOLESCENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Turbulent physiological and emotional transformations are characteristic of human _______.
+>
+> - **Root Word:** `[ADOLESCENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `adolescence`
-
 - **Categoría Requerida:** Sustantivo abstracto de período etario (de `ADOLESCENT`)
 - **Morfología Aplicada:** Raíz 'adolescent' (cambio de sufijo '-ent' a '-ence')
 - **Regla y Justificación:** Término de la frase 'human ...'; designa el período vital de transición a la adultez.
@@ -402,16 +402,16 @@ Turbulent physiological and emotional transformations are characteristic of huma
 
 ---
 
-### Test 647 — Inconvenience #flashcards/cambridge/part3
+### Test 647
 
-We sincerely apologize for any _______ caused by the sudden cancellation of the commuter train.
-**Root Word:** `[CONVENIENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> We sincerely apologize for any _______ caused by the sudden cancellation of the commuter train.
+>
+> - **Root Word:** `[CONVENIENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inconvenience`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de molestia (de `CONVENIENT`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'convenient' (sufijo nominal '-ence')
 - **Regla y Justificación:** Objeto de 'for any'; denota molestia o trastorno provocado a los usuarios.
@@ -420,16 +420,16 @@ We sincerely apologize for any _______ caused by the sudden cancellation of the 
 
 ---
 
-### Test 648 — Existence #flashcards/cambridge/part3
+### Test 648
 
-Paleontologists uncovered fossilized footprints that confirm the prehistoric _______ of giant flightless birds.
-**Root Word:** `[EXIST]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Paleontologists uncovered fossilized footprints that confirm the prehistoric _______ of giant flightless birds.
+>
+> - **Root Word:** `[EXIST]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `existence`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `EXIST`)
 - **Morfología Aplicada:** Raíz verbal 'exist' + sufijo nominal '-ence'
 - **Regla y Justificación:** Objeto directo de 'confirm' precedido de 'the prehistoric'; denota la realidad de haber existido.
@@ -438,16 +438,16 @@ Paleontologists uncovered fossilized footprints that confirm the prehistoric ___
 
 ---
 
-### Test 649 — Innocence #flashcards/cambridge/part3
+### Test 649
 
-The forensic DNA breakthrough conclusively proved the wrongly convicted man's _______.
-**Root Word:** `[INNOCENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The forensic DNA breakthrough conclusively proved the wrongly convicted man's _______.
+>
+> - **Root Word:** `[INNOCENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `innocence`
-
 - **Categoría Requerida:** Sustantivo abstracto de no culpabilidad (de `INNOCENT`)
 - **Morfología Aplicada:** Raíz 'innocent' (cambio de '-ent' a '-ence')
 - **Regla y Justificación:** Objeto de 'proved' tras el genitivo sajón; denota ausencia de culpa penal.
@@ -456,16 +456,16 @@ The forensic DNA breakthrough conclusively proved the wrongly convicted man's __
 
 ---
 
-### Test 650 — Patience #flashcards/cambridge/part3
+### Test 650
 
-Training working service dogs requires extraordinary amounts of time, empathy, and _______.
-**Root Word:** `[PATIENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Training working service dogs requires extraordinary amounts of time, empathy, and _______.
+>
+> - **Root Word:** `[PATIENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `patience`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `PATIENT`)
 - **Morfología Aplicada:** Raíz 'patient' (cambio de '-ent' a '-ence')
 - **Regla y Justificación:** Coordinado con 'time' y 'empathy' tras 'amounts of'; se requiere sustantivo abstracto.
@@ -474,16 +474,16 @@ Training working service dogs requires extraordinary amounts of time, empathy, a
 
 ---
 
-### Test 651 — Persistence #flashcards/cambridge/part3
+### Test 651
 
-Against all daunting odds, her stubborn _______ eventually yielded a working fusion prototype.
-**Root Word:** `[PERSIST]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Against all daunting odds, her stubborn _______ eventually yielded a working fusion prototype.
+>
+> - **Root Word:** `[PERSIST]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `persistence`
-
 - **Categoría Requerida:** Sustantivo abstracto de tesón (de `PERSIST`)
 - **Morfología Aplicada:** Raíz verbal 'persist' + sufijo nominal '-ence'
 - **Regla y Justificación:** Sujeto calificado por 'her stubborn'; denota tenacidad inagotable en el empeño.
@@ -492,16 +492,16 @@ Against all daunting odds, her stubborn _______ eventually yielded a working fus
 
 ---
 
-### Test 652 — Resilience #flashcards/cambridge/part3
+### Test 652
 
-Psychological _______ enables individuals to withstand acute trauma and adapt to severe adversity.
-**Root Word:** `[RESILIENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Psychological _______ enables individuals to withstand acute trauma and adapt to severe adversity.
+>
+> - **Root Word:** `[RESILIENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `resilience`
-
 - **Categoría Requerida:** Sustantivo abstracto de capacidad adaptativa (de `RESILIENT`)
 - **Morfología Aplicada:** Raíz 'resilient' (cambio de '-ent' a '-ence')
 - **Regla y Justificación:** Sujeto de la cláusula; denota la capacidad de sobreponerse a crisis severas.
@@ -510,16 +510,16 @@ Psychological _______ enables individuals to withstand acute trauma and adapt to
 
 ---
 
-### Test 653 — Significance #flashcards/cambridge/part3
+### Test 653
 
-The archeological discovery was deemed of monumental historical _______ by international experts.
-**Root Word:** `[SIGNIFICANT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The archeological discovery was deemed of monumental historical _______ by international experts.
+>
+> - **Root Word:** `[SIGNIFICANT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `significance`
-
 - **Categoría Requerida:** Sustantivo abstracto de trascendencia (de `SIGNIFICANT`)
 - **Morfología Aplicada:** Raíz 'significant' (cambio de '-ant' a '-ance')
 - **Regla y Justificación:** Término de la frase genitiva 'of monumental historical'; denota importancia decisiva.
@@ -528,16 +528,16 @@ The archeological discovery was deemed of monumental historical _______ by inter
 
 ---
 
-### Test 654 — Assistance #flashcards/cambridge/part3
+### Test 654
 
-Stranded motorists can request 24-hour roadside _______ via the mobile emergency app.
-**Root Word:** `[ASSIST]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Stranded motorists can request 24-hour roadside _______ via the mobile emergency app.
+>
+> - **Root Word:** `[ASSIST]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `assistance`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de auxilio (de `ASSIST`)
 - **Morfología Aplicada:** Raíz verbal 'assist' + sufijo nominal '-ance'
 - **Regla y Justificación:** Forma la colocación fija 'roadside assistance' ('asistencia en carretera').
@@ -546,16 +546,16 @@ Stranded motorists can request 24-hour roadside _______ via the mobile emergency
 
 ---
 
-### Test 655 — Distance #flashcards/cambridge/part3
+### Test 655
 
-Thanks to modern satellite telecommunications, physical _______ is no longer a barrier to global collaboration.
-**Root Word:** `[DISTANT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Thanks to modern satellite telecommunications, physical _______ is no longer a barrier to global collaboration.
+>
+> - **Root Word:** `[DISTANT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `distance`
-
 - **Categoría Requerida:** Sustantivo abstracto singular de separación espacial (de `DISTANT`)
 - **Morfología Aplicada:** Raíz 'distant' (cambio de '-ant' a '-ance')
 - **Regla y Justificación:** Sujeto calificado por 'physical'; denota separación métrica o espacial.
@@ -564,16 +564,16 @@ Thanks to modern satellite telecommunications, physical _______ is no longer a b
 
 ---
 
-### Test 656 — Dominance #flashcards/cambridge/part3
+### Test 656
 
-The tech conglomerate's near-monopolistic _______ over the search engine market prompted antitrust inquiries.
-**Root Word:** `[DOMINANT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The tech conglomerate's near-monopolistic _______ over the search engine market prompted antitrust inquiries.
+>
+> - **Root Word:** `[DOMINANT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `dominance`
-
 - **Categoría Requerida:** Sustantivo abstracto de hegemonía (de `DOMINANT`)
 - **Morfología Aplicada:** Raíz 'dominant' (cambio de '-ant' a '-ance')
 - **Regla y Justificación:** Sujeto tras el genitivo sajón; denota hegemonía o primacía de mercado.
@@ -582,16 +582,16 @@ The tech conglomerate's near-monopolistic _______ over the search engine market 
 
 ---
 
-### Test 657 — Ignorance #flashcards/cambridge/part3
+### Test 657
 
-The campaign aimed to dispel widespread public _______ regarding how infectious pathogens transmit.
-**Root Word:** `[IGNORANT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The campaign aimed to dispel widespread public _______ regarding how infectious pathogens transmit.
+>
+> - **Root Word:** `[IGNORANT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `ignorance`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de desconocimiento (de `IGNORANT`)
 - **Morfología Aplicada:** Raíz 'ignorant' (cambio de '-ant' a '-ance')
 - **Regla y Justificación:** Objeto de 'dispel' calificado por 'widespread public'; denota falta de conocimiento veraz.
@@ -600,16 +600,16 @@ The campaign aimed to dispel widespread public _______ regarding how infectious 
 
 ---
 
-### Test 658 — Reluctance #flashcards/cambridge/part3
+### Test 658
 
-Despite urgent pleas from his advisors, the prime minister showed great _______ to deploy the armed forces.
-**Root Word:** `[RELUCTANT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Despite urgent pleas from his advisors, the prime minister showed great _______ to deploy the armed forces.
+>
+> - **Root Word:** `[RELUCTANT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `reluctance`
-
 - **Categoría Requerida:** Sustantivo abstracto de renuencia (de `RELUCTANT`)
 - **Morfología Aplicada:** Raíz 'reluctant' (cambio de '-ant' a '-ance')
 - **Regla y Justificación:** Objeto de 'showed' que rige 'to deploy'; denota falta de voluntad o resistencia psicológica.
@@ -618,16 +618,17 @@ Despite urgent pleas from his advisors, the prime minister showed great _______ 
 
 ---
 
-### Test 659 — Tolerance #flashcards/cambridge/part3
+### Test 659
 
-Gluten _______ has become an increasingly diagnosed digestive condition across urban populations.
-**Root Word:** `[TOLERATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Gluten _______ has become an increasingly diagnosed digestive condition across urban populations.
+>
+> - **Root Word:** `[TOLERATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `intolerance`
-
+- **Enfoque:** Tolerance
 - **Categoría Requerida:** Sustantivo abstracto negativo médico (de `TOLERATE`)
 - **Morfología Aplicada:** Prefijo negativo 'in-' + raíz 'tolerate' + sufijo nominal '-ance'
 - **Regla y Justificación:** ¡Atención al contexto médico!: se habla de una patología diagnosticada, por lo que se requiere 'intolerance'.
@@ -636,16 +637,16 @@ Gluten _______ has become an increasingly diagnosed digestive condition across u
 
 ---
 
-### Test 660 — Attendance #flashcards/cambridge/part3
+### Test 660
 
-The university strictly monitors lecture _______ to deter chronic undergraduate absenteeism.
-**Root Word:** `[ATTEND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The university strictly monitors lecture _______ to deter chronic undergraduate absenteeism.
+>
+> - **Root Word:** `[ATTEND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `attendance`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de asistencia (de `ATTEND`)
 - **Morfología Aplicada:** Raíz verbal 'attend' + sufijo nominal '-ance'
 - **Regla y Justificación:** Forma la colocación institucional 'lecture attendance' ('asistencia a clase').
@@ -654,16 +655,16 @@ The university strictly monitors lecture _______ to deter chronic undergraduate 
 
 ---
 
-### Test 661 — Defendant #flashcards/cambridge/part3
+### Test 661
 
-The criminal _______ sat impassively in the dock while the jury foreman delivered the verdict.
-**Root Word:** `[DEFEND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The criminal _______ sat impassively in the dock while the jury foreman delivered the verdict.
+>
+> - **Root Word:** `[DEFEND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `defendant`
-
 - **Categoría Requerida:** Sustantivo personal jurídico (de `DEFEND`)
 - **Morfología Aplicada:** Raíz verbal 'defend' + sufijo de agente personal '-ant'
 - **Regla y Justificación:** Sujeto singular calificado por 'The criminal' que se sienta en el banquillo ('the dock').
@@ -672,16 +673,16 @@ The criminal _______ sat impassively in the dock while the jury foreman delivere
 
 ---
 
-### Test 662 — Applicant #flashcards/cambridge/part3
+### Test 662
 
-Each qualified _______ must submit three letters of professional recommendation before the interview.
-**Root Word:** `[APPLY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Each qualified _______ must submit three letters of professional recommendation before the interview.
+>
+> - **Root Word:** `[APPLY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `applicant`
-
 - **Categoría Requerida:** Sustantivo personal contable (de `APPLY`)
 - **Morfología Aplicada:** Raíz 'apply' (cambio y->i) + sufijo de agente '-cant'
 - **Regla y Justificación:** Precedido por 'Each qualified'; designa a la persona individual que postula a un puesto.
@@ -690,16 +691,16 @@ Each qualified _______ must submit three letters of professional recommendation 
 
 ---
 
-### Test 663 — Inhabitants #flashcards/cambridge/part3
+### Test 663
 
-The remote sub-Antarctic island is home to thousands of penguins but zero human _______.
-**Root Word:** `[INHABIT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The remote sub-Antarctic island is home to thousands of penguins but zero human _______.
+>
+> - **Root Word:** `[INHABIT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inhabitants`
-
 - **Categoría Requerida:** Sustantivo plural contable de personas (de `INHABIT`)
 - **Morfología Aplicada:** Raíz verbal 'inhabit' + sufijo de agente '-ant' + plural '-s'
 - **Regla y Justificación:** Precedido de 'zero human'; requiere el sustantivo plural contable para moradores.
@@ -708,16 +709,16 @@ The remote sub-Antarctic island is home to thousands of penguins but zero human 
 
 ---
 
-### Test 664 — Participants #flashcards/cambridge/part3
+### Test 664
 
-All workshop _______ will receive a certificate of continuing professional development upon completion.
-**Root Word:** `[PARTICIPATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> All workshop _______ will receive a certificate of continuing professional development upon completion.
+>
+> - **Root Word:** `[PARTICIPATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `participants`
-
 - **Categoría Requerida:** Sustantivo plural contable de personas (de `PARTICIPATE`)
 - **Morfología Aplicada:** Raíz 'participate' (eliminación de 'ate') + sufijo de agente '-ant' + plural '-s'
 - **Regla y Justificación:** Sujeto plural precedido de 'All workshop'; designa a los asistentes humanos al seminario.
@@ -726,16 +727,16 @@ All workshop _______ will receive a certificate of continuing professional devel
 
 ---
 
-### Test 665 — Accusations #flashcards/cambridge/part3
+### Test 665
 
-The embattled chief executive vehemently denied all _______ of corporate fraud and bribery.
-**Root Word:** `[ACCUSE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The embattled chief executive vehemently denied all _______ of corporate fraud and bribery.
+>
+> - **Root Word:** `[ACCUSE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `accusations`
-
 - **Categoría Requerida:** Sustantivo plural contable (de `ACCUSE`)
 - **Morfología Aplicada:** Raíz 'accuse' + sufijo nominal '-ation' + plural '-s'
 - **Regla y Justificación:** Objeto de 'denied' precedido por 'all'; requiere el plural de los cargos o imputaciones.
@@ -744,16 +745,16 @@ The embattled chief executive vehemently denied all _______ of corporate fraud a
 
 ---
 
-### Test 666 — Admiration #flashcards/cambridge/part3
+### Test 666
 
-The veteran astronaut commanded universal _______ for her historic spacewalk mission.
-**Root Word:** `[ADMIRE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The veteran astronaut commanded universal _______ for her historic spacewalk mission.
+>
+> - **Root Word:** `[ADMIRE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `admiration`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `ADMIRE`)
 - **Morfología Aplicada:** Raíz verbal 'admire' + sufijo nominal '-ation'
 - **Regla y Justificación:** Objeto de 'commanded' calificado por 'universal'; denota respeto y estima pública.
@@ -762,16 +763,16 @@ The veteran astronaut commanded universal _______ for her historic spacewalk mis
 
 ---
 
-### Test 667 — Alteration #flashcards/cambridge/part3
+### Test 667
 
-The tailor made a minor sartorial _______ to the jacket sleeves before the wedding banquet.
-**Root Word:** `[ALTER]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The tailor made a minor sartorial _______ to the jacket sleeves before the wedding banquet.
+>
+> - **Root Word:** `[ALTER]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `alteration`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `ALTER`)
 - **Morfología Aplicada:** Raíz 'alter' + sufijo nominal '-ation'
 - **Regla y Justificación:** Precedido por 'a minor sartorial'; significa modificación o arreglo en una prenda.
@@ -780,16 +781,16 @@ The tailor made a minor sartorial _______ to the jacket sleeves before the weddi
 
 ---
 
-### Test 668 — Celebration #flashcards/cambridge/part3
+### Test 668
 
-The historic anniversary culminated in a lavish street _______ with fireworks and live brass bands.
-**Root Word:** `[CELEBRATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The historic anniversary culminated in a lavish street _______ with fireworks and live brass bands.
+>
+> - **Root Word:** `[CELEBRATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `celebration`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `CELEBRATE`)
 - **Morfología Aplicada:** Raíz 'celebrate' + sufijo nominal '-ation'
 - **Regla y Justificación:** Precedido por 'a lavish street'; denota el festejo o conmemoración festiva.
@@ -798,16 +799,16 @@ The historic anniversary culminated in a lavish street _______ with fireworks an
 
 ---
 
-### Test 669 — Compensation #flashcards/cambridge/part3
+### Test 669
 
-Victims of the industrial toxic spill were awarded millions in punitive _______ by the tribunal.
-**Root Word:** `[COMPENSATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Victims of the industrial toxic spill were awarded millions in punitive _______ by the tribunal.
+>
+> - **Root Word:** `[COMPENSATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `compensation`
-
 - **Categoría Requerida:** Sustantivo abstracto jurídico (de `COMPENSATE`)
 - **Morfología Aplicada:** Raíz 'compensate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Precedido por 'punitive'; denota indemnización pecuniaria por daños.
@@ -816,16 +817,16 @@ Victims of the industrial toxic spill were awarded millions in punitive _______ 
 
 ---
 
-### Test 670 — Confirmation #flashcards/cambridge/part3
+### Test 670
 
-We are still waiting for written _______ from the embassy regarding our visa approvals.
-**Root Word:** `[CONFIRM]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> We are still waiting for written _______ from the embassy regarding our visa approvals.
+>
+> - **Root Word:** `[CONFIRM]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `confirmation`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `CONFIRM`)
 - **Morfología Aplicada:** Raíz verbal 'confirm' + sufijo nominal '-ation'
 - **Regla y Justificación:** Precedido por 'written' y seguido de 'from'; significa ratificación formal documental.
@@ -834,16 +835,16 @@ We are still waiting for written _______ from the embassy regarding our visa app
 
 ---
 
-### Test 671 — Conservation #flashcards/cambridge/part3
+### Test 671
 
-Wildlife _______ groups have campaigned tirelessly to designate the wetland a national park.
-**Root Word:** `[CONSERVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Wildlife _______ groups have campaigned tirelessly to designate the wetland a national park.
+>
+> - **Root Word:** `[CONSERVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `conservation`
-
 - **Categoría Requerida:** Sustantivo abstracto en función atributiva (de `CONSERVE`)
 - **Morfología Aplicada:** Raíz verbal 'conserve' + sufijo nominal '-ation'
 - **Regla y Justificación:** Modifica como sustantivo atributivo a 'groups' ('conservation groups').
@@ -852,16 +853,16 @@ Wildlife _______ groups have campaigned tirelessly to designate the wetland a na
 
 ---
 
-### Test 672 — Declaration #flashcards/cambridge/part3
+### Test 672
 
-The constitutional monarch signed the historic royal _______ of full legislative amnesty.
-**Root Word:** `[DECLARE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The constitutional monarch signed the historic royal _______ of full legislative amnesty.
+>
+> - **Root Word:** `[DECLARE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `declaration`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `DECLARE`)
 - **Morfología Aplicada:** Raíz verbal 'declare' (cambio de acentuación) + sufijo '-ation'
 - **Regla y Justificación:** Objeto de 'signed' calificado por 'historic royal'; denota proclamación solemne en documento.
@@ -870,16 +871,16 @@ The constitutional monarch signed the historic royal _______ of full legislative
 
 ---
 
-### Test 673 — Demonstration #flashcards/cambridge/part3
+### Test 673
 
-Thousands of university students staged a peaceful _______ outside parliament to oppose tuition hikes.
-**Root Word:** `[DEMONSTRATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Thousands of university students staged a peaceful _______ outside parliament to oppose tuition hikes.
+>
+> - **Root Word:** `[DEMONSTRATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `demonstration`
-
 - **Categoría Requerida:** Sustantivo singular contable de protesta (de `DEMONSTRATE`)
 - **Morfología Aplicada:** Raíz 'demonstrate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Precedido por 'a peaceful'; denota concentración o manifestación pública reivindicativa.
@@ -888,16 +889,16 @@ Thousands of university students staged a peaceful _______ outside parliament to
 
 ---
 
-### Test 674 — Designation #flashcards/cambridge/part3
+### Test 674
 
-The picturesque medieval citadel received an official UNESCO heritage _______ in 1998.
-**Root Word:** `[DESIGNATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The picturesque medieval citadel received an official UNESCO heritage _______ in 1998.
+>
+> - **Root Word:** `[DESIGNATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `designation`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `DESIGNATE`)
 - **Morfología Aplicada:** Raíz 'designate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Objeto de 'received' precedido por 'official UNESCO heritage'; significa titulación o nombramiento.
@@ -906,16 +907,16 @@ The picturesque medieval citadel received an official UNESCO heritage _______ in
 
 ---
 
-### Test 675 — Devastation #flashcards/cambridge/part3
+### Test 675
 
-Aerial reconnaissance footage revealed the apocalyptic _______ wrought by the category-five hurricane.
-**Root Word:** `[DEVASTATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Aerial reconnaissance footage revealed the apocalyptic _______ wrought by the category-five hurricane.
+>
+> - **Root Word:** `[DEVASTATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `devastation`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de ruina (de `DEVASTATE`)
 - **Morfología Aplicada:** Raíz verbal 'devastate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Objeto de 'revealed' calificado por 'apocalyptic'; describe destrucción masiva y desolación.
@@ -924,16 +925,16 @@ Aerial reconnaissance footage revealed the apocalyptic _______ wrought by the ca
 
 ---
 
-### Test 676 — Evaporation #flashcards/cambridge/part3
+### Test 676
 
-In arid desert ecosystems, surface water _______ rates vastly exceed annual precipitation.
-**Root Word:** `[EVAPORATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> In arid desert ecosystems, surface water _______ rates vastly exceed annual precipitation.
+>
+> - **Root Word:** `[EVAPORATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `evaporation`
-
 - **Categoría Requerida:** Sustantivo incontable en función atributiva (de `EVAPORATE`)
 - **Morfología Aplicada:** Raíz 'evaporate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Modifica a 'rates'; denota la tasa física de paso del agua a estado gaseoso.
@@ -942,16 +943,16 @@ In arid desert ecosystems, surface water _______ rates vastly exceed annual prec
 
 ---
 
-### Test 677 — Exploration #flashcards/cambridge/part3
+### Test 677
 
-Robotic probes have revolutionized interplanetary _______ by transmitting high-resolution panoramas of Mars.
-**Root Word:** `[EXPLORE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Robotic probes have revolutionized interplanetary _______ by transmitting high-resolution panoramas of Mars.
+>
+> - **Root Word:** `[EXPLORE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `exploration`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `EXPLORE`)
 - **Morfología Aplicada:** Raíz verbal 'explore' + sufijo nominal '-ation'
 - **Regla y Justificación:** Objeto de 'revolutionized' calificado por 'interplanetary'; denota la investigación o expedición sistemática.
@@ -960,16 +961,16 @@ Robotic probes have revolutionized interplanetary _______ by transmitting high-r
 
 ---
 
-### Test 678 — Hesitation #flashcards/cambridge/part3
+### Test 678
 
-Without a moment's _______, the brave bystander plunged into the icy canal to rescue the child.
-**Root Word:** `[HESITATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Without a moment's _______, the brave bystander plunged into the icy canal to rescue the child.
+>
+> - **Root Word:** `[HESITATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `hesitation`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable (de `HESITATE`)
 - **Morfología Aplicada:** Raíz 'hesitate' + sufijo nominal '-ation'
 - **Regla y Justificación:** Término de la colocación fija 'Without a moment's hesitation' ('sin vacilar ni un segundo').
@@ -978,16 +979,16 @@ Without a moment's _______, the brave bystander plunged into the icy canal to re
 
 ---
 
-### Test 679 — Imagination #flashcards/cambridge/part3
+### Test 679
 
-Jules Verne possessed a visionary scientific _______ that anticipated nuclear submarines and lunar voyages.
-**Root Word:** `[IMAGINE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Jules Verne possessed a visionary scientific _______ that anticipated nuclear submarines and lunar voyages.
+>
+> - **Root Word:** `[IMAGINE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `imagination`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de fantasía creadora (de `IMAGINE`)
 - **Morfología Aplicada:** Raíz verbal 'imagine' + sufijo nominal '-ation'
 - **Regla y Justificación:** Objeto de 'possessed' calificado por 'visionary scientific'; denota facultad creadora mental.
@@ -996,16 +997,16 @@ Jules Verne possessed a visionary scientific _______ that anticipated nuclear su
 
 ---
 
-### Test 680 — Imitation #flashcards/cambridge/part3
+### Test 680
 
-Flattery may be the sincerest form of _______, but blatant copyright theft will be prosecuted.
-**Root Word:** `[IMITATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Flattery may be the sincerest form of _______, but blatant copyright theft will be prosecuted.
+>
+> - **Root Word:** `[IMITATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `imitation`
-
 - **Categoría Requerida:** Sustantivo abstracto de réplica (de `IMITATE`)
 - **Morfología Aplicada:** Raíz 'imitate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Término del célebre proverbio 'the sincerest form of imitation' ('la forma más sincera de adulación').
@@ -1014,16 +1015,16 @@ Flattery may be the sincerest form of _______, but blatant copyright theft will 
 
 ---
 
-### Test 681 — Indications #flashcards/cambridge/part3
+### Test 681
 
-Early seismic _______ suggest that magma is rising steadily beneath the caldera.
-**Root Word:** `[INDICATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Early seismic _______ suggest that magma is rising steadily beneath the caldera.
+>
+> - **Root Word:** `[INDICATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `indications`
-
 - **Categoría Requerida:** Sustantivo plural contable de señales (de `INDICATE`)
 - **Morfología Aplicada:** Raíz 'indicate' + sufijo nominal '-ion' + plural '-s'
 - **Regla y Justificación:** Sujeto del verbo en plural 'suggest'; requiere sustantivo contable en plural ('indicios/señales').
@@ -1032,16 +1033,16 @@ Early seismic _______ suggest that magma is rising steadily beneath the caldera.
 
 ---
 
-### Test 682 — Inspiration #flashcards/cambridge/part3
+### Test 682
 
-The poet drew profound creative _______ from long solo wanderings through the misty Scottish Highlands.
-**Root Word:** `[INSPIRE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The poet drew profound creative _______ from long solo wanderings through the misty Scottish Highlands.
+>
+> - **Root Word:** `[INSPIRE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `inspiration`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de estímulo artístico (de `INSPIRE`)
 - **Morfología Aplicada:** Raíz 'inspire' + sufijo nominal '-ation'
 - **Regla y Justificación:** Objeto de 'drew' calificado por 'profound creative'; denota influjo creador estético.
@@ -1050,16 +1051,16 @@ The poet drew profound creative _______ from long solo wanderings through the mi
 
 ---
 
-### Test 683 — Installation #flashcards/cambridge/part3
+### Test 683
 
-Technicians completed the complex _______ of the particle accelerator's superconducting magnets.
-**Root Word:** `[INSTALL]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Technicians completed the complex _______ of the particle accelerator's superconducting magnets.
+>
+> - **Root Word:** `[INSTALL]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `installation`
-
 - **Categoría Requerida:** Sustantivo abstracto/físico de montaje (de `INSTALL`)
 - **Morfología Aplicada:** Raíz 'install' + sufijo nominal '-ation'
 - **Regla y Justificación:** Objeto de 'completed'; denota la operación técnica de colocación y conexionado de equipos.
@@ -1068,16 +1069,16 @@ Technicians completed the complex _______ of the particle accelerator's supercon
 
 ---
 
-### Test 684 — Interpretation #flashcards/cambridge/part3
+### Test 684
 
-The constitutional court offered an authoritative _______ of the controversial third amendment.
-**Root Word:** `[INTERPRET]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The constitutional court offered an authoritative _______ of the controversial third amendment.
+>
+> - **Root Word:** `[INTERPRET]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `interpretation`
-
 - **Categoría Requerida:** Sustantivo singular contable de exégesis jurídica (de `INTERPRET`)
 - **Morfología Aplicada:** Raíz 'interpret' + sufijo nominal '-ation'
 - **Regla y Justificación:** Objeto de 'offered' calificado por 'an authoritative'; significa lectura exegética o hermenéutica legal.
@@ -1086,16 +1087,16 @@ The constitutional court offered an authoritative _______ of the controversial t
 
 ---
 
-### Test 685 — Investigation #flashcards/cambridge/part3
+### Test 685
 
-Federal detectives launched a comprehensive forensic _______ into the cybersecurity breach.
-**Root Word:** `[INVESTIGATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Federal detectives launched a comprehensive forensic _______ into the cybersecurity breach.
+>
+> - **Root Word:** `[INVESTIGATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `investigation`
-
 - **Categoría Requerida:** Sustantivo singular contable (de `INVESTIGATE`)
 - **Morfología Aplicada:** Raíz 'investigate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Precedido por 'a comprehensive forensic'; denota la pesquisa oficial o pesquisa de hechos.
@@ -1104,16 +1105,16 @@ Federal detectives launched a comprehensive forensic _______ into the cybersecur
 
 ---
 
-### Test 686 — Legislation #flashcards/cambridge/part3
+### Test 686
 
-Parliament enacted sweeping antitrust _______ to curb the monopolistic abuses of tech platforms.
-**Root Word:** `[LEGISLATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Parliament enacted sweeping antitrust _______ to curb the monopolistic abuses of tech platforms.
+>
+> - **Root Word:** `[LEGISLATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `legislation`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de leyes colectivas (de `LEGISLATE`)
 - **Morfología Aplicada:** Raíz verbal 'legislate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Objeto de 'enacted sweeping antitrust'; denota el cuerpo de leyes o marco regulatorio general.
@@ -1122,16 +1123,16 @@ Parliament enacted sweeping antitrust _______ to curb the monopolistic abuses of
 
 ---
 
-### Test 687 — Motivation #flashcards/cambridge/part3
+### Test 687
 
-A lack of intrinsic academic _______ is often the root cause of high high-school dropout rates.
-**Root Word:** `[MOTIVATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A lack of intrinsic academic _______ is often the root cause of high high-school dropout rates.
+>
+> - **Root Word:** `[MOTIVATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `motivation`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de impulso psicológico (de `MOTIVATE`)
 - **Morfología Aplicada:** Raíz verbal 'motivate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Término de 'A lack of intrinsic academic'; denota el resorte psicológico o voluntad interna.
@@ -1140,16 +1141,16 @@ A lack of intrinsic academic _______ is often the root cause of high high-school
 
 ---
 
-### Test 688 — Navigation #flashcards/cambridge/part3
+### Test 688
 
-Ancient Polynesian voyagers relied on stellar _______ and ocean swell patterns to cross the Pacific.
-**Root Word:** `[NAVIGATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Ancient Polynesian voyagers relied on stellar _______ and ocean swell patterns to cross the Pacific.
+>
+> - **Root Word:** `[NAVIGATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `navigation`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de pilotaje (de `NAVIGATE`)
 - **Morfología Aplicada:** Raíz 'navigate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Forma la colocación técnica 'stellar navigation' ('navegación astronómica').
@@ -1158,16 +1159,16 @@ Ancient Polynesian voyagers relied on stellar _______ and ocean swell patterns t
 
 ---
 
-### Test 689 — Obligation #flashcards/cambridge/part3
+### Test 689
 
-Citizens have an ethical _______ to participate responsibly in democratic electoral ballots.
-**Root Word:** `[OBLIGE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Citizens have an ethical _______ to participate responsibly in democratic electoral ballots.
+>
+> - **Root Word:** `[OBLIGE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `obligation`
-
 - **Categoría Requerida:** Sustantivo singular contable de deber (de `OBLIGE`)
 - **Morfología Aplicada:** Raíz 'oblige' (cambio e->ation) + sufijo '-ation'
 - **Regla y Justificación:** Objeto de 'have' precedido por 'an ethical'; denota un deber moral o vinculación normativa.
@@ -1176,16 +1177,16 @@ Citizens have an ethical _______ to participate responsibly in democratic electo
 
 ---
 
-### Test 690 — Observations #flashcards/cambridge/part3
+### Test 690
 
-Astronomers published detailed astronomical _______ documenting the trajectory of the interstellar comet.
-**Root Word:** `[OBSERVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Astronomers published detailed astronomical _______ documenting the trajectory of the interstellar comet.
+>
+> - **Root Word:** `[OBSERVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `observations`
-
 - **Categoría Requerida:** Sustantivo plural contable de registros empíricos (de `OBSERVE`)
 - **Morfología Aplicada:** Raíz 'observe' + sufijo nominal '-ation' + plural '-s'
 - **Regla y Justificación:** Objeto plural calificado por 'detailed astronomical'; denota registros empíricos recopilados.
@@ -1194,16 +1195,16 @@ Astronomers published detailed astronomical _______ documenting the trajectory o
 
 ---
 
-### Test 691 — Participation #flashcards/cambridge/part3
+### Test 691
 
-Widespread civic _______ is the bedrock upon which genuine constitutional democracy rests.
-**Root Word:** `[PARTICIPATE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Widespread civic _______ is the bedrock upon which genuine constitutional democracy rests.
+>
+> - **Root Word:** `[PARTICIPATE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `participation`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de involucramiento (de `PARTICIPATE`)
 - **Morfología Aplicada:** Raíz 'participate' + sufijo nominal '-ion'
 - **Regla y Justificación:** Sujeto calificado por 'Widespread civic'; denota la implicación activa ciudadana.
@@ -1212,16 +1213,16 @@ Widespread civic _______ is the bedrock upon which genuine constitutional democr
 
 ---
 
-### Test 692 — Persuasion #flashcards/cambridge/part3
+### Test 692
 
-Diplomacy relies on subtle linguistic _______ rather than the crude threat of military coercion.
-**Root Word:** `[PERSUADE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Diplomacy relies on subtle linguistic _______ rather than the crude threat of military coercion.
+>
+> - **Root Word:** `[PERSUADE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `persuasion`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de convencimiento (de `PERSUADE`)
 - **Morfología Aplicada:** Raíz 'persuade' (cambio de 'de' a 's') + sufijo '-ion'
 - **Regla y Justificación:** Término de 'subtle linguistic'; denota la facultad o arte de convencer a otros.
@@ -1230,16 +1231,16 @@ Diplomacy relies on subtle linguistic _______ rather than the crude threat of mi
 
 ---
 
-### Test 693 — Pollution #flashcards/cambridge/part3
+### Test 693
 
-Heavy industrial _______ has devastated the freshwater biodiversity of the river basin.
-**Root Word:** `[POLLUTE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Heavy industrial _______ has devastated the freshwater biodiversity of the river basin.
+>
+> - **Root Word:** `[POLLUTE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `pollution`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de degradación ambiental (de `POLLUTE`)
 - **Morfología Aplicada:** Raíz 'pollute' + sufijo nominal '-ion'
 - **Regla y Justificación:** Sujeto calificado por 'Heavy industrial'; denota vertidos y degradación ambiental química.
@@ -1248,16 +1249,16 @@ Heavy industrial _______ has devastated the freshwater biodiversity of the river
 
 ---
 
-### Test 694 — Prevention #flashcards/cambridge/part3
+### Test 694
 
-Routine prophylactic vaccination remains the most cost-effective method of disease _______.
-**Root Word:** `[PREVENT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> Routine prophylactic vaccination remains the most cost-effective method of disease _______.
+>
+> - **Root Word:** `[PREVENT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `prevention`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de profilaxis (de `PREVENT`)
 - **Morfología Aplicada:** Raíz verbal 'prevent' + sufijo nominal '-ion'
 - **Regla y Justificación:** Término de la colocación consagrada 'disease prevention' ('prevención de enfermedades').
@@ -1266,16 +1267,16 @@ Routine prophylactic vaccination remains the most cost-effective method of disea
 
 ---
 
-### Test 695 — Prohibition #flashcards/cambridge/part3
+### Test 695
 
-During the 1920s, the nationwide constitutional _______ of alcohol spurred the rise of syndicated bootlegging gangs.
-**Root Word:** `[PROHIBIT]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> During the 1920s, the nationwide constitutional _______ of alcohol spurred the rise of syndicated bootlegging gangs.
+>
+> - **Root Word:** `[PROHIBIT]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `prohibition`
-
 - **Categoría Requerida:** Sustantivo singular de veda legal (de `PROHIBIT`)
 - **Morfología Aplicada:** Raíz verbal 'prohibit' + sufijo nominal '-ion'
 - **Regla y Justificación:** Sujeto de la cláusula; denota la interdicción formal por mandato legal (la Ley Seca).
@@ -1284,16 +1285,16 @@ During the 1920s, the nationwide constitutional _______ of alcohol spurred the r
 
 ---
 
-### Test 696 — Qualification #flashcards/cambridge/part3
+### Test 696
 
-A postgraduate master's degree is an indispensable minimum _______ for this senior research fellowship.
-**Root Word:** `[QUALIFY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> A postgraduate master's degree is an indispensable minimum _______ for this senior research fellowship.
+>
+> - **Root Word:** `[QUALIFY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `qualification`
-
 - **Categoría Requerida:** Sustantivo singular contable de título o aptitud (de `QUALIFY`)
 - **Morfología Aplicada:** Raíz 'qualify' (cambio y->i) + sufijo '-cation'
 - **Regla y Justificación:** Precedido por 'an indispensable minimum'; denota credencial académica acreditada.
@@ -1302,16 +1303,16 @@ A postgraduate master's degree is an indispensable minimum _______ for this seni
 
 ---
 
-### Test 697 — Recognition #flashcards/cambridge/part3
+### Test 697
 
-After decades of unsung labor, the botanist finally received international _______ for his discoveries.
-**Root Word:** `[RECOGNIZE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> After decades of unsung labor, the botanist finally received international _______ for his discoveries.
+>
+> - **Root Word:** `[RECOGNIZE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `recognition`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de distinción (de `RECOGNIZE`)
 - **Morfología Aplicada:** Raíz 'recognize' mutada a la base latina 'cognition'
 - **Regla y Justificación:** Objeto de 'received' calificado por 'international'; denota tributo o aprecio público oficial.
@@ -1320,16 +1321,16 @@ After decades of unsung labor, the botanist finally received international _____
 
 ---
 
-### Test 698 — Recommendation #flashcards/cambridge/part3
+### Test 698
 
-The committee endorsed the report's principal _______ to construct an offshore tidal barrier.
-**Root Word:** `[RECOMMEND]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The committee endorsed the report's principal _______ to construct an offshore tidal barrier.
+>
+> - **Root Word:** `[RECOMMEND]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `recommendation`
-
 - **Categoría Requerida:** Sustantivo singular contable de propuesta asesora (de `RECOMMEND`)
 - **Morfología Aplicada:** Raíz 'recommend' + sufijo nominal '-ation'
 - **Regla y Justificación:** Objeto del genitivo sajón 'report's principal'; denota la propuesta rectora formulada por expertos.
@@ -1338,16 +1339,16 @@ The committee endorsed the report's principal _______ to construct an offshore t
 
 ---
 
-### Test 699 — Resolution #flashcards/cambridge/part3
+### Test 699
 
-The UN General Assembly passed a binding diplomatic _______ demanding an immediate humanitarian ceasefire.
-**Root Word:** `[RESOLVE]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> The UN General Assembly passed a binding diplomatic _______ demanding an immediate humanitarian ceasefire.
+>
+> - **Root Word:** `[RESOLVE]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `resolution`
-
 - **Categoría Requerida:** Sustantivo singular contable de acuerdo solemne (de `RESOLVE`)
 - **Morfología Aplicada:** Raíz 'resolve' mutada a la base 'resolut-' + sufijo '-ion'
 - **Regla y Justificación:** Objeto de 'passed' calificado por 'a binding diplomatic'; denota acuerdo oficial formal.
@@ -1356,16 +1357,16 @@ The UN General Assembly passed a binding diplomatic _______ demanding an immedia
 
 ---
 
-### Test 700 — Satisfaction #flashcards/cambridge/part3
+### Test 700
 
-There is immense personal _______ to be derived from mastering a difficult foreign language.
-**Root Word:** `[SATISFY]`
-
-> [!tip] Restricción Cambridge Word Formation
-> Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
+> [!question] Word Formation
+> There is immense personal _______ to be derived from mastering a difficult foreign language.
+>
+> - **Root Word:** `[SATISFY]`
+>
+> **Restricción:** Modifica la palabra raíz entre corchetes para que encaje gramatical y semánticamente en el espacio.
 ?
 **Respuesta Correcta:** `satisfaction`
-
 - **Categoría Requerida:** Sustantivo abstracto incontable de plenitud emocional (de `SATISFY`)
 - **Morfología Aplicada:** Raíz 'satisfy' mutada a la base 'satisfact-' + sufijo '-ion'
 - **Regla y Justificación:** Sujeto existencial calificado por 'immense personal'; denota contento o gratificación interna.

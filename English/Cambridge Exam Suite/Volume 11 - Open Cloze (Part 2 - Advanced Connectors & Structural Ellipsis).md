@@ -21,15 +21,15 @@ total_tests: 50
 
 ---
 
-### Test 451 — No Matter What #flashcards/cambridge/part2
+### Test 451
 
-No _______ what difficulties arise during field trials, the scientific team must remain objective.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> No _______ what difficulties arise during field trials, the scientific team must remain objective.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `matter`
-
+- **Enfoque:** No Matter What
 - **Categoría Gramatical:** Sustantivo en locución concesiva generalizada
 - **Estructura Sintáctica:** `No matter + wh-word + clause`
 - **Razón Explicativa:** 'Matter' forma la locución concesiva invariable 'No matter what' ('sin importar lo que / pase lo que pase').
@@ -38,15 +38,15 @@ No _______ what difficulties arise during field trials, the scientific team must
 
 ---
 
-### Test 452 — Whatever Happens #flashcards/cambridge/part2
+### Test 452
 
-_______ happens over the course of the negotiations, we must ensure our core patents remain protected.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ happens over the course of the negotiations, we must ensure our core patents remain protected.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Whatever`
-
+- **Enfoque:** Whatever Happens
 - **Categoría Gramatical:** Pronombre relativo universal
 - **Estructura Sintáctica:** `Whatever + verb + clause`
 - **Razón Explicativa:** 'Whatever' actúa como sujeto de 'happens' en una cláusula concesiva independiente.
@@ -55,15 +55,15 @@ _______ happens over the course of the negotiations, we must ensure our core pat
 
 ---
 
-### Test 453 — Whichever Way #flashcards/cambridge/part2
+### Test 453
 
-_______ way you evaluate the statistical data, the conclusion points to rapid glacial retreat.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ way you evaluate the statistical data, the conclusion points to rapid glacial retreat.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Whichever`
-
+- **Enfoque:** Whichever Way
 - **Categoría Gramatical:** Determinante relativo distributivo
 - **Estructura Sintáctica:** `Whichever + noun + clause`
 - **Razón Explicativa:** 'Whichever' selecciona entre un abanico finito de perspectivas o caminos analíticos.
@@ -72,15 +72,15 @@ _______ way you evaluate the statistical data, the conclusion points to rapid gl
 
 ---
 
-### Test 454 — Whenever Possible #flashcards/cambridge/part2
+### Test 454
 
-Inspect the pressure valves daily and, _______ possible, log the readings digitally in real time.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Inspect the pressure valves daily and, _______ possible, log the readings digitally in real time.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `whenever`
-
+- **Enfoque:** Whenever Possible
 - **Categoría Gramatical:** Conjunción temporal condicional elíptica
 - **Estructura Sintáctica:** `whenever + (it is) possible`
 - **Razón Explicativa:** 'Whenever' denota 'cada vez que / siempre que', admitiendo elipsis del verbo copulativo.
@@ -89,15 +89,15 @@ Inspect the pressure valves daily and, _______ possible, log the readings digita
 
 ---
 
-### Test 455 — Wherever Appropriate #flashcards/cambridge/part2
+### Test 455
 
-Apply protective sealant to all exterior timber and reapply _______ necessary over subsequent seasons.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Apply protective sealant to all exterior timber and reapply _______ necessary over subsequent seasons.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `wherever`
-
+- **Enfoque:** Wherever Appropriate
 - **Categoría Gramatical:** Conjunción adverbial espacial/situacional elíptica
 - **Estructura Sintáctica:** `wherever + (it is) necessary`
 - **Razón Explicativa:** 'Wherever' introduce circunstancias o lugares donde sea preciso aplicar la medida.
@@ -106,15 +106,15 @@ Apply protective sealant to all exterior timber and reapply _______ necessary ov
 
 ---
 
-### Test 456 — Far From #flashcards/cambridge/part2
+### Test 456
 
-So far _______ being apologetic about the mistake, the manager seemed entirely dismissive of customer complaints.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> So far _______ being apologetic about the mistake, the manager seemed entirely dismissive of customer complaints.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `from`
-
+- **Enfoque:** Far From
 - **Categoría Gramatical:** Preposición en locución de lejanía semántica
 - **Estructura Sintáctica:** `so far from + -ing`
 - **Razón Explicativa:** 'From' completa la locución enfática 'so far from being...' ('lejos de mostrarse arrepentido...').
@@ -123,15 +123,15 @@ So far _______ being apologetic about the mistake, the manager seemed entirely d
 
 ---
 
-### Test 457 — Let Alone #flashcards/cambridge/part2
+### Test 457
 
-The exhausted marathon runner could barely stand upright, _______ alone contemplate jogging another kilometer.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The exhausted marathon runner could barely stand upright, _______ alone contemplate jogging another kilometer.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `let`
-
+- **Enfoque:** Let Alone
 - **Categoría Gramatical:** Verbo en locución enfática de gradación negativa
 - **Estructura Sintáctica:** `negative clause + let alone + bare inf`
 - **Razón Explicativa:** 'Let' forma la locución fija 'let alone' ('mucho menos / y no digamos').
@@ -140,15 +140,15 @@ The exhausted marathon runner could barely stand upright, _______ alone contempl
 
 ---
 
-### Test 458 — Much Less #flashcards/cambridge/part2
+### Test 458
 
-The company cannot afford basic maintenance on its fleet, _______ less invest in brand-new electric vehicles.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The company cannot afford basic maintenance on its fleet, _______ less invest in brand-new electric vehicles.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `much`
-
+- **Enfoque:** Much Less
 - **Categoría Gramatical:** Determinante/adverbio en gradación negativa
 - **Estructura Sintáctica:** `negative clause + much less + bare inf`
 - **Razón Explicativa:** 'Much' se empareja con 'less' en contextos negativos para indicar 'mucho menos'.
@@ -157,15 +157,15 @@ The company cannot afford basic maintenance on its fleet, _______ less invest in
 
 ---
 
-### Test 459 — Still Less #flashcards/cambridge/part2
+### Test 459
 
-He possessed no formal qualifications in accounting, and _______ less did he have experience in auditing.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> He possessed no formal qualifications in accounting, and _______ less did he have experience in auditing.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `still`
-
+- **Enfoque:** Still Less
 - **Categoría Gramatical:** Adverbio enfático en adición negativa
 - **Estructura Sintáctica:** `negative clause + still less + aux`
 - **Razón Explicativa:** 'Still' forma la locución formal 'still less' ('todavía menos').
@@ -174,15 +174,15 @@ He possessed no formal qualifications in accounting, and _______ less did he hav
 
 ---
 
-### Test 460 — Apart From #flashcards/cambridge/part2
+### Test 460
 
-_______ from a few minor discrepancies in formatting, the research thesis was judged to be exemplary.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ from a few minor discrepancies in formatting, the research thesis was judged to be exemplary.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Apart`
-
+- **Enfoque:** Apart From
 - **Categoría Gramatical:** Adverbio en locución de excepción
 - **Estructura Sintáctica:** `Apart from + noun phrase`
 - **Razón Explicativa:** 'Apart' se empareja con 'from' para denotar excepción ('aparte de / salvo').
@@ -191,15 +191,15 @@ _______ from a few minor discrepancies in formatting, the research thesis was ju
 
 ---
 
-### Test 461 — Aside From #flashcards/cambridge/part2
+### Test 461
 
-_______ from the initial capital investment, the wind farm requires minimal recurring operational expenditure.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ from the initial capital investment, the wind farm requires minimal recurring operational expenditure.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Aside`
-
+- **Enfoque:** Aside From
 - **Categoría Gramatical:** Adverbio en locución de excepción
 - **Estructura Sintáctica:** `Aside from + noun`
 - **Razón Explicativa:** 'Aside' forma la locución sinónima 'aside from' ('salvo / aparte de').
@@ -208,15 +208,15 @@ _______ from the initial capital investment, the wind farm requires minimal recu
 
 ---
 
-### Test 462 — All But #flashcards/cambridge/part2
+### Test 462
 
-The negotiations have dragged on for months, but an agreement is now _______ but sealed.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The negotiations have dragged on for months, but an agreement is now _______ but sealed.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `all`
-
+- **Enfoque:** All But
 - **Categoría Gramatical:** Adverbio de proximidad total
 - **Estructura Sintáctica:** `be + all but + past participle`
 - **Razón Explicativa:** 'All' forma el modismo 'all but' ('prácticamente hecho / a falta de firma').
@@ -225,15 +225,15 @@ The negotiations have dragged on for months, but an agreement is now _______ but
 
 ---
 
-### Test 463 — Except For #flashcards/cambridge/part2
+### Test 463
 
-The historic museum is open every single day of the year, _______ for Christmas Day and New Year.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The historic museum is open every single day of the year, _______ for Christmas Day and New Year.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `except`
-
+- **Enfoque:** Except For
 - **Categoría Gramatical:** Preposición de exclusión puntual
 - **Estructura Sintáctica:** `except for + noun phrase`
 - **Razón Explicativa:** 'Except' se combina con 'for' ante sustantivos concretos que representan excepciones.
@@ -242,15 +242,15 @@ The historic museum is open every single day of the year, _______ for Christmas 
 
 ---
 
-### Test 464 — Besides Being #flashcards/cambridge/part2
+### Test 464
 
-_______ being a world-renowned theoretical physicist, she was also an accomplished concert pianist.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ being a world-renowned theoretical physicist, she was also an accomplished concert pianist.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Besides`
-
+- **Enfoque:** Besides Being
 - **Categoría Gramatical:** Preposición aditiva de simultaneidad
 - **Estructura Sintáctica:** `Besides + -ing / noun`
 - **Razón Explicativa:** 'Besides' significa 'además de / aparte de', funcionando como preposición aditiva.
@@ -259,15 +259,15 @@ _______ being a world-renowned theoretical physicist, she was also an accomplish
 
 ---
 
-### Test 465 — Instead Of #flashcards/cambridge/part2
+### Test 465
 
-Why not cultivate organic rooftop gardens _______ of letting commercial roofs sit empty and exposed?
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Why not cultivate organic rooftop gardens _______ of letting commercial roofs sit empty and exposed?
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `instead`
-
+- **Enfoque:** Instead Of
 - **Categoría Gramatical:** Adverbio en locución sustitutiva
 - **Estructura Sintáctica:** `instead of + -ing`
 - **Razón Explicativa:** 'Instead' forma 'instead of' ('en lugar de / en vez de').
@@ -276,15 +276,15 @@ Why not cultivate organic rooftop gardens _______ of letting commercial roofs si
 
 ---
 
-### Test 466 — In Case #flashcards/cambridge/part2
+### Test 466
 
-Always carry an analog compass in your backpack, in _______ your digital GPS device runs out of battery.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Always carry an analog compass in your backpack, in _______ your digital GPS device runs out of battery.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `case`
-
+- **Enfoque:** In Case
 - **Categoría Gramatical:** Sustantivo en conjunción de contingencia
 - **Estructura Sintáctica:** `in case + clause`
 - **Razón Explicativa:** 'Case' forma la locución 'in case' ('por si acaso / en caso de que').
@@ -293,15 +293,15 @@ Always carry an analog compass in your backpack, in _______ your digital GPS dev
 
 ---
 
-### Test 467 — In The Event Of #flashcards/cambridge/part2
+### Test 467
 
-In the _______ of a seismic tremor, all building occupants must evacuate via emergency stairwells.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> In the _______ of a seismic tremor, all building occupants must evacuate via emergency stairwells.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `event`
-
+- **Enfoque:** In The Event Of
 - **Categoría Gramatical:** Sustantivo en fórmula de contingencia formal
 - **Estructura Sintáctica:** `in the event of + noun`
 - **Razón Explicativa:** 'Event' completa la locución formal de seguridad 'in the event of' ('en caso de').
@@ -310,15 +310,15 @@ In the _______ of a seismic tremor, all building occupants must evacuate via eme
 
 ---
 
-### Test 468 — At First Sight #flashcards/cambridge/part2
+### Test 468
 
-At _______ sight, the complex mathematical formula appeared utterly impenetrable to the undergraduate students.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> At _______ sight, the complex mathematical formula appeared utterly impenetrable to the undergraduate students.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `first`
-
+- **Enfoque:** At First Sight
 - **Categoría Gramatical:** Adjetivo ordinal en modismo epistémico
 - **Estructura Sintáctica:** `at first sight`
 - **Razón Explicativa:** 'First' forma el modismo 'at first sight' ('a primera vista').
@@ -327,15 +327,15 @@ At _______ sight, the complex mathematical formula appeared utterly impenetrable
 
 ---
 
-### Test 469 — At First Glance #flashcards/cambridge/part2
+### Test 469
 
-At first _______, the abstract oil painting seemed to consist of random, chaotic splatters of crimson.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> At first _______, the abstract oil painting seemed to consist of random, chaotic splatters of crimson.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `glance`
-
+- **Enfoque:** At First Glance
 - **Categoría Gramatical:** Sustantivo en modismo visual
 - **Estructura Sintáctica:** `at first glance`
 - **Razón Explicativa:** 'Glance' completa 'at first glance' ('a primera vista / a simple vista').
@@ -344,15 +344,15 @@ At first _______, the abstract oil painting seemed to consist of random, chaotic
 
 ---
 
-### Test 470 — At Length #flashcards/cambridge/part2
+### Test 470
 
-The royal commission deliberated _______ length before releasing their comprehensive findings on the banking crisis.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The royal commission deliberated _______ length before releasing their comprehensive findings on the banking crisis.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `at`
-
+- **Enfoque:** At Length
 - **Categoría Gramatical:** Preposición en locución temporal de exhaustividad
 - **Estructura Sintáctica:** `deliberate at length`
 - **Razón Explicativa:** 'At' es la preposición fija en la locución 'at length' ('extensamente / detenidamente').
@@ -361,15 +361,15 @@ The royal commission deliberated _______ length before releasing their comprehen
 
 ---
 
-### Test 471 — To Say The Least #flashcards/cambridge/part2
+### Test 471
 
-Describing the ambassador's abrasive remarks as undiplomatic is an understatement, to say the _______.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Describing the ambassador's abrasive remarks as undiplomatic is an understatement, to say the _______.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `least`
-
+- **Enfoque:** To Say The Least
 - **Categoría Gramatical:** Superlativo en modismo atenuante
 - **Estructura Sintáctica:** `to say the least`
 - **Razón Explicativa:** 'Least' forma la fórmula retórica de atenuación 'to say the least' ('por no decir más / cuando menos').
@@ -378,15 +378,15 @@ Describing the ambassador's abrasive remarks as undiplomatic is an understatemen
 
 ---
 
-### Test 472 — At Best #flashcards/cambridge/part2
+### Test 472
 
-The proposed economic measures will, at _______, offer temporary relief rather than a structural cure.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The proposed economic measures will, at _______, offer temporary relief rather than a structural cure.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `best`
-
+- **Enfoque:** At Best
 - **Categoría Gramatical:** Superlativo en modismo de expectativa moderada
 - **Estructura Sintáctica:** `at best`
 - **Razón Explicativa:** 'Best' forma la locución 'at best' ('en el mejor de los casos').
@@ -395,15 +395,15 @@ The proposed economic measures will, at _______, offer temporary relief rather t
 
 ---
 
-### Test 473 — At Worst #flashcards/cambridge/part2
+### Test 473
 
-The impending economic recession will cause minor market corrections at best, and widespread insolvencies at _______.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The impending economic recession will cause minor market corrections at best, and widespread insolvencies at _______.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `worst`
-
+- **Enfoque:** At Worst
 - **Categoría Gramatical:** Superlativo en polaridad contrastiva
 - **Estructura Sintáctica:** `at worst`
 - **Razón Explicativa:** 'Worst' empareja simétricamente con 'at best' para denotar 'en el peor de los casos'.
@@ -412,15 +412,15 @@ The impending economic recession will cause minor market corrections at best, an
 
 ---
 
-### Test 474 — Once And For All #flashcards/cambridge/part2
+### Test 474
 
-The supreme tribunal has resolved the jurisdictional boundary dispute once and _______ all.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The supreme tribunal has resolved the jurisdictional boundary dispute once and _______ all.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `for`
-
+- **Enfoque:** Once And For All
 - **Categoría Gramatical:** Preposición en modismo de cierre definitivo
 - **Estructura Sintáctica:** `once and for all`
 - **Razón Explicativa:** 'For' completa el modismo invariable 'once and for all' ('de una vez por todas / de manera definitiva').
@@ -429,15 +429,15 @@ The supreme tribunal has resolved the jurisdictional boundary dispute once and _
 
 ---
 
-### Test 475 — Come What May #flashcards/cambridge/part2
+### Test 475
 
-Come _______ may, the environmental activists vowed to remain stationed outside the ancient redwood grove.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Come _______ may, the environmental activists vowed to remain stationed outside the ancient redwood grove.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `what`
-
+- **Enfoque:** Come What May
 - **Categoría Gramatical:** Pronombre relativo en fórmula idiomática invariable
 - **Estructura Sintáctica:** `Come what may`
 - **Razón Explicativa:** 'What' completa la fórmula fija subjuntiva 'Come what may' ('pase lo que pase / caiga quien caiga').
@@ -446,15 +446,15 @@ Come _______ may, the environmental activists vowed to remain stationed outside 
 
 ---
 
-### Test 476 — Be That As It May #flashcards/cambridge/part2
+### Test 476
 
-Be _______ as it may, the treasury simply cannot approve funding without an independent audit.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Be _______ as it may, the treasury simply cannot approve funding without an independent audit.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `that`
-
+- **Enfoque:** Be That As It May
 - **Categoría Gramatical:** Pronombre demostrativo en modismo concesivo formal
 - **Estructura Sintáctica:** `Be that as it may`
 - **Razón Explicativa:** 'That' es el elemento central de la locución concesiva de registro elevado 'Be that as it may' ('sea como fuere').
@@ -463,15 +463,15 @@ Be _______ as it may, the treasury simply cannot approve funding without an inde
 
 ---
 
-### Test 477 — Suffice It To Say #flashcards/cambridge/part2
+### Test 477
 
-_______ it to say that the negotiations ended in complete deadlock, with both parties storming out.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ it to say that the negotiations ended in complete deadlock, with both parties storming out.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Suffice`
-
+- **Enfoque:** Suffice It To Say
 - **Categoría Gramatical:** Verbo subjuntivo en modismo de síntesis
 - **Estructura Sintáctica:** `Suffice it to say that...`
 - **Razón Explicativa:** 'Suffice' encabeza la locución introductoria 'Suffice it to say' ('baste decir que...').
@@ -480,15 +480,15 @@ _______ it to say that the negotiations ended in complete deadlock, with both pa
 
 ---
 
-### Test 478 — Far From It #flashcards/cambridge/part2
+### Test 478
 
-Did the venture capitalist feel discouraged after the initial product launch failed? Far _______ it!
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Did the venture capitalist feel discouraged after the initial product launch failed? Far _______ it!
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `from`
-
+- **Enfoque:** Far From It
 - **Categoría Gramatical:** Preposición en modismo enfático de rechazo
 - **Estructura Sintáctica:** `Far from it`
 - **Razón Explicativa:** 'From' forma la respuesta idiomática enfática 'Far from it' ('¡ni mucho menos! / ¡lejos de ello!').
@@ -497,15 +497,15 @@ Did the venture capitalist feel discouraged after the initial product launch fai
 
 ---
 
-### Test 479 — There Is No Telling #flashcards/cambridge/part2
+### Test 479
 
-With weather patterns becoming increasingly volatile, there is no _______ what winter will bring.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> With weather patterns becoming increasingly volatile, there is no _______ what winter will bring.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `telling`
-
+- **Enfoque:** There Is No Telling
 - **Categoría Gramatical:** Gerundio de predicción existencial
 - **Estructura Sintáctica:** `There is no telling...`
 - **Razón Explicativa:** 'Telling' forma la colocación fija 'There is no telling' ('es imposible saber / no se puede predecir').
@@ -514,15 +514,15 @@ With weather patterns becoming increasingly volatile, there is no _______ what w
 
 ---
 
-### Test 480 — There Is No Knowing #flashcards/cambridge/part2
+### Test 480
 
-Until the ancient cryptographic script is deciphered, there is no _______ what historical secrets it holds.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Until the ancient cryptographic script is deciphered, there is no _______ what historical secrets it holds.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `knowing`
-
+- **Enfoque:** There Is No Knowing
 - **Categoría Gramatical:** Gerundio en modismo de ignorancia forzosa
 - **Estructura Sintáctica:** `There is no knowing...`
 - **Razón Explicativa:** 'Knowing' completa la frase existencial que denota imposibilidad epistémica ('no hay manera de saber').
@@ -531,15 +531,15 @@ Until the ancient cryptographic script is deciphered, there is no _______ what h
 
 ---
 
-### Test 481 — There Is No Point In #flashcards/cambridge/part2
+### Test 481
 
-There is absolutely no _______ in arguing over trivial logistical details when the core budget is unfunded.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> There is absolutely no _______ in arguing over trivial logistical details when the core budget is unfunded.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `point`
-
+- **Enfoque:** There Is No Point In
 - **Categoría Gramatical:** Sustantivo en modismo de inutilidad
 - **Estructura Sintáctica:** `There is no point (in) + -ing`
 - **Razón Explicativa:** 'Point' forma la expresión idiomática 'There is no point in...' ('no tiene sentido...').
@@ -548,15 +548,15 @@ There is absolutely no _______ in arguing over trivial logistical details when t
 
 ---
 
-### Test 482 — It Is No Use #flashcards/cambridge/part2
+### Test 482
 
-It is no _______ complaining about the new regulations after having neglected the public consultation period.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> It is no _______ complaining about the new regulations after having neglected the public consultation period.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `use`
-
+- **Enfoque:** It Is No Use
 - **Categoría Gramatical:** Sustantivo en modismo de inutilidad práctica
 - **Estructura Sintáctica:** `It is no use + -ing`
 - **Razón Explicativa:** 'Use' encabeza la locución fija 'It is no use doing sth' ('no sirve de nada hacer algo').
@@ -565,15 +565,15 @@ It is no _______ complaining about the new regulations after having neglected th
 
 ---
 
-### Test 483 — It Is No Good #flashcards/cambridge/part2
+### Test 483
 
-It is _______ good trying to persuade him once he has made up his obstinate mind.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> It is _______ good trying to persuade him once he has made up his obstinate mind.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `no`
-
+- **Enfoque:** It Is No Good
 - **Categoría Gramatical:** Determinante de inutilidad con good
 - **Estructura Sintáctica:** `It is no good + -ing`
 - **Razón Explicativa:** 'No' forma 'It is no good doing sth' ('no sirve para nada / es inútil intentar').
@@ -582,15 +582,15 @@ It is _______ good trying to persuade him once he has made up his obstinate mind
 
 ---
 
-### Test 484 — No Wonder #flashcards/cambridge/part2
+### Test 484
 
-He worked eighty hours a week without taking a single weekend off; no _______ he suffered from severe burnout.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> He worked eighty hours a week without taking a single weekend off; no _______ he suffered from severe burnout.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `wonder`
-
+- **Enfoque:** No Wonder
 - **Categoría Gramatical:** Sustantivo en modismo de obviedad causal
 - **Estructura Sintáctica:** `no wonder + clause`
 - **Razón Explicativa:** 'Wonder' forma 'no wonder' ('no es de extrañar que / con razón').
@@ -599,15 +599,15 @@ He worked eighty hours a week without taking a single weekend off; no _______ he
 
 ---
 
-### Test 485 — No Doubt #flashcards/cambridge/part2
+### Test 485
 
-_______ doubt the diplomatic summit will be fraught with intense geopolitical tension, but dialogue must continue.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ doubt the diplomatic summit will be fraught with intense geopolitical tension, but dialogue must continue.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `No`
-
+- **Enfoque:** No Doubt
 - **Categoría Gramatical:** Determinante en marcador modal de probabilidad
 - **Estructura Sintáctica:** `No doubt + clause`
 - **Razón Explicativa:** 'No' forma el marcador discursivo 'No doubt' ('sin duda').
@@ -616,15 +616,15 @@ _______ doubt the diplomatic summit will be fraught with intense geopolitical te
 
 ---
 
-### Test 486 — High Time Subjunctive #flashcards/cambridge/part2
+### Test 486
 
-The company's digital infrastructure is hopelessly obsolete; it is _______ time the directors upgraded the servers.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The company's digital infrastructure is hopelessly obsolete; it is _______ time the directors upgraded the servers.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `high`
-
+- **Enfoque:** High Time Subjunctive
 - **Categoría Gramatical:** Adjetivo enfático en construcción de urgencia temporal
 - **Estructura Sintáctica:** `It is high time + S + past subjunctive`
 - **Razón Explicativa:** 'High' intensifica la expresión de urgencia temporal 'It is high time' ('ya es hora de que...').
@@ -633,15 +633,15 @@ The company's digital infrastructure is hopelessly obsolete; it is _______ time 
 
 ---
 
-### Test 487 — As If #flashcards/cambridge/part2
+### Test 487
 
-The junior trader spoke about monetary macroeconomics as _______ he were a Nobel laureate in economics.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The junior trader spoke about monetary macroeconomics as _______ he were a Nobel laureate in economics.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `if`
-
+- **Enfoque:** As If
 - **Categoría Gramatical:** Conjunción modal hipotética con As
 - **Estructura Sintáctica:** `as if + S + were`
 - **Razón Explicativa:** 'If' forma la locución hipotética de comparación 'as if' ('como si').
@@ -650,15 +650,15 @@ The junior trader spoke about monetary macroeconomics as _______ he were a Nobel
 
 ---
 
-### Test 488 — As Though #flashcards/cambridge/part2
+### Test 488
 
-The ancient fortress looked as _______ it had stood sentinel over the rocky bay for millennia.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The ancient fortress looked as _______ it had stood sentinel over the rocky bay for millennia.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `though`
-
+- **Enfoque:** As Though
 - **Categoría Gramatical:** Conjunción modal hipotética
 - **Estructura Sintáctica:** `as though + clause`
 - **Razón Explicativa:** 'Though' forma 'as though' ('como si').
@@ -667,15 +667,15 @@ The ancient fortress looked as _______ it had stood sentinel over the rocky bay 
 
 ---
 
-### Test 489 — Were It Not For #flashcards/cambridge/part2
+### Test 489
 
-_______ it not for the philanthropic endowment provided by the foundation, the hospital wing would close.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ it not for the philanthropic endowment provided by the foundation, the hospital wing would close.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Were`
-
+- **Enfoque:** Were It Not For
 - **Categoría Gramatical:** Auxiliar copulativo invertido de condición irreal presente
 - **Estructura Sintáctica:** `Were it not for + noun`
 - **Razón Explicativa:** 'Were' encabeza la inversión formal hipotética equivalente a 'If it were not for' ('si no fuera por').
@@ -684,15 +684,15 @@ _______ it not for the philanthropic endowment provided by the foundation, the h
 
 ---
 
-### Test 490 — Had It Not Been For #flashcards/cambridge/part2
+### Test 490
 
-Had _______ not been for the prompt intervention of the coastguard, the trawler would have capsized.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Had _______ not been for the prompt intervention of the coastguard, the trawler would have capsized.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `it`
-
+- **Enfoque:** Had It Not Been For
 - **Categoría Gramatical:** Pronombre impersonal en inversión condicional de 3º tipo
 - **Estructura Sintáctica:** `Had it not been for + noun`
 - **Razón Explicativa:** 'It' es el pronombre expletivo impersonal indispensable en la estructura 'Had it not been for'.
@@ -701,15 +701,15 @@ Had _______ not been for the prompt intervention of the coastguard, the trawler 
 
 ---
 
-### Test 491 — But For #flashcards/cambridge/part2
+### Test 491
 
-_______ for the tireless dedication of volunteer rescue crews, many more lives would have been lost in the flood.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ for the tireless dedication of volunteer rescue crews, many more lives would have been lost in the flood.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `But`
-
+- **Enfoque:** But For
 - **Categoría Gramatical:** Preposición de excepción condicional negativa
 - **Estructura Sintáctica:** `But for + noun phrase, S + would have + V3`
 - **Razón Explicativa:** 'But' encabeza la estructura 'But for' ('de no ser por / si no fuera por').
@@ -718,15 +718,15 @@ _______ for the tireless dedication of volunteer rescue crews, many more lives w
 
 ---
 
-### Test 492 — Without Support #flashcards/cambridge/part2
+### Test 492
 
-_______ your timely financial underwriting, our archaeological expedition could never have been mounted.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ your timely financial underwriting, our archaeological expedition could never have been mounted.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `Without`
-
+- **Enfoque:** Without Support
 - **Categoría Gramatical:** Preposición de condición negativa implícita
 - **Estructura Sintáctica:** `Without + noun, S + modal perfect`
 - **Razón Explicativa:** 'Without' expresa la condición negativa de la cual dependía el éxito de la expedición.
@@ -735,15 +735,15 @@ _______ your timely financial underwriting, our archaeological expedition could 
 
 ---
 
-### Test 493 — Failing That #flashcards/cambridge/part2
+### Test 493
 
-Submit your digital manuscript via the author portal by midnight; _______ that, dispatch a physical copy by express courier.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Submit your digital manuscript via the author portal by midnight; _______ that, dispatch a physical copy by express courier.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `failing`
-
+- **Enfoque:** Failing That
 - **Categoría Gramatical:** Participio preposicional de contingencia alternativa
 - **Estructura Sintáctica:** `failing that, imperative / clause`
 - **Razón Explicativa:** 'Failing' forma la locución formal 'failing that' ('en su defecto / si eso no es posible').
@@ -752,15 +752,15 @@ Submit your digital manuscript via the author portal by midnight; _______ that, 
 
 ---
 
-### Test 494 — All The More #flashcards/cambridge/part2
+### Test 494
 
-The scientific breakthrough was _______ the more astonishing given the team's meager research budget.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The scientific breakthrough was _______ the more astonishing given the team's meager research budget.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `all`
-
+- **Enfoque:** All The More
 - **Categoría Gramatical:** Determinante intensificador de grado comparativo
 - **Estructura Sintáctica:** `all the more + adjective`
 - **Razón Explicativa:** 'All' forma el intensificador C1 'all the more' ('tanto más / aún más').
@@ -769,15 +769,15 @@ The scientific breakthrough was _______ the more astonishing given the team's me
 
 ---
 
-### Test 495 — By And Large #flashcards/cambridge/part2
+### Test 495
 
-_______ and large, the experimental pharmacological trial yielded encouraging clinical results.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> _______ and large, the experimental pharmacological trial yielded encouraging clinical results.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `By`
-
+- **Enfoque:** By And Large
 - **Categoría Gramatical:** Preposición en modismo adverbial de generalización
 - **Estructura Sintáctica:** `By and large`
 - **Razón Explicativa:** 'By' completa la locución invariable de generalización 'By and large' ('en líneas generales / en general').
@@ -786,15 +786,15 @@ _______ and large, the experimental pharmacological trial yielded encouraging cl
 
 ---
 
-### Test 496 — As A Matter Of Fact #flashcards/cambridge/part2
+### Test 496
 
-As a _______ of fact, the historical documents confirm that the treaty was signed in 1783, not 1784.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> As a _______ of fact, the historical documents confirm that the treaty was signed in 1783, not 1784.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `matter`
-
+- **Enfoque:** As A Matter Of Fact
 - **Categoría Gramatical:** Sustantivo en marcador discursivo enfático
 - **Estructura Sintáctica:** `as a matter of fact`
 - **Razón Explicativa:** 'Matter' forma la locución 'as a matter of fact' ('de hecho / en realidad').
@@ -803,15 +803,15 @@ As a _______ of fact, the historical documents confirm that the treaty was signe
 
 ---
 
-### Test 497 — In Due Course #flashcards/cambridge/part2
+### Test 497
 
-All candidates who sat the professional qualifying examination will receive their certificates in _______ course.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> All candidates who sat the professional qualifying examination will receive their certificates in _______ course.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `due`
-
+- **Enfoque:** In Due Course
 - **Categoría Gramatical:** Adjetivo en locución temporal de oportunidad reglamentaria
 - **Estructura Sintáctica:** `in due course`
 - **Razón Explicativa:** 'Due' forma la locución formal 'in due course' ('a su debido tiempo / oportunamente').
@@ -820,15 +820,15 @@ All candidates who sat the professional qualifying examination will receive thei
 
 ---
 
-### Test 498 — On The Verge #flashcards/cambridge/part2
+### Test 498
 
-Biochemists stand on the _______ of developing targeted therapies that eradicate malignant tumors without chemotherapy.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Biochemists stand on the _______ of developing targeted therapies that eradicate malignant tumors without chemotherapy.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `verge`
-
+- **Enfoque:** On The Verge
 - **Categoría Gramatical:** Sustantivo en locución de inminencia
 - **Estructura Sintáctica:** `on the verge of + -ing`
 - **Razón Explicativa:** 'Verge' completa 'on the verge of' ('al borde de / a las puertas de').
@@ -837,15 +837,15 @@ Biochemists stand on the _______ of developing targeted therapies that eradicate
 
 ---
 
-### Test 499 — At A Loss #flashcards/cambridge/part2
+### Test 499
 
-The press secretary was momentarily _______ a loss for words when confronted with leaked correspondence.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> The press secretary was momentarily _______ a loss for words when confronted with leaked correspondence.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `at`
-
+- **Enfoque:** At A Loss
 - **Categoría Gramatical:** Preposición en modismo de perplejidad verbal
 - **Estructura Sintáctica:** `be at a loss for words`
 - **Razón Explicativa:** 'At' es la preposición fija en 'at a loss for words' ('quedarse sin palabras / perplejo').
@@ -854,15 +854,15 @@ The press secretary was momentarily _______ a loss for words when confronted wit
 
 ---
 
-### Test 500 — Take Advantage Of #flashcards/cambridge/part2
+### Test 500
 
-Opportunistic investors were quick to take advantage _______ the sudden drop in currency valuation.
-
-> [!tip] Restricción Cambridge Open Cloze
-> Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
+> [!question] Open Cloze
+> Opportunistic investors were quick to take advantage _______ the sudden drop in currency valuation.
+>
+> **Restricción:** Escribe **exactamente UNA palabra estructural** para completar el espacio en blanco.
 ?
 **Respuesta Correcta:** `of`
-
+- **Enfoque:** Take Advantage Of
 - **Categoría Gramatical:** Preposición dependiente en modismo verbal
 - **Estructura Sintáctica:** `take advantage of + noun`
 - **Razón Explicativa:** 'Of' es la preposición que rige la locución verbal 'take advantage of' ('aprovecharse de / sacar ventaja de').

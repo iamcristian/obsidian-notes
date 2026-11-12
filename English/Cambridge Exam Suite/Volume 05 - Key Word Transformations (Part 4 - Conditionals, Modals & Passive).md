@@ -25,19 +25,18 @@ total_tests: 50
 
 ---
 
-### Test 751 — Conditionals: Unless vs If Not #flashcards/cambridge/part4
+### Test 751
 
-**First Sentence:** If you don't run comprehensive unit tests, you won't detect concurrency bugs before release.
-**Key Word:** `[UNLESS]`
-**Second Sentence:** You will fail to detect concurrency bugs ______ comprehensive unit tests.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** If you don't run comprehensive unit tests, you won't detect concurrency bugs before release.
+> - **Key Word:** `[UNLESS]`
+> - **Second Sentence:** You will fail to detect concurrency bugs ______ comprehensive unit tests.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `unless you run` (3 palabras)
-
-**Oración Completa:** *"You will fail to detect concurrency bugs unless you run comprehensive unit tests."*
-
+- **Oración Completa:** *"You will fail to detect concurrency bugs unless you run comprehensive unit tests."*
+- **Enfoque:** Conditionals: Unless vs If Not
 - **Estructura Gramatical:** First Conditional with *unless* (unless = if + not)
 - **Regla Clave:** *Unless* sustituye a *if not* e introduce la condición en afirmativo en presente simple.
 - **Razón y Mecánica:** La cláusula condicional subordinada toma *unless* seguido del verbo afirmativo (*you run*). Son exactamente 3 palabras.
@@ -46,19 +45,18 @@ total_tests: 50
 
 ---
 
-### Test 752 — Conditionals: Third Conditional with Had #flashcards/cambridge/part4
+### Test 752
 
-**First Sentence:** Because we didn't back up the database, we lost all customer records during the crash.
-**Key Word:** `[HAD]`
-**Second Sentence:** We would not have lost customer records ______ up the database.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Because we didn't back up the database, we lost all customer records during the crash.
+> - **Key Word:** `[HAD]`
+> - **Second Sentence:** We would not have lost customer records ______ up the database.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `if we had backed` (4 palabras)
-
-**Oración Completa:** *"We would not have lost customer records if we had backed up the database."*
-
+- **Oración Completa:** *"We would not have lost customer records if we had backed up the database."*
+- **Enfoque:** Conditionals: Third Conditional with Had
 - **Estructura Gramatical:** Third Conditional: *if + past perfect, would have + past participle*
 - **Regla Clave:** Para expresar una hipótesis irreal sobre el pasado se emplea el tercer condicional.
 - **Razón y Mecánica:** La cláusula del *if* requiere el pasado perfecto (*had backed*). Son 4 palabras exactas.
@@ -67,19 +65,18 @@ total_tests: 50
 
 ---
 
-### Test 753 — Conditionals: But for (C1 Structure) #flashcards/cambridge/part4
+### Test 753
 
-**First Sentence:** If Sarah hadn't intervened promptly, the production server would have crashed.
-**Key Word:** `[BUT]`
-**Second Sentence:** The production server would have crashed ______ prompt intervention.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** If Sarah hadn't intervened promptly, the production server would have crashed.
+> - **Key Word:** `[BUT]`
+> - **Second Sentence:** The production server would have crashed ______ prompt intervention.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `but for Sarah's` (3 palabras)
-
-**Oración Completa:** *"The production server would have crashed but for Sarah's prompt intervention."*
-
+- **Oración Completa:** *"The production server would have crashed but for Sarah's prompt intervention."*
+- **Enfoque:** Conditionals: But for (C1 Structure)
 - **Estructura Gramatical:** Conditional Prepositional Phrase: *but for + noun phrase*
 - **Regla Clave:** *But for* significa 'si no hubiera sido por' y va seguido exclusivamente de un sintagma nominal.
 - **Razón y Mecánica:** Reemplaza *if it had not been for*. Con el genitivo sajón (*Sarah's*) y el sustantivo *prompt intervention*, la solución consta de 3 palabras exactas.
@@ -88,19 +85,18 @@ total_tests: 50
 
 ---
 
-### Test 754 — Conditionals: Inversion in Second Conditional #flashcards/cambridge/part4
+### Test 754
 
-**First Sentence:** If the company were to lose this major client, several engineers would be laid off.
-**Key Word:** `[WERE]`
-**Second Sentence:** ______ this major client, several engineers would be laid off.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** If the company were to lose this major client, several engineers would be laid off.
+> - **Key Word:** `[WERE]`
+> - **Second Sentence:** ______ this major client, several engineers would be laid off.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Were the company to lose` (5 palabras)
-
-**Oración Completa:** *"Were the company to lose this major client, several engineers would be laid off."*
-
+- **Oración Completa:** *"Were the company to lose this major client, several engineers would be laid off."*
+- **Enfoque:** Conditionals: Inversion in Second Conditional
 - **Estructura Gramatical:** Inverted Second Conditional: *Were + subject + to-infinitive*
 - **Regla Clave:** En registros formales C1, se elimina *if* e invierte el auxiliar *were* con el sujeto.
 - **Razón y Mecánica:** La estructura formal exige *Were* al principio, seguido del sujeto (*the company*) y el infinitivo con *to* (*to lose*). Total: 5 palabras.
@@ -109,19 +105,18 @@ total_tests: 50
 
 ---
 
-### Test 755 — Conditionals: Inversion in Third Conditional #flashcards/cambridge/part4
+### Test 755
 
-**First Sentence:** If I had known about the critical vulnerability, I would have alerted the security team immediately.
-**Key Word:** `[KNOWN]`
-**Second Sentence:** ______ the critical vulnerability, I would have alerted the security team immediately.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** If I had known about the critical vulnerability, I would have alerted the security team immediately.
+> - **Key Word:** `[KNOWN]`
+> - **Second Sentence:** ______ the critical vulnerability, I would have alerted the security team immediately.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Had I known about` (4 palabras)
-
-**Oración Completa:** *"Had I known about the critical vulnerability, I would have alerted the security team immediately."*
-
+- **Oración Completa:** *"Had I known about the critical vulnerability, I would have alerted the security team immediately."*
+- **Enfoque:** Conditionals: Inversion in Third Conditional
 - **Estructura Gramatical:** Inverted Third Conditional: *Had + subject + past participle*
 - **Regla Clave:** En el tercer condicional formal, se omite *if* e invierte el auxiliar *Had* delante del sujeto.
 - **Razón y Mecánica:** *Had* + sujeto (*I*) + participio (*known*) + preposición (*about*). Son 4 palabras.
@@ -130,19 +125,18 @@ total_tests: 50
 
 ---
 
-### Test 756 — Unreal Past: It's High Time #flashcards/cambridge/part4
+### Test 756
 
-**First Sentence:** You really should refactor this legacy codebase immediately.
-**Key Word:** `[TIME]`
-**Second Sentence:** It is ______ this legacy codebase.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You really should refactor this legacy codebase immediately.
+> - **Key Word:** `[TIME]`
+> - **Second Sentence:** It is ______ this legacy codebase.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `high time you refactored` (4 palabras)
-
-**Oración Completa:** *"It is high time you refactored this legacy codebase."*
-
+- **Oración Completa:** *"It is high time you refactored this legacy codebase."*
+- **Enfoque:** Unreal Past: It's High Time
 - **Estructura Gramatical:** Unreal Past with *it is (high) time + subject + past simple*
 - **Regla Clave:** *It is high time* exige obligatoriamente un sujeto seguido de un verbo en pasado simple para expresar urgencia presente.
 - **Razón y Mecánica:** *high time* + sujeto (*you*) + pasado (*refactored*). Son 4 palabras exactas.
@@ -151,19 +145,18 @@ total_tests: 50
 
 ---
 
-### Test 757 — Unreal Past: Would Rather (Different Subjects) #flashcards/cambridge/part4
+### Test 757
 
-**First Sentence:** I would prefer you not to merge untested pull requests into the main branch.
-**Key Word:** `[RATHER]`
-**Second Sentence:** I ______ merge untested pull requests into the main branch.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I would prefer you not to merge untested pull requests into the main branch.
+> - **Key Word:** `[RATHER]`
+> - **Second Sentence:** I ______ merge untested pull requests into the main branch.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `would rather you did not` (5 palabras)
-
-**Oración Completa:** *"I would rather you did not merge untested pull requests into the main branch."*
-
+- **Oración Completa:** *"I would rather you did not merge untested pull requests into the main branch."*
+- **Enfoque:** Unreal Past: Would Rather (Different Subjects)
 - **Estructura Gramatical:** Unreal Past: *would rather + subject + past simple (negative)*
 - **Regla Clave:** Unreal Past: *would rather + subject + past simple (negative)*
 - **Razón y Mecánica:** Cuando *would rather* tiene dos sujetos distintos (yo prefiero que tú...), el verbo subordinado debe ir en pasado simple (*did not* o *didn't*). *would rather you did not* son 5 palabras.
@@ -172,19 +165,18 @@ total_tests: 50
 
 ---
 
-### Test 758 — Wishes: Regret about the Past #flashcards/cambridge/part4
+### Test 758
 
-**First Sentence:** I deeply regret not attending the advanced distributed systems seminar.
-**Key Word:** `[WISH]`
-**Second Sentence:** I ______ the advanced distributed systems seminar.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I deeply regret not attending the advanced distributed systems seminar.
+> - **Key Word:** `[WISH]`
+> - **Second Sentence:** I ______ the advanced distributed systems seminar.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `wish I had attended` (4 palabras)
-
-**Oración Completa:** *"I wish I had attended the advanced distributed systems seminar."*
-
+- **Oración Completa:** *"I wish I had attended the advanced distributed systems seminar."*
+- **Enfoque:** Wishes: Regret about the Past
 - **Estructura Gramatical:** Unreal Past: *wish + past perfect* para lamentar el pasado
 - **Regla Clave:** Para expresar arrepentimiento sobre una acción pasada que no se hizo, se emplea *wish + past perfect* en afirmativo.
 - **Razón y Mecánica:** *wish* + sujeto (*I*) + auxiliar (*had*) + participio (*attended*). Son 4 palabras.
@@ -193,19 +185,18 @@ total_tests: 50
 
 ---
 
-### Test 759 — Wishes: Annoyance with Would #flashcards/cambridge/part4
+### Test 759
 
-**First Sentence:** It really annoys me when you interrupt during architectural sprint planning.
-**Key Word:** `[WISH]`
-**Second Sentence:** I ______ during architectural sprint planning.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** It really annoys me when you interrupt during architectural sprint planning.
+> - **Key Word:** `[WISH]`
+> - **Second Sentence:** I ______ during architectural sprint planning.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `wish you would not interrupt` (5 palabras)
-
-**Oración Completa:** *"I wish you would not interrupt during architectural sprint planning."*
-
+- **Oración Completa:** *"I wish you would not interrupt during architectural sprint planning."*
+- **Enfoque:** Wishes: Annoyance with Would
 - **Estructura Gramatical:** *wish + person + would + infinitive* para expresar irritación o petición de cambio
 - **Regla Clave:** *Wish + would* se reserva para hábitos molestos de otra persona que deseamos que cesen.
 - **Razón y Mecánica:** *wish* + *you* + *would not* + *interrupt* (o contracción *wouldn't*). En forma no contraída: 5 palabras.
@@ -214,19 +205,18 @@ total_tests: 50
 
 ---
 
-### Test 760 — Passive Voice: Impersonal Passive (It is said that) #flashcards/cambridge/part4
+### Test 760
 
-**First Sentence:** People believe that the new quantum encryption chip is unbreakable.
-**Key Word:** `[BELIEVED]`
-**Second Sentence:** It ______ the new quantum encryption chip is unbreakable.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** People believe that the new quantum encryption chip is unbreakable.
+> - **Key Word:** `[BELIEVED]`
+> - **Second Sentence:** It ______ the new quantum encryption chip is unbreakable.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `is widely believed that` (4 palabras)
-
-**Oración Completa:** *"It is widely believed that the new quantum encryption chip is unbreakable."*
-
+- **Oración Completa:** *"It is widely believed that the new quantum encryption chip is unbreakable."*
+- **Enfoque:** Passive Voice: Impersonal Passive (It is said that)
 - **Estructura Gramatical:** Impersonal Passive: *It is + past participle + that-clause*
 - **Regla Clave:** Estructura formal para reportar opiniones o creencias generales sin atribuir sujeto.
 - **Razón y Mecánica:** *is* (presente) + adverbio/participio (*believed*) + conector (*that*). *is believed that* (3 palabras) o con énfasis *is widely believed that* (4 palabras).
@@ -235,19 +225,18 @@ total_tests: 50
 
 ---
 
-### Test 761 — Passive Voice: Personal Passive with Infinitive #flashcards/cambridge/part4
+### Test 761
 
-**First Sentence:** Everyone knows that David is the most skilled DevOps engineer in the department.
-**Key Word:** `[KNOWN]`
-**Second Sentence:** David ______ the most skilled DevOps engineer in the department.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Everyone knows that David is the most skilled DevOps engineer in the department.
+> - **Key Word:** `[KNOWN]`
+> - **Second Sentence:** David ______ the most skilled DevOps engineer in the department.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `is known to be` (4 palabras)
-
-**Oración Completa:** *"David is known to be the most skilled DevOps engineer in the department."*
-
+- **Oración Completa:** *"David is known to be the most skilled DevOps engineer in the department."*
+- **Enfoque:** Passive Voice: Personal Passive with Infinitive
 - **Estructura Gramatical:** Personal Passive: *Subject + is/are known + to-infinitive*
 - **Regla Clave:** Conversión de pasiva impersonal a personal: el sujeto pasa al frente y el verbo subordinado se convierte en infinitivo con *to*.
 - **Razón y Mecánica:** Sujeto singular (*David*) + *is known* + infinitivo (*to be*). Exactamente 4 palabras.
@@ -256,19 +245,18 @@ total_tests: 50
 
 ---
 
-### Test 762 — Passive Voice: Past Reporting with Perfect Infinitive #flashcards/cambridge/part4
+### Test 762
 
-**First Sentence:** Reports indicate that the hackers breached the secondary server last Friday.
-**Key Word:** `[HAVE]`
-**Second Sentence:** The hackers are reported ______ the secondary server last Friday.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Reports indicate that the hackers breached the secondary server last Friday.
+> - **Key Word:** `[HAVE]`
+> - **Second Sentence:** The hackers are reported ______ the secondary server last Friday.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `to have breached` (3 palabras)
-
-**Oración Completa:** *"The hackers are reported to have breached the secondary server last Friday."*
-
+- **Oración Completa:** *"The hackers are reported to have breached the secondary server last Friday."*
+- **Enfoque:** Passive Voice: Past Reporting with Perfect Infinitive
 - **Estructura Gramatical:** Reporting Passive: *Subject + is/are reported + to have + past participle*
 - **Regla Clave:** Cuando la acción reportada ocurrió en el pasado respecto al reporte presente, se utiliza el infinitivo perfecto (*to have + participle*).
 - **Razón y Mecánica:** *to* + auxiliar (*have*) + participio (*breached*). Son 3 palabras exactas.
@@ -277,19 +265,18 @@ total_tests: 50
 
 ---
 
-### Test 763 — Causative: Have Something Done #flashcards/cambridge/part4
+### Test 763
 
-**First Sentence:** A professional security company audited our cloud infrastructure last month.
-**Key Word:** `[HAD]`
-**Second Sentence:** We ______ by a professional security company last month.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** A professional security company audited our cloud infrastructure last month.
+> - **Key Word:** `[HAD]`
+> - **Second Sentence:** We ______ by a professional security company last month.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `had our cloud infrastructure audited` (5 palabras)
-
-**Oración Completa:** *"We had our cloud infrastructure audited by a professional security company last month."*
-
+- **Oración Completa:** *"We had our cloud infrastructure audited by a professional security company last month."*
+- **Enfoque:** Causative: Have Something Done
 - **Estructura Gramatical:** Causative Passive: *have + object + past participle*
 - **Regla Clave:** Se usa cuando un tercero realiza un servicio o trabajo por encargo para nosotros.
 - **Razón y Mecánica:** Pasado de *have* (*had*) + objeto (*our cloud infrastructure*) + participio (*audited*). Son 5 palabras.
@@ -298,19 +285,18 @@ total_tests: 50
 
 ---
 
-### Test 764 — Causative: Get Someone to Do #flashcards/cambridge/part4
+### Test 764
 
-**First Sentence:** The technical lead persuaded the junior engineer to rewrite the algorithm.
-**Key Word:** `[GOT]`
-**Second Sentence:** The technical lead ______ the algorithm.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The technical lead persuaded the junior engineer to rewrite the algorithm.
+> - **Key Word:** `[GOT]`
+> - **Second Sentence:** The technical lead ______ the algorithm.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `got the junior engineer to` (5 palabras)
-
-**Oración Completa:** *"The technical lead got the junior engineer to rewrite the algorithm."*
-
+- **Oración Completa:** *"The technical lead got the junior engineer to rewrite the algorithm."*
+- **Enfoque:** Causative: Get Someone to Do
 - **Estructura Gramatical:** Active Causative with Get: *get + person + to-infinitive*
 - **Regla Clave:** A diferencia de *make* o *have* (que toman infinitivo sin *to*), *get* requiere obligatoriamente infinitivo con *to* (*get someone to do something*).
 - **Razón y Mecánica:** *got* + objeto (*the junior engineer*) + *to* (el verbo *rewrite* ya figura en el final de la frase). Son 5 palabras.
@@ -319,19 +305,18 @@ total_tests: 50
 
 ---
 
-### Test 765 — Modals of Deduction: Must Have Done #flashcards/cambridge/part4
+### Test 765
 
-**First Sentence:** I am certain that the deployment failed because of the corrupted configuration file.
-**Key Word:** `[MUST]`
-**Second Sentence:** The deployment ______ because of the corrupted configuration file.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I am certain that the deployment failed because of the corrupted configuration file.
+> - **Key Word:** `[MUST]`
+> - **Second Sentence:** The deployment ______ because of the corrupted configuration file.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `must have failed` (3 palabras)
-
-**Oración Completa:** *"The deployment must have failed because of the corrupted configuration file."*
-
+- **Oración Completa:** *"The deployment must have failed because of the corrupted configuration file."*
+- **Enfoque:** Modals of Deduction: Must Have Done
 - **Estructura Gramatical:** Past Modal Deduction: *must have + past participle*
 - **Regla Clave:** *Must have + past participle* expresa certeza deductiva lógica sobre un suceso pasado.
 - **Razón y Mecánica:** Sustituye la afirmación de certeza *I am certain that... failed*. Con *must have failed*, son 3 palabras.
@@ -340,19 +325,18 @@ total_tests: 50
 
 ---
 
-### Test 766 — Modals of Deduction: Can't Have Done #flashcards/cambridge/part4
+### Test 766
 
-**First Sentence:** It is completely impossible that Mark deleted the production tables deliberately.
-**Key Word:** `[HAVE]`
-**Second Sentence:** Mark ______ the production tables deliberately.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** It is completely impossible that Mark deleted the production tables deliberately.
+> - **Key Word:** `[HAVE]`
+> - **Second Sentence:** Mark ______ the production tables deliberately.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `cannot have deleted` (3 palabras)
-
-**Oración Completa:** *"Mark cannot have deleted the production tables deliberately."*
-
+- **Oración Completa:** *"Mark cannot have deleted the production tables deliberately."*
+- **Enfoque:** Modals of Deduction: Can't Have Done
 - **Estructura Gramatical:** Past Negative Modal Deduction: *cannot / can't have + past participle*
 - **Regla Clave:** La negación de certeza lógica en el pasado es *cannot have* o *can't have* (NUNCA *must not have* para deducción).
 - **Razón y Mecánica:** *cannot* + *have* + *deleted* (3 palabras). También es válido en contracción *can't have deleted*.
@@ -361,19 +345,18 @@ total_tests: 50
 
 ---
 
-### Test 767 — Modals: Needn't Have Done vs Didn't Need To #flashcards/cambridge/part4
+### Test 767
 
-**First Sentence:** It was not necessary for you to recompile the kernel, but you did anyway.
-**Key Word:** `[HAVE]`
-**Second Sentence:** You ______ the kernel.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** It was not necessary for you to recompile the kernel, but you did anyway.
+> - **Key Word:** `[HAVE]`
+> - **Second Sentence:** You ______ the kernel.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `need not have recompiled` (4 palabras)
-
-**Oración Completa:** *"You need not have recompiled the kernel."*
-
+- **Oración Completa:** *"You need not have recompiled the kernel."*
+- **Enfoque:** Modals: Needn't Have Done vs Didn't Need To
 - **Estructura Gramatical:** Past Modal: *need not have + past participle*
 - **Regla Clave:** *Need not have + participle* indica que una acción se realizó pero resultó innecesaria en retrospectiva.
 - **Razón y Mecánica:** Al haberse hecho la acción (*you did anyway*), la única estructura gramatical exacta es *need not have recompiled* (o *needn't have recompiled*).
@@ -382,19 +365,18 @@ total_tests: 50
 
 ---
 
-### Test 768 — Modals of Deduction: Might Have Been #flashcards/cambridge/part4
+### Test 768
 
-**First Sentence:** Perhaps the network timeout was caused by high traffic spikes.
-**Key Word:** `[BEEN]`
-**Second Sentence:** The network timeout ______ caused by high traffic spikes.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Perhaps the network timeout was caused by high traffic spikes.
+> - **Key Word:** `[BEEN]`
+> - **Second Sentence:** The network timeout ______ caused by high traffic spikes.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `might have been` (3 palabras)
-
-**Oración Completa:** *"The network timeout might have been caused by high traffic spikes."*
-
+- **Oración Completa:** *"The network timeout might have been caused by high traffic spikes."*
+- **Enfoque:** Modals of Deduction: Might Have Been
 - **Estructura Gramatical:** Past Modal of Possibility: *might / may have been*
 - **Regla Clave:** Para traducir *perhaps / maybe* en el pasado con voz pasiva se usa *might have been*.
 - **Razón y Mecánica:** *might* + *have* + *been* (3 palabras exactas).
@@ -403,19 +385,18 @@ total_tests: 50
 
 ---
 
-### Test 769 — Modals: Should Have Done (Criticism) #flashcards/cambridge/part4
+### Test 769
 
-**First Sentence:** It was a mistake for the team not to run stress tests before launching.
-**Key Word:** `[SHOULD]`
-**Second Sentence:** The team ______ stress tests before launching.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** It was a mistake for the team not to run stress tests before launching.
+> - **Key Word:** `[SHOULD]`
+> - **Second Sentence:** The team ______ stress tests before launching.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `should have run` (3 palabras)
-
-**Oración Completa:** *"The team should have run stress tests before launching."*
-
+- **Oración Completa:** *"The team should have run stress tests before launching."*
+- **Enfoque:** Modals: Should Have Done (Criticism)
 - **Estructura Gramatical:** Past Modal of Critique: *should have + past participle*
 - **Regla Clave:** *Should have + participle* expresa una crítica o recomendación incumplida sobre el pasado.
 - **Razón y Mecánica:** *should* + *have* + participio irregular de run (*run*). Son 3 palabras.
@@ -424,19 +405,18 @@ total_tests: 50
 
 ---
 
-### Test 770 — Conditionals: As Long As (Provided) #flashcards/cambridge/part4
+### Test 770
 
-**First Sentence:** You may deploy updates to production on condition that you monitor the error rate.
-**Key Word:** `[LONG]`
-**Second Sentence:** You may deploy updates to production ______ you monitor the error rate.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You may deploy updates to production on condition that you monitor the error rate.
+> - **Key Word:** `[LONG]`
+> - **Second Sentence:** You may deploy updates to production ______ you monitor the error rate.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `as long as` (3 palabras)
-
-**Oración Completa:** *"You may deploy updates to production as long as you monitor the error rate."*
-
+- **Oración Completa:** *"You may deploy updates to production as long as you monitor the error rate."*
+- **Enfoque:** Conditionals: As Long As (Provided)
 - **Estructura Gramatical:** Conditional Conjunction: *as long as* (siempre y cuando / con tal de que)
 - **Regla Clave:** *As long as* es el equivalente estándar de *on condition that* o *provided that*.
 - **Razón y Mecánica:** La locución conjuntiva *as long as* se compone de exactamente 3 palabras.
@@ -445,19 +425,18 @@ total_tests: 50
 
 ---
 
-### Test 771 — Conditionals: Mixed Conditional (Past Cause, Present Effect) #flashcards/cambridge/part4
+### Test 771
 
-**First Sentence:** Because he didn't learn TypeScript last year, he cannot contribute to our new framework today.
-**Key Word:** `[COULD]`
-**Second Sentence:** If he had learned TypeScript last year, he ______ to our new framework today.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Because he didn't learn TypeScript last year, he cannot contribute to our new framework today.
+> - **Key Word:** `[COULD]`
+> - **Second Sentence:** If he had learned TypeScript last year, he ______ to our new framework today.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `could contribute` (2 palabras)
-
-**Oración Completa:** *"If he had learned TypeScript last year, he could contribute to our new framework today."*
-
+- **Oración Completa:** *"If he had learned TypeScript last year, he could contribute to our new framework today."*
+- **Enfoque:** Conditionals: Mixed Conditional (Past Cause, Present Effect)
 - **Estructura Gramatical:** Mixed Conditional: *If + past perfect, would/could + infinitive (now)*
 - **Regla Clave:** Conecta una causa hipotética en el pasado con una consecuencia en el presente.
 - **Razón y Mecánica:** El verbo principal con la palabra clave *COULD* es *could contribute*. Son 2 palabras exactas.
@@ -466,19 +445,18 @@ total_tests: 50
 
 ---
 
-### Test 772 — Passive Voice: Causative with Make (Active to Passive Shift) #flashcards/cambridge/part4
+### Test 772
 
-**First Sentence:** The strict compliance officer made the developers rewrite the authentication flow.
-**Key Word:** `[MADE]`
-**Second Sentence:** The developers ______ rewrite the authentication flow.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The strict compliance officer made the developers rewrite the authentication flow.
+> - **Key Word:** `[MADE]`
+> - **Second Sentence:** The developers ______ rewrite the authentication flow.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `were made to` (3 palabras)
-
-**Oración Completa:** *"The developers were made to rewrite the authentication flow."*
-
+- **Oración Completa:** *"The developers were made to rewrite the authentication flow."*
+- **Enfoque:** Passive Voice: Causative with Make (Active to Passive Shift)
 - **Estructura Gramatical:** Passive of Make: *be made + to-infinitive*
 - **Regla Clave:** En voz activa, *make* toma infinitivo sin to (*made them rewrite*). Pero al pasar a VOZ PASIVA, exige obligatoriamente *to* (*were made to rewrite*).
 - **Razón y Mecánica:** Sujeto plural (*were*) + participio (*made*) + infinitivo con *to*. Son 3 palabras.
@@ -487,19 +465,18 @@ total_tests: 50
 
 ---
 
-### Test 773 — Modals: Bound To (Certainty) #flashcards/cambridge/part4
+### Test 773
 
-**First Sentence:** It is certain that this unindexed database query will cause performance degradation.
-**Key Word:** `[BOUND]`
-**Second Sentence:** This unindexed database query ______ cause performance degradation.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** It is certain that this unindexed database query will cause performance degradation.
+> - **Key Word:** `[BOUND]`
+> - **Second Sentence:** This unindexed database query ______ cause performance degradation.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `is bound to` (3 palabras)
-
-**Oración Completa:** *"This unindexed database query is bound to cause performance degradation."*
-
+- **Oración Completa:** *"This unindexed database query is bound to cause performance degradation."*
+- **Enfoque:** Modals: Bound To (Certainty)
 - **Estructura Gramatical:** Idiomatic Modal Structure: *be bound to + infinitive*
 - **Regla Clave:** *Be bound to* significa que algo ocurrirá inevitablemente por lógica o ley natural.
 - **Razón y Mecánica:** Verbo *is* + adjetivo modal *bound* + partícula *to*. Son 3 palabras exactas.
@@ -508,19 +485,18 @@ total_tests: 50
 
 ---
 
-### Test 774 — Conditionals: In Case vs If #flashcards/cambridge/part4
+### Test 774
 
-**First Sentence:** I took my laptop charger because the battery might run out during the live demo.
-**Key Word:** `[CASE]`
-**Second Sentence:** I took my laptop charger ______ ran out during the live demo.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I took my laptop charger because the battery might run out during the live demo.
+> - **Key Word:** `[CASE]`
+> - **Second Sentence:** I took my laptop charger ______ ran out during the live demo.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `in case the battery` (4 palabras)
-
-**Oración Completa:** *"I took my laptop charger in case the battery ran out during the live demo."*
-
+- **Oración Completa:** *"I took my laptop charger in case the battery ran out during the live demo."*
+- **Enfoque:** Conditionals: In Case vs If
 - **Estructura Gramatical:** Precautionary Conjunction: *in case + subject + past tense*
 - **Regla Clave:** *In case* denota precaución ante una contingencia que podría suceder.
 - **Razón y Mecánica:** *in case* (2 palabras) + sujeto (*the battery*). Total: 4 palabras.
@@ -529,19 +505,18 @@ total_tests: 50
 
 ---
 
-### Test 775 — Wishes: If Only for Emphatic Regret #flashcards/cambridge/part4
+### Test 775
 
-**First Sentence:** I am really sorry that I deleted the production branch by mistake.
-**Key Word:** `[ONLY]`
-**Second Sentence:** If ______ the production branch by mistake.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I am really sorry that I deleted the production branch by mistake.
+> - **Key Word:** `[ONLY]`
+> - **Second Sentence:** If ______ the production branch by mistake.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `only I had not deleted` (5 palabras)
-
-**Oración Completa:** *"If only I had not deleted the production branch by mistake."*
-
+- **Oración Completa:** *"If only I had not deleted the production branch by mistake."*
+- **Enfoque:** Wishes: If Only for Emphatic Regret
 - **Estructura Gramatical:** Emphatic Unreal Past: *If only + subject + past perfect (negative)*
 - **Regla Clave:** *If only* es una variante enfática y dramática de *I wish*.
 - **Razón y Mecánica:** *only* + sujeto (*I*) + auxiliar negativo (*had not* o *hadn't*) + participio (*deleted*). Son 5 palabras (o 4 con contracción).
@@ -550,19 +525,18 @@ total_tests: 50
 
 ---
 
-### Test 776 — Passives: Have Something Done (Disaster / Involuntary) #flashcards/cambridge/part4
+### Test 776
 
-**First Sentence:** Someone hacked our staging server during the weekend.
-**Key Word:** `[HAD]`
-**Second Sentence:** We ______ during the weekend.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Someone hacked our staging server during the weekend.
+> - **Key Word:** `[HAD]`
+> - **Second Sentence:** We ______ during the weekend.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `had our staging server hacked` (5 palabras)
-
-**Oración Completa:** *"We had our staging server hacked during the weekend."*
-
+- **Oración Completa:** *"We had our staging server hacked during the weekend."*
+- **Enfoque:** Passives: Have Something Done (Disaster / Involuntary)
 - **Estructura Gramatical:** Involuntary Causative / Adversative Passive: *have + object + past participle*
 - **Regla Clave:** *Have something done* no solo se usa para servicios contratados, sino también para desgracias o incidentes sufridos.
 - **Razón y Mecánica:** *had* + objeto (*our staging server*) + participio (*hacked*). 5 palabras exactas.
@@ -571,19 +545,18 @@ total_tests: 50
 
 ---
 
-### Test 777 — Conditionals: Provided That #flashcards/cambridge/part4
+### Test 777
 
-**First Sentence:** We will ship the new release on Monday only if all smoke tests pass successfully.
-**Key Word:** `[PROVIDED]`
-**Second Sentence:** We will ship the new release on Monday ______ all smoke tests pass successfully.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** We will ship the new release on Monday only if all smoke tests pass successfully.
+> - **Key Word:** `[PROVIDED]`
+> - **Second Sentence:** We will ship the new release on Monday ______ all smoke tests pass successfully.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `provided that` (2 palabras)
-
-**Oración Completa:** *"We will ship the new release on Monday provided that all smoke tests pass successfully."*
-
+- **Oración Completa:** *"We will ship the new release on Monday provided that all smoke tests pass successfully."*
+- **Enfoque:** Conditionals: Provided That
 - **Estructura Gramatical:** Conditional Linker: *provided that*
 - **Regla Clave:** *Provided that* (o *providing that*) es un conector formal que reemplaza a *only if*.
 - **Razón y Mecánica:** La locución conjuntiva *provided that* consta de 2 palabras.
@@ -592,19 +565,18 @@ total_tests: 50
 
 ---
 
-### Test 778 — Unreal Past: Would Rather (Same Subject) #flashcards/cambridge/part4
+### Test 778
 
-**First Sentence:** I prefer working on asynchronous event streaming to building CRUD APIs.
-**Key Word:** `[RATHER]`
-**Second Sentence:** I ______ on asynchronous event streaming than build CRUD APIs.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I prefer working on asynchronous event streaming to building CRUD APIs.
+> - **Key Word:** `[RATHER]`
+> - **Second Sentence:** I ______ on asynchronous event streaming than build CRUD APIs.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `would rather work` (3 palabras)
-
-**Oración Completa:** *"I would rather work on asynchronous event streaming than build CRUD APIs."*
-
+- **Oración Completa:** *"I would rather work on asynchronous event streaming than build CRUD APIs."*
+- **Enfoque:** Unreal Past: Would Rather (Same Subject)
 - **Estructura Gramatical:** Preference Structure: *would rather + bare infinitive... than + bare infinitive*
 - **Regla Clave:** Cuando el sujeto es el mismo, *would rather* toma infinitivo sin *to*.
 - **Razón y Mecánica:** *would rather* + infinitivo base (*work*). Son 3 palabras.
@@ -613,19 +585,18 @@ total_tests: 50
 
 ---
 
-### Test 779 — Modals: Supposed To (Expectation / Obligation) #flashcards/cambridge/part4
+### Test 779
 
-**First Sentence:** The schedule states that the backup job runs at midnight.
-**Key Word:** `[SUPPOSED]`
-**Second Sentence:** The backup job ______ at midnight.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The schedule states that the backup job runs at midnight.
+> - **Key Word:** `[SUPPOSED]`
+> - **Second Sentence:** The backup job ______ at midnight.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `is supposed to run` (4 palabras)
-
-**Oración Completa:** *"The backup job is supposed to run at midnight."*
-
+- **Oración Completa:** *"The backup job is supposed to run at midnight."*
+- **Enfoque:** Modals: Supposed To (Expectation / Obligation)
 - **Estructura Gramatical:** Semi-Modal of Expectation: *be supposed to + infinitive*
 - **Regla Clave:** *Be supposed to* indica lo que está previsto o programado según un plan o norma.
 - **Razón y Mecánica:** *is* + *supposed* + *to* + infinitivo (*run*). Total: 4 palabras.
@@ -634,19 +605,18 @@ total_tests: 50
 
 ---
 
-### Test 780 — Passives: Need Doing (Passive Meaning with Gerund) #flashcards/cambridge/part4
+### Test 780
 
-**First Sentence:** Someone needs to optimize this database query immediately.
-**Key Word:** `[NEEDS]`
-**Second Sentence:** This database query ______ immediately.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Someone needs to optimize this database query immediately.
+> - **Key Word:** `[NEEDS]`
+> - **Second Sentence:** This database query ______ immediately.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `needs optimizing` (2 palabras)
-
-**Oración Completa:** *"This database query needs optimizing immediately."*
-
+- **Oración Completa:** *"This database query needs optimizing immediately."*
+- **Enfoque:** Passives: Need Doing (Passive Meaning with Gerund)
 - **Estructura Gramatical:** Passive Gerund Structure: *need + -ing*
 - **Regla Clave:** En inglés británico formal, *need + gerund* tiene significado pasivo equivalente a *needs to be optimized*.
 - **Razón y Mecánica:** *needs* + gerundio (*optimizing*). Son 2 palabras (o 4 palabras con *needs to be optimized*).
@@ -655,19 +625,18 @@ total_tests: 50
 
 ---
 
-### Test 781 — Conditionals: Inversion with Should (First Conditional) #flashcards/cambridge/part4
+### Test 781
 
-**First Sentence:** If you experience any latency spikes during deployment, roll back immediately.
-**Key Word:** `[SHOULD]`
-**Second Sentence:** ______ any latency spikes during deployment, roll back immediately.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** If you experience any latency spikes during deployment, roll back immediately.
+> - **Key Word:** `[SHOULD]`
+> - **Second Sentence:** ______ any latency spikes during deployment, roll back immediately.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Should you experience` (3 palabras)
-
-**Oración Completa:** *"Should you experience any latency spikes during deployment, roll back immediately."*
-
+- **Oración Completa:** *"Should you experience any latency spikes during deployment, roll back immediately."*
+- **Enfoque:** Conditionals: Inversion with Should (First Conditional)
 - **Estructura Gramatical:** Inverted First Conditional: *Should + subject + bare infinitive*
 - **Regla Clave:** En el primer condicional formal, se elimina *if* y se inicia la oración con el modal *Should*.
 - **Razón y Mecánica:** *Should* + sujeto (*you*) + infinitivo simple (*experience*). Son 3 palabras.
@@ -676,19 +645,18 @@ total_tests: 50
 
 ---
 
-### Test 782 — Modals: Could Have Done (Unfulfilled Possibility) #flashcards/cambridge/part4
+### Test 782
 
-**First Sentence:** It was possible for the team to ship earlier, but they decided to polish the UI.
-**Key Word:** `[COULD]`
-**Second Sentence:** The team ______ earlier, but they decided to polish the UI.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** It was possible for the team to ship earlier, but they decided to polish the UI.
+> - **Key Word:** `[COULD]`
+> - **Second Sentence:** The team ______ earlier, but they decided to polish the UI.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `could have shipped` (3 palabras)
-
-**Oración Completa:** *"The team could have shipped earlier, but they decided to polish the UI."*
-
+- **Oración Completa:** *"The team could have shipped earlier, but they decided to polish the UI."*
+- **Enfoque:** Modals: Could Have Done (Unfulfilled Possibility)
 - **Estructura Gramatical:** Past Unfulfilled Capability: *could have + past participle*
 - **Regla Clave:** *Could have + participle* expresa que existía la capacidad o posibilidad en el pasado, pero no se realizó.
 - **Razón y Mecánica:** *could* + *have* + participio (*shipped*). Son 3 palabras.
@@ -697,19 +665,18 @@ total_tests: 50
 
 ---
 
-### Test 783 — Passives: Impersonal Passive with Regard #flashcards/cambridge/part4
+### Test 783
 
-**First Sentence:** The industry regards Linus Torvalds as the pioneer of modern open source.
-**Key Word:** `[REGARDED]`
-**Second Sentence:** Linus Torvalds ______ the pioneer of modern open source.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The industry regards Linus Torvalds as the pioneer of modern open source.
+> - **Key Word:** `[REGARDED]`
+> - **Second Sentence:** Linus Torvalds ______ the pioneer of modern open source.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `is regarded as` (3 palabras)
-
-**Oración Completa:** *"Linus Torvalds is regarded as the pioneer of modern open source."*
-
+- **Oración Completa:** *"Linus Torvalds is regarded as the pioneer of modern open source."*
+- **Enfoque:** Passives: Impersonal Passive with Regard
 - **Estructura Gramatical:** Passive Collocation: *be regarded as + noun phrase*
 - **Regla Clave:** La pasiva del verbo *regard* exige invariablemente la partícula *as*.
 - **Razón y Mecánica:** *is* + participio (*regarded*) + *as*. Son 3 palabras exactas.
@@ -718,19 +685,18 @@ total_tests: 50
 
 ---
 
-### Test 784 — Conditionals: Even If (Concession) #flashcards/cambridge/part4
+### Test 784
 
-**First Sentence:** The database migration will take six hours, regardless of whether you parallelize the indexes.
-**Key Word:** `[EVEN]`
-**Second Sentence:** The database migration will take six hours ______ the indexes.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The database migration will take six hours, regardless of whether you parallelize the indexes.
+> - **Key Word:** `[EVEN]`
+> - **Second Sentence:** The database migration will take six hours ______ the indexes.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `even if you parallelize` (4 palabras)
-
-**Oración Completa:** *"The database migration will take six hours even if you parallelize the indexes."*
-
+- **Oración Completa:** *"The database migration will take six hours even if you parallelize the indexes."*
+- **Enfoque:** Conditionals: Even If (Concession)
 - **Estructura Gramatical:** Concessive Conditional: *even if + clause*
 - **Regla Clave:** *Even if* introduce una condición concesiva que no alterará el resultado final.
 - **Razón y Mecánica:** *even if* + sujeto (*you*) + verbo presente (*parallelize*). 4 palabras.
@@ -739,19 +705,18 @@ total_tests: 50
 
 ---
 
-### Test 785 — Wishes: Wish + Could (Present Inability) #flashcards/cambridge/part4
+### Test 785
 
-**First Sentence:** I am unable to attend the software architecture conference this Thursday.
-**Key Word:** `[WISH]`
-**Second Sentence:** I ______ the software architecture conference this Thursday.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I am unable to attend the software architecture conference this Thursday.
+> - **Key Word:** `[WISH]`
+> - **Second Sentence:** I ______ the software architecture conference this Thursday.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `wish I could attend` (4 palabras)
-
-**Oración Completa:** *"I wish I could attend the software architecture conference this Thursday."*
-
+- **Oración Completa:** *"I wish I could attend the software architecture conference this Thursday."*
+- **Enfoque:** Wishes: Wish + Could (Present Inability)
 - **Estructura Gramatical:** Unreal Present Ability: *wish + subject + could + infinitive*
 - **Regla Clave:** Para desear una capacidad presente o futura que actualmente no se tiene, se usa *wish + could*.
 - **Razón y Mecánica:** *wish* + *I* + *could* + infinitivo (*attend*). Son 4 palabras.
@@ -760,19 +725,18 @@ total_tests: 50
 
 ---
 
-### Test 786 — Passives: Continuous Passive #flashcards/cambridge/part4
+### Test 786
 
-**First Sentence:** Senior DevOps engineers are actively upgrading our production Kubernetes cluster right now.
-**Key Word:** `[BEING]`
-**Second Sentence:** Our production Kubernetes cluster ______ actively upgraded by senior DevOps engineers right now.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Senior DevOps engineers are actively upgrading our production Kubernetes cluster right now.
+> - **Key Word:** `[BEING]`
+> - **Second Sentence:** Our production Kubernetes cluster ______ actively upgraded by senior DevOps engineers right now.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `is being` (2 palabras)
-
-**Oración Completa:** *"Our production Kubernetes cluster is being actively upgraded by senior DevOps engineers right now."*
-
+- **Oración Completa:** *"Our production Kubernetes cluster is being actively upgraded by senior DevOps engineers right now."*
+- **Enfoque:** Passives: Continuous Passive
 - **Estructura Gramatical:** Present Continuous Passive: *is/are being + past participle*
 - **Regla Clave:** Para transformar el presente continuo a voz pasiva se utiliza *is/are being* seguido de participio.
 - **Razón y Mecánica:** Sujeto singular (*cluster*) + auxiliar presente (*is*) + auxiliar continuo (*being*). Son 2 palabras.
@@ -781,19 +745,18 @@ total_tests: 50
 
 ---
 
-### Test 787 — Modals: Likely To (Probability) #flashcards/cambridge/part4
+### Test 787
 
-**First Sentence:** It is probable that this PR will cause merge conflicts with the staging branch.
-**Key Word:** `[LIKELY]`
-**Second Sentence:** This PR ______ cause merge conflicts with the staging branch.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** It is probable that this PR will cause merge conflicts with the staging branch.
+> - **Key Word:** `[LIKELY]`
+> - **Second Sentence:** This PR ______ cause merge conflicts with the staging branch.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `is likely to` (3 palabras)
-
-**Oración Completa:** *"This PR is likely to cause merge conflicts with the staging branch."*
-
+- **Oración Completa:** *"This PR is likely to cause merge conflicts with the staging branch."*
+- **Enfoque:** Modals: Likely To (Probability)
 - **Estructura Gramatical:** Modal Adjective of Probability: *be likely to + infinitive*
 - **Regla Clave:** *Be likely to* es la construcción idiomática que reemplaza a *it is probable that*.
 - **Razón y Mecánica:** *is* + *likely* + *to*. Son 3 palabras exactas.
@@ -802,19 +765,18 @@ total_tests: 50
 
 ---
 
-### Test 788 — Conditionals: Had It Not Been For (C1 Formula) #flashcards/cambridge/part4
+### Test 788
 
-**First Sentence:** Without Alex's quick thinking, the API gateway would have stayed down.
-**Key Word:** `[HAD]`
-**Second Sentence:** The API gateway would have stayed down ______ Alex's quick thinking.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Without Alex's quick thinking, the API gateway would have stayed down.
+> - **Key Word:** `[HAD]`
+> - **Second Sentence:** The API gateway would have stayed down ______ Alex's quick thinking.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `had it not been for` (5 palabras)
-
-**Oración Completa:** *"The API gateway would have stayed down had it not been for Alex's quick thinking."*
-
+- **Oración Completa:** *"The API gateway would have stayed down had it not been for Alex's quick thinking."*
+- **Enfoque:** Conditionals: Had It Not Been For (C1 Formula)
 - **Estructura Gramatical:** Formal Inverted Conditional: *had it not been for + noun phrase*
 - **Regla Clave:** Fórmula fija de nivel C1 para expresar 'de no haber sido por'.
 - **Razón y Mecánica:** *had* + *it* + *not* + *been* + *for*. Son exactamente 5 palabras.
@@ -823,19 +785,18 @@ total_tests: 50
 
 ---
 
-### Test 789 — Passives: Perfect Passive with Modal #flashcards/cambridge/part4
+### Test 789
 
-**First Sentence:** The team must have resolved the memory leak by now.
-**Key Word:** `[BEEN]`
-**Second Sentence:** The memory leak ______ by now.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The team must have resolved the memory leak by now.
+> - **Key Word:** `[BEEN]`
+> - **Second Sentence:** The memory leak ______ by now.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `must have been resolved` (4 palabras)
-
-**Oración Completa:** *"The memory leak must have been resolved by now."*
-
+- **Oración Completa:** *"The memory leak must have been resolved by now."*
+- **Enfoque:** Passives: Perfect Passive with Modal
 - **Estructura Gramatical:** Passive Modal of Deduction: *must have been + past participle*
 - **Regla Clave:** Conversión pasiva de la deducción perfecta *must have + participle*.
 - **Razón y Mecánica:** *must* + *have* + *been* + participio (*resolved*). Son 4 palabras.
@@ -844,19 +805,18 @@ total_tests: 50
 
 ---
 
-### Test 790 — Unreal Past: As If / As Though #flashcards/cambridge/part4
+### Test 790
 
-**First Sentence:** He talks about distributed systems like he is a world-class expert, but he only started coding last year.
-**Key Word:** `[THOUGH]`
-**Second Sentence:** He talks about distributed systems ______ a world-class expert.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** He talks about distributed systems like he is a world-class expert, but he only started coding last year.
+> - **Key Word:** `[THOUGH]`
+> - **Second Sentence:** He talks about distributed systems ______ a world-class expert.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `as though he were` (4 palabras)
-
-**Oración Completa:** *"He talks about distributed systems as though he were a world-class expert."*
-
+- **Oración Completa:** *"He talks about distributed systems as though he were a world-class expert."*
+- **Enfoque:** Unreal Past: As If / As Though
 - **Estructura Gramatical:** Unreal Comparison: *as though / as if + subjunctive (were)*
 - **Regla Clave:** Para denotar una apariencia que es falsa o hipotética, se emplea *as though + past subjunctive (were)*.
 - **Razón y Mecánica:** *as though* (2 palabras) + sujeto (*he*) + subjuntivo (*were*). Total: 4 palabras.
@@ -865,19 +825,18 @@ total_tests: 50
 
 ---
 
-### Test 791 — Conditionals: Otherwise (Implied Condition) #flashcards/cambridge/part4
+### Test 791
 
-**First Sentence:** We used an in-memory cache; if we hadn't, the database would have been overloaded.
-**Key Word:** `[OTHERWISE]`
-**Second Sentence:** We used an in-memory cache; ______ have been overloaded.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** We used an in-memory cache; if we hadn't, the database would have been overloaded.
+> - **Key Word:** `[OTHERWISE]`
+> - **Second Sentence:** We used an in-memory cache; ______ have been overloaded.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `otherwise the database would` (4 palabras)
-
-**Oración Completa:** *"We used an in-memory cache; otherwise the database would have been overloaded."*
-
+- **Oración Completa:** *"We used an in-memory cache; otherwise the database would have been overloaded."*
+- **Enfoque:** Conditionals: Otherwise (Implied Condition)
 - **Estructura Gramatical:** Adverbial Conditional Connector: *otherwise + subject + would/could*
 - **Regla Clave:** *Otherwise* condensa la cláusula condicional negativa previa (*if we hadn't done so*).
 - **Razón y Mecánica:** *otherwise* + sujeto (*the database*) + auxiliar (*would*). Son 4 palabras.
@@ -886,19 +845,18 @@ total_tests: 50
 
 ---
 
-### Test 792 — Modals: Succeeded In vs Managed To #flashcards/cambridge/part4
+### Test 792
 
-**First Sentence:** The team managed to recover all user data without any corruption.
-**Key Word:** `[SUCCEEDED]`
-**Second Sentence:** The team ______ all user data without any corruption.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The team managed to recover all user data without any corruption.
+> - **Key Word:** `[SUCCEEDED]`
+> - **Second Sentence:** The team ______ all user data without any corruption.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `succeeded in recovering` (3 palabras)
-
-**Oración Completa:** *"The team succeeded in recovering all user data without any corruption."*
-
+- **Oración Completa:** *"The team succeeded in recovering all user data without any corruption."*
+- **Enfoque:** Modals: Succeeded In vs Managed To
 - **Estructura Gramatical:** Verb Shift: *managed to do -> succeeded in doing*
 - **Regla Clave:** *Manage* toma infinitivo con *to*, mientras que *succeed* rige estrictamente la preposición *in* seguida de gerundio (-ing).
 - **Razón y Mecánica:** *succeeded* + preposición (*in*) + gerundio (*recovering*). Son 3 palabras.
@@ -907,19 +865,18 @@ total_tests: 50
 
 ---
 
-### Test 793 — Passives: Make Someone Do -> Be Made To Do #flashcards/cambridge/part4
+### Test 793
 
-**First Sentence:** Our manager made us work over the weekend to fix the production outage.
-**Key Word:** `[WERE]`
-**Second Sentence:** We ______ over the weekend to fix the production outage.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Our manager made us work over the weekend to fix the production outage.
+> - **Key Word:** `[WERE]`
+> - **Second Sentence:** We ______ over the weekend to fix the production outage.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `were made to work` (4 palabras)
-
-**Oración Completa:** *"We were made to work over the weekend to fix the production outage."*
-
+- **Oración Completa:** *"We were made to work over the weekend to fix the production outage."*
+- **Enfoque:** Passives: Make Someone Do -> Be Made To Do
 - **Estructura Gramatical:** Passive of Obligation: *be made + to-infinitive*
 - **Regla Clave:** En pasiva, el verbo causativo *make* recupera obligatoriamente la preposición *to* delante del infinitivo.
 - **Razón y Mecánica:** *were* + *made* + *to* + verbo (*work*). Son 4 palabras exactas.
@@ -928,19 +885,18 @@ total_tests: 50
 
 ---
 
-### Test 794 — Conditionals: Supposing / Suppose #flashcards/cambridge/part4
+### Test 794
 
-**First Sentence:** What would we do if the cloud provider had an unplanned region-wide blackout?
-**Key Word:** `[SUPPOSING]`
-**Second Sentence:** ______ an unplanned region-wide blackout, what would we do?
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** What would we do if the cloud provider had an unplanned region-wide blackout?
+> - **Key Word:** `[SUPPOSING]`
+> - **Second Sentence:** ______ an unplanned region-wide blackout, what would we do?
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Supposing the cloud provider had` (5 palabras)
-
-**Oración Completa:** *"Supposing the cloud provider had an unplanned region-wide blackout, what would we do?"*
-
+- **Oración Completa:** *"Supposing the cloud provider had an unplanned region-wide blackout, what would we do?"*
+- **Enfoque:** Conditionals: Supposing / Suppose
 - **Estructura Gramatical:** Hypothetical Question Particle: *Supposing + clause*
 - **Regla Clave:** *Supposing* (o *suppose*) sustituye a *if* para plantear escenarios hipotéticos en preguntas deliberativas.
 - **Razón y Mecánica:** *Supposing* + sujeto (*the cloud provider*) + verbo pasado (*had*). Son 5 palabras.
@@ -949,19 +905,18 @@ total_tests: 50
 
 ---
 
-### Test 795 — Modals: Can't Bear vs Can't Stand #flashcards/cambridge/part4
+### Test 795
 
-**First Sentence:** I really hate dealing with poorly documented legacy codebases.
-**Key Word:** `[STAND]`
-**Second Sentence:** I ______ with poorly documented legacy codebases.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** I really hate dealing with poorly documented legacy codebases.
+> - **Key Word:** `[STAND]`
+> - **Second Sentence:** I ______ with poorly documented legacy codebases.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `cannot stand dealing` (3 palabras)
-
-**Oración Completa:** *"I cannot stand dealing with poorly documented legacy codebases."*
-
+- **Oración Completa:** *"I cannot stand dealing with poorly documented legacy codebases."*
+- **Enfoque:** Modals: Can't Bear vs Can't Stand
 - **Estructura Gramatical:** Idiomatic Verb of Dislike: *cannot stand + gerund*
 - **Regla Clave:** *Cannot stand* (o *can't stand*) rige gerundio (-ing) para expresar aversión profunda.
 - **Razón y Mecánica:** *cannot* + *stand* + gerundio (*dealing*). Son 3 palabras.
@@ -970,19 +925,18 @@ total_tests: 50
 
 ---
 
-### Test 796 — Passives: Due To vs Because Of #flashcards/cambridge/part4
+### Test 796
 
-**First Sentence:** The application crashed because the Redis cluster ran out of allocated memory.
-**Key Word:** `[DUE]`
-**Second Sentence:** The application crash was ______ of memory in the Redis cluster.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** The application crashed because the Redis cluster ran out of allocated memory.
+> - **Key Word:** `[DUE]`
+> - **Second Sentence:** The application crash was ______ of memory in the Redis cluster.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `due to a lack` (4 palabras)
-
-**Oración Completa:** *"The application crash was due to a lack of memory in the Redis cluster."*
-
+- **Oración Completa:** *"The application crash was due to a lack of memory in the Redis cluster."*
+- **Enfoque:** Passives: Due To vs Because Of
 - **Estructura Gramatical:** Causal Nominal Linker: *due to + noun phrase*
 - **Regla Clave:** *Due to* funciona como adjetivo predicativo tras el verbo *to be* (*the crash was due to...*).
 - **Razón y Mecánica:** *due to* + artículo (*a*) + sustantivo (*lack*). Son 4 palabras.
@@ -991,19 +945,18 @@ total_tests: 50
 
 ---
 
-### Test 797 — Conditionals: In Case of + Noun #flashcards/cambridge/part4
+### Test 797
 
-**First Sentence:** If there is an emergency outage, contact the on-call engineer immediately.
-**Key Word:** `[CASE]`
-**Second Sentence:** ______ an emergency outage, contact the on-call engineer immediately.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** If there is an emergency outage, contact the on-call engineer immediately.
+> - **Key Word:** `[CASE]`
+> - **Second Sentence:** ______ an emergency outage, contact the on-call engineer immediately.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `In case of` (3 palabras)
-
-**Oración Completa:** *"In case of an emergency outage, contact the on-call engineer immediately."*
-
+- **Oración Completa:** *"In case of an emergency outage, contact the on-call engineer immediately."*
+- **Enfoque:** Conditionals: In Case of + Noun
 - **Estructura Gramatical:** Prepositional Contingency Phrase: *in case of + noun*
 - **Regla Clave:** A diferencia de *in case* (que lleva sujeto y verbo), *in case of* va seguido directamente de un sintagma nominal.
 - **Razón y Mecánica:** *In* + *case* + *of*. Son 3 palabras exactas.
@@ -1012,19 +965,18 @@ total_tests: 50
 
 ---
 
-### Test 798 — Passives: It Was Thought That #flashcards/cambridge/part4
+### Test 798
 
-**First Sentence:** Originally, engineers thought that the bottleneck was in the network layer.
-**Key Word:** `[THOUGHT]`
-**Second Sentence:** Originally, it ______ the bottleneck was in the network layer.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** Originally, engineers thought that the bottleneck was in the network layer.
+> - **Key Word:** `[THOUGHT]`
+> - **Second Sentence:** Originally, it ______ the bottleneck was in the network layer.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `was thought that` (3 palabras)
-
-**Oración Completa:** *"Originally, it was thought that the bottleneck was in the network layer."*
-
+- **Oración Completa:** *"Originally, it was thought that the bottleneck was in the network layer."*
+- **Enfoque:** Passives: It Was Thought That
 - **Estructura Gramatical:** Past Impersonal Passive: *it was thought that + clause*
 - **Regla Clave:** Conversión pasiva de creencia en el pasado.
 - **Razón y Mecánica:** *was* + participio (*thought*) + conector (*that*). Son 3 palabras exactas.
@@ -1033,19 +985,18 @@ total_tests: 50
 
 ---
 
-### Test 799 — Modals: Ought To Have Done #flashcards/cambridge/part4
+### Test 799
 
-**First Sentence:** You should have alerted the team before modifying the production database schema.
-**Key Word:** `[OUGHT]`
-**Second Sentence:** You ______ the team before modifying the production database schema.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You should have alerted the team before modifying the production database schema.
+> - **Key Word:** `[OUGHT]`
+> - **Second Sentence:** You ______ the team before modifying the production database schema.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `ought to have alerted` (4 palabras)
-
-**Oración Completa:** *"You ought to have alerted the team before modifying the production database schema."*
-
+- **Oración Completa:** *"You ought to have alerted the team before modifying the production database schema."*
+- **Enfoque:** Modals: Ought To Have Done
 - **Estructura Gramatical:** Moral Past Obligation: *ought to have + past participle*
 - **Regla Clave:** *Ought to have* es el equivalente formal idéntico a *should have*.
 - **Razón y Mecánica:** *ought* + partícula *to* + auxiliar *have* + participio *alerted*. Son 4 palabras.
@@ -1054,19 +1005,18 @@ total_tests: 50
 
 ---
 
-### Test 800 — Conditionals: Only If with Subject-Verb Inversion #flashcards/cambridge/part4
+### Test 800
 
-**First Sentence:** You will only pass the Cambridge C1 exam if you practice spaced repetition consistently.
-**Key Word:** `[ONLY]`
-**Second Sentence:** ______ spaced repetition consistently will you pass the Cambridge C1 exam.
-
-> [!tip] Restricción Cambridge
-> Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
+> [!question] Key Word Transformation
+> - **First Sentence:** You will only pass the Cambridge C1 exam if you practice spaced repetition consistently.
+> - **Key Word:** `[ONLY]`
+> - **Second Sentence:** ______ spaced repetition consistently will you pass the Cambridge C1 exam.
+>
+> **Restricción:** Completa el hueco usando entre **2 y 5 palabras**, incluyendo la palabra clave en mayúscula sin modificar.
 ?
 **Respuesta Correcta:** `Only if you practice` (4 palabras)
-
-**Oración Completa:** *"Only if you practice spaced repetition consistently will you pass the Cambridge C1 exam."*
-
+- **Oración Completa:** *"Only if you practice spaced repetition consistently will you pass the Cambridge C1 exam."*
+- **Enfoque:** Conditionals: Only If with Subject-Verb Inversion
 - **Estructura Gramatical:** Initial Inversion with *Only if*: *Only if + clause + auxiliary + subject + verb*
 - **Regla Clave:** Cuando *only if* se sitúa al comienzo de la oración, la cláusula principal subsiguiente debe sufrir inversión sujeto-auxiliar (*will you pass*).
 - **Razón y Mecánica:** *Only* + *if* + sujeto (*you*) + verbo (*practice*). Son 4 palabras.
