@@ -258,3 +258,38 @@
 .mermaid-tools-modal-button-container button.mod-cta:hover {
     background-color: var(--color-accent-hover);
 }
+
+
+/* ==========================================================================
+   Mermaid Diagrams - Tamaño Compacto y Centrado para Obsidian
+   ========================================================================== */
+
+.block-language-mermaid,
+.block-language-mermaid .mermaid,
+.markdown-rendered .mermaid,
+.markdown-preview-view .mermaid,
+.cm-embed-block:has(.block-language-mermaid),
+.mermaid {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    max-width: 420px !important;
+    width: 100% !important;
+    margin: 1rem auto !important;
+}
+
+.block-language-mermaid svg,
+.block-language-mermaid .mermaid svg,
+.markdown-rendered .mermaid svg,
+.markdown-preview-view .mermaid svg,
+.mermaid svg,
+svg[id^="m-"],
+svg[id^="mermaid-"] {
+    max-width: 100% !important;
+    max-height: 260px !important;
+    width: auto !important;
+    height: auto !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
