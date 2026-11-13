@@ -15,6 +15,9 @@ module: "Week 1.2 - Agent Traps, Risks & Engineering Mindset"
 > - Previous: [[Week 1.1|Week 1.1 - Concepts & Architectural Patterns]]
 > - Next: [[Week 1.3|Week 1.3 - Orchestrating LLMs & Model Ecosystem]]
 
+> [!tip] Companion Engineering Reference
+> Production guardrails, tracing, doom-loop hashing, and security controls: [[AI/AI Engineering/Agentic Systems, Tool Calling & MCP|Agentic Systems, Tool Calling & MCP]] · [[AI/AI Engineering/LLM Evaluation, Guardrails & Security|LLM Evaluation, Guardrails & Security]].
+
 ---
 
 ## Risks of Agent Frameworks

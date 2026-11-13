@@ -18,12 +18,17 @@ created: 2026-11-02
 
 > [!column|3]
 > 
-> > [!info] 💻 [[Programming/Programming Hub|Programación]]
-> > - [[Programming/Frontend/React Complete Guide|React Complete Guide]]
-> > - [[Programming/Frontend/Next.js Complete Guide|Next.js Complete Guide]]
-> > - [[Programming/Backend/NestJS Complete Guide|NestJS Complete Guide]]
+> > [!info] 💻 [[Programming/Programming Hub|Programación & Ingeniería]]
+> > - [[Programming/Software Engineering/Software Engineering Roadmap|Software Engineering Roadmap]]
+> > - [[Programming/Software Engineering/DevOps/DevOps Complete Guide|DevOps, Docker, K8s & Terraform]]
+> > - [[Programming/Software Engineering/SDLC/SDLC Complete Guide|SDLC & Release Engineering]]
 > > - [[Programming/Software Engineering/System Design/System Design Complete Guide|System Design Complete Guide]]
-> > - [[Programming/Software Engineering/Software Engineering Roadmap|Roadmap de Ingeniería]]
+> > - [[Programming/Software Engineering/Database Design/Database Design Complete Guide|Database Design Complete Guide]]
+> > - [[Programming/Machine Learning/ML Hub|Machine Learning & MLOps Hub]]
+> > - [[AI/AI Engineering Hub|AI Engineering, RAG & MCP Hub]]
+> > - [[Programming/Frontend/React Complete Guide|React Complete Guide]] · [[Programming/Frontend/Next.js Complete Guide|Next.js Complete Guide]]
+> > - [[Programming/Backend/NestJS Complete Guide|NestJS Complete Guide]]
+> > - [[Programming/Algorithms/Algorithms & LeetCode Roadmap|Algorithms & LeetCode Roadmap]]
 > 
 > > [!success] 📝 [[English/English Hub|Inglés (B2 → C1)]]
 > > - [[English/Cambridge Exam Suite/Cambridge Exam Suite Hub|🏛️ Cambridge Exam Suite (1,000 Tests)]]

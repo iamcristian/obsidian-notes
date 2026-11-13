@@ -1,275 +1,58 @@
-﻿---
+---
 tags:
   - software-engineering
   - ddd
   - dashboard
 created: 2026-01-02
+updated: 2026-11-13
+status: 🟢
+level: mid-to-senior
 ---
-# 🎯 Domain-Driven Design (DDD)
+# Domain-Driven Design (DDD) Complete Guide
 
-> *"Focus on the core domain and domain logic, not on the database or infrastructure."* — Eric Evans
+> [!abstract] Vault Navigation
+> Domain modeling hub within [[Programming/Software Engineering/Software Engineering Roadmap|Software Engineering Roadmap]]. Pairs directly with [[Programming/Software Engineering/Clean Architecture/Clean Architecture Complete Guide|Clean Architecture Complete Guide]], [[Programming/Software Engineering/Architectural Patterns/Event-Driven Architecture|Event-Driven Architecture]], and [[Programming/Software Engineering/Architectural Patterns/Event Sourcing|Event Sourcing]].
 
-## 📚 Contents
-
-| Topic | Description | Status |
-|-------|-------------|--------|
-| [[Programming/Software Engineering/DDD/Strategic Design\|Strategic Design]] | Bounded Contexts, Ubiquitous Language | 🔴 |
-| [[Programming/Software Engineering/DDD/Tactical Design\|Tactical Design]] | Entities, Value Objects, Aggregates | 🔴 |
-| [[Programming/Software Engineering/DDD/Building Blocks\|Building Blocks]] | Repositories, Services, Factories | 🔴 |
+Domain-Driven Design (DDD) aligns software module boundaries, team ownership, and runtime consistency models directly with business problem spaces. At senior levels, **Strategic Design** takes precedence over tactical patterns: partitioning the system into clean Bounded Contexts prevents tangled enterprise models far more effectively than perfecting Entity/Repository syntax inside a broken boundary.
 
 ---
 
-## 🎯 Core Concepts Overview
+## 1. Core Curriculum
 
-### Strategic Design (The Big Picture)
+| Module | Engineering Scope | Status |
+|---|---|---|
+| [[Programming/Software Engineering/DDD/Strategic Design\|Strategic Design]] | Core/Supporting/Generic Subdomains, Build vs Buy, Bounded Contexts, Ubiquitous Language, 9 Context Mapping Patterns, EventStorming | 🟢 |
+| [[Programming/Software Engineering/DDD/Tactical Design & Building Blocks\|Tactical Design & Building Blocks]] | Entities vs Value Objects, Vaughn Vernon's 4 Aggregate Rules, Domain Events + Outbox, Repositories vs DAOs, Domain vs App Services | 🟢 |
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                        E-Commerce System                         │
-├────────────────┬──────────────────┬─────────────────────────────┤
-│   SALES        │    INVENTORY     │    SHIPPING                 │
-│   Context      │    Context       │    Context                  │
-│                │                  │                             │
-│  • Order       │  • Product       │  • Shipment                │
-│  • Customer    │  • Stock         │  • Carrier                 │
-│  • Price       │  • Warehouse     │  • Tracking                │
-│                │                  │                             │
-│  Customer =    │  Product =       │  Order =                   │
-│  buyer info    │  inventory item  │  shipment reference        │
-└────────────────┴──────────────────┴─────────────────────────────┘
-         │                │                      │
-         └────────────────┼──────────────────────┘
-                          │
-              Context Mapping / Integration
-```
+---
 
-### Ubiquitous Language
-```markdown
-Cada Bounded Context tiene su propio lenguaje:
+## 2. Strategic vs Tactical Decision Flow
 
-SALES Context:
-- "Customer" = persona que compra
-- "Order" = pedido de compra
-- "Product" = lo que el cliente quiere
-
-INVENTORY Context:
-- "Product" = SKU con stock
-- "Warehouse" = ubicación física
-- "Stock" = cantidad disponible
-
-SHIPPING Context:
-- "Package" = caja física a enviar
-- "Order" = referencia para agrupar paquetes
+```mermaid
+flowchart LR
+    Biz["Problem Space (Domain)"] -->|"Subdomain Triage"| Sub["Core / Supporting / Generic"]
+    Sub -->|"Core Only"| BC["Bounded Contexts + Ubiquitous Language"]
+    BC -->|"Team & Schema Boundaries"| CM["Context Mapping (ACL, OHS, Events)"]
+    BC -->|"Internal Model"| Tac["Aggregates + Value Objects + Outbox"]
 ```
 
 ---
 
-## 🧱 Building Blocks
+## 3. When to Invest in Full DDD
 
-### Entities
-```typescript
-// Tiene identidad única - importa QUIÉN es
-class Order {
-  private constructor(
-    public readonly id: OrderId,  // Identidad
-    private items: OrderItem[],
-    private status: OrderStatus
-  ) {}
+| Subdomain Type | Strategic Investment | Tactical Pattern Choice |
+|---|---|---|
+| **Core Subdomain** (Competitive differentiator) | Highest seniority engineers; bespoke in-house build; EventStorming | Full DDD Tactical Model (Aggregates, Value Objects, Domain Events, optional Event Sourcing) |
+| **Supporting Subdomain** (Necessary but non-differentiating) | Moderate investment; keep maintainable and decoupled | Transaction Script or Active Record / Vertical Slices; avoid complex Aggregate ceremony |
+| **Generic Subdomain** (Solved commodity: Auth, Email, Billing Ledger) | Buy SaaS / adopt OSS (Auth0, Stripe, SendGrid) behind a thin ACL | Zero custom domain modeling; wrap external provider behind a minimal interface |
 
-  static create(customerId: CustomerId): Order {
-    return new Order(
-      OrderId.generate(),
-      [],
-      OrderStatus.Draft
-    );
-  }
-
-  // Comportamiento, no solo datos
-  addItem(product: Product, quantity: number): void {
-    if (this.status !== OrderStatus.Draft) {
-      throw new Error('Cannot modify confirmed order');
-    }
-    this.items.push(new OrderItem(product.id, quantity, product.price));
-  }
-}
-```
-
-### Value Objects
-```typescript
-// Sin identidad - importa QUÉ es (sus valores)
-class Money {
-  constructor(
-    public readonly amount: number,
-    public readonly currency: string
-  ) {
-    if (amount < 0) throw new Error('Amount cannot be negative');
-  }
-
-  add(other: Money): Money {
-    if (this.currency !== other.currency) {
-      throw new Error('Cannot add different currencies');
-    }
-    return new Money(this.amount + other.amount, this.currency);
-  }
-
-  equals(other: Money): boolean {
-    return this.amount === other.amount && 
-           this.currency === other.currency;
-  }
-}
-
-class Address {
-  constructor(
-    public readonly street: string,
-    public readonly city: string,
-    public readonly country: string,
-    public readonly zipCode: string
-  ) {}
-
-  equals(other: Address): boolean {
-    return this.street === other.street &&
-           this.city === other.city &&
-           this.country === other.country &&
-           this.zipCode === other.zipCode;
-  }
-}
-```
-
-### Aggregates
-```typescript
-// Aggregate Root: Order
-// Aggregate: Order + OrderItems + ShippingAddress
-class Order {
-  private items: OrderItem[] = [];
-  private shippingAddress?: Address;
-
-  // Solo se accede a items A TRAVÉS del aggregate root
-  addItem(productId: ProductId, quantity: number, price: Money): void {
-    const existingItem = this.items.find(i => i.productId.equals(productId));
-    
-    if (existingItem) {
-      existingItem.increaseQuantity(quantity);
-    } else {
-      this.items.push(new OrderItem(productId, quantity, price));
-    }
-  }
-
-  // Invariantes del aggregate
-  confirm(): void {
-    if (this.items.length === 0) {
-      throw new Error('Cannot confirm empty order');
-    }
-    if (!this.shippingAddress) {
-      throw new Error('Shipping address required');
-    }
-    this.status = OrderStatus.Confirmed;
-  }
-}
-```
-
-### Domain Events
-```typescript
-abstract class DomainEvent {
-  public readonly occurredAt: Date = new Date();
-}
-
-class OrderConfirmedEvent extends DomainEvent {
-  constructor(
-    public readonly orderId: OrderId,
-    public readonly customerId: CustomerId,
-    public readonly total: Money
-  ) {
-    super();
-  }
-}
-
-class Order {
-  private domainEvents: DomainEvent[] = [];
-
-  confirm(): void {
-    // ... validation
-    this.status = OrderStatus.Confirmed;
-    
-    this.domainEvents.push(new OrderConfirmedEvent(
-      this.id,
-      this.customerId,
-      this.calculateTotal()
-    ));
-  }
-
-  pullDomainEvents(): DomainEvent[] {
-    const events = [...this.domainEvents];
-    this.domainEvents = [];
-    return events;
-  }
-}
-```
-
-### Repositories
-```typescript
-// Interface en Domain layer
-interface OrderRepository {
-  save(order: Order): Promise<void>;
-  findById(id: OrderId): Promise<Order | null>;
-  findByCustomer(customerId: CustomerId): Promise<Order[]>;
-}
-
-// Implementación en Infrastructure layer
-class PostgresOrderRepository implements OrderRepository {
-  async save(order: Order): Promise<void> {
-    // Mapear aggregate a tablas
-    await this.prisma.$transaction([
-      this.prisma.order.upsert({...}),
-      ...order.items.map(item => 
-        this.prisma.orderItem.upsert({...})
-      )
-    ]);
-  }
-}
-```
-
-### Domain Services
-```typescript
-// Lógica que no pertenece a ninguna entidad específica
-class PricingService {
-  calculateOrderTotal(
-    items: OrderItem[],
-    discounts: Discount[],
-    shipping: ShippingMethod
-  ): Money {
-    const subtotal = items.reduce(
-      (sum, item) => sum.add(item.total),
-      Money.zero('USD')
-    );
-
-    const discount = this.applyDiscounts(subtotal, discounts);
-    const shippingCost = shipping.calculateCost(items);
-
-    return subtotal.subtract(discount).add(shippingCost);
-  }
-}
-```
+> [!warning] The Tactical-First Anti-Pattern
+> Applying Aggregates, Value Objects, and Domain Event buses across a **Generic** or simple CRUD **Supporting** subdomain creates massive structural bloat while leaving Core domain boundaries muddy. Always classify subdomains and draw Bounded Contexts before choosing tactical patterns.
 
 ---
 
-## 📖 Resources
+## 4. Cross-Cutting Architecture Links
 
-- 📕 **Book**: "Domain-Driven Design" - Eric Evans (The Blue Book)
-- 📕 **Book**: "Implementing Domain-Driven Design" - Vaughn Vernon
-- 📕 **Book**: "Learning Domain-Driven Design" - Vlad Khononov
-
----
-
-## 📝 Notes
-```dataview
-TABLE WITHOUT ID
-	file.link as "Topic",
-	status as "Status"
-FROM "Programming/Software Engineering/DDD"
-WHERE !contains(file.name, "_Index")
-SORT file.name asc
-```
-
----
-
-← [[Programming/Software Engineering/Software Engineering Roadmap|Back to Software Engineering]]
+- [[Programming/Software Engineering/Architectural Patterns/Microservices|Microservices]] — Why 1 Bounded Context does not automatically require 1 deployed microservice (Modular Monolith vs Service boundaries)
+- [[Programming/Software Engineering/Architectural Patterns/Hexagonal Architecture|Hexagonal Architecture]] — Ports & Adapters shielding a Bounded Context's tactical domain core
+- [[Programming/Software Engineering/Architectural Patterns/CQRS|CQRS]] — Separating Aggregate command consistency from cross-context read projections

@@ -1,178 +1,65 @@
-﻿---
+---
 tags:
   - software-engineering
   - testing
   - dashboard
 created: 2026-01-02
+updated: 2026-11-13
+status: 🟢
+level: mid-to-senior
 ---
-# 🧪 Testing
+# Testing Complete Guide
 
-> *"Testing shows the presence, not the absence of bugs."* — Edsger Dijkstra
+> [!abstract] Vault Navigation
+> Quality verification hub within [[Programming/Software Engineering/Software Engineering Roadmap|Software Engineering Roadmap]]. Integrates directly with [[Programming/Software Engineering/DevOps/CI-CD|CI/CD]], [[Programming/Software Engineering/DevOps/Pipeline Design|Pipeline Design]], [[Programming/Software Engineering/SDLC/Release Engineering & Migrations|Release Engineering & Migrations]], and [[Programming/Software Engineering/SDLC/SDLC Complete Guide|SDLC Complete Guide]].
 
-## 📚 Contents
-
-| Topic | Description | Status |
-|-------|-------------|--------|
-| [[Programming/Software Engineering/Testing/TDD\|TDD]] | Test-Driven Development (Red-Green-Refactor) | 🔴 |
-| [[Programming/Software Engineering/Testing/Unit Testing\|Unit Testing]] | Testing isolated units with AAA pattern | 🔴 |
-| [[Programming/Software Engineering/Testing/Integration Testing\|Integration Testing]] | Testing components working together | 🔴 |
-| [[Programming/Software Engineering/Testing/Mocking\|Mocking]] | Test doubles, stubs, spies, fakes | 🔴 |
-| [[Programming/Software Engineering/Testing/E2E Testing\|E2E Testing]] | End-to-end user flows | 🔴 |
+Automated verification proves behavioral invariants across changing implementations while balancing **defect detection power**, **refactoring resilience**, **execution speed**, and **maintenance cost**. High-performing engineering teams design test portfolios around **where bugs actually originate** (domain logic, SQL/transaction semantics, serialization contracts, async race conditions, and critical user journeys) rather than chasing arbitrary line-coverage percentages.
 
 ---
 
-## 🔺 Testing Pyramid
+## 1. Core Curriculum
 
-```
-                    /\
-                   /  \
-                  / E2E\         Slow, Expensive
-                 /──────\        Few tests
-                /        \
-               / Integr.  \      Medium
-              /────────────\     Some tests
-             /              \
-            /    Unit Tests  \   Fast, Cheap
-           /──────────────────\  Many tests
-```
+| Module | Engineering Scope | Status |
+|---|---|---|
+| [[Programming/Software Engineering/Testing/TDD\|TDD]] | Red-Green-Refactor, Classical (Detroit) vs Mockist (London) schools, triangulation, legacy characterization tests | 🟢 |
+| [[Programming/Software Engineering/Testing/Unit Testing\|Unit Testing]] | Khorikov's 4 pillars, behavioral vs implementation-coupled assertions, property-based testing, mutation testing (PIT/Stryker) | 🟢 |
+| [[Programming/Software Engineering/Testing/Integration Testing\|Integration Testing]] | Testcontainers (Postgres/Redis/Kafka), DB isolation strategies (rollback vs truncation vs schema-per-worker), async polling | 🟢 |
+| [[Programming/Software Engineering/Testing/Mocking\|Mocking]] | Test doubles taxonomy (Dummy, Stub, Spy, Mock, Fake), white-box test rot, WireMock & MSW network stubbing | 🟢 |
+| [[Programming/Software Engineering/Testing/E2E Testing\|E2E Testing]] | Playwright determinism, web-first auto-wait, eliminating `sleep`, Pact Consumer-Driven Contracts, k6 load & tail-latency SLOs | 🟢 |
 
 ---
 
-## 🎯 Types of Tests
+## 2. Portfolio Topologies: Pyramid vs Trophy vs Honeycomb
 
-### Unit Tests
-```typescript
-// Testear una función/clase en aislamiento
-describe('Money', () => {
-  it('should add two amounts with same currency', () => {
-    const money1 = new Money(100, 'USD');
-    const money2 = new Money(50, 'USD');
-    
-    const result = money1.add(money2);
-    
-    expect(result.amount).toBe(150);
-    expect(result.currency).toBe('USD');
-  });
-
-  it('should throw when adding different currencies', () => {
-    const usd = new Money(100, 'USD');
-    const eur = new Money(50, 'EUR');
-    
-    expect(() => usd.add(eur)).toThrow('Cannot add different currencies');
-  });
-});
+```mermaid
+flowchart LR
+    Unit["Unit + Property Tests (ms, Domain Logic)"] --> Integ["Integration Tests (Testcontainers, DB/Broker)"]
+    Integ --> Contract["Contract Tests (Pact CDC, API/Event Schemas)"]
+    Contract --> E2E["Thin Critical E2E (Playwright, Auth/Checkout)"]
+    E2E --> Load["Perf / Load Gate (k6 Tail Latency)"]
 ```
 
-### Integration Tests
-```typescript
-// Testear múltiples componentes juntos
-describe('OrderService Integration', () => {
-  let orderService: OrderService;
-  let db: Database;
-
-  beforeAll(async () => {
-    db = await createTestDatabase();
-    const repository = new PostgresOrderRepository(db);
-    orderService = new OrderService(repository);
-  });
-
-  afterAll(async () => {
-    await db.close();
-  });
-
-  it('should create and retrieve an order', async () => {
-    const order = await orderService.createOrder({
-      customerId: 'cust-1',
-      items: [{ productId: 'prod-1', quantity: 2 }]
-    });
-
-    const retrieved = await orderService.getOrder(order.id);
-
-    expect(retrieved.id).toBe(order.id);
-    expect(retrieved.items).toHaveLength(1);
-  });
-});
-```
-
-### E2E Tests
-```typescript
-// Testear el sistema completo
-describe('Order API E2E', () => {
-  it('should complete checkout flow', async () => {
-    // Login
-    const loginResponse = await request(app)
-      .post('/auth/login')
-      .send({ email: 'user@test.com', password: 'password' });
-    
-    const token = loginResponse.body.token;
-
-    // Add to cart
-    await request(app)
-      .post('/cart/items')
-      .set('Authorization', `Bearer ${token}`)
-      .send({ productId: 'prod-1', quantity: 1 })
-      .expect(200);
-
-    // Checkout
-    const orderResponse = await request(app)
-      .post('/orders')
-      .set('Authorization', `Bearer ${token}`)
-      .send({ paymentMethod: 'card' })
-      .expect(201);
-
-    expect(orderResponse.body.status).toBe('confirmed');
-  });
-});
-```
+| Model | Primary Shape | Core Thesis | Optimal Architectural Fit |
+|---|---|---|---|
+| **Test Pyramid (Cohn)** | Broad Unit base $\to$ moderate Integration $\to$ tiny E2E tip | Isolate complex business math into pure fast unit tests; verify wiring at boundaries | Domain-rich backends, Clean/Hexagonal architectures, compilers, algorithms |
+| **Testing Trophy (Dodds)** | Static types/lint base $\to$ small Unit $\to$ dominant **Integration** $\to$ slim E2E | Most UI/CRUD defects sit in component-state + API/DB composition rather than isolated leaf helpers | React/Next.js SPAs, CRUD microservices, Vertical Slice APIs |
+| **Testing Honeycomb (Spotify)** | Implementation details untouched $\to$ small Unit $\to$ dominant **Service Integration** $\to$ Contracts | Microservices contain thin domain logic and heavy RPC/broker wiring; mock downstream services cleanly via contracts | Network-heavy microservices and event-driven systems |
 
 ---
 
-## 🎭 Test Doubles
+## 3. CI Pipeline Gate Budgeting
 
-```typescript
-// Stub - Retorna valores predefinidos
-const stubRepository = {
-  findById: jest.fn().mockResolvedValue(mockUser)
-};
-
-// Mock - Verifica interacciones
-const mockEmailService = {
-  send: jest.fn()
-};
-expect(mockEmailService.send).toHaveBeenCalledWith('user@email.com', expect.any(String));
-
-// Spy - Observa llamadas reales
-const spy = jest.spyOn(realService, 'method');
-
-// Fake - Implementación simplificada
-class FakeUserRepository implements UserRepository {
-  private users: User[] = [];
-  
-  async save(user: User) { this.users.push(user); }
-  async findById(id: string) { return this.users.find(u => u.id === id); }
-}
-```
+| Pipeline Stage | Trigger Cadence | Budgeted Wall Time | Permitted Infrastructure |
+|---|---|---|---|
+| **Static & Unit Gate** | Every push / PR commit | $< 2\text{ min}$ | In-memory only (types, lint, unit, property-based tests) |
+| **Integration & Contract Gate** | Every PR prior to merge | $3\text{–}7\text{ min}$ | Ephemeral Docker Testcontainers + Pact broker `can-i-deploy` check |
+| **Critical E2E Smoke** | Pre-prod / Merge Queue | $3\text{–}5\text{ min}$ | Ephemeral preview stack + Playwright headless browsers (3–10 core revenue flows) |
+| **Mutation / Load / Soak** | Nightly or Release Candidate | $15\text{–}60\text{ min}$ | Stryker/PIT incremental diffs; k6 arrival-rate stress & memory-leak soak tests |
 
 ---
 
-## 📋 Best Practices
+## 4. Cross-Cutting Engineering Standards
 
-| Practice | Description |
-|----------|-------------|
-| **AAA Pattern** | Arrange, Act, Assert |
-| **One assertion** | Un concepto por test |
-| **Descriptive names** | Nombres que explican qué se testea |
-| **Independent tests** | Tests no dependen de otros |
-| **Fast tests** | Unit tests < 100ms |
-| **Deterministic** | Mismo resultado siempre |
-
----
-
-## 📖 Resources
-
-- 📕 **Book**: "Test-Driven Development" - Kent Beck
-- 📕 **Book**: "Unit Testing Principles" - Vladimir Khorikov
-
----
-
-← [[Programming/Software Engineering/Software Engineering Roadmap|Back to Software Engineering]]
+- **Zero Shared Mutable CI State**: Tests execute in parallel across workers without cross-test ordering assumptions.
+- **No Arbitrary `sleep()` Calls**: Asynchronous waits must poll bounded conditions or attach to deterministic event signals.
+- **Test Doubles Strictly at Unmanaged Boundaries**: Mock external SaaS APIs (`WireMock`, `MSW`), never internal domain collaborators or your own database semantics. See [[Programming/Software Engineering/Clean Architecture/Clean Architecture Complete Guide|Clean Architecture Complete Guide]].

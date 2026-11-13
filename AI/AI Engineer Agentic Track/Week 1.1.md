@@ -15,6 +15,9 @@ module: "Week 1.1 - Concepts & Architectural Patterns"
 > [!info] Navigation
 > Next lesson: [[Week 1.2|Week 1.2 - Agent Traps, Risks & Engineering Mindset]].
 
+> [!tip] Companion Engineering Reference
+> Deep-dive production invariants, failure math, and worked exercises: [[AI/AI Engineering Hub|AI Engineering Hub]] · [[AI/AI Engineering/Agentic Systems, Tool Calling & MCP|Agentic Systems, Tool Calling & MCP]].
+
 ---
 
 ## AI Agents - 3 Primary Definitions

@@ -1,1078 +1,1111 @@
-# Machine Learning - Proyectos Prácticos
+---
+tags:
+  - machine-learning
+  - production-ml
+  - xgboost
+  - pytorch
+  - forecasting
+  - nlp
+  - computer-vision
+created: 2026-01-04
+updated: 2026-11-13
+status: 🟢
+level: mid-to-senior
+---
 
-> **Proyectos completos paso a paso para practicar ML**
-> Última actualización: Enero 2026
+# ML Projects Guide
+
+> [!abstract] Scope
+> End-to-end production ML system design and runnable implementations across four core domains: real-time imbalanced tabular fraud detection, multi-horizon causal demand forecasting, sub-25 ms multi-label NLP triage, and low-sample industrial vision inspection. Integrates statistical invariants from [[Programming/Machine Learning/ML Fundamentals Guide|ML Fundamentals Guide]], model internals from [[Programming/Machine Learning/ML Algorithms Guide|ML Algorithms Guide]] and [[Programming/Machine Learning/Deep Learning Guide|Deep Learning Guide]], and operational pipelines in [[Programming/Machine Learning/MLOps & Production ML Guide|MLOps & Production ML Guide]].
+> Navigation: [[Programming/Machine Learning/ML Hub|ML Hub]]
 
 ---
 
-## Tabla de Contenidos
+## 1. Production Architecture Selection Framework & Universal Invariants
 
-1. [[#Proyecto 1 - Predicción de Precios de Casas|Regresión: Precios de Casas]]
-2. [[#Proyecto 2 - Clasificación de Sentimientos|NLP: Análisis de Sentimientos]]
-3. [[#Proyecto 3 - Clasificación de Imágenes|CNN: Clasificador de Imágenes]]
-4. [[#Proyecto 4 - Sistema de Recomendación|RecSys: Recomendaciones]]
-5. [[#Herramientas y Setup|Setup del Entorno]]
+Shipping production ML fails most often not from optimizer choice, but from mismatching model inductive bias to data geometry, leaking future information across evaluation boundaries, or shipping uncalibrated probabilities into cost-sensitive business rules.
+
+### 1.1 Domain Architecture Selection & Trade-Off Matrix
+
+| Domain & Data Regime | Default First Baseline | Production Escalation | Serving Runtime & Target SLA | Do NOT Use Unless Justified |
+|---|---|---|---|---|
+| **Tabular Risk / Fraud** ($10^4\text{–}10^7$ rows, $0.2\%\text{–}3\%$ positives) | Regularized LogisticRegression + OOF `TargetEncoder` | **LightGBM + Isotonic Calibration + Cost $\tau^*$** | FastAPI + ONNX Runtime (`< 300 ms` e2e w/ feature lookup; `< 5 ms` compute) | Deep tabular MLPs / TabNet (slower tuning, inferior calibration, higher tail latency) |
+| **Multi-Horizon Panel Demand** ($10^3\text{–}10^5$ SKUs, intermittent zeros) | Seasonal Naive + Ridge w/ `shift(H)` lags | **Direct-Pooled LightGBM Quantile (P10/P50/P90) + CQR** or Tweedie | Batch Spark/DuckDB scoring + warehouse write | Unconstrained autoregressive LSTM (compounds step errors over horizon $H$) |
+| **Multi-Label NLP Triage** ($K \ge 10$ tags, strict CPU latency) | `TF-IDF` + `OneVsRest(LogisticRegression)` | **DistilBERT / DeBERTa-v3 $\to$ ONNX Dynamic INT8** (or hybrid cascade) | ONNX Runtime CPU (`< 25 ms` P99 per ticket) | Frontier generative LLMs via HTTP (`200–1500 ms` latency, $100\times$ inference cost) |
+| **Industrial Vision Inspection** ($500\text{–}5{,}000$ images, subtle defects) | Frozen `timm` **ConvNeXt / DINOv2** linear probe | **Two-Stage Differential LR + Albumentations + Grad-CAM** | TensorRT FP16/INT8 or ONNX Static INT8 (`< 10 ms`/frame) | Training ResNet/ViT from scratch (severe memorization & shortcut overfitting) |
+
+### 1.2 Offline-to-Online Validation Gates (Mandatory Before Release)
+
+1. **Zero Temporal & Group Leakage**: Training splits, target encoders, imputation statistics, and rolling features must reflect exact data availability at inference timestamp $t$ (`feat_ts < event_ts`).
+2. **Calibration Verification**: Whenever decision logic uses expected cost or risk tiers, evaluate **Brier Score** and **Expected Calibration Error (ECE)** on a held-out temporal calibration slice—never apply economic thresholds to raw `scale_pos_weight` scores.
+3. **Subgroup Slice Parity**: Verify primary metrics (`PR-AUC`, `wMAPE`, `F1_macro`) across tail classes, cold-start entities, and acquisition cohorts so head classes never mask silent tail collapse.
+4. **Export Numerical Parity**: Measure `max_abs_diff` and rank-correlation between original Python/PyTorch predictions and exported ONNX/TensorRT artifacts (`max_abs_diff < 1e-4` for FP32, `> 0.995` rank correlation for INT8).
+5. **Tail Latency Under Concurrency**: Benchmark P99 end-to-end latency under realistic burst concurrency, including preprocessing, tokenization, feature lookup timeouts, and model execution.
 
 ---
 
-## Herramientas y Setup
+## 2. Project 1: Real-Time Imbalanced Fraud Detection (Tabular, 300 ms SLA)
 
-### Instalación del Entorno
+### 2.1 System Architecture & Non-Negotiable Invariants
 
-```bash
-# Crear entorno virtual
-python -m venv ml_env
-source ml_env/bin/activate  # Linux/Mac
-ml_env\Scripts\activate     # Windows
+Real-time payment fraud combines extreme class imbalance ($0.3\%\text{–}2\%$ fraud), adversarial concept drift, high-cardinality entity identifiers (`merchant_id`, `device_hash`), delayed chargeback labels ($14\text{–}45$ days), and asymmetric misclassification costs ($C_{\text{FN}} \gg C_{\text{FP}}$).
 
-# Librerías fundamentales
-pip install numpy pandas matplotlib seaborn scikit-learn
-
-# Deep Learning
-pip install torch torchvision torchaudio
-pip install transformers datasets
-
-# Extras útiles
-pip install jupyter notebook
-pip install xgboost lightgbm
-pip install plotly
+```mermaid
+flowchart LR
+    EVT["Payment Stream"] --> ASOF["Point-in-Time ASOF Velocity"]
+    ASOF --> SPLIT["Temporal Split + 30d Gap"]
+    SPLIT --> ENC["OOF TargetEncoder + Imputer"]
+    ENC --> GBDT["LightGBM + Isotonic Cal"]
+    GBDT --> TAU["Cost Threshold + ONNX"]
+    TAU --> API["FastAPI Async (0.3s SLA)"]
 ```
 
-### Librerías Principales
+#### Critical Engineering Mechanisms
+
+1. **Point-in-Time `ASOF` Behavioral Velocity**: Raw transaction amount alone misses burst attacks. Features such as `user_tx_count_1h`, `user_amt_sum_24h`, and `device_distinct_users_7d` must aggregate **strictly prior** events (`hist.ts < curr.ts`). Including the current row or post-transaction updates creates silent training-serving skew when online scoring precedes database persistence.
+2. **Maturation-Gap Temporal Splitting**: Recent transactions ($< 30$ days old) lack mature chargeback confirmation; labeling unresolved fraud as benign `0` injects systematic false negatives into training. Partition chronologically: `[Train] -> [30d Maturation Gap] -> [Calibration] -> [Held-out Test]`.
+3. **Out-of-Fold (`cv=5`) Empirical Bayes `TargetEncoder`**: Global target encoding leaks validation labels into training rows for rare categories. Scikit-learn's `TargetEncoder(cv=5, smooth="auto")` computes cross-fitted empirical Bayes smoothed encodings during `.fit_transform(X_train, y_train)` while applying the global smoothed mapping to validation/test rows.
+4. **Isotonic Calibration vs. Platt Scaling**: `IsotonicRegression(out_of_bounds="clip")` fits a non-parametric monotonic step function mapping raw model scores to calibrated probabilities without assuming a sigmoid shape—ideal when calibration slices contain $\ge 1{,}000$ positive events. For smaller calibration slices ($< 300$ positives), use parametric Platt scaling (`LogisticRegression` on log-odds) to avoid overfitting staircase plateaus.
+5. **Expected-Cost Optimal Threshold $\tau^*$**: Given false-positive friction cost $C_{\text{FP}}$ (customer decline / manual review) and missed-fraud loss $C_{\text{FN}}$ (chargeback + goods + fees), declining/challenging maximizes expected profit when expected fraud loss exceeds review cost:
+
+$$p \cdot C_{\text{FN}} > (1 - p) \cdot C_{\text{FP}} \implies \tau^* = \frac{C_{\text{FP}}}{C_{\text{FP}} + C_{\text{FN}}}$$
+
+> [!warning] Never Threshold Uncalibrated `scale_pos_weight` Probabilities
+> Setting `scale_pos_weight = 99` shifts model log-odds upward by $\ln(99) \approx +4.60$. Applying $\tau^* = 0.05$ directly to those distorted probabilities flags legitimate users en masse. Either train with unweighted `binary_logloss` or calibrate raw margins on an unweighted temporal calibration split before thresholding.
+
+### 2.2 Complete Production Training, Calibration & ONNX Export (`fraud_pipeline.py`)
 
 ```python
-# ========================================
-# IMPORTS ESTÁNDAR PARA ML
-# ========================================
-
-# Manipulación de datos
+from pathlib import Path
+import json
 import numpy as np
 import pandas as pd
-
-# Visualización
-import matplotlib.pyplot as plt
-import seaborn as sns
-plt.style.use('seaborn-v0_8-whitegrid')
-
-# Sklearn - Preprocesamiento
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
-from sklearn.impute import SimpleImputer
-
-# Sklearn - Modelos
-from sklearn.linear_model import LogisticRegression, LinearRegression
-from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
-from sklearn.ensemble import GradientBoostingClassifier
-
-# Sklearn - Métricas
-from sklearn.metrics import (
-    accuracy_score, precision_score, recall_score, f1_score,
-    mean_squared_error, r2_score, classification_report,
-    confusion_matrix, roc_auc_score, roc_curve
-)
-
-# Sklearn - Pipelines
-from sklearn.pipeline import Pipeline
+import optuna
+import shap
+import lightgbm as lgb
+import joblib
+import onnxruntime as ort
+from onnxmltools import convert_lightgbm
+from onnxmltools.convert.common.data_types import FloatTensorType
 from sklearn.compose import ColumnTransformer
+from sklearn.impute import SimpleImputer
+from sklearn.isotonic import IsotonicRegression
+from sklearn.metrics import average_precision_score, brier_score_loss
+from sklearn.preprocessing import TargetEncoder
 
-# Configuración
-import warnings
-warnings.filterwarnings('ignore')
+def compute_asof_velocity_features(tx_df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Computes strictly causal trailing behavioral aggregates per user_id using closed='left'
+    so the current transaction never contaminates its own velocity counters.
+    """
+    df = tx_df.sort_values(["user_id", "event_ts"]).reset_index(drop=True)
+    df["event_ts"] = pd.to_datetime(df["event_ts"], utc=True)
 
-# Reproducibilidad
-RANDOM_STATE = 42
-np.random.seed(RANDOM_STATE)
+    counts_1h, sums_24h, secs_since_prev = [], [], []
+    for _, grp in df.groupby("user_id", sort=False):
+        ts_ns = grp["event_ts"].astype("int64").to_numpy()
+        amts = grp["amount_usd"].to_numpy(dtype=np.float64)
+        n = len(grp)
+
+        c1h = np.zeros(n, dtype=np.float32)
+        s24h = np.zeros(n, dtype=np.float32)
+        dt_prev = np.full(n, np.nan, dtype=np.float32)
+
+        left_1h, left_24h = 0, 0
+        running_sum_24h = 0.0
+        one_h_ns = 3600 * 1_000_000_000
+        day_ns = 24 * one_h_ns
+
+        for i in range(n):
+            t_now = ts_ns[i]
+            while left_1h < i and (t_now - ts_ns[left_1h]) > one_h_ns:
+                left_1h += 1
+            while left_24h < i and (t_now - ts_ns[left_24h]) > day_ns:
+                running_sum_24h -= amts[left_24h]
+                left_24h += 1
+
+            # Strict causal window [t_now - window, t_now): excludes i
+            c1h[i] = float(i - left_1h)
+            s24h[i] = float(running_sum_24h)
+            if i > 0:
+                dt_prev[i] = float((t_now - ts_ns[i - 1]) / 1e9)
+            running_sum_24h += amts[i]
+
+        counts_1h.append(c1h)
+        sums_24h.append(s24h)
+        secs_since_prev.append(dt_prev)
+
+    df["user_tx_count_1h"] = np.concatenate(counts_1h)
+    df["user_amt_sum_24h"] = np.concatenate(sums_24h)
+    df["secs_since_prev_tx"] = np.concatenate(secs_since_prev)
+    return df.sort_values("event_ts").reset_index(drop=True)
+
+
+def temporal_split_with_gap(
+    df: pd.DataFrame, time_col: str, maturation_gap_days: int = 30
+) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    """Chronological split enforcing label maturation gap between train and evaluation."""
+    ordered = df.sort_values(time_col).reset_index(drop=True)
+    max_ts = ordered[time_col].max()
+    mature_cutoff = max_ts - pd.Timedelta(days=maturation_gap_days)
+    mature_df = ordered[ordered[time_col] <= mature_cutoff].reset_index(drop=True)
+
+    n = len(mature_df)
+    train_df = mature_df.iloc[: int(0.65 * n)].copy()
+    cal_df = mature_df.iloc[int(0.65 * n) : int(0.80 * n)].copy()
+    test_df = mature_df.iloc[int(0.80 * n) :].copy()
+    return train_df, cal_df, test_df
+
+
+def build_preprocessor(num_cols: list[str], cat_cols: list[str]) -> ColumnTransformer:
+    return ColumnTransformer(
+        transformers=[
+            ("num", SimpleImputer(strategy="median", add_indicator=True), num_cols),
+            ("cat", TargetEncoder(cv=5, smooth="auto", target_type="binary", random_state=42), cat_cols),
+        ],
+        remainder="drop",
+    )
+
+
+def expected_calibration_error(y_true: np.ndarray, y_prob: np.ndarray, n_bins: int = 10) -> float:
+    bins = np.linspace(0.0, 1.0, n_bins + 1)
+    ece = 0.0
+    n = len(y_true)
+    for lo, hi in zip(bins[:-1], bins[1:]):
+        mask = (y_prob >= lo) & (y_prob < hi if hi < 1.0 else y_prob <= hi)
+        if np.any(mask):
+            ece += (np.sum(mask) / n) * abs(float(y_true[mask].mean()) - float(y_prob[mask].mean()))
+    return float(ece)
+
+
+def train_export_fraud_artifacts(
+    raw_df: pd.DataFrame,
+    num_cols: list[str],
+    cat_cols: list[str],
+    artifact_dir: str = "artifacts/fraud_v1",
+    cost_fp: float = 15.0,
+    cost_fn: float = 285.0,
+    n_trials: int = 30,
+) -> dict:
+    out_path = Path(artifact_dir)
+    out_path.mkdir(parents=True, exist_ok=True)
+
+    feat_df = compute_asof_velocity_features(raw_df)
+    train_df, cal_df, test_df = temporal_split_with_gap(feat_df, "event_ts", maturation_gap_days=30)
+
+    all_num = num_cols + ["user_tx_count_1h", "user_amt_sum_24h", "secs_since_prev_tx"]
+    features = all_num + cat_cols
+    prep = build_preprocessor(all_num, cat_cols)
+
+    X_tr = prep.fit_transform(train_df[features], train_df["is_fraud"]).astype(np.float32)
+    X_cal = prep.transform(cal_df[features]).astype(np.float32)
+    X_te = prep.transform(test_df[features]).astype(np.float32)
+    y_tr = train_df["is_fraud"].to_numpy()
+    y_cal = cal_df["is_fraud"].to_numpy()
+    y_te = test_df["is_fraud"].to_numpy()
+
+    def objective(trial: optuna.Trial) -> float:
+        params = {
+            "objective": "binary",
+            "metric": "average_precision",
+            "learning_rate": trial.suggest_float("learning_rate", 0.01, 0.12, log=True),
+            "num_leaves": trial.suggest_int("num_leaves", 15, 95),
+            "min_child_samples": trial.suggest_int("min_child_samples", 30, 300),
+            "subsample": trial.suggest_float("subsample", 0.65, 1.0),
+            "colsample_bytree": trial.suggest_float("colsample_bytree", 0.5, 1.0),
+            "reg_lambda": trial.suggest_float("reg_lambda", 1e-2, 10.0, log=True),
+            "n_estimators": 1200,
+            "random_state": 42,
+            "n_jobs": -1,
+            "verbose": -1,
+        }
+        clf = lgb.LGBMClassifier(**params)
+        pruning_cb = optuna.integration.LightGBMPruningCallback(trial, "average_precision")
+        clf.fit(X_tr, y_tr, eval_set=[(X_cal, y_cal)], callbacks=[lgb.early_stopping(50, verbose=False), pruning_cb])
+        return float(average_precision_score(y_cal, clf.predict_proba(X_cal)[:, 1]))
+
+    study = optuna.create_study(direction="maximize", pruner=optuna.pruners.MedianPruner(n_warmup_steps=10))
+    study.optimize(objective, n_trials=n_trials)
+
+    best_clf = lgb.LGBMClassifier(**study.best_params, n_estimators=1200, random_state=42, n_jobs=-1, verbose=-1)
+    best_clf.fit(X_tr, y_tr, eval_set=[(X_cal, y_cal)], callbacks=[lgb.early_stopping(50, verbose=False)])
+
+    # Isotonic calibration on unweighted temporal calibration slice
+    raw_cal = best_clf.predict_proba(X_cal)[:, 1]
+    iso = IsotonicRegression(out_of_bounds="clip").fit(raw_cal, y_cal)
+
+    raw_te = best_clf.predict_proba(X_te)[:, 1]
+    cal_te = iso.transform(raw_te)
+    tau_opt = cost_fp / (cost_fp + cost_fn)  # 15 / 300 = 0.05
+
+    # Export LightGBM booster to ONNX and verify strict numerical parity
+    n_features = X_tr.shape[1]
+    onnx_model = convert_lightgbm(
+        best_clf.booster_,
+        initial_types=[("float_input", FloatTensorType([None, n_features]))],
+        target_opset=15,
+        zipmap=False,
+    )
+    onnx_path = out_path / "fraud_lgbm.onnx"
+    onnx_path.write_bytes(onnx_model.SerializeToString())
+
+    sess = ort.InferenceSession(str(onnx_path), providers=["CPUExecutionProvider"])
+    onnx_probs = sess.run(None, {"float_input": X_te[:256]})[1][:, 1]
+    max_parity_diff = float(np.max(np.abs(onnx_probs - raw_te[:256])))
+    assert max_parity_diff < 1e-4, f"ONNX parity violation: {max_parity_diff}"
+
+    # Adverse-action SHAP audit on test slice
+    explainer = shap.TreeExplainer(best_clf)
+    shap_vals = explainer.shap_values(X_te[:200])
+    if isinstance(shap_vals, list):
+        shap_vals = shap_vals[1]
+
+    joblib.dump(prep, out_path / "preprocessor.joblib")
+    joblib.dump(iso, out_path / "calibrator.joblib")
+    meta = {"features": features, "tau_opt": tau_opt, "cost_fp": cost_fp, "cost_fn": cost_fn}
+    (out_path / "metadata.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
+
+    return {
+        "test_pr_auc": float(average_precision_score(y_te, cal_te)),
+        "test_brier": float(brier_score_loss(y_te, cal_te)),
+        "test_ece": expected_calibration_error(y_te, cal_te),
+        "tau_opt": tau_opt,
+        "flag_rate": float((cal_te >= tau_opt).mean()),
+        "onnx_max_abs_diff": max_parity_diff,
+        "top_shap_mean_abs": np.abs(shap_vals).mean(axis=0).tolist(),
+    }
 ```
 
----
+### 2.3 Async 0.3s SLA FastAPI ONNX Serving Microservice (`fraud_serving.py`)
 
-## Proyecto 1 - Predicción de Precios de Casas
-
-### Objetivo
-Predecir el precio de venta de casas basándose en sus características.
+In real-time checkout scoring, model inference takes $< 2\text{ ms}$, while network round-trips to feature stores risk breaching the $300\text{ ms}$ SLA under tail GC pauses or cache misses. Enforce bounded `asyncio.wait_for` budgets and deterministic rule-based fallback rather than blocking checkout.
 
 ```python
-# ========================================
-# PROYECTO: PREDICCIÓN DE PRECIOS
-# ========================================
-import pandas as pd
+import asyncio
+import json
+import math
+import time
+from contextlib import asynccontextmanager
+from pathlib import Path
+from typing import Protocol
+
+import joblib
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.preprocessing import StandardScaler
-from sklearn.linear_model import LinearRegression, Ridge
-from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
-from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
+import onnxruntime as ort
+import pandas as pd
+from fastapi import FastAPI
+from pydantic import BaseModel, Field, field_validator
 
-# ----------------------------------------
-# 1. CARGAR Y EXPLORAR DATOS
-# ----------------------------------------
+class FeatureStoreClient(Protocol):
+    async def fetch_user_velocity(self, user_id: str) -> dict[str, float]:
+        ...
 
-# Crear dataset sintético (en la práctica usarías datos reales)
-np.random.seed(42)
-n_samples = 1000
+class InMemoryAsyncFeatureStore:
+    """Thread-safe async feature adapter mimicking Redis hash lookup (< 5ms SLA)."""
 
-data = pd.DataFrame({
-    'area_m2': np.random.uniform(50, 300, n_samples),
-    'habitaciones': np.random.randint(1, 6, n_samples),
-    'baños': np.random.randint(1, 4, n_samples),
-    'antiguedad': np.random.randint(0, 50, n_samples),
-    'tiene_garage': np.random.choice([0, 1], n_samples),
-    'tiene_jardin': np.random.choice([0, 1], n_samples),
-    'piso': np.random.randint(0, 20, n_samples),
-    'distancia_centro_km': np.random.uniform(0.5, 30, n_samples),
-    'zona': np.random.choice(['norte', 'sur', 'este', 'oeste'], n_samples)
-})
+    def __init__(self, initial_state: dict[str, dict[str, float]] | None = None) -> None:
+        self._store = initial_state or {}
 
-# Crear precio (relación realista)
-data['precio'] = (
-    data['area_m2'] * 2000 +
-    data['habitaciones'] * 15000 +
-    data['baños'] * 10000 -
-    data['antiguedad'] * 500 +
-    data['tiene_garage'] * 20000 +
-    data['tiene_jardin'] * 15000 -
-    data['distancia_centro_km'] * 1500 +
-    np.random.normal(0, 20000, n_samples)
-)
+    async def fetch_user_velocity(self, user_id: str) -> dict[str, float]:
+        await asyncio.sleep(0.002)  # Simulate 2ms network RTT
+        return self._store.get(
+            user_id,
+            {"user_tx_count_1h": float("nan"), "user_amt_sum_24h": float("nan"), "secs_since_prev_tx": float("nan")},
+        )
 
-print("="*50)
-print("EXPLORACIÓN DE DATOS")
-print("="*50)
-print(f"\nShape: {data.shape}")
-print(f"\nPrimeras filas:\n{data.head()}")
-print(f"\nEstadísticas:\n{data.describe()}")
-print(f"\nValores nulos:\n{data.isnull().sum()}")
+class FraudScoreRequest(BaseModel):
+    tx_id: str = Field(min_length=1, max_length=64)
+    user_id: str = Field(min_length=1, max_length=64)
+    merchant_id: str = Field(min_length=1, max_length=64)
+    country_code: str = Field(pattern=r"^[A-Z]{2}$")
+    amount_usd: float = Field(ge=0.0, le=250_000.0)
+    card_present: int = Field(ge=0, le=1)
 
-# ----------------------------------------
-# 2. ANÁLISIS EXPLORATORIO (EDA)
-# ----------------------------------------
+    @field_validator("amount_usd")
+    @classmethod
+    def check_finite_amount(cls, v: float) -> float:
+        if not math.isfinite(v):
+            raise ValueError("amount_usd must be finite")
+        return v
 
-fig, axes = plt.subplots(2, 3, figsize=(15, 10))
+class FraudScoreResponse(BaseModel):
+    tx_id: str
+    calibrated_prob: float
+    decision: str
+    degraded_fallback: bool
+    latency_ms: float
 
-# Distribución del precio
-axes[0, 0].hist(data['precio'], bins=30, edgecolor='black')
-axes[0, 0].set_title('Distribución de Precios')
-axes[0, 0].set_xlabel('Precio')
+class FraudEngine:
+    def __init__(self, artifact_dir: Path, feature_store: FeatureStoreClient) -> None:
+        self.prep = joblib.load(artifact_dir / "preprocessor.joblib")
+        self.calibrator = joblib.load(artifact_dir / "calibrator.joblib")
+        self.meta = json.loads((artifact_dir / "metadata.json").read_text(encoding="utf-8"))
+        sess_opts = ort.SessionOptions()
+        sess_opts.intra_op_num_threads = 1  # Avoid thread-pool contention under async workers
+        self.session = ort.InferenceSession(
+            str(artifact_dir / "fraud_lgbm.onnx"), sess_options=sess_opts, providers=["CPUExecutionProvider"]
+        )
+        self.input_name = self.session.get_inputs()[0].name
+        self.feature_store = feature_store
 
-# Precio vs Area
-axes[0, 1].scatter(data['area_m2'], data['precio'], alpha=0.5)
-axes[0, 1].set_title('Precio vs Área')
-axes[0, 1].set_xlabel('Área (m²)')
-axes[0, 1].set_ylabel('Precio')
+    def _score_sync(self, row_df: pd.DataFrame) -> float:
+        x_mat = self.prep.transform(row_df[self.meta["features"]]).astype(np.float32)
+        raw_prob = float(self.session.run(None, {self.input_name: x_mat})[1][0, 1])
+        return float(self.calibrator.transform(np.array([raw_prob]))[0])
 
-# Precio vs Habitaciones
-data.boxplot(column='precio', by='habitaciones', ax=axes[0, 2])
-axes[0, 2].set_title('Precio por Habitaciones')
+    async def score_with_sla(self, req: FraudScoreRequest, sla_budget_s: float = 0.25) -> FraudScoreResponse:
+        t0 = time.perf_counter()
+        try:
+            async with asyncio.timeout(sla_budget_s):
+                vel = await self.feature_store.fetch_user_velocity(req.user_id)
+                row = {
+                    "amount_usd": req.amount_usd,
+                    "card_present": float(req.card_present),
+                    "merchant_id": req.merchant_id,
+                    "country_code": req.country_code,
+                    **vel,
+                }
+                row_df = pd.DataFrame([row])
+                cal_prob = await asyncio.to_thread(self._score_sync, row_df)
+                decision = "CHALLENGE" if cal_prob >= float(self.meta["tau_opt"]) else "APPROVE"
+                return FraudScoreResponse(
+                    tx_id=req.tx_id,
+                    calibrated_prob=round(cal_prob, 5),
+                    decision=decision,
+                    degraded_fallback=False,
+                    latency_ms=round((time.perf_counter() - t0) * 1000.0, 2),
+                )
+        except TimeoutError:
+            # Deterministic fail-safe within 0.3s checkout SLA if Redis/scoring stalls
+            fallback_decision = "CHALLENGE" if req.amount_usd >= 5000.0 else "APPROVE"
+            return FraudScoreResponse(
+                tx_id=req.tx_id,
+                calibrated_prob=-1.0,
+                decision=fallback_decision,
+                degraded_fallback=True,
+                latency_ms=round((time.perf_counter() - t0) * 1000.0, 2),
+            )
 
-# Matriz de correlación
-numeric_cols = data.select_dtypes(include=[np.number]).columns
-corr_matrix = data[numeric_cols].corr()
-sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', ax=axes[1, 0], fmt='.2f')
-axes[1, 0].set_title('Correlación')
+engine_state: dict[str, FraudEngine] = {}
 
-# Precio por zona
-data.groupby('zona')['precio'].mean().plot(kind='bar', ax=axes[1, 1])
-axes[1, 1].set_title('Precio Promedio por Zona')
-axes[1, 1].tick_params(axis='x', rotation=45)
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    store = InMemoryAsyncFeatureStore({"u_high_risk": {"user_tx_count_1h": 9.0, "user_amt_sum_24h": 4200.0, "secs_since_prev_tx": 14.0}})
+    engine_state["fraud"] = FraudEngine(Path("artifacts/fraud_v1"), feature_store=store)
+    yield
+    engine_state.clear()
 
-# Precio vs Antigüedad
-axes[1, 2].scatter(data['antiguedad'], data['precio'], alpha=0.5)
-axes[1, 2].set_title('Precio vs Antigüedad')
-axes[1, 2].set_xlabel('Antigüedad (años)')
+app = FastAPI(title="Fraud Scoring API", lifespan=lifespan)
 
-plt.tight_layout()
-plt.show()
-
-# ----------------------------------------
-# 3. PREPARACIÓN DE DATOS
-# ----------------------------------------
-
-# Separar features y target
-X = data.drop('precio', axis=1)
-y = data['precio']
-
-# One-hot encoding para zona
-X = pd.get_dummies(X, columns=['zona'], prefix='zona')
-
-# División train/test
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42
-)
-
-# Escalar features numéricas
-scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_test_scaled = scaler.transform(X_test)
-
-print("\n" + "="*50)
-print("DATOS PREPARADOS")
-print("="*50)
-print(f"Train: {X_train.shape}, Test: {X_test.shape}")
-print(f"Features: {list(X.columns)}")
-
-# ----------------------------------------
-# 4. ENTRENAR Y COMPARAR MODELOS
-# ----------------------------------------
-
-models = {
-    'Linear Regression': LinearRegression(),
-    'Ridge': Ridge(alpha=1.0),
-    'Random Forest': RandomForestRegressor(n_estimators=100, random_state=42),
-    'Gradient Boosting': GradientBoostingRegressor(n_estimators=100, random_state=42)
-}
-
-print("\n" + "="*50)
-print("COMPARACIÓN DE MODELOS")
-print("="*50)
-
-results = []
-for name, model in models.items():
-    # Cross-validation
-    cv_scores = cross_val_score(model, X_train_scaled, y_train, cv=5, scoring='r2')
-    
-    # Entrenar y predecir
-    model.fit(X_train_scaled, y_train)
-    y_pred = model.predict(X_test_scaled)
-    
-    # Métricas
-    r2 = r2_score(y_test, y_pred)
-    rmse = np.sqrt(mean_squared_error(y_test, y_pred))
-    mae = mean_absolute_error(y_test, y_pred)
-    
-    results.append({
-        'Modelo': name,
-        'R² CV': f"{cv_scores.mean():.3f} ± {cv_scores.std():.3f}",
-        'R² Test': f"{r2:.3f}",
-        'RMSE': f"{rmse:,.0f}",
-        'MAE': f"{mae:,.0f}"
-    })
-    
-results_df = pd.DataFrame(results)
-print(results_df.to_string(index=False))
-
-# ----------------------------------------
-# 5. ANALIZAR MEJOR MODELO
-# ----------------------------------------
-
-best_model = models['Random Forest']
-best_model.fit(X_train_scaled, y_train)
-y_pred = best_model.predict(X_test_scaled)
-
-# Importancia de features
-feature_importance = pd.DataFrame({
-    'feature': X.columns,
-    'importance': best_model.feature_importances_
-}).sort_values('importance', ascending=False)
-
-print("\n" + "="*50)
-print("IMPORTANCIA DE FEATURES (Random Forest)")
-print("="*50)
-print(feature_importance.to_string(index=False))
-
-# Visualizar predicciones vs reales
-fig, axes = plt.subplots(1, 2, figsize=(14, 5))
-
-# Predicciones vs Reales
-axes[0].scatter(y_test, y_pred, alpha=0.5)
-axes[0].plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'r--', lw=2)
-axes[0].set_xlabel('Precio Real')
-axes[0].set_ylabel('Precio Predicho')
-axes[0].set_title('Predicciones vs Valores Reales')
-
-# Residuos
-residuals = y_test - y_pred
-axes[1].hist(residuals, bins=30, edgecolor='black')
-axes[1].axvline(x=0, color='r', linestyle='--')
-axes[1].set_xlabel('Residuo')
-axes[1].set_title('Distribución de Residuos')
-
-plt.tight_layout()
-plt.show()
-
-# ----------------------------------------
-# 6. PREDICCIÓN CON NUEVA CASA
-# ----------------------------------------
-
-print("\n" + "="*50)
-print("PREDICCIÓN DE NUEVA CASA")
-print("="*50)
-
-nueva_casa = pd.DataFrame({
-    'area_m2': [150],
-    'habitaciones': [3],
-    'baños': [2],
-    'antiguedad': [5],
-    'tiene_garage': [1],
-    'tiene_jardin': [1],
-    'piso': [3],
-    'distancia_centro_km': [8],
-    'zona_este': [0],
-    'zona_norte': [1],
-    'zona_oeste': [0],
-    'zona_sur': [0]
-})
-
-nueva_casa_scaled = scaler.transform(nueva_casa)
-precio_predicho = best_model.predict(nueva_casa_scaled)[0]
-
-print(f"\nCaracterísticas:")
-print(f"  - Área: 150 m²")
-print(f"  - Habitaciones: 3")
-print(f"  - Baños: 2")
-print(f"  - Antigüedad: 5 años")
-print(f"  - Con garage y jardín")
-print(f"  - Zona norte, 8km del centro")
-print(f"\n💰 Precio Predicho: ${precio_predicho:,.0f}")
+@app.post("/v1/score", response_model=FraudScoreResponse)
+async def score_transaction(req: FraudScoreRequest) -> FraudScoreResponse:
+    return await engine_state["fraud"].score_with_sla(req, sla_budget_s=0.25)
 ```
 
 ---
 
-## Proyecto 2 - Clasificación de Sentimientos
+## 3. Project 2: Multi-Horizon Causal Demand Forecasting
 
-### Objetivo
-Clasificar reseñas de películas como positivas o negativas.
+### 3.1 System Architecture & Causality Invariants
+
+Multi-SKU demand forecasting must produce coherent multi-day trajectories across horizons $h \in \{1, \dots, H\}$ while handling intermittent zero sales, price/promotion spikes, and inventory asymmetric penalties requiring calibrated **P10 / P50 / P90 prediction intervals**.
+
+```mermaid
+flowchart LR
+    PANEL["SKU Demand Panel"] --> HOR["Direct Horizon Expansion"]
+    HOR --> CAUSAL["Strict shift(h) Lags + Rolling"]
+    CAUSAL --> CVSPLIT["Date TimeSeriesSplit (gap>=H)"]
+    CVSPLIT --> Q["LGBM Pinball (P10, P50, P90)"]
+    Q --> CQR["Split Conformal (CQR) + Crossing Fix"]
+```
+
+#### Recursive vs. Direct vs. Direct-Pooled Multi-Horizon Trade-offs
+
+| Strategy | Formulation | Error Accumulation? | Cross-Horizon Capacity | Production Verdict |
+|---|---|---|---|---|
+| **Recursive** | Fit 1-step model $\hat{y}_{t+1} = f(y_t, \dots)$; feed $\hat{y}_{t+1}$ back as lag to predict $t+2 \dots t+H$ | **Severe**: lag bias/variance compounds exponentially; breaks quantile coverage | Single model; fast to train | Avoid for $H > 3$ or volatile promo series |
+| **Independent Direct** | Train $H$ separate models $f_h(x_t)$ predicting $y_{t+h}$ directly from origin $t$ | **Zero** | Ignores shared seasonal/elasticity structure across $h=1\dots H$; $H\times$ maintenance | Good when horizons have distinct dynamics and large data |
+| **Direct-Pooled** | Expand panel by `horizon_step` $h \in [1, H]$, shifting lags $\ge h$, fitting one global model $f(x_t, h)$ | **Zero** | Pools all $(t, h)$ pairs across SKUs & horizons; clean single artifact | **Recommended production default** for panel GBDTs |
+
+#### Zero-Inflated Intermittent Demand & Metric Selection
+
+- **Why MAPE Fails**: $\text{MAPE} = \frac{1}{N} \sum \frac{|y_i - \hat{y}_i|}{|y_i|}$ diverges whenever $y_i = 0$ and biases models toward zero-underforecasting on low-volume SKUs. Replace MAPE with **Weighted MAPE (wMAPE)**:
+
+$$\text{wMAPE} = \frac{\sum_{i=1}^N |y_i - \hat{y}_{50, i}|}{\sum_{i=1}^N |y_i|}$$
+
+- **Intermittent / Count Formulations**: When $>40\%$ of SKU-days equal zero (spare parts, slow-moving retail), compare:
+  1. **Tweedie Regression** (`objective="tweedie", tweedie_variance_power=1.3`): Models compound Poisson-Gamma distributions natively combining zero mass with right-skewed continuous magnitudes.
+  2. **Two-Stage Hurdle Model**: Separate binary classifier $\hat{p}_i = P(Y_i > 0 \mid X_i)$ multiplied by conditional positive regressor $\hat{\mu}_i^+ = \mathbb{E}[Y_i \mid Y_i > 0, X_i]$.
+- **Pinball Loss & Split Conformalized Quantile Regression (CQR)**: Tree quantile models train with asymmetric Pinball Loss for $q \in \{0.1, 0.5, 0.9\}$:
+
+$$L_q(y, \hat{y}_q) = \max\big(q(y - \hat{y}_q),\ (q - 1)(y - \hat{y}_q)\big)$$
+
+However, raw GBDT quantiles routinely under-cover on unseen dates (achieving 68% instead of nominal 80% empirical coverage). **Conformalized Quantile Regression (CQR)** adds a distribution-free finite-sample guarantee by computing conformity scores on a held-out calibration block:
+
+$$E_i = \max\big(\hat{q}_{\text{lo}}(x_i) - y_i,\ y_i - \hat{q}_{\text{hi}}(x_i)\big)$$
+
+Taking the $(1 - \alpha)(1 + 1/n_{\text{cal}})$ empirical quantile $s_{1-\alpha}$ of $\{E_i\}$ yields calibrated intervals $[\hat{q}_{\text{lo}}(x) - s_{1-\alpha},\ \hat{q}_{\text{hi}}(x) + s_{1-\alpha}]$.
+
+### 3.2 Complete Causal Direct-Pooled Quantile + CQR Pipeline (`demand_forecasting.py`)
 
 ```python
-# ========================================
-# PROYECTO: ANÁLISIS DE SENTIMIENTOS
-# ========================================
 import numpy as np
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report, confusion_matrix
-import re
+import lightgbm as lgb
+from sklearn.model_selection import TimeSeriesSplit
 
-# ----------------------------------------
-# 1. CREAR/CARGAR DATOS
-# ----------------------------------------
+def pinball_loss(y_true: np.ndarray, y_pred: np.ndarray, q: float) -> float:
+    err = y_true - y_pred
+    return float(np.mean(np.maximum(q * err, (q - 1.0) * err)))
 
-# Dataset de ejemplo (en práctica: IMDB, Yelp, Twitter, etc.)
-reviews = [
-    # Positivas
-    "Esta película es increíble, la mejor que he visto",
-    "Excelente actuación y una historia conmovedora",
-    "Me encantó cada minuto, muy recomendada",
-    "Una obra maestra del cine contemporáneo",
-    "Los efectos especiales son impresionantes",
-    "La mejor película del año sin duda",
-    "Historia emotiva con un final perfecto",
-    "Gran dirección y fotografía espectacular",
-    "Actuaciones brillantes de todo el elenco",
-    "Me hizo reír y llorar, película completa",
-    "Increíble desarrollo de personajes",
-    "Visualmente impresionante y bien escrita",
-    
-    # Negativas
-    "Película aburrida y predecible",
-    "No vale la pena perder el tiempo",
-    "Pésimas actuaciones y guión terrible",
-    "La peor película que he visto en años",
-    "Historia sin sentido y mal ejecutada",
-    "Totalmente decepcionante y aburrida",
-    "No la recomiendo para nada",
-    "Desperdicio de tiempo y dinero",
-    "Efectos baratos y actuación horrible",
-    "Final absurdo que arruina todo",
-    "Película vacía y sin emoción",
-    "Muy mala, evítenla a toda costa"
-]
+def wmape(y_true: np.ndarray, y_pred: np.ndarray) -> float:
+    return float(np.sum(np.abs(y_true - y_pred)) / np.maximum(np.sum(np.abs(y_true)), 1e-9))
 
-labels = [1]*12 + [0]*12  # 1=positivo, 0=negativo
+def build_causal_direct_panel(df: pd.DataFrame, max_horizon: int = 14) -> pd.DataFrame:
+    """
+    Expands SKU daily demand into direct-pooled (origin_date, horizon_step) training rows.
+    Every historical feature is anchored strictly <= origin_date (zero leakage into target_date).
+    """
+    base = df.sort_values(["sku_id", "date"]).copy()
+    base["date"] = pd.to_datetime(base["date"])
+    g = base.groupby("sku_id")["demand"]
 
-# Convertir a DataFrame
-data = pd.DataFrame({'text': reviews, 'sentiment': labels})
-print("Dataset:")
-print(data.head(10))
-print(f"\nDistribución: {data['sentiment'].value_counts().to_dict()}")
+    # Origin-time features known at forecast creation timestamp t_0
+    base["orig_lag_0"] = base["demand"]
+    base["orig_lag_7"] = g.shift(7)
+    base["orig_lag_28"] = g.shift(28)
+    base["orig_roll_mean_7"] = g.transform(lambda s: s.rolling(7, min_periods=1).mean())
+    base["orig_roll_std_28"] = g.transform(lambda s: s.rolling(28, min_periods=7).std())
+    base["orig_zero_rate_28"] = g.transform(lambda s: (s == 0).astype(float).rolling(28, min_periods=7).mean())
 
-# ----------------------------------------
-# 2. PREPROCESAMIENTO DE TEXTO
-# ----------------------------------------
+    frames = []
+    for h in range(1, max_horizon + 1):
+        sub = base.copy()
+        sub["horizon_step"] = h
+        sub["origin_date"] = sub["date"]
+        sub["target_date"] = sub["origin_date"] + pd.to_timedelta(h, unit="D")
+        # Future target y_{t0 + h}; promo_planned at target_date merged separately if deterministic
+        sub["target_demand"] = sub.groupby("sku_id")["demand"].shift(-h)
+        frames.append(sub)
 
-def preprocess_text(text):
-    """Limpieza básica de texto"""
-    # Minúsculas
-    text = text.lower()
-    # Eliminar caracteres especiales
-    text = re.sub(r'[^\w\s]', '', text)
-    # Eliminar números
-    text = re.sub(r'\d+', '', text)
-    # Eliminar espacios extra
-    text = ' '.join(text.split())
-    return text
+    panel = pd.concat(frames, ignore_index=True)
+    panel = panel.dropna(subset=["target_demand", "orig_lag_28", "orig_roll_std_28"]).reset_index(drop=True)
 
-data['text_clean'] = data['text'].apply(preprocess_text)
-print("\nTexto limpio:")
-print(data[['text', 'text_clean']].head())
+    # Calendar encodings belong strictly to target_date (known deterministically in advance)
+    doy = panel["target_date"].dt.dayofyear
+    panel["target_doy_sin"] = np.sin(2.0 * np.pi * doy / 365.25)
+    panel["target_doy_cos"] = np.cos(2.0 * np.pi * doy / 365.25)
+    panel["target_dow"] = panel["target_date"].dt.dayofweek.astype("category")
+    panel["sku_id"] = panel["sku_id"].astype("category")
+    return panel.sort_values(["origin_date", "sku_id", "horizon_step"]).reset_index(drop=True)
 
-# ----------------------------------------
-# 3. VECTORIZACIÓN (TF-IDF)
-# ----------------------------------------
 
-# División
-X_train, X_test, y_train, y_test = train_test_split(
-    data['text_clean'], data['sentiment'], 
-    test_size=0.25, random_state=42
-)
+def fit_cqr_quantile_forecaster(
+    panel: pd.DataFrame,
+    feature_cols: list[str],
+    max_horizon: int = 14,
+    alpha: float = 0.20,  # 80% prediction interval -> P10 and P90
+) -> dict:
+    # Split strictly by unique origin_date with gap >= max_horizon so targets never overlap folds
+    unique_origins = panel["origin_date"].drop_duplicates().sort_values().to_numpy()
+    tscv = TimeSeriesSplit(n_splits=4, gap=max_horizon)
 
-# TF-IDF Vectorizer
-vectorizer = TfidfVectorizer(
-    max_features=1000,      # Máximo vocabulario
-    ngram_range=(1, 2),     # Unigramas y bigramas
-    min_df=1,               # Mínimo documentos
-    stop_words=None         # Podemos añadir stopwords en español
-)
+    quantiles = [alpha / 2.0, 0.5, 1.0 - alpha / 2.0]  # [0.1, 0.5, 0.9]
+    oof_preds = {q: np.full(len(panel), np.nan) for q in quantiles}
 
-X_train_tfidf = vectorizer.fit_transform(X_train)
-X_test_tfidf = vectorizer.transform(X_test)
+    for tr_idx, val_idx in tscv.split(unique_origins):
+        tr_dates = set(unique_origins[tr_idx])
+        val_dates = set(unique_origins[val_idx])
+        tr_mask = panel["origin_date"].isin(tr_dates)
+        val_mask = panel["origin_date"].isin(val_dates)
 
-print(f"\nVocabulario: {len(vectorizer.vocabulary_)} términos")
-print(f"Shape train: {X_train_tfidf.shape}")
+        # Hold last 20% of validation fold origins for CQR calibration or use final fold calibration
+        X_tr, y_tr = panel.loc[tr_mask, feature_cols], panel.loc[tr_mask, "target_demand"]
+        X_val, y_val = panel.loc[val_mask, feature_cols], panel.loc[val_mask, "target_demand"]
 
-# Top términos por TF-IDF
-feature_names = vectorizer.get_feature_names_out()
-print(f"\nAlgunos términos: {list(feature_names[:20])}")
+        for q in quantiles:
+            model = lgb.LGBMRegressor(
+                objective="quantile",
+                alpha=q,
+                learning_rate=0.05,
+                num_leaves=63,
+                min_child_samples=40,
+                n_estimators=700,
+                random_state=42,
+                n_jobs=-1,
+                verbose=-1,
+            )
+            model.fit(X_tr, y_tr, eval_set=[(X_val, y_val)], callbacks=[lgb.early_stopping(40, verbose=False)])
+            oof_preds[q][val_mask] = np.clip(model.predict(X_val), 0.0, None)
 
-# ----------------------------------------
-# 4. ENTRENAR MODELOS
-# ----------------------------------------
+    valid_mask = ~np.isnan(oof_preds[0.5])
+    y_valid = panel.loc[valid_mask, "target_demand"].to_numpy()
+    raw_mat = np.vstack([oof_preds[quantiles[0]][valid_mask], oof_preds[0.5][valid_mask], oof_preds[quantiles[2]][valid_mask]]).T
 
-models = {
-    'Logistic Regression': LogisticRegression(random_state=42),
-    'Naive Bayes': MultinomialNB(),
-    'Random Forest': RandomForestClassifier(n_estimators=100, random_state=42)
-}
+    # Repair quantile crossing before CQR adjustment: P10 <= P50 <= P90
+    repaired = np.maximum.accumulate(raw_mat, axis=1)
 
-print("\n" + "="*50)
-print("RESULTADOS")
-print("="*50)
+    # Split OOF evaluation chronologically into CQR Calibration (first 50%) and Test (last 50%)
+    mid = len(y_valid) // 2
+    cal_y, test_y = y_valid[:mid], y_valid[mid:]
+    cal_lo, cal_hi = repaired[:mid, 0], repaired[:mid, 2]
+    test_lo, test_p50, test_hi = repaired[mid:, 0], repaired[mid:, 1], repaired[mid:, 2]
 
-for name, model in models.items():
-    model.fit(X_train_tfidf, y_train)
-    y_pred = model.predict(X_test_tfidf)
-    
-    print(f"\n{name}:")
-    print(classification_report(y_test, y_pred, 
-                                target_names=['Negativo', 'Positivo']))
+    cqr_scores = np.maximum(cal_lo - cal_y, cal_y - cal_hi)
+    n_cal = len(cqr_scores)
+    q_level = min(1.0, (1.0 - alpha) * (1.0 + 1.0 / n_cal))
+    s_adj = float(np.quantile(cqr_scores, q_level, method="higher"))
 
-# ----------------------------------------
-# 5. ANALIZAR MODELO
-# ----------------------------------------
+    adj_lo = np.clip(test_lo - s_adj, 0.0, None)
+    adj_hi = np.clip(test_hi + s_adj, 0.0, None)
 
-# Usar Logistic Regression para interpretabilidad
-best_model = models['Logistic Regression']
+    raw_cov = float(np.mean((test_y >= test_lo) & (test_y <= test_hi)))
+    cqr_cov = float(np.mean((test_y >= adj_lo) & (test_y <= adj_hi)))
 
-# Palabras más influyentes
-coef = best_model.coef_[0]
-top_positive = np.argsort(coef)[-10:]
-top_negative = np.argsort(coef)[:10]
-
-print("\n" + "="*50)
-print("PALABRAS MÁS INFLUYENTES")
-print("="*50)
-print("\n🟢 Palabras positivas:")
-for idx in top_positive[::-1]:
-    print(f"  {feature_names[idx]}: {coef[idx]:.3f}")
-
-print("\n🔴 Palabras negativas:")
-for idx in top_negative:
-    print(f"  {feature_names[idx]}: {coef[idx]:.3f}")
-
-# ----------------------------------------
-# 6. PREDECIR NUEVAS RESEÑAS
-# ----------------------------------------
-
-print("\n" + "="*50)
-print("PREDICCIONES NUEVAS")
-print("="*50)
-
-new_reviews = [
-    "Una película fantástica que disfruté mucho",
-    "No me gustó nada, muy aburrida",
-    "Regular, tiene cosas buenas y malas"
-]
-
-for review in new_reviews:
-    review_clean = preprocess_text(review)
-    review_tfidf = vectorizer.transform([review_clean])
-    
-    prediction = best_model.predict(review_tfidf)[0]
-    probability = best_model.predict_proba(review_tfidf)[0]
-    
-    sentiment = "😊 Positivo" if prediction == 1 else "😞 Negativo"
-    confidence = max(probability) * 100
-    
-    print(f"\n\"{review}\"")
-    print(f"  → {sentiment} (Confianza: {confidence:.1f}%)")
+    return {
+        "test_wmape_p50": wmape(test_y, test_p50),
+        "raw_pinball_p10": pinball_loss(test_y, test_lo, quantiles[0]),
+        "raw_pinball_p90": pinball_loss(test_y, test_hi, quantiles[2]),
+        "raw_coverage": raw_cov,
+        "cqr_shift": s_adj,
+        "cqr_coverage": cqr_cov,
+    }
 ```
 
 ---
 
-## Proyecto 3 - Clasificación de Imágenes
+## 4. Project 3: Low-Latency Multi-Label NLP Support Triage (< 25 ms SLA)
 
-### Objetivo
-Clasificar imágenes usando CNN con PyTorch.
+### 4.1 System Architecture & Latency Discipline
+
+Enterprise ticket routing assigns $K$ non-exclusive tags per text payload ($\mathbf{y} \in \{0, 1\}^K$) under a strict CPU inference ceiling ($\le 25\text{ ms}$ P99). Always verify whether a `< 1 ms` sparse linear model meets recall targets before paying transformer latency, and compress transformer deployments via **ONNX Runtime Dynamic INT8 Quantization**.
+
+```mermaid
+flowchart LR
+    TXT["Ticket Text"] --> TFIDF["TF-IDF + LogReg (<1ms)"]
+    TXT --> FT["DeBERTa / DistilBERT (BCE)"]
+    FT --> THR["Per-Label Val Thresholds"]
+    THR --> INT8["ONNX Dynamic INT8"]
+    TFIDF & INT8 --> SLA["P99 < 25ms + F1_macro Gate"]
+```
+
+#### Core Engineering Invariants
+
+1. **`BCEWithLogitsLoss` vs. `CrossEntropyLoss`**: Multi-label prediction models $K$ independent Bernoulli events $p_k = \sigma(z_k)$. Applying `CrossEntropyLoss` forces $\sum_k p_k = 1$, punishing secondary tags whenever a primary tag has high confidence. Use `BCEWithLogitsLoss(pos_weight=capped_weights)` where `pos_weight = torch.clamp((N - N_k) / max(N_k, 1), max=10.0)` prevents rare-class gradient explosions.
+2. **Checkpoint on `F1_macro`, Not `F1_micro`**: `F1_micro` aggregates TP/FP/FN globally, letting 3 high-volume classes hide complete collapse (`F1 = 0.0`) on 15 long-tail routing queues. Checkpoint and tune thresholds on **`F1_macro`**.
+3. **Per-Label Threshold Optimization ($\tau_1, \dots, \tau_K$)**: A uniform `0.5` cutoff misaligns with skewed class priors. Sweep thresholds $\tau_k \in [0.15, 0.85]$ exclusively on the **validation** split (with minimum support guard `pos_count >= 15`, else retain `0.5` to prevent overfitting single-digit tail tags).
+4. **ONNX Dynamic INT8 Quantization**: Quantizes dense `MatMul`/`Gemm` weights offline to `int8` while dynamically quantizing activations at runtime. Shrinks transformer artifact footprint $\sim 3.5\times$ and accelerates CPU P99 latency $2.5\text{–}3.5\times$ with $< 0.5\%$ `F1_macro` variance.
+
+### 4.2 Complete Sparse Baseline, Fine-Tuning, Threshold Tuning & INT8 Benchmark (`nlp_triage.py`)
 
 ```python
-# ========================================
-# PROYECTO: CLASIFICACIÓN DE IMÁGENES (CNN)
-# ========================================
+import time
+import numpy as np
 import torch
 import torch.nn as nn
-import torch.optim as optim
-from torch.utils.data import DataLoader
-import torchvision
-import torchvision.transforms as transforms
-import matplotlib.pyplot as plt
-import numpy as np
+import onnxruntime as ort
+from onnxruntime.quantization import QuantType, quantize_dynamic
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import f1_score
+from sklearn.multiclass import OneVsRestClassifier
+from sklearn.pipeline import Pipeline
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, get_cosine_schedule_with_warmup
 
-# Configuración
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-print(f"Usando: {device}")
+def run_sparse_baseline(train_texts: list[str], y_train: np.ndarray, val_texts: list[str], y_val: np.ndarray) -> dict:
+    pipe = Pipeline([
+        ("tfidf", TfidfVectorizer(ngram_range=(1, 2), max_features=60_000, sublinear_tf=True)),
+        ("clf", OneVsRestClassifier(LogisticRegression(C=2.0, class_weight="balanced", max_iter=500))),
+    ])
+    pipe.fit(train_texts, y_train)
+    t0 = time.perf_counter()
+    probs = pipe.predict_proba(val_texts)
+    ms_per_doc = ((time.perf_counter() - t0) / max(1, len(val_texts))) * 1000.0
+    preds = (probs >= 0.5).astype(int)
+    return {
+        "f1_macro": float(f1_score(y_val, preds, average="macro", zero_division=0)),
+        "f1_micro": float(f1_score(y_val, preds, average="micro", zero_division=0)),
+        "avg_ms_per_doc": round(ms_per_doc, 4),
+        "pipeline": pipe,
+    }
 
-# ----------------------------------------
-# 1. CARGAR DATOS (CIFAR-10)
-# ----------------------------------------
 
-# Data augmentation para entrenamiento
-train_transform = transforms.Compose([
-    transforms.RandomHorizontalFlip(),
-    transforms.RandomRotation(10),
-    transforms.RandomCrop(32, padding=4),
-    transforms.ToTensor(),
-    transforms.Normalize((0.4914, 0.4822, 0.4465), 
-                         (0.2023, 0.1994, 0.2010))
-])
+def tune_per_label_thresholds(val_probs: np.ndarray, val_labels: np.ndarray, min_pos_support: int = 15) -> np.ndarray:
+    num_labels = val_labels.shape[1]
+    thresholds = np.full(num_labels, 0.5, dtype=np.float32)
+    grid = np.linspace(0.15, 0.85, 29)
 
-test_transform = transforms.Compose([
-    transforms.ToTensor(),
-    transforms.Normalize((0.4914, 0.4822, 0.4465), 
-                         (0.2023, 0.1994, 0.2010))
-])
+    for k in range(num_labels):
+        if int(val_labels[:, k].sum()) < min_pos_support:
+            continue  # Avoid overfitting thresholds on ultra-rare classes
+        best_tau, best_f1 = 0.5, -1.0
+        for tau in grid:
+            score = f1_score(val_labels[:, k], (val_probs[:, k] >= tau).astype(int), zero_division=0)
+            if score > best_f1:
+                best_f1, best_tau = score, float(tau)
+        thresholds[k] = best_tau
+    return thresholds
 
-# Descargar CIFAR-10
-train_dataset = torchvision.datasets.CIFAR10(
-    root='./data', train=True, download=True, transform=train_transform
-)
-test_dataset = torchvision.datasets.CIFAR10(
-    root='./data', train=False, download=True, transform=test_transform
-)
 
-# DataLoaders
-train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True, num_workers=2)
-test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False, num_workers=2)
+def finetune_multilabel_transformer(
+    model_name: str,
+    train_loader,
+    val_loader,
+    y_train_matrix: np.ndarray,
+    num_labels: int,
+    save_path: str = "best_triage_model.pt",
+    epochs: int = 4,
+    lr: float = 2e-5,
+) -> tuple[float, np.ndarray]:
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model = AutoModelForSequenceClassification.from_pretrained(
+        model_name, num_labels=num_labels, problem_type="multi_label_classification"
+    ).to(device)
 
-classes = ('avión', 'auto', 'pájaro', 'gato', 'venado', 
-           'perro', 'rana', 'caballo', 'barco', 'camión')
+    decay, no_decay = [], []
+    for name, p in model.named_parameters():
+        if not p.requires_grad:
+            continue
+        if p.ndim < 2 or "bias" in name or "LayerNorm" in name:
+            no_decay.append(p)
+        else:
+            decay.append(p)
 
-print(f"Train: {len(train_dataset)}, Test: {len(test_dataset)}")
-print(f"Clases: {classes}")
+    optimizer = torch.optim.AdamW(
+        [{"params": decay, "weight_decay": 0.01}, {"params": no_decay, "weight_decay": 0.0}], lr=lr
+    )
+    total_steps = len(train_loader) * epochs
+    scheduler = get_cosine_schedule_with_warmup(optimizer, int(0.1 * total_steps), total_steps)
 
-# Visualizar algunas imágenes
-def show_images(loader, classes, n=8):
-    images, labels = next(iter(loader))
-    fig, axes = plt.subplots(1, n, figsize=(15, 2))
-    for i in range(n):
-        img = images[i].permute(1, 2, 0).numpy()
-        img = img * np.array([0.2023, 0.1994, 0.2010]) + np.array([0.4914, 0.4822, 0.4465])
-        img = np.clip(img, 0, 1)
-        axes[i].imshow(img)
-        axes[i].set_title(classes[labels[i]])
-        axes[i].axis('off')
-    plt.show()
+    # Capped positive class weights handle long-tail imbalance stably
+    pos_counts = np.maximum(y_train_matrix.sum(axis=0), 1.0)
+    neg_counts = len(y_train_matrix) - pos_counts
+    pos_weight = torch.tensor(np.clip(neg_counts / pos_counts, 1.0, 10.0), dtype=torch.float32, device=device)
+    criterion = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
 
-show_images(train_loader, classes)
+    best_macro, best_probs, best_labels = -1.0, None, None
+    for _ in range(epochs):
+        model.train()
+        for batch in train_loader:
+            optimizer.zero_grad(set_to_none=True)
+            input_ids = batch["input_ids"].to(device, non_blocking=True)
+            mask = batch["attention_mask"].to(device, non_blocking=True)
+            labels = batch["labels"].float().to(device, non_blocking=True)
 
-# ----------------------------------------
-# 2. DEFINIR CNN
-# ----------------------------------------
+            with torch.amp.autocast("cuda", dtype=torch.bfloat16, enabled=device.type == "cuda"):
+                logits = model(input_ids=input_ids, attention_mask=mask).logits
+                loss = criterion(logits.float(), labels)
 
-class CNN(nn.Module):
-    def __init__(self, num_classes=10):
-        super(CNN, self).__init__()
-        
-        self.features = nn.Sequential(
-            # Bloque 1
-            nn.Conv2d(3, 32, kernel_size=3, padding=1),
-            nn.BatchNorm2d(32),
-            nn.ReLU(),
-            nn.Conv2d(32, 32, kernel_size=3, padding=1),
-            nn.BatchNorm2d(32),
-            nn.ReLU(),
-            nn.MaxPool2d(2, 2),
-            nn.Dropout2d(0.25),
-            
-            # Bloque 2
-            nn.Conv2d(32, 64, kernel_size=3, padding=1),
-            nn.BatchNorm2d(64),
-            nn.ReLU(),
-            nn.Conv2d(64, 64, kernel_size=3, padding=1),
-            nn.BatchNorm2d(64),
-            nn.ReLU(),
-            nn.MaxPool2d(2, 2),
-            nn.Dropout2d(0.25),
-            
-            # Bloque 3
-            nn.Conv2d(64, 128, kernel_size=3, padding=1),
-            nn.BatchNorm2d(128),
-            nn.ReLU(),
-            nn.Conv2d(128, 128, kernel_size=3, padding=1),
-            nn.BatchNorm2d(128),
-            nn.ReLU(),
-            nn.MaxPool2d(2, 2),
-            nn.Dropout2d(0.25),
-        )
-        
-        self.classifier = nn.Sequential(
-            nn.Flatten(),
-            nn.Linear(128 * 4 * 4, 512),
-            nn.ReLU(),
-            nn.Dropout(0.5),
-            nn.Linear(512, num_classes)
-        )
-    
-    def forward(self, x):
-        x = self.features(x)
-        x = self.classifier(x)
-        return x
+            loss.backward()
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+            optimizer.step()
+            scheduler.step()
 
-model = CNN(num_classes=10).to(device)
-print(model)
+        model.eval()
+        all_probs, all_labels = [], []
+        with torch.inference_mode():
+            for batch in val_loader:
+                logits = model(
+                    input_ids=batch["input_ids"].to(device),
+                    attention_mask=batch["attention_mask"].to(device),
+                ).logits
+                all_probs.append(torch.sigmoid(logits.float()).cpu().numpy())
+                all_labels.append(batch["labels"].numpy())
 
-# Contar parámetros
-total_params = sum(p.numel() for p in model.parameters())
-trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
-print(f"\nParámetros totales: {total_params:,}")
-print(f"Parámetros entrenables: {trainable_params:,}")
+        probs = np.vstack(all_probs)
+        labels_np = np.vstack(all_labels)
+        macro = float(f1_score(labels_np, (probs >= 0.5).astype(int), average="macro", zero_division=0))
+        if macro > best_macro:
+            best_macro, best_probs, best_labels = macro, probs, labels_np
+            torch.save(model.state_dict(), save_path)
 
-# ----------------------------------------
-# 3. ENTRENAR
-# ----------------------------------------
+    opt_thresholds = tune_per_label_thresholds(best_probs, best_labels)
+    tuned_macro = float(f1_score(best_labels, (best_probs >= opt_thresholds).astype(int), average="macro", zero_division=0))
+    return tuned_macro, opt_thresholds
 
-criterion = nn.CrossEntropyLoss()
-optimizer = optim.Adam(model.parameters(), lr=0.001, weight_decay=1e-4)
-scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, patience=3, factor=0.5)
 
-def train_epoch(model, loader, criterion, optimizer, device):
-    model.train()
-    running_loss = 0.0
-    correct = 0
-    total = 0
-    
-    for images, labels in loader:
-        images, labels = images.to(device), labels.to(device)
-        
-        optimizer.zero_grad()
-        outputs = model(images)
-        loss = criterion(outputs, labels)
-        loss.backward()
-        optimizer.step()
-        
-        running_loss += loss.item()
-        _, predicted = outputs.max(1)
-        total += labels.size(0)
-        correct += predicted.eq(labels).sum().item()
-    
-    return running_loss / len(loader), 100. * correct / total
-
-def evaluate(model, loader, criterion, device):
+def export_int8_onnx_and_verify_sla(
+    model_name: str, weights_path: str, val_texts: list[str], val_labels: np.ndarray, thresholds: np.ndarray, num_labels: int
+) -> dict:
+    tok = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=num_labels)
+    model.load_state_dict(torch.load(weights_path, map_location="cpu", weights_only=True))
     model.eval()
-    running_loss = 0.0
-    correct = 0
-    total = 0
-    
-    with torch.no_grad():
-        for images, labels in loader:
-            images, labels = images.to(device), labels.to(device)
-            outputs = model(images)
-            loss = criterion(outputs, labels)
-            
-            running_loss += loss.item()
-            _, predicted = outputs.max(1)
-            total += labels.size(0)
-            correct += predicted.eq(labels).sum().item()
-    
-    return running_loss / len(loader), 100. * correct / total
 
-# Entrenamiento
-epochs = 20
-history = {'train_loss': [], 'train_acc': [], 'val_loss': [], 'val_acc': []}
+    sample_enc = tok(val_texts[0], return_tensors="pt", padding="max_length", max_length=128, truncation=True)
+    torch.onnx.export(
+        model,
+        (sample_enc["input_ids"], sample_enc["attention_mask"]),
+        "triage_fp32.onnx",
+        input_names=["input_ids", "attention_mask"],
+        output_names=["logits"],
+        dynamic_axes={"input_ids": {0: "batch", 1: "seq"}, "attention_mask": {0: "batch", 1: "seq"}},
+        opset_version=17,
+    )
+    quantize_dynamic("triage_fp32.onnx", "triage_int8.onnx", weight_type=QuantType.QInt8)
 
-print("\nEntrenando...")
-for epoch in range(epochs):
-    train_loss, train_acc = train_epoch(model, train_loader, criterion, optimizer, device)
-    val_loss, val_acc = evaluate(model, test_loader, criterion, device)
-    
-    scheduler.step(val_loss)
-    
-    history['train_loss'].append(train_loss)
-    history['train_acc'].append(train_acc)
-    history['val_loss'].append(val_loss)
-    history['val_acc'].append(val_acc)
-    
-    print(f"Epoch {epoch+1}/{epochs}")
-    print(f"  Train Loss: {train_loss:.4f}, Acc: {train_acc:.2f}%")
-    print(f"  Val Loss: {val_loss:.4f}, Acc: {val_acc:.2f}%")
+    sess_opts = ort.SessionOptions()
+    sess_opts.intra_op_num_threads = 4
+    sess_opts.graph_optimization_level = ort.GraphOptimizationLevel.ORT_ENABLE_ALL
+    sess = ort.InferenceSession("triage_int8.onnx", sess_options=sess_opts, providers=["CPUExecutionProvider"])
 
-# ----------------------------------------
-# 4. VISUALIZAR RESULTADOS
-# ----------------------------------------
+    # Warmup JIT buffers before latency measurement
+    warm_in = {"input_ids": sample_enc["input_ids"].numpy(), "attention_mask": sample_enc["attention_mask"].numpy()}
+    for _ in range(10):
+        sess.run(None, warm_in)
 
-fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+    latencies_ms, int8_probs = [], []
+    for txt in val_texts:
+        enc = tok(txt, return_tensors="np", padding=True, max_length=128, truncation=True)
+        t0 = time.perf_counter()
+        logits = sess.run(None, {"input_ids": enc["input_ids"], "attention_mask": enc["attention_mask"]})[0]
+        latencies_ms.append((time.perf_counter() - t0) * 1000.0)
+        int8_probs.append(1.0 / (1.0 + np.exp(-logits[0])))
 
-# Loss
-axes[0].plot(history['train_loss'], label='Train')
-axes[0].plot(history['val_loss'], label='Validation')
-axes[0].set_xlabel('Epoch')
-axes[0].set_ylabel('Loss')
-axes[0].set_title('Loss durante entrenamiento')
-axes[0].legend()
+    probs_mat = np.vstack(int8_probs)
+    int8_macro = float(f1_score(val_labels, (probs_mat >= thresholds).astype(int), average="macro", zero_division=0))
+    p50_ms = float(np.percentile(latencies_ms, 50))
+    p99_ms = float(np.percentile(latencies_ms, 99))
 
-# Accuracy
-axes[1].plot(history['train_acc'], label='Train')
-axes[1].plot(history['val_acc'], label='Validation')
-axes[1].set_xlabel('Epoch')
-axes[1].set_ylabel('Accuracy (%)')
-axes[1].set_title('Accuracy durante entrenamiento')
-axes[1].legend()
-
-plt.tight_layout()
-plt.show()
-
-# ----------------------------------------
-# 5. MATRIZ DE CONFUSIÓN
-# ----------------------------------------
-
-from sklearn.metrics import confusion_matrix
-import seaborn as sns
-
-model.eval()
-all_preds = []
-all_labels = []
-
-with torch.no_grad():
-    for images, labels in test_loader:
-        images = images.to(device)
-        outputs = model(images)
-        _, preds = outputs.max(1)
-        all_preds.extend(preds.cpu().numpy())
-        all_labels.extend(labels.numpy())
-
-cm = confusion_matrix(all_labels, all_preds)
-plt.figure(figsize=(10, 8))
-sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
-            xticklabels=classes, yticklabels=classes)
-plt.xlabel('Predicho')
-plt.ylabel('Real')
-plt.title('Matriz de Confusión')
-plt.show()
-
-# Accuracy por clase
-print("\nAccuracy por clase:")
-for i, cls in enumerate(classes):
-    class_correct = cm[i, i]
-    class_total = cm[i].sum()
-    print(f"  {cls}: {100 * class_correct / class_total:.1f}%")
+    assert p99_ms <= 25.0, f"SLA breach: ONNX INT8 P99={p99_ms:.2f}ms > 25.0ms"
+    return {"int8_f1_macro": int8_macro, "p50_ms": round(p50_ms, 2), "p99_ms": round(p99_ms, 2)}
 ```
 
 ---
 
-## Proyecto 4 - Sistema de Recomendación
+## 5. Project 4: Industrial Defect Vision Inspection (< 5,000 Samples, Edge TensorRT)
 
-### Objetivo
-Crear un sistema de recomendación de películas.
+### 5.1 System Architecture, BatchNorm Traps & Shortcut Auditing
+
+With $< 5{,}000$ images from manufacturing lines, training high-capacity Vision Transformers or ConvNets from scratch overfits background noise, lighting glare, or camera watermarks. Transfer learning requires strict **station-grouped splitting**, **frozen-BN stabilization**, **domain-valid geometric invariance**, and **Grad-CAM foreground localization gates**.
+
+```mermaid
+flowchart LR
+    IMG["Line Images"] --> GRP["StratifiedGroupKFold (station_id)"]
+    GRP --> AUG["Albumentations + MixUp"]
+    AUG --> S1["Stage 1: Frozen Probe (BN eval)"]
+    S1 --> S2["Stage 2: Diff LR Unfreeze"]
+    S2 --> CAM["Grad-CAM ROI Audit"]
+    CAM --> TRT["ONNX Static INT8 / TensorRT"]
+```
+
+#### Critical CV Engineering Rules
+
+1. **Frozen `BatchNorm2d` Trap in PyTorch**: Calling `model.train()` sets *every* submodule (`BatchNorm2d`, `Dropout`) to training mode—even parameters with `requires_grad=False`! During Stage 1 linear probing, keeping `model.train()` on a frozen backbone overwrites ImageNet/DINOv2 `running_mean` and `running_var` with tiny domain micro-batches, destroying representation geometry. Always override `train()` to force `self.backbone.eval()` during Stage 1.
+2. **Group-Aware Splitting (`StratifiedGroupKFold`)**: Splitting images randomly puts near-duplicate consecutive conveyor frames and identical camera stations across train and validation, concealing **Clever Hans shortcuts** (memorizing camera bezel stamps or station lighting rather than surface cracks). Always group splits by `station_id` / `inspection_batch`.
+3. **Physical Chirality & Augmentation Rules**: Never enable `HorizontalFlip` blindly. On directional weld seams, PCB footprints, or left/right anatomical radiographs, flipping alters defect class physics; restrict transforms to physical invariances (small rotations, brightness/contrast jitter, Gaussian sensor noise, CLAHE contrast).
+4. **Grad-CAM Shortcut Energy Gate**: Register forward/backward hooks on the final spatial feature map (`ConvNeXt` stage 3 or ViT spatial reshape) and compute normalized $\text{CAM} = \text{ReLU}(\sum_k \alpha_k A^k)$. Quantify what fraction of CAM activation energy sits inside the object foreground ROI box versus outer margins.
+
+### 5.2 Complete Two-Stage Transfer, Grad-CAM Audit & Static INT8 Quantization (`vision_inspection.py`)
 
 ```python
-# ========================================
-# PROYECTO: SISTEMA DE RECOMENDACIÓN
-# ========================================
+from pathlib import Path
 import numpy as np
-import pandas as pd
-from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.feature_extraction.text import TfidfVectorizer
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import albumentations as A
+from albumentations.pytorch import ToTensorV2
+import timm
+from sklearn.model_selection import StratifiedGroupKFold
+from onnxruntime.quantization import CalibrationDataReader, QuantFormat, QuantType, quantize_static
 
-# ----------------------------------------
-# 1. CREAR DATOS DE EJEMPLO
-# ----------------------------------------
+def build_transforms(img_size: int = 224) -> tuple[A.Compose, A.Compose]:
+    train_tf = A.Compose([
+        A.RandomResizedCrop(size=(img_size, img_size), scale=(0.82, 1.0)),
+        A.RandomBrightnessContrast(brightness_limit=0.2, contrast_limit=0.2, p=0.5),
+        A.Affine(rotate=(-12, 12), scale=(0.95, 1.05), p=0.5),
+        A.GaussNoise(p=0.25),
+        # Omit HorizontalFlip when defect orientation or part chirality is asymmetric
+        A.Normalize(mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225)),
+        ToTensorV2(),
+    ])
+    val_tf = A.Compose([
+        A.Resize(img_size, img_size),
+        A.Normalize(mean=(0.485, 0.456, 0.406), std=(0.229, 0.224, 0.225)),
+        ToTensorV2(),
+    ])
+    return train_tf, val_tf
 
-# Películas con metadata
-movies = pd.DataFrame({
-    'movie_id': range(1, 11),
-    'title': [
-        'The Matrix', 'Inception', 'Interstellar', 
-        'The Dark Knight', 'Pulp Fiction',
-        'Forrest Gump', 'The Shawshank Redemption', 
-        'Fight Club', 'The Godfather', 'Goodfellas'
-    ],
-    'genre': [
-        'sci-fi action', 'sci-fi thriller', 'sci-fi drama',
-        'action crime', 'crime drama',
-        'drama romance', 'drama', 
-        'drama thriller', 'crime drama', 'crime drama'
-    ],
-    'director': [
-        'Wachowski', 'Nolan', 'Nolan',
-        'Nolan', 'Tarantino',
-        'Zemeckis', 'Darabont',
-        'Fincher', 'Coppola', 'Scorsese'
-    ],
-    'year': [1999, 2010, 2014, 2008, 1994, 1994, 1994, 1999, 1972, 1990]
-})
 
-# Ratings de usuarios
-np.random.seed(42)
-n_users = 20
-n_movies = 10
+def create_station_splits(labels: np.ndarray, station_ids: np.ndarray, n_splits: int = 5):
+    sgkf = StratifiedGroupKFold(n_splits=n_splits)
+    return list(sgkf.split(np.zeros(len(labels)), labels, groups=station_ids))
 
-# Crear matriz de ratings (algunos NaN)
-ratings_matrix = np.random.choice([np.nan, 1, 2, 3, 4, 5], 
-                                   size=(n_users, n_movies),
-                                   p=[0.5, 0.1, 0.1, 0.1, 0.1, 0.1])
-ratings_df = pd.DataFrame(ratings_matrix, 
-                          columns=movies['title'],
-                          index=[f'User_{i}' for i in range(n_users)])
 
-print("Películas:")
-print(movies)
-print("\nMatriz de Ratings (muestra):")
-print(ratings_df.head())
+class DefectClassifier(nn.Module):
+    def __init__(self, backbone_name: str = "convnext_tiny.fb_in22k_ft_in1k", num_classes: int = 4) -> None:
+        super().__init__()
+        self.backbone = timm.create_model(backbone_name, pretrained=True, num_classes=0)
+        feat_dim = self.backbone.num_features
+        self.head = nn.Sequential(nn.Dropout(0.2), nn.Linear(feat_dim, num_classes))
+        self.freeze_backbone = True
 
-# ----------------------------------------
-# 2. RECOMENDACIÓN BASADA EN CONTENIDO
-# ----------------------------------------
+    def set_stage(self, stage: int) -> None:
+        self.freeze_backbone = (stage == 1)
+        for p in self.backbone.parameters():
+            p.requires_grad = not self.freeze_backbone
+        for p in self.head.parameters():
+            p.requires_grad = True
 
-print("\n" + "="*50)
-print("RECOMENDACIÓN BASADA EN CONTENIDO")
-print("="*50)
+    def train(self, mode: bool = True):
+        super().train(mode)
+        if self.freeze_backbone:
+            # Critical: prevent Stage 1 micro-batches from mutating pretrained BatchNorm running stats
+            self.backbone.eval()
+        return self
 
-# Combinar features de contenido
-movies['content'] = movies['genre'] + ' ' + movies['director']
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        feats = self.backbone(x)
+        return self.head(feats)
 
-# Vectorizar contenido
-tfidf = TfidfVectorizer(stop_words='english')
-content_matrix = tfidf.fit_transform(movies['content'])
 
-# Similitud entre películas
-content_similarity = cosine_similarity(content_matrix)
-content_sim_df = pd.DataFrame(content_similarity,
-                              index=movies['title'],
-                              columns=movies['title'])
+def mixup_batch(x: torch.Tensor, y: torch.Tensor, num_classes: int, alpha: float = 0.4):
+    lam = float(np.random.beta(alpha, alpha)) if alpha > 0 else 1.0
+    perm = torch.randperm(x.size(0), device=x.device)
+    mixed_x = lam * x + (1.0 - lam) * x[perm]
+    y_oh = F.one_hot(y, num_classes=num_classes).float()
+    soft_y = lam * y_oh + (1.0 - lam) * y_oh[perm]
+    return mixed_x, soft_y
 
-def get_content_recommendations(movie_title, n=5):
-    """Recomienda películas similares basado en contenido"""
-    if movie_title not in content_sim_df.columns:
-        return f"Película '{movie_title}' no encontrada"
-    
-    # Obtener similitudes
-    similarities = content_sim_df[movie_title]
-    
-    # Ordenar y excluir la película misma
-    similar_movies = similarities.sort_values(ascending=False)[1:n+1]
-    
-    return similar_movies
 
-# Ejemplo
-print("\nPelículas similares a 'Inception':")
-recs = get_content_recommendations('Inception')
-for title, score in recs.items():
-    print(f"  {title}: {score:.3f}")
+def build_stage_optimizer(model: DefectClassifier, stage: int) -> torch.optim.Optimizer:
+    model.set_stage(stage)
+    if stage == 1:
+        return torch.optim.AdamW(model.head.parameters(), lr=1e-3, weight_decay=1e-2)
+    return torch.optim.AdamW(
+        [
+            {"params": model.backbone.parameters(), "lr": 2e-5},
+            {"params": model.head.parameters(), "lr": 3e-4},
+        ],
+        weight_decay=1e-2,
+    )
 
-print("\nPelículas similares a 'The Godfather':")
-recs = get_content_recommendations('The Godfather')
-for title, score in recs.items():
-    print(f"  {title}: {score:.3f}")
 
-# ----------------------------------------
-# 3. FILTRADO COLABORATIVO
-# ----------------------------------------
+def compute_gradcam_and_shortcut_audit(
+    model: DefectClassifier,
+    target_layer: nn.Module,
+    img: torch.Tensor,
+    class_idx: int,
+    roi_mask: np.ndarray,
+) -> tuple[np.ndarray, float]:
+    """
+    Computes Grad-CAM [h, w] and measures fraction of activation energy falling INSIDE
+    the expected part ROI mask (values < 0.50 indicate Clever Hans background shortcuts).
+    """
+    acts, grads = [], []
+    fh = target_layer.register_forward_hook(lambda m, inp, out: acts.append(out.detach()))
+    bh = target_layer.register_full_backward_hook(lambda m, gin, gout: grads.append(gout[0].detach()))
 
-print("\n" + "="*50)
-print("FILTRADO COLABORATIVO")
-print("="*50)
+    model.eval()
+    logits = model(img)
+    model.zero_grad(set_to_none=True)
+    logits[0, class_idx].backward()
+    fh.remove()
+    bh.remove()
 
-# Rellenar NaN con promedio del usuario para calcular similitud
-ratings_filled = ratings_df.apply(lambda x: x.fillna(x.mean()), axis=1)
+    fmap = acts[0][0]                     # [C, h, w]
+    weights = grads[0][0].mean(dim=(1, 2))
+    cam = torch.relu((weights[:, None, None] * fmap).sum(dim=0))
+    cam = cam / (cam.max() + 1e-8)
 
-# Similitud entre usuarios
-user_similarity = cosine_similarity(ratings_filled)
-user_sim_df = pd.DataFrame(user_similarity,
-                           index=ratings_df.index,
-                           columns=ratings_df.index)
+    cam_up = F.interpolate(cam[None, None], size=roi_mask.shape, mode="bilinear", align_corners=False)[0, 0]
+    cam_np = cam_up.cpu().numpy()
+    roi_energy = float((cam_np * roi_mask).sum() / np.maximum(cam_np.sum(), 1e-8))
+    return cam_np, roi_energy
 
-def get_user_recommendations(user_id, n=5):
-    """Recomienda películas basado en usuarios similares"""
-    # Películas no vistas por el usuario
-    user_ratings = ratings_df.loc[user_id]
-    unwatched = user_ratings[user_ratings.isna()].index.tolist()
-    
-    if not unwatched:
-        return "Usuario ha visto todas las películas"
-    
-    # Encontrar usuarios similares
-    similar_users = user_sim_df[user_id].sort_values(ascending=False)[1:6]
-    
-    # Predecir ratings para películas no vistas
-    predictions = {}
-    for movie in unwatched:
-        movie_ratings = []
-        weights = []
-        
-        for similar_user, similarity in similar_users.items():
-            rating = ratings_df.loc[similar_user, movie]
-            if not np.isnan(rating):
-                movie_ratings.append(rating)
-                weights.append(similarity)
-        
-        if movie_ratings:
-            # Weighted average
-            predictions[movie] = np.average(movie_ratings, weights=weights)
-    
-    # Ordenar por predicción
-    sorted_predictions = sorted(predictions.items(), key=lambda x: x[1], reverse=True)
-    return sorted_predictions[:n]
 
-# Ejemplo
-print(f"\nRecomendaciones para User_0:")
-recs = get_user_recommendations('User_0')
-for movie, predicted_rating in recs:
-    print(f"  {movie}: {predicted_rating:.2f} ⭐")
+class ImageCalibReader(CalibrationDataReader):
+    """Representative calibration stream for ONNX Static INT8 QDQ PTQ."""
 
-# ----------------------------------------
-# 4. SISTEMA HÍBRIDO
-# ----------------------------------------
+    def __init__(self, calib_batches: list[np.ndarray], input_name: str = "input") -> None:
+        self._iter = iter([{input_name: b.astype(np.float32)} for b in calib_batches])
 
-print("\n" + "="*50)
-print("SISTEMA HÍBRIDO")
-print("="*50)
+    def get_next(self):
+        return next(self._iter, None)
 
-def hybrid_recommendations(user_id, n=5, content_weight=0.3):
-    """Combina filtrado colaborativo y basado en contenido"""
-    
-    # Obtener recomendaciones colaborativas
-    collab_recs = get_user_recommendations(user_id, n=10)
-    if isinstance(collab_recs, str):
-        return collab_recs
-    
-    collab_dict = {movie: score for movie, score in collab_recs}
-    
-    # Para cada película, añadir bonus por similitud de contenido
-    # con películas que el usuario ha calificado alto
-    user_ratings = ratings_df.loc[user_id].dropna()
-    liked_movies = user_ratings[user_ratings >= 4].index.tolist()
-    
-    final_scores = {}
-    for movie, collab_score in collab_dict.items():
-        # Score de contenido: similitud promedio con películas gustadas
-        content_scores = []
-        for liked in liked_movies:
-            if movie in content_sim_df.columns and liked in content_sim_df.columns:
-                content_scores.append(content_sim_df.loc[movie, liked])
-        
-        content_score = np.mean(content_scores) if content_scores else 0
-        
-        # Combinar
-        final_scores[movie] = (1 - content_weight) * collab_score + content_weight * (content_score * 5)
-    
-    # Ordenar
-    sorted_recs = sorted(final_scores.items(), key=lambda x: x[1], reverse=True)
-    return sorted_recs[:n]
 
-# Ejemplo
-print(f"\nRecomendaciones híbridas para User_0:")
-recs = hybrid_recommendations('User_0')
-for movie, score in recs:
-    print(f"  {movie}: {score:.2f}")
+def export_static_int8_and_trt_info(model: DefectClassifier, calib_batches: list[np.ndarray], out_dir: str = "artifacts/cv"):
+    out_path = Path(out_dir)
+    out_path.mkdir(parents=True, exist_ok=True)
+    model.eval().cpu()
 
-# ----------------------------------------
-# 5. EVALUACIÓN
-# ----------------------------------------
+    dummy = torch.randn(1, 3, 224, 224)
+    fp32_onnx = str(out_path / "defect_fp32.onnx")
+    int8_onnx = str(out_path / "defect_int8_qdq.onnx")
 
-print("\n" + "="*50)
-print("EVALUACIÓN DEL SISTEMA")
-print("="*50)
-
-def evaluate_recommendations(test_ratings, predictions):
-    """Calcula RMSE entre predicciones y ratings reales"""
-    errors = []
-    for (user, movie), true_rating in test_ratings.items():
-        if (user, movie) in predictions:
-            pred_rating = predictions[(user, movie)]
-            errors.append((true_rating - pred_rating) ** 2)
-    
-    if errors:
-        rmse = np.sqrt(np.mean(errors))
-        return rmse
-    return None
-
-# Simular evaluación (en práctica: dividir datos en train/test)
-print("\nMétricas de evaluación:")
-print("  - Coverage: % de items que el sistema puede recomendar")
-print("  - Diversity: Variedad en las recomendaciones")
-print("  - Novelty: Qué tan 'sorprendentes' son las recomendaciones")
-print("  - RMSE: Error en predicción de ratings")
+    torch.onnx.export(
+        model,
+        dummy,
+        fp32_onnx,
+        input_names=["input"],
+        output_names=["logits"],
+        dynamic_axes={"input": {0: "batch"}, "logits": {0: "batch"}},
+        opset_version=17,
+    )
+    quantize_static(
+        model_input=fp32_onnx,
+        model_output=int8_onnx,
+        calibration_data_reader=ImageCalibReader(calib_batches, input_name="input"),
+        quant_format=QuantFormat.QDQ,
+        activation_type=QuantType.QUInt8,
+        weight_type=QuantType.QInt8,
+    )
+    # Equivalent TensorRT compilation command for Jetson / L4 edge servers:
+    trt_cmd = (
+        f"trtexec --onnx={int8_onnx} --saveEngine={out_path}/defect_int8.plan "
+        "--fp16 --int8 --minShapes=input:1x3x224x224 --optShapes=input:8x3x224x224 --maxShapes=input:16x3x224x224"
+    )
+    return {"fp32_onnx": fp32_onnx, "int8_onnx": int8_onnx, "trtexec_cmd": trt_cmd}
 ```
+
+### 5.3 Vision Deployment Quantization Trade-off
+
+| Export Format | Calibration Needed? | Typical Speedup (CPU / Edge GPU) | Accuracy Delta | Operational Trade-off |
+|---|---|---|---|---|
+| **ONNX FP32** | No | $1.2\text{–}1.6\times$ | $0\%$ | Portable baseline without numerical risk |
+| **TensorRT FP16** | No | $2.5\text{–}3.5\times$ (GPU) | $< 0.1\%$ | Default GPU production runtime; fused Conv+Bias+Act |
+| **ONNX / TensorRT Static INT8 (QDQ)** | Yes (200–500 rep images) | $3.0\text{–}4.5\times$ | $0.2\%\text{–}0.8\%$ | Essential for edge Jetson/CPU latency; audit per-class recall after calibration |
 
 ---
 
-## Checklist de Proyecto ML
+## 6. Silent Production Regression Case Studies & Forensic Playbook
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│              CHECKLIST PARA PROYECTOS DE ML                     │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  FASE 1: DEFINICIÓN                                             │
-│  □ Definir objetivo de negocio claramente                       │
-│  □ Definir métrica de éxito                                     │
-│  □ Establecer baseline (modelo simple o regla)                  │
-│                                                                 │
-│  FASE 2: DATOS                                                  │
-│  □ Recolectar/obtener datos                                     │
-│  □ EDA (Exploratory Data Analysis)                              │
-│  □ Verificar calidad de datos                                   │
-│  □ Manejar valores faltantes                                    │
-│  □ Manejar outliers                                             │
-│  □ Feature engineering                                          │
-│  □ Dividir train/val/test                                       │
-│                                                                 │
-│  FASE 3: MODELADO                                               │
-│  □ Empezar con modelo simple (baseline)                         │
-│  □ Probar varios algoritmos                                     │
-│  □ Cross-validation                                             │
-│  □ Hyperparameter tuning                                        │
-│  □ Analizar errores                                             │
-│                                                                 │
-│  FASE 4: EVALUACIÓN                                             │
-│  □ Evaluar en test set (UNA vez)                                │
-│  □ Comparar con baseline                                        │
-│  □ Verificar no hay data leakage                                │
-│  □ Interpretar resultados                                       │
-│                                                                 │
-│  FASE 5: DESPLIEGUE                                             │
-│  □ Guardar modelo (pickle, joblib, torch.save)                  │
-│  □ Crear pipeline de preprocesamiento                           │
-│  □ API o integración                                            │
-│  □ Monitoreo en producción                                      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Symptom in Production | Hidden Pipeline Root Cause | Diagnostic Check | Permanent Architectural Fix |
+|---|---|---|---|
+| **Fraud `PR-AUC` drops $0.94 \to 0.61$; 38% false decline spike** | `TargetEncoder` fitted before `train_test_split`, plus `scale_pos_weight=99` fed straight into $\tau^* = 0.05$ | Compare `cal` vs `test` Brier score; verify `TargetEncoder` runs inside `ColumnTransformer` strictly on `X_train` | Chronological split + 30d gap; `TargetEncoder(cv=5)` on train only; `IsotonicRegression` calibration before $\tau^*$ |
+| **Demand forecast hits 11% backtest MAPE, misses live trends by 45%** | `shift(1).rolling(7)` used for $H=14$ forecast + `TimeSeriesSplit(gap=0)` + MAPE ignoring zero-demand rows | Inspect `corr(feature, target_demand)` per lag; check `unique_dates` boundaries across CV folds | Direct-pooled panel with features anchored $\le t_0$; `TimeSeriesSplit(gap=H)` over `origin_date`; wMAPE + CQR |
+| **NLP router has `F1_micro=0.89`, `F1_macro=0.21`, 78 ms CPU P99** | `CrossEntropyLoss` + `Softmax` forcing single-label competition + eager PyTorch `DeBERTa-base` FP32 | Print per-class confusion recall on tail 50% classes; profile CPU time per layer | Switch to `BCEWithLogitsLoss`, checkpoint on `F1_macro`, distill + `quantize_dynamic` INT8 ONNX |
+| **Vision model logs 99% val acc, 52% accuracy on Line B** | Random split mixed Station 3 frames across train/val; model memorized camera bezel watermark | Run `compute_gradcam_and_shortcut_audit()` on false positives/negatives | `StratifiedGroupKFold` by `station_id`; crop ROI + photometric invariance; require ROI energy $> 0.65$ |
+| **ONNX runtime predictions diverge from PyTorch training logits** | Training tokenizer used `padding="longest"` / lowercase normalization while serving passed raw cased text or fixed `max_length` pad mask mismatch | Run assertion checking `max_abs_diff < 1e-4` over 100 golden inputs between PyTorch & ONNX | Package canonical tokenizer config + preprocessing tests alongside `.onnx` artifact in CI |
 
 ---
 
-## 🏷️ Tags
+## 7. Worked Exercises
 
-#programming #machinelearning #python #projects #datascience
+### Exercise 1 (Tabular Fraud): Collapsing PR-AUC & Uncalibrated Threshold Explosion
+
+A payment fraud model achieves **PR-AUC = 0.94** in offline validation but collapses to **PR-AUC = 0.61** in production while flagging **38%** of legitimate checkouts under $\tau^* = \frac{C_{\text{FP}}}{C_{\text{FP}} + C_{\text{FN}}} = \frac{10}{10 + 190} = 0.05$. Code review reveals:
+- `TargetEncoder` was fitted on the entire dataset before `train_test_split(..., stratify=y)`.
+- `LGBMClassifier(scale_pos_weight=99)` predictions went straight into `preds >= 0.05` without calibration.
+
+Diagnose all three defects quantitatively and specify the exact corrected workflow.
+
+### Solution 1
+
+**Three Compounding Root Causes:**
+1. **Target Encoding Leakage**: Fitting `TargetEncoder` before splitting embeds validation/test target outcomes into training and validation features—especially severe for low-count `merchant_id`/`device_hash` categories—artificially inflating offline PR-AUC from $0.61 \to 0.94$.
+2. **Random Stratified Split Across Time**: Mixing concurrent timestamps leaks same-day fraud bursts and shared user histories between train and validation splits.
+3. **Uncalibrated `scale_pos_weight=99` Log-Odds Shift**: Setting $w_+ = 99$ adds $\ln(99) \approx +4.60$ to model log-odds. A benign checkout with true fraud probability $p = 0.005$ ($\text{logit} \approx -5.29$) becomes shifted log-odds $-5.29 + 4.60 = -0.69 \implies \hat{p}_{\text{raw}} = \sigma(-0.69) \approx 0.334$. Because $0.334 > \tau^* = 0.05$, benign traffic floods the challenge queue.
+
+**Corrected Workflow:**
+1. Partition strictly chronologically with a label maturation gap: `train` $\to$ `calibration` $\to$ `test`.
+2. Place `TargetEncoder(cv=5, smooth="auto")` inside `ColumnTransformer`, calling `.fit_transform` strictly on `train`.
+3. Train unweighted (`binary_logloss`) or pass raw margins through `IsotonicRegression` fitted on the unweighted temporal calibration slice before applying $\tau^* = 0.05$.
 
 ---
 
-## 📚 Ver También
+### Exercise 2 (Time-Series Forecasting): Multi-Horizon Leakage & Zero-Demand Collapse
 
-- [[ML Fundamentals Guide|Fundamentos de ML]]
-- [[ML Algorithms Guide|Algoritmos de ML]]
-- [[Deep Learning Guide|Deep Learning]]
+An engineer builds a 14-day-ahead ($H = 14$) store-SKU demand forecaster using:
+
+```python
+df["roll_7d"] = df.groupby("sku_id")["demand"].shift(1).rolling(7).mean()
+tscv = TimeSeriesSplit(n_splits=5)  # gap=0
+```
+
+and selects hyperparameters using `MAPE`. Backtesting reports `MAPE = 11%`, yet live 14-day forecasts lag demand shifts by $45\%$, and intermittent SKUs trigger infinite losses. Diagnose all three bugs and provide the fix.
+
+### Solution 2
+
+1. **Multi-Horizon Target Leakage (`shift(1)` at $H=14$)**: When predicting target $y_{t_0 + 14}$ from origin $t_0$, the latest observed demand is $y_{t_0}$. On target row $t = t_0 + 14$, `shift(1).rolling(7)` averages $y_{t_0+7 \dots t_0+13}$—13 days of future demand unavailable at inference time. Anchor all rolling/lag features at origin $t_0$ (`shift(14).rolling(7).mean()` or direct-pooled origin rows).
+2. **Row-Level `TimeSeriesSplit(gap=0)` on Multi-SKU Panels**: Splitting raw panel rows mixes SKUs across train/val at identical dates, and `gap=0` allows overlapping 14-day forecast targets across fold boundaries. Split on unique sorted `origin_date` values with `gap >= 14`.
+3. **MAPE Instability on Zero/Intermittent Demand**: `MAPE` divides by $y_i$, exploding to $\infty$ when $y_i = 0$ and hyper-penalizing $1 \to 2$ predictions ($100\%$ error) while under-weighting high-volume items. Switch to **wMAPE** for aggregate accuracy and **Pinball Loss + CQR** across P10/P50/P90 for inventory safety-stock sizing.
+
+---
+
+### Exercise 3 (NLP Multi-Label Triage): Macro Collapse & CPU SLA Breach
+
+A 20-class support ticket tagger logs `F1_micro = 0.89`, `F1_macro = 0.21`, and **78 ms** P99 latency per ticket on CPU against a **25 ms** SLA. Investigation reveals `nn.CrossEntropyLoss()` with `torch.softmax(logits, dim=-1)` and an unquantized FP32 `DeBERTa-base` runtime. Explain both failures and design the fix.
+
+### Solution 3
+
+**Root Causes:**
+1. **Mutually Exclusive Softmax Suppression**: `CrossEntropyLoss` enforces $\sum_{k=1}^{20} p_k = 1$, forcing co-occurring tags to compete and crushing recall on the 17 tail classes (`F1_macro = 0.21`) while the 3 dominant classes keep `F1_micro = 0.89`.
+2. **Unquantized FP32 `DeBERTa-base` on CPU**: 12 disentangled-attention layers in eager PyTorch FP32 saturate CPU memory bandwidth at ~78 ms/request.
+
+**Remediation:**
+1. Train with `nn.BCEWithLogitsLoss(pos_weight=capped_weights)` and independent `torch.sigmoid(logits)` outputs; checkpoint on validation **`F1_macro`** and tune per-label validation thresholds $\tau_k$.
+2. Distill into a 6-layer encoder (`DistilBERT` / `MiniLM-L6`), export to **ONNX Runtime Dynamic INT8** (`~8–12 ms` P99), or add a `< 1 ms` `TF-IDF + LogisticRegression` confidence cascade before invoking ONNX.
+
+---
+
+### Exercise 4 (CV Transfer Learning): 99% Val Accuracy vs. 52% Line B Failure
+
+A weld defect model reaches **99.1% validation accuracy** across 8,000 images from Line A but collapses to **52% accuracy** on Line B. Grad-CAM reveals peak energy on the **bottom-right camera timestamp watermark and conveyor bracket**, zero energy on the weld seam, and flipping images left-right halves accuracy. Diagnose all three issues and define the remediation.
+
+### Solution 4
+
+1. **Clever Hans Background Shortcut**: Defective parts occurred predominantly on Night Shift Station 3 (distinct watermark text and lighting bracket), allowing the CNN to classify timestamp pixels rather than weld geometry.
+2. **Random Split Hiding Station Memorization**: Random splitting placed Station 3 images into both `train` and `val`. Replacing with `StratifiedGroupKFold` grouped by `station_id` catches domain overfitting immediately.
+3. **Invalid Spatial/Mirror Assumptions & Missing ROI Masking**: Line B mounted cameras mirrored relative to Line A. Crop tightly to the deterministic weld ROI (masking HUD watermarks), verify chiral invariance before enabling horizontal flips, and add a **Grad-CAM ROI energy release gate** alongside validation Macro-F1.
+
+---
+
+### Exercise 5 (Forecasting Uncertainty): Conformalized Quantile Regression (CQR) & Crossing Repair
+
+A direct-pooled demand forecaster predicts raw `[P10, P50, P90]` quantiles for 6 calibration SKU-dates below (target empirical coverage $1 - \alpha = 80\%$):
+
+| Sample | True Demand $y_i$ | Raw $\hat{q}_{0.10}$ | Raw $\hat{q}_{0.50}$ | Raw $\hat{q}_{0.90}$ |
+|---|---|---|---|---|
+| 1 | `18` | `12` | `15` | `16` |
+| 2 | `9` | `11` | `10` | `14` |
+| 3 | `25` | `16` | `20` | `23` |
+| 4 | `6` | `8` | `11` | `15` |
+| 5 | `31` | `20` | `24` | `28` |
+| 6 | `14` | `10` | `13` | `17` |
+
+1. Repair any quantile crossing using `np.maximum.accumulate`, then compute the raw interval coverage across the 6 samples.
+2. Compute every CQR conformity score $E_i = \max(\hat{q}_{\text{lo}} - y_i,\ y_i - \hat{q}_{\text{hi}})$, find the finite-sample conformal shift $s_{1-\alpha}$ at index $\lceil (n + 1)(1 - \alpha) \rceil$ ($n = 6, 1 - \alpha = 0.80$), and write the calibrated interval for a new forecast predicting repaired `[15, 19, 22]`.
+
+### Solution 5
+
+**1. Crossing Repair & Raw Coverage:**
+Notice Sample 2 has raw crossing $\hat{q}_{0.10} = 11 > \hat{q}_{0.50} = 10$. Applying `np.maximum.accumulate` forces monotonic `P10 <= P50 <= P90`:
+- Sample 2 repaired: `[11, 11, 14]`. All other rows are already monotonic (`[12,15,16]`, `[16,20,23]`, `[8,11,15]`, `[20,24,28]`, `[10,13,17]`).
+- Raw interval hits ($y_i \in [\hat{q}_{0.10}, \hat{q}_{0.90}]$): Sample 1 ($18 \notin [12,16]$ Miss), Sample 2 ($9 \notin [11,14]$ Miss), Sample 3 ($25 \notin [16,23]$ Miss), Sample 4 ($6 \notin [8,15]$ Miss), Sample 5 ($31 \notin [20,28]$ Miss), Sample 6 ($14 \in [10,17]$ Hit).
+- Raw empirical coverage = $1 / 6 = \mathbf{16.7\%}$ (severe under-coverage).
+
+**2. CQR Conformity Scores & Calibrated Shift:**
+- Sample 1: $\max(12 - 18,\ 18 - 16) = \max(-6, 2) = 2$
+- Sample 2: $\max(11 - 9,\ 9 - 14) = \max(2, -5) = 2$
+- Sample 3: $\max(16 - 25,\ 25 - 23) = \max(-9, 2) = 2$
+- Sample 4: $\max(8 - 6,\ 6 - 15) = \max(2, -9) = 2$
+- Sample 5: $\max(20 - 31,\ 31 - 28) = \max(-11, 3) = 3$
+- Sample 6: $\max(10 - 14,\ 14 - 17) = \max(-4, -3) = -3$
+
+Sorted conformity scores: `[-3, 2, 2, 2, 2, 3]`.
+Finite-sample rank: $k = \lceil (6 + 1)(0.80) \rceil = \lceil 5.6 \rceil = \mathbf{6\text{th}}$ smallest score $\implies s_{0.80} = \mathbf{3}$.
+For the new forecast `[15, 19, 22]`, the CQR-calibrated 80% prediction interval becomes:
+
+$$[\max(0, 15 - 3),\ 22 + 3] = \mathbf{[12,\ 25]}$$
+
+---
+
+### Exercise 6 (Serving SLA & Export Audit): FastAPI Async Blocking & ONNX Divergence
+
+A fraud API deployed behind 4 FastAPI Uvicorn workers claims a **200 ms** P99 SLA, yet under 80 concurrent requests P99 spikes to **1,450 ms** and ONNX probabilities differ from offline Python LightGBM predictions by `0.18`. Inspection reveals:
+1. Inside `async def score(...)`, the endpoint calls synchronous `requests.post("http://redis-proxy/features")` and `model.predict(x)` directly on the event loop thread.
+2. Offline training used `ColumnTransformer` median imputation, whereas online serving converted raw JSON directly to `np.array(..., dtype=np.float32)` replacing missing fields with `0.0` before calling `onnxruntime`.
+
+Diagnose both failures and write the corrected async handler + parity test.
+
+### Solution 6
+
+**Root Causes:**
+1. **Event-Loop Starvation**: Calling blocking `requests.post()` inside an `async def` route freezes the entire asyncio event loop for all concurrent connections sharing that Uvicorn worker, queuing 80 requests serially ($18\text{ ms} \times 80 \approx 1{,}440\text{ ms}$).
+2. **Preprocessing / Null Imputation Divergence**: Feeding `0.0` for missing fields instead of passing `NaN` through the serialized `ColumnTransformer` (`SimpleImputer` + `TargetEncoder`) alters split directions (`0.0` vs imputed median or missing indicator `1.0`), shifting ONNX probabilities by `0.18`.
+
+**Corrected Async Pattern & Parity Gate:**
+1. Use async HTTP (`httpx.AsyncClient`) or async Redis (`redis.asyncio`) wrapped in `asyncio.timeout(0.15)` with fallback scoring, and offload CPU-bound preprocessing + ONNX calls via `await asyncio.to_thread(...)` with `intra_op_num_threads=1`.
+2. Reuse the exact serialized `preprocessor.joblib` (`NaN` for missing fields) and verify `np.max(np.abs(onnx_probs - lgb_probs)) < 1e-4` in CI before publishing the container.

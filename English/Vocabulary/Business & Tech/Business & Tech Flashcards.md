@@ -264,6 +264,7 @@ total_cards: 250
 - **Collocations:** *add instrumentation · auto-instrumentation · instrument a service · telemetry data*
 - **Nuance & Exam Tip:** Used both as an uncountable noun ('missing instrumentation') and verb form ('instrument the worker'); precedes observability.
 - **Word Family:** instrument (v.) · observability · OpenTelemetry · distributed tracing
+<!--SR:!2026-11-12,0,230-->
 
 ---
 

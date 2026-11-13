@@ -18,6 +18,9 @@ module: "Week 1.3 - Orchestrating LLMs & Model Ecosystem"
 > [!info] Navigation
 > Previous: [[Week 1.2|Week 1.2 - Agent Traps, Risks & Engineering Mindset]].
 
+> [!tip] Companion Engineering Reference
+> Inference roofline math, KV-cache sizing, quantization, and tiered routing TCO: [[AI/AI Engineering/LLM Internals, Inference & Economics|LLM Internals, Inference & Economics]] · [[AI/AI Engineering Hub|AI Engineering Hub]].
+
 ---
 
 ## 🏢 The Big Three Model Families (Tiered Sizing)
